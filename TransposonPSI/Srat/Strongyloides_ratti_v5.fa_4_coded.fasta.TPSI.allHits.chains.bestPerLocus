@@ -1,0 +1,586 @@
+#Chain	gypsy	449-1460	Srat_1	3959442-3962225	+	215.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	449	1089	3959442	3961358	24.3	43.6	938	365			0	Plus	16759152	1e-103
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	1078	1460	3961080	3962225	15.6	37.2	324	129			0	Plus	16759152	6e-30
+
+#Chain	TY1_Copia	156-467	Srat_1	8175293-8176243	+	48.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	156	467	8175293	8176243	15.6	37.7	129	54.3			0	Plus	16759152	4e-07
+
+#Chain	hAT	212-673	Srat_1	8843443-8844828	+	54.5
+hAT		749	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	212	673	8843443	8844828	11.8	31.8	132	55.3			0	Plus	16759152	7e-08
+
+#Chain	TY1_Copia	27-459	Srat_1	10632191-10633447	+	64.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	27	459	10632191	10633447	14.8	34.0	124	52.3			0	Plus	16759152	1e-06
+
+#Chain	LINE	904-1037	Srat_1	11647130-11647540	-	31.0
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	904	1037	11647540	11647130	23.1	39.5	148	61.5			0	Minus	16759152	2e-09
+
+#Chain	mariner	3-81	Srat_1	12366967-12367206	+	18.8
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	3	81	12366967	12367206	23.8	40.0	130	54.4			0	Plus	16759152	3e-08
+
+#Chain	LINE	909-1053	Srat_1	12699056-12699487	+	39.1
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	909	1053	12699056	12699487	27.0	43.4	152	63.0			0	Plus	16759152	6e-10
+
+#Chain	gypsy	449-1460	Srat_1	13052409-13055192	+	205.2
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	449	1089	13052409	13054325	23.4	42.7	889	346			0	Plus	16759152	7e-97
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	1156	1460	13054260	13055192	18.1	38.4	278	111			0	Plus	16759152	1e-24
+
+#Chain	gypsy	384-1370	Srat_1	14078353-14081526	-	174.7
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	384	1370	14081526	14078353	17.7	34.5	753	294			0	Minus	16759152	1e-80
+
+#Chain	TY1_Copia	324-574	Srat_1	14680582-14681232	+	41.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	324	574	14680582	14681232	16.7	33.1	119	50.4			0	Plus	16759152	5e-06
+
+#Chain	gypsy	440-1455	Srat_1	14784714-14788097	-	181.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	440	1455	14788097	14784714	17.9	34.8	864	337			0	Minus	16759152	6e-94
+
+#Chain	TY1_Copia	215-541	Srat_1	16047750-16048730	+	38.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_1/Srat_1.seq	Srat_1	215	541	16047750	16048730	11.8	29.0	121	51.2			0	Plus	16759152	3e-06
+
+#Chain	helitronORF	150-639	Srat_102	52-1621	+	171.5
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_102/Srat_102.seq	Srat_102	150	334	52	633	24.1	39.9	165	67.8			0	Plus	1671	1e-15
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_102/Srat_102.seq	Srat_102	342	639	719	1621	42.6	58.1	770	300			0	Plus	1671	4e-93
+
+#Chain	helitronORF	381-1317	Srat_11	9569-10675	+	118.8
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	381	504	9569	9940	42.9	57.9	306	122			0	Plus	455407	2e-29
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	1115	1317	10028	10675	32.3	48.4	332	132			0	Plus	455407	2e-32
+
+#Chain	gypsy	437-1444	Srat_11	20391-23291	-	197.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	437	1444	23291	20391	19.6	37.6	950	370			0	Minus	455407	1e-106
+
+#Chain	gypsy	571-1435	Srat_11	106190-109044	+	149.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	571	1062	106190	107629	21.7	41.0	560	220			0	Plus	455407	3e-59
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	1197	1435	108268	109044	18.0	36.1	226	91.5			0	Plus	455407	5e-20
+
+#Chain	helitronORF	223-299	Srat_11	146088-146306	-	31.0
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	223	299	146306	146088	40.3	51.9	145	60.1			0	Minus	455407	1e-10
+
+#Chain	gypsy	570-1055	Srat_11	152718-153473	-	76.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	949	1055	153038	152718	23.1	48.1	165	68.0			0	Minus	455407	6e-13
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	570	799	153473	152820	22.3	41.6	366	145			0	Minus	455407	2e-36
+
+#Chain	gypsy	1247-1442	Srat_11	155875-156504	-	43.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	1247	1442	156504	155875	22.4	40.7	274	109			0	Minus	455407	1e-25
+
+#Chain	helitronORF	329-760	Srat_11	208459-209877	+	161.6
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	329	760	208459	209877	37.4	51.9	943	367			0	Plus	455407	1e-105
+
+#Chain	helitronORF	1145-1320	Srat_11	212810-213358	+	55.6
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	1145	1320	212810	213358	31.6	50.8	306	122			0	Plus	455407	2e-29
+
+#Chain	gypsy	363-1430	Srat_11	241610-244546	-	183.7
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	363	1430	244546	241610	17.2	34.5	713	279			0	Minus	455407	2e-77
+
+#Chain	gypsy	699-1403	Srat_11	251612-253494	-	99.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	1202	1403	252217	251612	18.9	38.3	182	74.5			0	Minus	455407	6e-15
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	699	1000	253494	252574	20.4	39.3	262	105			0	Minus	455407	3e-24
+
+#Chain	gypsy	624-825	Srat_11	289995-290576	-	44.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	624	825	290576	289995	22.1	45.1	225	91.1			0	Minus	455407	6e-20
+
+#Chain	gypsy	648-1341	Srat_11	306732-308614	+	103.3
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	648	859	306732	307346	21.6	42.7	244	98.4			0	Plus	455407	4e-22
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	948	1341	307586	308614	14.6	30.0	162	66.8			0	Plus	455407	1e-12
+
+#Chain	gypsy	678-1395	Srat_11	320064-322109	-	137.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	678	1395	322109	320064	19.2	38.8	753	294			0	Minus	455407	4e-82
+
+#Chain	LINE	239-787	Srat_11	349523-351129	+	111.3
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	239	548	349523	350446	17.9	32.6	314	125			0	Plus	455407	2e-30
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	543	787	350428	351129	22.8	37.8	303	121			0	Plus	455407	3e-29
+
+#Chain	gypsy	1199-1331	Srat_11	354118-354495	-	28.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	1199	1331	354495	354118	21.1	34.6	143	59.5			0	Minus	455407	2e-10
+
+#Chain	gypsy	381-1390	Srat_11	357839-360775	-	180.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	381	1390	360775	357839	17.9	34.8	670	262			0	Minus	455407	3e-72
+
+#Chain	gypsy	548-1432	Srat_11	371021-373456	+	210.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	548	1432	371021	373456	23.8	39.8	1292	502			0	Plus	455407	1e-148
+
+#Chain	helitronORF	544-625	Srat_11	380075-380320	+	20.0
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	544	625	380075	380320	24.4	46.3	112	47.4			0	Plus	455407	9e-07
+
+#Chain	LINE	283-805	Srat_11	382939-384570	-	79.5
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	283	805	384570	382939	15.2	33.2	457	180			0	Minus	455407	2e-47
+
+#Chain	gypsy	1247-1461	Srat_11	386587-387207	-	42.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	1247	1461	387207	386587	19.9	41.2	177	72.6			0	Minus	455407	2e-14
+
+#Chain	LINE	393-811	Srat_11	410471-411704	+	79.3
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	393	471	410471	410704	22.8	45.6	132	55.3			0	Plus	455407	3e-09
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	477	811	410715	411704	18.3	37.9	399	158			0	Plus	455407	2e-40
+
+#Chain	gypsy	710-1215	Srat_11	415368-416939	-	73.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	962	1215	416138	415368	17.2	37.0	137	57.2			0	Minus	455407	1e-09
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	710	842	416939	416541	22.1	41.9	115	48.7			0	Minus	455407	4e-07
+
+#Chain	helitronORF	544-625	Srat_11	421695-421940	-	21.0
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	544	625	421940	421695	25.6	47.6	123	51.6			0	Minus	455407	5e-08
+
+#Chain	gypsy	927-1287	Srat_11	423575-424547	+	62.3
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	927	1055	423575	423994	28.4	41.8	209	84.9			0	Plus	455407	5e-18
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	1098	1287	424041	424547	13.5	32.8	139	58.0			0	Plus	455407	7e-10
+
+#Chain	gypsy	733-1038	Srat_11	430730-431618	-	67.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	818	1038	431368	430730	19.8	35.7	191	78.0			0	Minus	455407	6e-16
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	733	822	431618	431355	26.4	50.5	114	48.3			0	Minus	455407	5e-07
+
+#Chain	gypsy	781-893	Srat_11	435484-435825	+	21.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	781	893	435484	435825	19.3	35.1	123	51.8			0	Plus	455407	5e-08
+
+#Chain	gypsy	986-1100	Srat_11	440266-440619	+	26.2
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	986	1100	440266	440619	22.8	40.7	104	44.5			0	Plus	455407	8e-06
+
+#Chain	gypsy	1294-1381	Srat_11	448238-448492	-	19.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_11/Srat_11.seq	Srat_11	1294	1381	448492	448238	22.5	40.4	120	50.6			0	Minus	455407	1e-07
+
+#Chain	gypsy	664-1463	Srat_12	225328-228079	+	136.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_12/Srat_12.seq	Srat_12	664	1108	225328	226716	20.2	39.9	420	166			0	Plus	238473	5e-43
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_12/Srat_12.seq	Srat_12	1169	1463	227069	228079	15.9	32.7	219	88.8			0	Plus	238473	2e-19
+
+#Chain	gypsy	388-1441	Srat_12	232071-235046	+	204.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_12/Srat_12.seq	Srat_12	388	1441	232071	235046	19.4	36.8	946	368			0	Plus	238473	1e-105
+
+#Chain	gypsy	602-1342	Srat_14	174137-176134	+	114.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_14/Srat_14.seq	Srat_14	602	1342	174137	176134	15.5	34.4	367	145			0	Plus	235861	6e-37
+
+#Chain	gypsy	362-1037	Srat_14	180284-182371	-	126.4
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_14/Srat_14.seq	Srat_14	362	1037	182371	180284	18.7	36.1	596	233			0	Minus	235861	5e-64
+
+#Chain	gypsy	774-870	Srat_14	231802-232089	-	18.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_14/Srat_14.seq	Srat_14	774	870	232089	231802	18.6	44.3	122	51.4			0	Minus	235861	3e-08
+
+#Chain	gypsy	345-1348	Srat_15	4185-6848	-	193.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	1161	1348	4757	4185	20.4	36.2	185	75.7			0	Minus	90595	6e-16
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	345	1192	6848	4431	18.3	36.7	662	259			0	Minus	90595	5e-72
+
+#Chain	gypsy	618-1295	Srat_15	11156-12877	-	132.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	1198	1295	11446	11156	17.2	39.4	151	62.6			0	Minus	90595	5e-12
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	618	1045	12877	11609	26.9	46.5	611	239			0	Minus	90595	6e-66
+
+#Chain	gypsy	615-1378	Srat_15	14940-17096	-	165.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	615	1378	17096	14940	21.6	42.0	948	369			0	Minus	90595	1e-106
+
+#Chain	piggybac	5-389	Srat_15	22955-24100	-	123.6
+piggybac		390	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	5	389	24100	22955	32.1	54.9	897	349			0	Minus	90595	1e-109
+
+#Chain	TY1_Copia	540-1624	Srat_15	30152-33192	+	219.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	540	841	30152	30973	21.0	35.2	299	119			0	Plus	90595	3e-29
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	839	1624	30982	33192	19.8	38.8	654	256			0	Plus	90595	8e-71
+
+#Chain	gypsy	662-1322	Srat_15	36843-38830	-	124.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	1088	1322	37526	36843	16.9	36.7	249	100			0	Minus	90595	2e-23
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	662	1059	38830	37649	21.3	43.3	553	217			0	Minus	90595	4e-59
+
+#Chain	gypsy	657-1266	Srat_15	44505-46342	+	113.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	657	778	44505	44891	25.2	42.7	131	54.9			0	Plus	90595	1e-09
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	778	1266	44885	46342	17.0	34.8	273	109			0	Plus	90595	3e-26
+
+#Chain	gypsy	1175-1378	Srat_15	50883-51479	-	34.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	1175	1378	51479	50883	16.7	37.7	181	74.1			0	Minus	90595	2e-15
+
+#Chain	gypsy	365-1194	Srat_15	53363-55859	-	154.2
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	946	1194	54175	53363	16.9	36.4	144	59.9			0	Minus	90595	3e-11
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	365	936	55859	54216	19.6	39.1	514	202			0	Minus	90595	2e-54
+
+#Chain	TY1_Copia	550-1624	Srat_15	72930-74556	-	113.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	1530	1624	73196	72930	18.9	46.3	126	53.1			0	Minus	90595	4e-09
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	837	978	73741	73325	25.4	48.6	213	86.6			0	Minus	90595	3e-19
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	666	836	74216	73740	23.8	39.5	192	78.5			0	Minus	90595	9e-17
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	550	663	74556	74221	16.8	30.3	117	49.6			0	Minus	90595	5e-08
+
+#Chain	gypsy	650-1354	Srat_15	75622-77565	-	112.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	650	1354	77565	75622	16.0	34.1	511	201			0	Minus	90595	4e-54
+
+#Chain	gypsy	848-996	Srat_15	83798-84253	-	49.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	848	996	84253	83798	32.9	48.2	254	102			0	Minus	90595	5e-24
+
+#Chain	gypsy	1151-1377	Srat_15	86210-86896	-	46.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_15/Srat_15.seq	Srat_15	1151	1377	86896	86210	20.5	39.3	341	135			0	Minus	90595	3e-34
+
+#Chain	gypsy	1207-1449	Srat_16	10093-10897	-	55.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	1282	1449	10650	10093	21.1	42.1	230	93.0			0	Minus	88845	3e-21
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	1207	1284	10897	10643	25.9	40.0	140	58.3			0	Minus	88845	9e-11
+
+#Chain	gypsy	887-1152	Srat_16	12599-13331	-	65.4
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	971	1152	13066	12599	19.2	38.5	168	69.1			0	Minus	88845	5e-14
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	887	982	13331	13032	31.7	46.5	200	81.5			0	Minus	88845	9e-18
+
+#Chain	gypsy	614-1340	Srat_16	14961-17016	-	148.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	1005	1340	15845	14961	17.2	31.5	178	73.0			0	Minus	88845	3e-15
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	614	1006	17016	15856	23.1	42.8	554	217			0	Minus	88845	3e-59
+
+#Chain	gypsy	449-1459	Srat_16	22490-25270	-	203.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	1156	1459	23419	22490	17.9	38.2	274	109			0	Minus	88845	2e-26
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	449	1089	25270	23354	23.2	42.7	874	341			0	Minus	88845	1e-97
+
+#Chain	TY1_Copia	186-306	Srat_16	25522-25902	-	23.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	186	306	25902	25522	19.7	35.6	106	45.4			0	Minus	88845	9e-07
+
+#Chain	gypsy	1183-1463	Srat_16	77882-78843	-	50.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	1280	1463	78535	77882	18.5	32.4	186	76.1			0	Minus	88845	4e-16
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_16/Srat_16.seq	Srat_16	1183	1276	78843	78547	17.8	36.6	117	49.5			0	Minus	88845	5e-08
+
+#Chain	gypsy	384-1370	Srat_17	17808-20981	-	171.7
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_17/Srat_17.seq	Srat_17	384	1370	20981	17808	17.4	34.5	744	291			0	Minus	79446	7e-82
+
+#Chain	gypsy	1119-1392	Srat_19	12197-13036	+	40.3
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	1119	1392	12197	13036	14.7	29.1	232	93.8			0	Plus	40698	8e-22
+
+#Chain	gypsy	564-1431	Srat_19	17272-19670	-	207.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	1226	1431	17910	17272	23.3	35.8	311	124			0	Minus	40698	5e-31
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	564	1095	19670	18120	30.0	48.6	1009	393			0	Minus	40698	1e-114
+
+#Chain	gypsy	426-610	Srat_19	19851-20477	-	35.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	426	610	20477	19851	19.4	33.6	123	51.8			0	Minus	40698	4e-09
+
+#Chain	gypsy	362-1027	Srat_19	27006-28932	+	144.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	362	548	27006	27548	15.1	35.2	102	43.7			0	Plus	40698	1e-06
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	578	731	27635	28078	24.5	39.4	238	96.1			0	Plus	40698	2e-22
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	734	1027	28084	28932	26.8	49.5	525	206			0	Plus	40698	4e-56
+
+#Chain	gypsy	1094-1424	Srat_19	33993-34997	+	59.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	1094	1424	33993	34997	18.1	33.9	263	105			0	Plus	40698	2e-25
+
+#Chain	helitronORF	329-1320	Srat_19	37289-40615	-	265.6
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	1229	1320	37576	37289	42.3	60.8	222	89.7			0	Minus	40698	1e-20
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	963	1231	38874	37990	23.0	41.6	323	128			0	Minus	40698	2e-32
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	930	954	38990	38916	60.0	76.0	97	41.6			0	Minus	40698	5e-06
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	881	930	39361	39218	34.0	68.0	97	41.6			0	Minus	40698	5e-06
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_19/Srat_19.seq	Srat_19	329	639	40615	39677	42.7	57.0	765	298			0	Minus	40698	5e-85
+
+#Chain	LINE	926-1041	Srat_2	3658532-3658912	+	31.4
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_2/Srat_2.seq	Srat_2	926	1041	3658532	3658912	27.1	41.1	163	67.2			0	Plus	11693564	2e-11
+
+#Chain	TY1_Copia	496-564	Srat_2	4064950-4065153	-	17.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_2/Srat_2.seq	Srat_2	496	564	4065153	4064950	24.6	44.9	120	50.8			0	Minus	11693564	3e-06
+
+#Chain	TY1_Copia	231-465	Srat_2	4902455-4903210	-	32.2
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_2/Srat_2.seq	Srat_2	231	465	4903210	4902455	13.7	31.4	134	56.2			0	Minus	11693564	7e-08
+
+#Chain	LINE	926-1042	Srat_2	4938871-4939254	-	29.7
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_2/Srat_2.seq	Srat_2	926	1042	4939254	4938871	25.4	39.2	133	55.7			0	Minus	11693564	6e-08
+
+#Chain	gypsy	370-1402	Srat_2	5077854-5081015	+	190.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_2/Srat_2.seq	Srat_2	370	1402	5077854	5081015	18.4	34.9	888	346			0	Plus	11693564	6e-97
+
+#Chain	gypsy	370-1402	Srat_2	5082728-5085889	+	190.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_2/Srat_2.seq	Srat_2	370	1402	5082728	5085889	18.4	34.9	888	346			0	Plus	11693564	6e-97
+
+#Chain	gypsy	384-1463	Srat_2	6298538-6301792	+	223.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_2/Srat_2.seq	Srat_2	384	1463	6298538	6301792	20.7	36.9	1168	454			0	Plus	11693564	1e-131
+
+#Chain	ISC1316	7-314	Srat_2	7176590-7177471	+	47.7
+ISC1316		393	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_2/Srat_2.seq	Srat_2	7	314	7176590	7177471	15.5	37.6	109	46.3			0	Plus	11693564	9e-06
+
+#Chain	mariner	2-55	Srat_2	10773520-10773681	-	16.0
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_2/Srat_2.seq	Srat_2	2	55	10773681	10773520	29.6	44.4	108	45.9			0	Minus	11693564	1e-05
+
+#Chain	LINE	231-778	Srat_2	10998209-10999759	-	77.8
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_2/Srat_2.seq	Srat_2	231	778	10999759	10998209	14.2	30.2	274	110			0	Minus	11693564	2e-24
+
+#Chain	helitronORF	10-1302	Srat_20	2614-6744	-	375.0
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_20/Srat_20.seq	Srat_20	10	1302	6744	2614	29.0	46.3	1848	716			0	Minus	36351	0.0
+
+#Chain	LINE	286-899	Srat_20	24181-26211	-	96.4
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_20/Srat_20.seq	Srat_20	286	899	26211	24181	15.7	30.7	277	111			0	Minus	36351	3e-27
+
+#Chain	LINE	422-808	Srat_21	328-1602	-	63.1
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_21/Srat_21.seq	Srat_21	422	808	1602	328	16.3	31.6	230	93.1			0	Minus	32093	8e-22
+
+#Chain	gypsy	562-1431	Srat_21	11649-14033	-	209.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_21/Srat_21.seq	Srat_21	1169	1431	12473	11649	21.8	38.0	365	145			0	Minus	32093	2e-37
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_21/Srat_21.seq	Srat_21	562	1095	14033	12498	28.4	47.3	989	385			0	Minus	32093	1e-112
+
+#Chain	gypsy	384-1463	Srat_21	26238-29618	-	229.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_21/Srat_21.seq	Srat_21	384	1463	29618	26238	21.2	38.7	1162	452			0	Minus	32093	1e-133
+
+#Chain	gypsy	675-825	Srat_22	29011-29457	+	41.7
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_22/Srat_22.seq	Srat_22	675	825	29011	29457	27.6	48.0	235	94.9			0	Plus	30824	3e-22
+
+#Chain	gypsy	1187-1327	Srat_24	6446-6880	+	25.4
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_24/Srat_24.seq	Srat_24	1187	1327	6446	6880	18.0	35.3	118	49.9			0	Plus	26045	1e-08
+
+#Chain	gypsy	438-1455	Srat_27	1157-4605	-	187.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_27/Srat_27.seq	Srat_27	1171	1455	2155	1157	16.5	29.2	322	128			0	Minus	17916	1e-32
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_27/Srat_27.seq	Srat_27	438	1100	4605	2533	21.2	39.4	691	270			0	Minus	17916	3e-76
+
+#Chain	gypsy	374-1025	Srat_27	10809-12932	+	105.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_27/Srat_27.seq	Srat_27	374	1025	10809	12932	16.2	35.0	454	179			0	Plus	17916	3e-48
+
+#Chain	gypsy	392-1375	Srat_27	13899-16603	+	195.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_27/Srat_27.seq	Srat_27	392	859	13899	15230	19.7	37.2	324	129			0	Plus	17916	6e-33
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_27/Srat_27.seq	Srat_27	835	1375	15143	16603	19.0	35.3	477	188			0	Plus	17916	7e-51
+
+#Chain	gypsy	977-1090	Srat_28	2322-2654	-	19.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_28/Srat_28.seq	Srat_28	977	1090	2654	2322	17.5	34.2	95	41.0			0	Minus	17698	3e-06
+
+#Chain	gypsy	377-1463	Srat_28	7582-11061	-	230.4
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_28/Srat_28.seq	Srat_28	377	1463	11061	7582	21.2	37.7	1171	455			0	Minus	17698	1e-134
+
+#Chain	gypsy	581-1426	Srat_28	12427-14905	+	171.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_28/Srat_28.seq	Srat_28	581	1193	12427	14235	20.3	38.6	562	220			0	Plus	17698	7e-61
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_28/Srat_28.seq	Srat_28	1193	1426	14234	14905	20.1	38.9	276	110			0	Plus	17698	2e-27
+
+#Chain	gypsy	436-1444	Srat_29	7547-10492	-	201.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_29/Srat_29.seq	Srat_29	436	1444	10492	7547	20.0	37.6	926	361			0	Minus	15739	1e-104
+
+#Chain	mariner	27-343	Srat_3	1964416-1965399	-	53.3
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_3/Srat_3.seq	Srat_3	27	343	1965399	1964416	16.8	38.4	237	95.6			0	Minus	4663306	5e-22
+
+#Chain	mariner	3-114	Srat_3	4403034-4403387	-	21.5
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_3/Srat_3.seq	Srat_3	3	114	4403387	4403034	19.2	35.0	112	47.4			0	Minus	4663306	1e-06
+
+#Chain	gypsy	364-1389	Srat_30	4530-7647	+	199.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_30/Srat_30.seq	Srat_30	364	876	4530	6083	17.3	37.7	469	185			0	Plus	14015	4e-50
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_30/Srat_30.seq	Srat_30	860	1260	6023	7051	19.9	36.8	239	96.5			0	Plus	14015	4e-23
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_30/Srat_30.seq	Srat_30	1266	1389	7264	7647	24.6	40.0	165	68.0			0	Plus	14015	2e-14
+
+#Chain	LINE	234-778	Srat_30	10295-12034	+	82.3
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_30/Srat_30.seq	Srat_30	234	778	10295	12034	15.1	33.2	383	151			0	Plus	14015	3e-40
+
+#Chain	gypsy	436-1448	Srat_31	2740-5723	+	192.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_31/Srat_31.seq	Srat_31	436	702	2740	3573	19.5	36.2	180	73.8			0	Plus	12195	2e-16
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_31/Srat_31.seq	Srat_31	709	1207	3575	4933	19.7	40.7	447	176			0	Plus	12195	1e-47
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_31/Srat_31.seq	Srat_31	1202	1448	4917	5723	17.2	36.3	297	118			0	Plus	12195	5e-30
+
+#Chain	TY1_Copia	734-823	Srat_31	9912-10151	+	16.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_31/Srat_31.seq	Srat_31	734	823	9912	10151	18.7	40.7	90	39.2			0	Plus	12195	9e-06
+
+#Chain	gypsy	445-607	Srat_32	2567-3100	+	34.2
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_32/Srat_32.seq	Srat_32	445	607	2567	3100	21.0	44.8	119	50.3			0	Plus	11709	3e-09
+
+#Chain	gypsy	367-1443	Srat_32	4199-7180	+	234.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_32/Srat_32.seq	Srat_32	367	1443	4199	7180	21.8	39.1	1199	466			0	Plus	11709	1e-140
+
+#Chain	gypsy	381-1463	Srat_34	44-3499	-	202.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_34/Srat_34.seq	Srat_34	381	1463	3499	44	18.7	35.8	1009	393			0	Minus	11407	1e-115
+
+#Chain	gypsy	455-1454	Srat_34	6773-9493	-	181.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_34/Srat_34.seq	Srat_34	1075	1454	7960	6773	17.5	35.7	302	120			0	Minus	11407	1e-30
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_34/Srat_34.seq	Srat_34	455	1038	9493	7706	19.6	39.9	633	248			0	Minus	11407	2e-69
+
+#Chain	helitronORF	9-250	Srat_35	139-981	-	50.8
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_35/Srat_35.seq	Srat_35	9	250	981	139	21.0	36.0	156	64.3			0	Minus	10977	2e-13
+
+#Chain	gypsy	658-925	Srat_36	3377-4159	+	50.7
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_36/Srat_36.seq	Srat_36	658	925	3377	4159	18.9	39.9	216	87.6			0	Plus	10942	1e-20
+
+#Chain	gypsy	1198-1307	Srat_36	5256-5606	+	20.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_36/Srat_36.seq	Srat_36	1198	1307	5256	5606	18.6	32.2	107	45.6			0	Plus	10942	8e-08
+
+#Chain	helitronORF	822-1302	Srat_38	4235-5773	-	171.2
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_38/Srat_38.seq	Srat_38	822	1302	5773	4235	35.6	54.1	941	366			0	Minus	9787	1e-107
+
+#Chain	mariner	43-342	Srat_4	68307-69170	-	49.2
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	43	342	69170	68307	16.4	30.0	117	49.4			0	Minus	3745422	3e-07
+
+#Chain	gypsy	437-1444	Srat_4	421175-424075	-	197.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	437	1444	424075	421175	19.6	37.5	944	368			0	Minus	3745422	1e-104
+
+#Chain	mariner	200-337	Srat_4	1147496-1147909	+	27.5
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	200	337	1147496	1147909	19.9	41.1	132	55.1			0	Plus	3745422	4e-09
+
+#Chain	mariner	192-344	Srat_4	1557513-1557968	+	36.0
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	192	344	1557513	1557968	23.5	34.3	151	62.5			0	Plus	3745422	2e-11
+
+#Chain	gypsy	370-1402	Srat_4	1678360-1681521	-	190.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	370	1402	1681521	1678360	18.4	34.9	888	346			0	Minus	3745422	2e-97
+
+#Chain	gypsy	370-1402	Srat_4	1683234-1686395	-	190.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	370	1402	1686395	1683234	18.4	34.9	888	346			0	Minus	3745422	2e-97
+
+#Chain	gypsy	370-1402	Srat_4	1688108-1691269	-	190.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	370	1402	1691269	1688108	18.4	34.9	888	346			0	Minus	3745422	2e-97
+
+#Chain	helitronORF	364-433	Srat_4	1786293-1786502	+	25.0
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	364	433	1786293	1786502	35.7	54.3	138	57.4			0	Plus	3745422	7e-09
+
+#Chain	LINE	907-1038	Srat_4	1901685-1902125	-	32.3
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	907	1038	1902125	1901685	24.5	42.2	145	60.3			0	Minus	3745422	8e-10
+
+#Chain	gypsy	1234-1342	Srat_4	1902702-1903025	-	25.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	1234	1342	1903025	1902702	22.9	41.3	176	72.2			0	Minus	3745422	3e-13
+
+#Chain	gypsy	705-795	Srat_4	1904552-1904818	-	22.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	705	795	1904818	1904552	24.7	49.5	123	51.8			0	Minus	3745422	4e-07
+
+#Chain	mariner	1-245	Srat_4	1911913-1912635	-	48.5
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	1	245	1912635	1911913	19.8	37.7	140	58.2			0	Minus	3745422	4e-10
+
+#Chain	helitronORF	660-1296	Srat_4	2493295-2495277	-	143.5
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	1053	1296	2494089	2493295	34.6	51.5	463	182			0	Minus	3745422	6e-47
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	660	905	2495277	2494420	24.0	41.3	178	72.8			0	Minus	3745422	2e-13
+
+#Chain	helitronORF	671-1296	Srat_4	2498431-2500503	+	206.0
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	671	1296	2498431	2500503	32.9	51.0	1064	414			0	Plus	3745422	1e-119
+
+#Chain	mariner	1-308	Srat_4	2680699-2681625	-	61.3
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	1	308	2681625	2680699	19.9	35.2	183	74.8			0	Minus	3745422	2e-15
+
+#Chain	mariner	8-342	Srat_4	2889583-2890611	+	58.0
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	8	342	2889583	2890611	17.3	34.6	221	89.4			0	Plus	3745422	3e-20
+
+#Chain	mariner	213-344	Srat_4	3178803-3179195	-	30.0
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	213	344	3179195	3178803	22.7	36.2	152	62.8			0	Minus	3745422	1e-11
+
+#Chain	piggybac	21-355	Srat_4	3248531-3249495	+	81.6
+piggybac		390	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	21	130	3248531	3248830	21.8	40.9	113	47.8			0	Plus	3745422	1e-06
+piggybac		390	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	137	355	3248848	3249495	26.3	41.1	418	165			0	Plus	3745422	2e-44
+
+#Chain	gypsy	612-859	Srat_4	3279787-3280527	+	44.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	612	859	3279787	3280527	18.0	40.6	216	87.6			0	Plus	3745422	6e-18
+
+#Chain	mariner	8-341	Srat_4	3294518-3295543	+	55.1
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	8	341	3294518	3295543	16.5	35.0	223	90.2			0	Plus	3745422	2e-20
+
+#Chain	mariner	212-342	Srat_4	3709159-3709542	-	24.8
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	212	342	3709542	3709159	18.9	34.8	120	50.5			0	Minus	3745422	1e-07
+
+#Chain	gypsy	1202-1356	Srat_4	3712353-3712796	-	32.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	1202	1356	3712796	3712353	21.0	38.9	183	74.9			0	Minus	3745422	4e-14
+
+#Chain	gypsy	366-1453	Srat_4	3731415-3734366	+	190.3
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	366	1038	3731415	3733430	20.9	39.1	775	302			0	Plus	3745422	6e-84
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_4/Srat_4.seq	Srat_4	1181	1453	3733578	3734366	18.2	36.7	212	86.1			0	Plus	3745422	2e-17
+
+#Chain	gypsy	359-1378	Srat_40	1879-5073	+	168.3
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_40/Srat_40.seq	Srat_40	359	1378	1879	5073	16.5	35.4	758	296			0	Plus	8296	8e-85
+
+#Chain	TY1_Copia	806-983	Srat_41	2529-3041	+	37.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_41/Srat_41.seq	Srat_41	806	983	2529	3041	20.8	38.2	120	50.8			0	Plus	8199	2e-09
+
+#Chain	gypsy	1134-1383	Srat_41	4068-4790	+	45.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_41/Srat_41.seq	Srat_41	1134	1383	4068	4790	18.3	35.1	283	113			0	Plus	8199	1e-28
+
+#Chain	gypsy	607-1040	Srat_46	2512-3831	-	87.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_46/Srat_46.seq	Srat_46	966	1040	2736	2512	38.2	52.6	147	61.0			0	Minus	6352	9e-13
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_46/Srat_46.seq	Srat_46	607	862	3831	3010	23.0	43.8	281	112			0	Minus	6352	2e-28
+
+#Chain	gypsy	682-756	Srat_49	4233-4457	+	17.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_49/Srat_49.seq	Srat_49	682	756	4233	4457	22.7	46.7	108	46.0			0	Plus	6060	3e-08
+
+#Chain	mariner	3-81	Srat_5	175688-175927	-	19.8
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_5/Srat_5.seq	Srat_5	3	81	175927	175688	25.0	33.8	111	47.1			0	Minus	894123	3e-07
+
+#Chain	LINE	270-779	Srat_5	210425-212011	+	73.4
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_5/Srat_5.seq	Srat_5	270	779	210425	212011	14.4	31.3	320	127			0	Plus	894123	6e-31
+
+#Chain	gypsy	365-1455	Srat_5	463335-466757	+	205.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_5/Srat_5.seq	Srat_5	365	1455	463335	466757	18.8	35.9	962	374			0	Plus	894123	1e-107
+
+#Chain	gypsy	444-1335	Srat_5	504812-507364	+	149.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_5/Srat_5.seq	Srat_5	444	1335	504812	507364	16.7	35.6	600	235			0	Plus	894123	1e-63
+
+#Chain	gypsy	562-1431	Srat_5	884018-886402	-	205.3
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_5/Srat_5.seq	Srat_5	562	1431	886402	884018	23.6	40.8	1161	451			0	Minus	894123	1e-131
+
+#Chain	gypsy	383-1463	Srat_56	103-3264	-	215.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_56/Srat_56.seq	Srat_56	383	1463	3264	103	19.9	34.8	1174	456			0	Minus	4607	1e-138
+
+#Chain	gypsy	440-1455	Srat_6	256136-259519	-	181.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_6/Srat_6.seq	Srat_6	440	1455	259519	256136	17.9	34.8	864	337			0	Minus	859544	3e-95
+
+#Chain	TY1_Copia	264-388	Srat_6	501584-501994	+	24.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_6/Srat_6.seq	Srat_6	264	388	501584	501994	19.7	33.8	129	54.3			0	Plus	859544	2e-08
+
+#Chain	gypsy	518-1442	Srat_61	192-2978	+	175.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_61/Srat_61.seq	Srat_61	518	1442	192	2978	19.0	38.7	1043	406			0	Plus	3691	1e-123
+
+#Chain	gypsy	1164-1383	Srat_62	58-737	+	46.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_62/Srat_62.seq	Srat_62	1164	1324	58	573	16.8	33.5	245	98.8			0	Plus	3676	1e-24
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_62/Srat_62.seq	Srat_62	1324	1383	570	737	31.7	41.7	154	63.7			0	Plus	3676	7e-14
+
+#Chain	gypsy	1160-1463	Srat_62	1716-2735	+	59.0
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_62/Srat_62.seq	Srat_62	1160	1463	1716	2735	19.4	34.8	396	156			0	Plus	3676	2e-42
+
+#Chain	helitronORF	125-250	Srat_62	3130-3543	+	28.9
+helitronORF		1321	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_62/Srat_62.seq	Srat_62	125	250	3130	3543	22.9	37.1	110	46.6			0	Plus	3676	1e-08
+
+#Chain	gypsy	576-871	Srat_7	10762-11640	+	52.4
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_7/Srat_7.seq	Srat_7	576	871	10762	11640	17.7	38.0	275	110			0	Plus	748239	1e-25
+
+#Chain	gypsy	582-1409	Srat_7	15176-17511	+	165.9
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_7/Srat_7.seq	Srat_7	582	1038	15176	16513	25.1	44.8	741	289			0	Plus	748239	1e-80
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_7/Srat_7.seq	Srat_7	1136	1409	16708	17511	18.7	39.1	233	94.2			0	Plus	748239	1e-20
+
+#Chain	gypsy	389-1386	Srat_7	43202-46201	+	234.5
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_7/Srat_7.seq	Srat_7	389	1386	43202	46201	23.5	41.3	1371	532			0	Plus	748239	1e-158
+
+#Chain	DDE_1	2-40	Srat_7	177296-177415	-	14.6
+DDE_1		535	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_7/Srat_7.seq	Srat_7	2	40	177415	177296	37.5	67.5	103	44.1			0	Minus	748239	5e-06
+
+#Chain	mariner	145-308	Srat_7	387871-388368	-	32.3
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_7/Srat_7.seq	Srat_7	145	308	388368	387871	19.7	34.1	99	42.4			0	Minus	748239	8e-06
+
+#Chain	mariner	123-283	Srat_7	390892-391371	+	35.9
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_7/Srat_7.seq	Srat_7	123	283	390892	391371	22.3	37.3	112	47.4			0	Plus	748239	2e-07
+
+#Chain	LINE	409-682	Srat_7	744077-744913	-	42.7
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_7/Srat_7.seq	Srat_7	409	682	744913	744077	15.6	32.7	156	64.6			0	Minus	748239	7e-12
+
+#Chain	gypsy	614-1402	Srat_8	28100-30484	-	154.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_8/Srat_8.seq	Srat_8	614	1402	30484	28100	19.6	36.8	825	322			0	Minus	598741	9e-91
+
+#Chain	mariner	3-113	Srat_8	280622-280969	+	24.9
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_8/Srat_8.seq	Srat_8	3	113	280622	280969	22.4	36.2	118	49.8			0	Plus	598741	3e-08
+
+#Chain	LINE	471-577	Srat_9	7070-7408	-	13.2
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	471	577	7408	7070	12.3	31.6	118	49.9			0	Minus	526229	2e-07
+
+#Chain	gypsy	359-1402	Srat_9	28184-31044	+	201.7
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	359	763	28184	29389	18.3	38.5	314	125			0	Plus	526229	3e-30
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	763	1115	29404	30489	21.5	40.6	343	136			0	Plus	526229	1e-33
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	1181	1402	30382	31044	23.3	39.7	193	78.8			0	Plus	526229	4e-16
+
+#Chain	TY1_Copia	113-327	Srat_9	37608-38153	+	30.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	113	327	37608	38153	14.3	30.9	121	51.2			0	Plus	526229	1e-07
+
+#Chain	gypsy	562-1442	Srat_9	40131-42629	+	223.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	562	1442	40131	42629	25.4	44.5	1392	540			0	Plus	526229	1e-161
+
+#Chain	TY1_Copia	113-327	Srat_9	44265-44810	+	34.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	113	327	44265	44810	15.8	33.5	127	53.5			0	Plus	526229	2e-08
+
+#Chain	gypsy	574-694	Srat_9	46460-46810	+	23.6
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	574	694	46460	46810	19.5	40.7	194	79.1			0	Plus	526229	3e-16
+
+#Chain	LINE	195-637	Srat_9	67195-68487	-	70.0
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	195	637	68487	67195	15.8	32.6	215	87.3			0	Minus	526229	8e-19
+
+#Chain	LINE	422-808	Srat_9	73222-74496	-	63.1
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	422	808	74496	73222	16.3	31.6	228	92.3			0	Minus	526229	2e-20
+
+#Chain	gypsy	384-1384	Srat_9	106122-109331	+	165.2
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	384	1384	106122	109331	16.5	34.8	782	305			0	Plus	526229	1e-85
+
+#Chain	gypsy	384-849	Srat_9	111089-112537	+	67.1
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	384	849	111089	112537	14.4	35.0	358	142			0	Plus	526229	2e-35
+
+#Chain	gypsy	362-1455	Srat_9	118395-121628	-	178.7
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	1197	1455	119285	118395	16.9	31.9	177	72.6			0	Minus	526229	3e-14
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	662	1057	120643	119483	24.2	43.2	521	205			0	Minus	526229	2e-54
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	362	655	121628	120693	13.3	31.0	134	56.0			0	Minus	526229	3e-09
+
+#Chain	gypsy	1210-1463	Srat_9	128760-129623	+	54.4
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	1210	1463	128760	129623	21.4	34.4	297	118			0	Plus	526229	3e-28
+
+#Chain	gypsy	368-1459	Srat_9	131087-134284	+	205.3
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	368	1459	131087	134284	18.8	35.3	955	372			0	Plus	526229	1e-106
+
+#Chain	gypsy	363-1355	Srat_9	143367-146356	-	185.4
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	727	1355	145229	143367	19.5	40.2	697	272			0	Minus	526229	2e-75
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	363	733	146356	145208	16.9	35.2	287	114			0	Minus	526229	4e-27
+
+#Chain	LINE	288-778	Srat_9	154905-156377	+	75.1
+LINE		1189	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	288	778	154905	156377	15.3	34.6	403	159			0	Plus	526229	7e-41
+
+#Chain	gypsy	548-1374	Srat_9	283478-285703	-	201.8
+gypsy		1463	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	548	1374	285703	283478	24.4	40.6	1302	505			0	Minus	526229	1e-149
+
+#Chain	mariner	169-342	Srat_9	413984-414505	-	28.5
+mariner		345	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	169	342	414505	413984	16.4	31.6	116	49.0			0	Minus	526229	5e-08
+
+#Chain	hAT	368-696	Srat_9	451154-452185	+	44.7
+hAT		749	PSITBLASTN	transposonPSI.730.Amirs-PC.tmp/Srat_9/Srat_9.seq	Srat_9	368	696	451154	452185	13.6	33.1	129	54.1			0	Plus	526229	5e-09
+

@@ -1,0 +1,245 @@
+#Chain	cacta	762-783	Lsig_10	134732-134797	-	20.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_10/Lsig_10.seq	Lsig_10	762	783	134797	134732	90.9	90.9	100	42.9			0	Minus	209904	9e-06
+
+#Chain	cacta	759-791	Lsig_1026	15526-15621	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1026/Lsig_1026.seq	Lsig_1026	759	791	15621	15526	72.7	81.8	116	49.1			0	Minus	19099	1e-08
+
+#Chain	ISC1316	216-258	Lsig_105	13341-13469	-	6.0
+ISC1316		393	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_105/Lsig_105.seq	Lsig_105	216	258	13469	13341	14.0	37.2	96	41.3			0	Minus	93312	3e-06
+
+#Chain	cacta	752-827	Lsig_106	47098-47316	+	26.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_106/Lsig_106.seq	Lsig_106	752	827	47098	47316	34.2	44.7	97	41.8			0	Plus	92821	9e-06
+
+#Chain	cacta	756-784	Lsig_1086	5008-5094	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1086/Lsig_1086.seq	Lsig_1086	756	784	5094	5008	65.5	65.5	91	39.4			0	Minus	17460	8e-06
+
+#Chain	cacta	750-775	Lsig_1102	8745-8822	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1102/Lsig_1102.seq	Lsig_1102	750	775	8745	8822	73.1	73.1	101	43.3			0	Plus	17021	5e-07
+
+#Chain	ltr_Roo	853-1142	Lsig_1124	9632-10448	-	67.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1124/Lsig_1124.seq	Lsig_1124	1016	1142	10003	9632	33.6	46.3	230	92.9			0	Minus	16512	9e-22
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1124/Lsig_1124.seq	Lsig_1124	853	1005	10448	10008	16.2	41.6	228	92.2			0	Minus	16512	2e-21
+
+#Chain	cacta	753-780	Lsig_1153	14178-14261	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1153/Lsig_1153.seq	Lsig_1153	753	780	14178	14261	75.0	75.0	97	41.8			0	Plus	15995	2e-06
+
+#Chain	cacta	755-781	Lsig_1153	14274-14354	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1153/Lsig_1153.seq	Lsig_1153	755	781	14274	14354	70.4	74.1	91	39.4			0	Plus	15995	8e-06
+
+#Chain	cacta	753-784	Lsig_1162	345-449	-	24.7
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1162/Lsig_1162.seq	Lsig_1162	753	784	449	345	77.1	77.1	113	47.9			0	Minus	15829	2e-08
+
+#Chain	cacta	751-780	Lsig_118	61932-62021	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_118/Lsig_118.seq	Lsig_118	751	780	61932	62021	76.7	76.7	111	47.2			0	Plus	88889	2e-07
+
+#Chain	cacta	756-793	Lsig_123	22493-22606	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_123/Lsig_123.seq	Lsig_123	756	793	22493	22606	60.5	65.8	99	42.5			0	Plus	87819	5e-06
+
+#Chain	cacta	751-780	Lsig_1315	6942-7031	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1315/Lsig_1315.seq	Lsig_1315	751	780	7031	6942	70.0	70.0	92	39.8			0	Minus	12762	5e-06
+
+#Chain	cacta	753-783	Lsig_1321	3944-4036	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1321/Lsig_1321.seq	Lsig_1321	753	783	4036	3944	71.0	71.0	96	41.4			0	Minus	12667	2e-06
+
+#Chain	cacta	753-785	Lsig_135	84859-84957	-	27.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_135/Lsig_135.seq	Lsig_135	753	785	84957	84859	81.8	84.8	129	54.1			0	Minus	85482	1e-09
+
+#Chain	cacta	753-806	Lsig_1391	6338-6499	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1391/Lsig_1391.seq	Lsig_1391	753	806	6499	6338	42.6	57.4	102	43.7			0	Minus	11508	3e-07
+
+#Chain	cacta	753-773	Lsig_1403	4266-4328	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1403/Lsig_1403.seq	Lsig_1403	753	773	4266	4328	90.5	90.5	93	40.2			0	Plus	11400	3e-06
+
+#Chain	cacta	751-784	Lsig_1407	218-319	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1407/Lsig_1407.seq	Lsig_1407	751	784	319	218	61.8	61.8	92	39.8			0	Minus	11349	4e-06
+
+#Chain	cacta	755-784	Lsig_1432	438-527	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1432/Lsig_1432.seq	Lsig_1432	755	784	527	438	70.0	73.3	93	40.2			0	Minus	11095	3e-06
+
+#Chain	LINE	1011-1038	Lsig_1569	4508-4591	+	17.0
+LINE		1189	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1569/Lsig_1569.seq	Lsig_1569	1011	1038	4508	4591	60.7	71.4	116	49.1			0	Plus	9214	4e-09
+
+#Chain	MuDR_A_B	660-739	Lsig_1578	2037-2243	+	21.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1578/Lsig_1578.seq	Lsig_1578	660	739	2037	2243	27.2	39.5	90	39.2			0	Plus	9109	4e-06
+
+#Chain	cacta	756-781	Lsig_1622	400-477	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1622/Lsig_1622.seq	Lsig_1622	756	781	477	400	73.1	73.1	90	39.1			0	Minus	8686	5e-06
+
+#Chain	cacta	728-786	Lsig_1707	3957-4118	+	27.6
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1707/Lsig_1707.seq	Lsig_1707	728	786	3957	4118	46.7	58.3	112	47.5			0	Plus	7600	1e-08
+
+#Chain	hAT	109-172	Lsig_1728	4995-5180	+	20.0
+hAT		749	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1728/Lsig_1728.seq	Lsig_1728	109	172	4995	5180	31.2	50.0	117	49.5			0	Plus	7431	2e-09
+
+#Chain	cacta	760-784	Lsig_174	39865-39939	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_174/Lsig_174.seq	Lsig_174	760	784	39865	39939	76.0	80.0	96	41.4			0	Plus	75652	1e-05
+
+#Chain	cacta	756-789	Lsig_1746	2077-2178	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1746/Lsig_1746.seq	Lsig_1746	756	789	2077	2178	58.8	64.7	88	38.3			0	Plus	7289	7e-06
+
+#Chain	cacta	736-783	Lsig_1757	4607-4750	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1757/Lsig_1757.seq	Lsig_1757	736	783	4750	4607	47.9	50.0	88	38.3			0	Minus	7200	7e-06
+
+#Chain	cacta	751-773	Lsig_1789	5277-5345	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_1789/Lsig_1789.seq	Lsig_1789	751	773	5277	5345	82.6	82.6	88	38.3			0	Plus	6901	7e-06
+
+#Chain	cacta	749-778	Lsig_2	84553-84642	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2/Lsig_2.seq	Lsig_2	749	778	84642	84553	80.0	80.0	113	47.9			0	Minus	294481	4e-07
+
+#Chain	cacta	754-777	Lsig_201	31714-31785	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_201/Lsig_201.seq	Lsig_201	754	777	31714	31785	87.5	87.5	101	43.3			0	Plus	70625	2e-06
+
+#Chain	cacta	753-780	Lsig_2023	3800-3883	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2023/Lsig_2023.seq	Lsig_2023	753	780	3800	3883	75.0	75.0	99	42.5			0	Plus	5144	3e-07
+
+#Chain	cacta	762-781	Lsig_2067	2556-2615	-	18.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2067/Lsig_2067.seq	Lsig_2067	762	781	2615	2556	90.0	90.0	89	38.7			0	Minus	4903	4e-06
+
+#Chain	ltr_Roo	202-1729	Lsig_2134	261-4018	-	240.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2134/Lsig_2134.seq	Lsig_2134	1672	1729	443	261	27.9	42.6	94	40.6			0	Minus	4380	2e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2134/Lsig_2134.seq	Lsig_2134	1596	1671	697	473	25.3	43.0	106	45.2			0	Minus	4380	7e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2134/Lsig_2134.seq	Lsig_2134	1271	1519	1480	791	19.9	32.1	165	67.9			0	Minus	4380	9e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2134/Lsig_2134.seq	Lsig_2134	1061	1229	2037	1549	28.3	44.5	313	124			0	Minus	4380	4e-32
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2134/Lsig_2134.seq	Lsig_2134	808	849	2146	2012	24.4	51.1	88	38.2			0	Minus	4380	9e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2134/Lsig_2134.seq	Lsig_2134	529	808	3062	2148	21.2	41.7	349	138			0	Minus	4380	2e-36
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2134/Lsig_2134.seq	Lsig_2134	202	398	4018	3476	19.2	43.4	197	80.2			0	Minus	4380	2e-18
+
+#Chain	cacta	751-782	Lsig_2157	3143-3238	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2157/Lsig_2157.seq	Lsig_2157	751	782	3238	3143	71.9	75.0	95	41.0			0	Minus	4224	6e-07
+
+#Chain	ltr_Roo	1686-1767	Lsig_2200	1253-1510	-	19.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2200/Lsig_2200.seq	Lsig_2200	1686	1767	1510	1253	23.3	45.3	122	51.3			0	Minus	3924	8e-10
+
+#Chain	cacta	752-804	Lsig_2303	1154-1309	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2303/Lsig_2303.seq	Lsig_2303	752	804	1154	1309	43.4	52.8	95	41.0			0	Plus	3312	5e-07
+
+#Chain	cacta	754-790	Lsig_2387	182-292	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2387/Lsig_2387.seq	Lsig_2387	754	790	292	182	64.9	64.9	96	41.4			0	Minus	2845	3e-07
+
+#Chain	cacta	727-780	Lsig_2404	2227-2349	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2404/Lsig_2404.seq	Lsig_2404	727	780	2349	2227	44.4	44.4	103	44.1			0	Minus	2777	4e-08
+
+#Chain	TY1_Copia	539-566	Lsig_2428	2049-2132	+	8.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2428/Lsig_2428.seq	Lsig_2428	539	566	2049	2132	28.6	42.9	85	37.3			0	Plus	2672	7e-06
+
+#Chain	TY1_Copia	285-588	Lsig_2428	2427-2558	+	28.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2428/Lsig_2428.seq	Lsig_2428	285	327	2427	2558	34.1	52.3	112	47.7			0	Plus	2672	4e-09
+TY1_Copia		1643	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2428/Lsig_2428.seq	Lsig_2428	550	588	2427	2543	35.9	43.6	90	39.2			0	Plus	2672	2e-06
+
+#Chain	mariner_ant1	63-284	Lsig_2441	1874-2521	+	42.2
+mariner_ant1		325	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2441/Lsig_2441.seq	Lsig_2441	63	284	1874	2521	19.0	40.3	132	55.2			0	Plus	2617	2e-12
+
+#Chain	cacta	753-777	Lsig_259	12851-12925	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_259/Lsig_259.seq	Lsig_259	753	777	12925	12851	96.0	96.0	116	49.1			0	Minus	61437	4e-08
+
+#Chain	cacta	753-782	Lsig_2594	895-984	-	20.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2594/Lsig_2594.seq	Lsig_2594	753	782	984	895	66.7	70.0	89	38.7			0	Minus	1885	1e-06
+
+#Chain	ltr_Roo	775-840	Lsig_2604	1424-1606	-	19.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2604/Lsig_2604.seq	Lsig_2604	775	840	1606	1424	28.8	48.5	116	49.0			0	Minus	1829	2e-09
+
+#Chain	mariner_ant1	238-271	Lsig_2630	844-936	+	15.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2630/Lsig_2630.seq	Lsig_2630	238	271	844	936	44.1	58.8	89	38.6			0	Plus	1765	2e-07
+
+#Chain	LINE	735-812	Lsig_2970	220-444	+	17.0
+LINE		1189	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2970/Lsig_2970.seq	Lsig_2970	735	812	220	444	21.8	34.6	109	46.4			0	Plus	586	4e-10
+
+#Chain	mariner	149-271	Lsig_2979	137-502	+	18.7
+mariner		345	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2979/Lsig_2979.seq	Lsig_2979	149	271	137	502	15.2	34.1	179	73.3			0	Plus	571	5e-20
+
+#Chain	cacta	752-773	Lsig_2993	104-169	+	16.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_2993/Lsig_2993.seq	Lsig_2993	752	773	104	169	72.7	72.7	80	35.2			0	Plus	509	2e-06
+
+#Chain	LINE	384-475	Lsig_3035	144-419	+	18.0
+LINE		1189	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_3035/Lsig_3035.seq	Lsig_3035	384	475	144	419	19.6	32.6	175	71.9			0	Plus	423	8e-19
+
+#Chain	MuDR_A_B	661-734	Lsig_3061	123-281	-	21.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_3061/Lsig_3061.seq	Lsig_3061	661	734	281	123	28.4	36.5	72	32.2			0	Minus	364	5e-06
+
+#Chain	cacta	758-795	Lsig_328	37716-37829	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_328/Lsig_328.seq	Lsig_328	758	795	37716	37829	60.5	65.8	102	43.7			0	Plus	51671	1e-06
+
+#Chain	cacta	757-784	Lsig_360	41531-41614	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_360/Lsig_360.seq	Lsig_360	757	784	41531	41614	75.0	78.6	99	42.5			0	Plus	48367	3e-06
+
+#Chain	hAT	638-687	Lsig_365	34604-34753	-	16.0
+hAT		749	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_365/Lsig_365.seq	Lsig_365	638	687	34753	34604	32.0	52.0	118	49.9			0	Minus	48021	8e-09
+
+#Chain	mariner	3-53	Lsig_374	39586-39738	-	12.0
+mariner		345	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_374/Lsig_374.seq	Lsig_374	3	53	39738	39586	23.5	35.3	91	39.4			0	Minus	46440	4e-06
+
+#Chain	cacta	746-777	Lsig_379	1577-1672	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_379/Lsig_379.seq	Lsig_379	746	777	1577	1672	75.0	78.1	113	47.9			0	Plus	45717	5e-08
+
+#Chain	cacta	753-780	Lsig_40	47927-48010	+	27.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_40/Lsig_40.seq	Lsig_40	753	780	47927	48010	96.4	96.4	133	55.6			0	Plus	136074	8e-10
+
+#Chain	cacta	751-784	Lsig_421	9061-9171	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_421/Lsig_421.seq	Lsig_421	751	784	9171	9061	67.6	67.6	100	42.9			0	Minus	42907	2e-06
+
+#Chain	cacta	753-781	Lsig_431	40452-40538	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_431/Lsig_431.seq	Lsig_431	753	781	40538	40452	79.3	82.8	109	46.4			0	Minus	42178	1e-07
+
+#Chain	cacta	753-780	Lsig_440	30576-30659	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_440/Lsig_440.seq	Lsig_440	753	780	30659	30576	75.0	75.0	97	41.8			0	Minus	41703	4e-06
+
+#Chain	cacta	753-801	Lsig_464	5754-5885	+	26.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_464/Lsig_464.seq	Lsig_464	753	801	5754	5885	53.1	57.1	112	47.5			0	Plus	40330	7e-08
+
+#Chain	MuDR_A_B	78-142	Lsig_503	25719-25913	-	11.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_503/Lsig_503.seq	Lsig_503	78	142	25913	25719	16.9	29.2	101	43.4			0	Minus	38192	9e-07
+
+#Chain	LINE	911-966	Lsig_52	107727-107903	-	15.2
+LINE		1189	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_52/Lsig_52.seq	Lsig_52	911	966	107903	107727	27.1	44.1	98	42.2			0	Minus	123425	8e-06
+
+#Chain	cacta	757-791	Lsig_543	35501-35605	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_543/Lsig_543.seq	Lsig_543	757	791	35605	35501	68.6	74.3	107	45.6			0	Minus	36384	2e-07
+
+#Chain	ISC1316	217-301	Lsig_564	15939-16148	+	18.5
+ISC1316		393	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_564/Lsig_564.seq	Lsig_564	217	301	15939	16148	21.8	33.3	102	43.6			0	Plus	35548	2e-07
+
+#Chain	cacta	753-824	Lsig_564	34560-34742	-	34.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_564/Lsig_564.seq	Lsig_564	753	824	34742	34560	47.2	56.9	124	52.2			0	Minus	35548	2e-09
+
+#Chain	cacta	727-780	Lsig_575	22940-23095	+	30.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_575/Lsig_575.seq	Lsig_575	727	780	22940	23095	55.6	61.1	118	49.8			0	Plus	35122	1e-08
+
+#Chain	ISC1316	60-248	Lsig_584	32141-32647	-	30.6
+ISC1316		393	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_584/Lsig_584.seq	Lsig_584	60	248	32647	32141	16.2	29.8	96	41.3			0	Minus	34437	9e-07
+
+#Chain	cacta	744-782	Lsig_590	17389-17505	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_590/Lsig_590.seq	Lsig_590	744	782	17505	17389	56.4	59.0	98	42.1			0	Minus	34194	3e-06
+
+#Chain	cacta	753-790	Lsig_610	29125-29238	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_610/Lsig_610.seq	Lsig_610	753	790	29125	29238	65.8	71.1	114	48.3			0	Plus	32992	3e-08
+
+#Chain	ltr_Roo	230-293	Lsig_625	30892-31080	+	22.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_625/Lsig_625.seq	Lsig_625	230	293	30892	31080	34.4	48.4	139	57.9			0	Plus	32343	8e-11
+
+#Chain	cacta	757-814	Lsig_638	23601-23798	-	28.6
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_638/Lsig_638.seq	Lsig_638	757	814	23798	23601	49.3	59.7	128	53.7			0	Minus	31659	7e-10
+
+#Chain	ltr_Roo	1543-1607	Lsig_647	1851-2027	-	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_647/Lsig_647.seq	Lsig_647	1543	1607	2027	1851	27.7	43.1	111	47.1			0	Minus	30929	1e-07
+
+#Chain	mariner	2-44	Lsig_654	13870-13998	+	14.0
+mariner		345	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_654/Lsig_654.seq	Lsig_654	2	44	13870	13998	32.6	46.5	94	40.5			0	Plus	30702	1e-06
+
+#Chain	cacta	755-801	Lsig_818	16499-16639	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_818/Lsig_818.seq	Lsig_818	755	801	16499	16639	53.2	63.8	119	50.2			0	Plus	24695	6e-09
+
+#Chain	gypsy	300-456	Lsig_826	9763-10221	+	15.1
+gypsy		1463	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_826/Lsig_826.seq	Lsig_826	300	456	9763	10221	9.6	24.8	97	41.8			0	Plus	24374	3e-06
+
+#Chain	ltr_Roo	745-906	Lsig_89	19664-20176	+	31.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_89/Lsig_89.seq	Lsig_89	745	906	19664	20176	19.6	32.4	142	59.0			0	Plus	99604	1e-10
+
+#Chain	cacta	753-788	Lsig_898	16991-17098	+	26.0
+cacta		1264	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_898/Lsig_898.seq	Lsig_898	753	788	16991	17098	72.2	75.0	115	48.7			0	Plus	22210	2e-08
+
+#Chain	ltr_Roo	230-269	Lsig_911	15572-15688	-	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_911/Lsig_911.seq	Lsig_911	230	269	15688	15572	32.5	50.0	94	40.6			0	Minus	21831	9e-06
+
+#Chain	hAT	123-172	Lsig_974	6311-6445	+	11.8
+hAT		749	PSITBLASTN	transposonPSI.28531.Amirs-PC.tmp/Lsig_974/Lsig_974.seq	Lsig_974	123	172	6311	6445	23.5	37.3	96	41.4			0	Plus	20131	1e-06
+

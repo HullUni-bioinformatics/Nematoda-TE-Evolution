@@ -1,0 +1,768 @@
+#Chain	TY1_Copia	496-564	Ptri_1	4601051-4601254	+	16.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1/Ptri_1.seq	Ptri_1	496	564	4601051	4601254	23.2	42.0	114	48.5			0	Plus	6158768	8e-06
+
+#Chain	mariner	2-54	Ptri_10	81059-81217	-	14.0
+mariner		345	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_10/Ptri_10.seq	Ptri_10	2	54	81217	81059	26.4	45.3	100	42.8			0	Minus	1029713	8e-06
+
+#Chain	MuDR_A_B	622-840	Ptri_1005	368-937	-	35.3
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1005/Ptri_1005.seq	Ptri_1005	622	840	937	368	16.1	24.2	84	36.9			0	Minus	1663	3e-06
+
+#Chain	gypsy	276-381	Ptri_102	5318-5668	-	17.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_102/Ptri_102.seq	Ptri_102	276	381	5668	5318	16.0	27.7	98	42.2			0	Minus	32830	3e-06
+
+#Chain	gypsy	302-442	Ptri_102	25345-25767	+	23.5
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_102/Ptri_102.seq	Ptri_102	302	442	25345	25767	16.7	27.8	94	40.6			0	Plus	32830	8e-06
+
+#Chain	Crypton	216-279	Ptri_1028	968-1162	+	16.8
+Crypton		457	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1028/Ptri_1028.seq	Ptri_1028	216	279	968	1162	26.2	49.2	112	47.7			0	Plus	1620	4e-10
+
+#Chain	gypsy	275-387	Ptri_104	13288-13605	-	18.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_104/Ptri_104.seq	Ptri_104	275	387	13605	13288	15.9	26.5	94	40.6			0	Minus	31416	8e-06
+
+#Chain	gypsy	965-1060	Ptri_1069	657-938	-	26.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1069/Ptri_1069.seq	Ptri_1069	965	1060	938	657	27.1	40.6	128	53.7			0	Minus	1543	3e-11
+
+#Chain	gypsy	1229-1378	Ptri_1075	952-1413	+	27.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1075/Ptri_1075.seq	Ptri_1075	1229	1378	952	1413	18.6	34.0	101	43.3			0	Plus	1529	4e-08
+
+#Chain	gypsy	303-449	Ptri_108	1581-2078	+	21.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_108/Ptri_108.seq	Ptri_108	303	449	1581	2078	14.9	28.0	103	44.1			0	Plus	29121	7e-07
+
+#Chain	gypsy	284-391	Ptri_108	14688-15023	-	15.3
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_108/Ptri_108.seq	Ptri_108	284	391	15023	14688	14.2	23.0	93	40.2			0	Minus	29121	1e-05
+
+#Chain	gypsy	290-428	Ptri_108	26493-26879	+	25.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_108/Ptri_108.seq	Ptri_108	290	428	26493	26879	18.0	28.1	93	40.2			0	Plus	29121	1e-05
+
+#Chain	cacta	751-799	Ptri_1099	1314-1448	+	19.9
+cacta		1264	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1099/Ptri_1099.seq	Ptri_1099	751	799	1314	1448	40.7	42.6	82	36.0			0	Plus	1497	6e-06
+
+#Chain	gypsy	935-1038	Ptri_1108	13-333	-	25.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1108/Ptri_1108.seq	Ptri_1108	935	1038	333	13	24.8	41.3	123	51.8			0	Minus	1483	9e-11
+
+#Chain	MuDR_A_B	640-829	Ptri_1114	836-1321	+	34.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1114/Ptri_1114.seq	Ptri_1114	640	829	836	1321	18.0	29.9	86	37.6			0	Plus	1474	1e-06
+
+#Chain	gypsy	313-429	Ptri_1134	204-536	-	18.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1134/Ptri_1134.seq	Ptri_1134	313	429	536	204	16.1	24.6	87	37.9			0	Minus	1438	2e-06
+
+#Chain	MuDR_A_B	652-802	Ptri_114	11851-12273	-	27.3
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_114/Ptri_114.seq	Ptri_114	652	802	12273	11851	18.1	31.6	105	45.0			0	Minus	28037	2e-07
+
+#Chain	gypsy	370-1386	Ptri_116	1108-3960	+	178.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_116/Ptri_116.seq	Ptri_116	370	1386	1108	3960	17.5	35.9	521	205			0	Plus	27895	4e-56
+
+#Chain	LINE	885-1035	Ptri_116	4603-5073	+	32.6
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_116/Ptri_116.seq	Ptri_116	885	1035	4603	5073	21.6	35.2	137	57.2			0	Plus	27895	5e-11
+
+#Chain	gypsy	667-778	Ptri_1171	999-1325	-	28.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1171/Ptri_1171.seq	Ptri_1171	667	778	1325	999	25.0	46.4	127	53.3			0	Minus	1347	3e-11
+
+#Chain	gypsy	1232-1378	Ptri_1177	119-565	+	36.5
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1177/Ptri_1177.seq	Ptri_1177	1232	1378	119	565	24.8	35.9	209	84.9			0	Plus	1338	3e-21
+
+#Chain	gypsy	1149-1380	Ptri_1180	615-1319	-	53.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1180/Ptri_1180.seq	Ptri_1180	1149	1380	1319	615	23.1	37.2	319	127			0	Minus	1333	7e-35
+
+#Chain	gypsy	298-414	Ptri_1186	642-980	+	24.3
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1186/Ptri_1186.seq	Ptri_1186	298	414	642	980	20.8	36.7	84	36.8			0	Plus	1328	4e-06
+
+#Chain	TY1_Copia	765-962	Ptri_119	743-1318	-	35.4
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_119/Ptri_119.seq	Ptri_119	765	962	1318	743	17.9	38.3	159	65.8			0	Minus	26502	2e-13
+
+#Chain	TY1_Copia	775-908	Ptri_119	2046-2441	+	28.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_119/Ptri_119.seq	Ptri_119	775	908	2046	2441	20.9	44.0	117	49.6			0	Plus	26502	1e-08
+
+#Chain	DDE_1	2-40	Ptri_12	180460-180579	-	14.6
+DDE_1		535	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_12/Ptri_12.seq	Ptri_12	2	40	180579	180460	37.5	67.5	104	44.5			0	Minus	836942	4e-06
+
+#Chain	mariner	3-139	Ptri_12	460537-460965	+	20.7
+mariner		345	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_12/Ptri_12.seq	Ptri_12	3	139	460537	460965	15.1	32.9	112	47.4			0	Plus	836942	2e-07
+
+#Chain	MuDR_A_B	635-809	Ptri_1212	249-725	-	25.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1212/Ptri_1212.seq	Ptri_1212	635	809	725	249	14.5	26.3	81	35.7			0	Minus	1295	5e-06
+
+#Chain	MuDR_A_B	632-695	Ptri_122	19210-19419	+	10.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_122/Ptri_122.seq	Ptri_122	632	695	19210	19419	17.1	25.7	97	41.9			0	Plus	25786	2e-06
+
+#Chain	gypsy	297-422	Ptri_123	18292-18699	+	21.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_123/Ptri_123.seq	Ptri_123	297	422	18292	18699	17.3	29.5	93	40.2			0	Plus	25474	8e-06
+
+#Chain	gypsy	298-428	Ptri_1239	461-853	-	21.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1239/Ptri_1239.seq	Ptri_1239	298	428	853	461	16.5	30.1	91	39.5			0	Minus	1260	5e-07
+
+#Chain	gypsy	313-404	Ptri_126	23885-24154	-	18.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_126/Ptri_126.seq	Ptri_126	313	404	24154	23885	20.2	35.1	115	48.7			0	Minus	24196	2e-08
+
+#Chain	TY1_Copia	197-580	Ptri_128	2572-2946	+	41.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_128/Ptri_128.seq	Ptri_128	197	325	2572	2946	16.9	37.7	137	57.3			0	Plus	23689	5e-11
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_128/Ptri_128.seq	Ptri_128	492	580	2635	2925	21.6	39.2	103	44.2			0	Plus	23689	5e-07
+
+#Chain	gypsy	553-1461	Ptri_128	5310-7943	+	222.7
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_128/Ptri_128.seq	Ptri_128	553	1461	5310	7943	24.5	42.7	1476	572			0	Plus	23689	1e-173
+
+#Chain	gypsy	1199-1454	Ptri_128	18005-18871	-	54.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_128/Ptri_128.seq	Ptri_128	1199	1454	18871	18005	21.4	34.4	332	132			0	Minus	23689	9e-34
+
+#Chain	gypsy	446-835	Ptri_128	20482-21591	+	71.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_128/Ptri_128.seq	Ptri_128	446	835	20482	21591	18.2	39.4	304	121			0	Plus	23689	2e-30
+
+#Chain	gypsy	275-409	Ptri_1289	280-735	-	21.7
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1289/Ptri_1289.seq	Ptri_1289	275	409	735	280	16.1	25.8	80	35.2			0	Minus	1176	9e-06
+
+#Chain	mariner	181-297	Ptri_1290	814-1146	-	23.8
+mariner		345	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1290/Ptri_1290.seq	Ptri_1290	181	297	1146	814	20.3	35.8	82	35.9			0	Minus	1176	9e-07
+
+#Chain	mariner	52-184	Ptri_13	169500-169862	-	25.0
+mariner		345	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_13/Ptri_13.seq	Ptri_13	52	184	169862	169500	18.8	31.9	112	47.4			0	Minus	783388	2e-07
+
+#Chain	TY1_Copia	240-308	Ptri_133	4815-5021	+	17.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_133/Ptri_133.seq	Ptri_133	240	308	4815	5021	24.7	50.7	96	41.5			0	Plus	22730	3e-06
+
+#Chain	gypsy	387-873	Ptri_133	5354-6843	+	95.1
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_133/Ptri_133.seq	Ptri_133	387	818	5354	6679	18.3	36.9	324	129			0	Plus	22730	7e-33
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_133/Ptri_133.seq	Ptri_133	830	873	6712	6843	36.4	56.8	116	49.1			0	Plus	22730	1e-08
+
+#Chain	MuDR_A_B	598-850	Ptri_136	18165-19013	-	41.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_136/Ptri_136.seq	Ptri_136	598	850	19013	18165	16.2	29.2	106	45.3			0	Minus	22316	1e-07
+
+#Chain	gypsy	304-389	Ptri_1375	255-500	-	19.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1375/Ptri_1375.seq	Ptri_1375	304	389	500	255	22.1	33.7	88	38.3			0	Minus	1034	8e-07
+
+#Chain	gypsy	306-419	Ptri_1378	238-576	+	15.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1378/Ptri_1378.seq	Ptri_1378	306	419	238	576	13.7	26.5	80	35.2			0	Plus	1029	7e-06
+
+#Chain	MuDR_A_B	652-817	Ptri_138	1806-2282	+	27.7
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_138/Ptri_138.seq	Ptri_138	652	817	1806	2282	16.7	26.4	90	39.2			0	Plus	21122	9e-06
+
+#Chain	gypsy	295-422	Ptri_138	5406-5795	+	17.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_138/Ptri_138.seq	Ptri_138	295	422	5406	5795	14.0	27.9	102	43.7			0	Plus	21122	6e-07
+
+#Chain	gypsy	293-391	Ptri_138	13376-13699	-	13.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_138/Ptri_138.seq	Ptri_138	293	391	13699	13376	13.9	25.9	92	39.9			0	Minus	21122	9e-06
+
+#Chain	hAT	547-703	Ptri_1388	383-829	+	30.0
+hAT		749	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1388/Ptri_1388.seq	Ptri_1388	547	703	383	829	19.1	35.7	105	44.9			0	Plus	1010	3e-09
+
+#Chain	gypsy	302-403	Ptri_139	14876-15184	-	20.4
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_139/Ptri_139.seq	Ptri_139	302	403	15184	14876	20.0	30.5	93	40.2			0	Minus	21098	7e-06
+
+#Chain	gypsy	1218-1310	Ptri_1391	349-645	-	12.2
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1391/Ptri_1391.seq	Ptri_1391	1218	1310	645	349	13.1	30.3	128	53.7			0	Minus	1001	1e-11
+
+#Chain	gypsy	293-387	Ptri_1394	630-917	+	16.4
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1394/Ptri_1394.seq	Ptri_1394	293	387	630	917	17.3	35.7	86	37.5			0	Plus	997	1e-06
+
+#Chain	hAT	92-173	Ptri_14	307539-307796	+	17.0
+hAT		749	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_14/Ptri_14.seq	Ptri_14	92	173	307539	307796	20.7	40.2	104	44.5			0	Plus	747786	6e-06
+
+#Chain	MuDR_A_B	652-820	Ptri_142	3965-4591	+	28.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_142/Ptri_142.seq	Ptri_142	652	820	3965	4591	16.7	24.2	95	41.1			0	Plus	20931	2e-06
+
+#Chain	helitronORF	863-1271	Ptri_144	1531-3183	+	98.4
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_144/Ptri_144.seq	Ptri_144	863	935	1531	1839	31.1	45.6	157	64.7			0	Plus	20452	2e-13
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_144/Ptri_144.seq	Ptri_144	935	1148	2042	2704	24.1	36.2	155	63.9			0	Plus	20452	3e-13
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_144/Ptri_144.seq	Ptri_144	1178	1271	2881	3183	25.7	37.6	92	39.7			0	Plus	20452	8e-06
+
+#Chain	LINE	917-1059	Ptri_145	12619-13092	+	27.7
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_145/Ptri_145.seq	Ptri_145	917	1059	12619	13092	19.4	32.7	120	50.7			0	Plus	20107	4e-09
+
+#Chain	piggybac	3-360	Ptri_145	13358-14453	+	116.6
+piggybac		390	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_145/Ptri_145.seq	Ptri_145	3	215	13358	13996	32.0	53.4	395	156			0	Plus	20107	7e-44
+piggybac		390	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_145/Ptri_145.seq	Ptri_145	219	325	14005	14346	31.6	49.1	215	87.0			0	Plus	20107	2e-21
+piggybac		390	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_145/Ptri_145.seq	Ptri_145	325	360	14343	14453	40.5	56.8	123	51.6			0	Plus	20107	3e-10
+
+#Chain	gypsy	367-1442	Ptri_145	14759-17638	-	199.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_145/Ptri_145.seq	Ptri_145	1178	1442	15526	14759	18.1	35.6	253	101			0	Minus	20107	1e-24
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_145/Ptri_145.seq	Ptri_145	367	1082	17638	15527	21.2	38.7	746	291			0	Minus	20107	6e-83
+
+#Chain	MuDR_A_B	651-740	Ptri_1454	472-720	+	18.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1454/Ptri_1454.seq	Ptri_1454	651	740	472	720	20.0	31.1	89	38.8			0	Plus	926	3e-07
+
+#Chain	MuDR_A_B	633-812	Ptri_1502	268-798	-	27.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1502/Ptri_1502.seq	Ptri_1502	633	812	798	268	15.1	26.9	82	36.1			0	Minus	872	2e-06
+
+#Chain	MuDR_A_B	659-837	Ptri_152	3985-4611	+	34.7
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_152/Ptri_152.seq	Ptri_152	659	837	3985	4611	19.4	32.2	94	40.7			0	Plus	18793	3e-06
+
+#Chain	LINE	34-169	Ptri_1547	28-504	-	21.4
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1547/Ptri_1547.seq	Ptri_1547	34	169	504	28	15.7	32.5	80	35.3			0	Minus	820	4e-06
+
+#Chain	gypsy	313-403	Ptri_1561	4-312	+	13.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1561/Ptri_1561.seq	Ptri_1561	313	403	4	312	14.3	24.8	83	36.4			0	Plus	809	2e-06
+
+#Chain	ltr_Roo	416-559	Ptri_1567	289-675	+	24.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1567/Ptri_1567.seq	Ptri_1567	416	559	289	675	16.7	33.3	87	37.9			0	Plus	795	1e-06
+
+#Chain	MuDR_A_B	657-802	Ptri_1572	3-473	-	27.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1572/Ptri_1572.seq	Ptri_1572	657	802	473	3	18.6	30.4	93	40.3			0	Minus	785	7e-08
+
+#Chain	LINE	409-622	Ptri_1598	74-742	+	37.2
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1598/Ptri_1598.seq	Ptri_1598	409	622	74	742	17.4	37.1	208	84.6			0	Plus	744	3e-22
+
+#Chain	DDE_1	2-331	Ptri_16	476883-477848	+	67.0
+DDE_1		535	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_16/Ptri_16.seq	Ptri_16	2	331	476883	477848	20.3	41.0	307	122			0	Plus	504109	7e-31
+
+#Chain	MuDR_A_B	624-776	Ptri_1629	72-506	-	30.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1629/Ptri_1629.seq	Ptri_1629	624	776	506	72	19.9	31.4	85	37.3			0	Minus	698	6e-07
+
+#Chain	gypsy	284-429	Ptri_1639	181-612	+	21.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1639/Ptri_1639.seq	Ptri_1639	284	429	181	612	14.4	26.7	79	34.8			0	Plus	688	5e-06
+
+#Chain	gypsy	939-1018	Ptri_1644	239-475	-	17.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1644/Ptri_1644.seq	Ptri_1644	939	1018	475	239	22.2	43.2	90	39.1			0	Minus	686	2e-07
+
+#Chain	gypsy	711-772	Ptri_165	13-192	-	15.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_165/Ptri_165.seq	Ptri_165	711	772	192	13	24.2	51.6	109	46.4			0	Minus	16819	7e-08
+
+#Chain	gypsy	900-1434	Ptri_165	2028-3339	-	77.1
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_165/Ptri_165.seq	Ptri_165	1202	1434	2741	2028	16.5	35.9	177	72.6			0	Minus	16819	9e-16
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_165/Ptri_165.seq	Ptri_165	900	1055	3339	2872	24.8	43.5	191	78.0			0	Minus	16819	2e-17
+
+#Chain	gypsy	1232-1365	Ptri_166	5316-5729	+	32.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_166/Ptri_166.seq	Ptri_166	1232	1365	5316	5729	24.3	37.9	199	81.1			0	Plus	16705	2e-18
+
+#Chain	MuDR_A_B	651-815	Ptri_167	15112-15594	+	34.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_167/Ptri_167.seq	Ptri_167	651	815	15112	15594	20.9	29.9	90	39.2			0	Plus	16590	8e-06
+
+#Chain	gypsy	288-439	Ptri_168	10040-10591	-	21.4
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_168/Ptri_168.seq	Ptri_168	288	439	10591	10040	14.1	27.7	91	39.5			0	Minus	16303	9e-06
+
+#Chain	MuDR_A_B	655-810	Ptri_1689	57-530	+	25.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1689/Ptri_1689.seq	Ptri_1689	655	810	57	530	16.4	25.5	75	33.4			0	Plus	639	8e-06
+
+#Chain	MuDR_A_B	651-750	Ptri_1696	220-582	+	16.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1696/Ptri_1696.seq	Ptri_1696	651	750	220	582	16.5	25.6	99	42.6			0	Plus	635	8e-09
+
+#Chain	LINE	910-1102	Ptri_17	431773-432360	-	41.7
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_17/Ptri_17.seq	Ptri_17	910	1102	432360	431773	21.6	33.7	153	63.4			0	Minus	497611	1e-11
+
+#Chain	MuDR_A_B	632-821	Ptri_172	7743-8258	-	31.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_172/Ptri_172.seq	Ptri_172	632	821	8258	7743	16.3	27.9	96	41.5			0	Minus	16063	1e-06
+
+#Chain	gypsy	437-576	Ptri_173	4476-4955	+	14.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_173/Ptri_173.seq	Ptri_173	437	576	4476	4955	10.6	35.6	100	42.9			0	Plus	16048	8e-07
+
+#Chain	gypsy	1258-1380	Ptri_173	8924-9265	+	31.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_173/Ptri_173.seq	Ptri_173	1258	1380	8924	9265	25.2	40.7	191	78.0			0	Plus	16048	2e-17
+
+#Chain	gypsy	1290-1431	Ptri_173	12001-12423	-	31.4
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_173/Ptri_173.seq	Ptri_173	1290	1431	12423	12001	22.1	34.4	146	60.7			0	Minus	16048	3e-12
+
+#Chain	gypsy	920-1128	Ptri_173	15414-16046	-	50.4
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_173/Ptri_173.seq	Ptri_173	920	1128	16046	15414	24.1	45.8	348	138			0	Minus	16048	8e-36
+
+#Chain	helitronORF	342-526	Ptri_1734	17-574	-	93.1
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1734/Ptri_1734.seq	Ptri_1734	342	526	574	17	50.3	67.7	573	224			0	Minus	600	4e-71
+
+#Chain	cacta	270-400	Ptri_174	13639-14010	-	27.1
+cacta		1264	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_174/Ptri_174.seq	Ptri_174	270	400	14010	13639	20.7	38.5	104	44.5			0	Minus	15826	2e-07
+
+#Chain	ltr_Roo	400-503	Ptri_1742	117-419	+	18.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_1742/Ptri_1742.seq	Ptri_1742	400	503	117	419	18.0	27.0	84	36.7			0	Plus	587	1e-06
+
+#Chain	gypsy	375-1463	Ptri_177	11737-15267	+	233.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_177/Ptri_177.seq	Ptri_177	375	1463	11737	15267	21.4	38.7	1217	473			0	Plus	15490	1e-140
+
+#Chain	gypsy	1201-1381	Ptri_178	4902-5458	-	30.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_178/Ptri_178.seq	Ptri_178	1295	1381	5156	4902	19.5	33.3	106	45.2			0	Minus	15290	2e-07
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_178/Ptri_178.seq	Ptri_178	1201	1280	5458	5201	17.0	34.1	105	44.9			0	Minus	15290	2e-07
+
+#Chain	helitronORF	342-1302	Ptri_179	2741-5957	-	206.1
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_179/Ptri_179.seq	Ptri_179	1242	1302	2926	2741	53.2	64.5	180	73.6			0	Minus	15234	3e-16
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_179/Ptri_179.seq	Ptri_179	949	1195	4246	3431	28.1	47.1	440	173			0	Minus	15234	1e-46
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_179/Ptri_179.seq	Ptri_179	342	591	5957	5208	41.7	59.1	578	226			0	Minus	15234	5e-63
+
+#Chain	helitronORF	259-577	Ptri_18	198170-199162	-	133.3
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_18/Ptri_18.seq	Ptri_18	259	577	199162	198170	41.8	57.0	779	304			0	Minus	480702	1e-85
+
+#Chain	helitronORF	365-1302	Ptri_187	2126-5476	-	177.7
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_187/Ptri_187.seq	Ptri_187	756	1302	4051	2126	22.3	38.8	359	142			0	Minus	13857	3e-37
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_187/Ptri_187.seq	Ptri_187	365	580	5476	4709	25.8	41.2	200	81.3			0	Minus	13857	1e-18
+
+#Chain	gypsy	1232-1460	Ptri_192	1342-2043	+	48.5
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_192/Ptri_192.seq	Ptri_192	1232	1460	1342	2043	21.2	35.3	195	79.5			0	Plus	13455	5e-18
+
+#Chain	gypsy	874-959	Ptri_192	5229-5483	+	17.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_192/Ptri_192.seq	Ptri_192	874	959	5229	5483	19.8	38.4	108	46.0			0	Plus	13455	8e-08
+
+#Chain	gypsy	874-1463	Ptri_192	5525-7235	+	96.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_192/Ptri_192.seq	Ptri_192	874	1122	5525	6274	15.7	35.8	177	72.6			0	Plus	13455	6e-16
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_192/Ptri_192.seq	Ptri_192	1178	1463	6255	7235	19.9	35.6	371	147			0	Plus	13455	1e-38
+
+#Chain	gypsy	826-1376	Ptri_192	9478-10896	-	126.2
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_192/Ptri_192.seq	Ptri_192	826	1376	10896	9478	22.9	39.2	725	283			0	Minus	13455	1e-80
+
+#Chain	LINE	199-801	Ptri_194	4359-6404	-	88.6
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_194/Ptri_194.seq	Ptri_194	199	801	6404	4359	14.7	30.5	298	119			0	Minus	13415	3e-30
+
+#Chain	MuDR_A_B	647-841	Ptri_197	1364-1915	-	32.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_197/Ptri_197.seq	Ptri_197	647	841	1915	1364	16.4	28.5	93	40.3			0	Minus	13290	3e-06
+
+#Chain	LINE	610-726	Ptri_198	1140-1496	+	24.3
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_198/Ptri_198.seq	Ptri_198	610	726	1140	1496	20.8	39.2	140	58.4			0	Plus	13122	1e-11
+
+#Chain	LINE	634-806	Ptri_198	3501-3956	+	35.6
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_198/Ptri_198.seq	Ptri_198	634	806	3501	3956	20.6	37.7	134	56.1			0	Plus	13122	5e-11
+
+#Chain	DDE_1	25-312	Ptri_2	169133-169993	+	55.3
+DDE_1		535	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_2/Ptri_2.seq	Ptri_2	25	312	169133	169993	19.2	34.7	215	87.2			0	Plus	2769676	8e-19
+
+#Chain	gypsy	700-751	Ptri_2	1312399-1312554	+	15.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_2/Ptri_2.seq	Ptri_2	700	751	1312399	1312554	28.8	48.1	145	60.3			0	Plus	2769676	8e-10
+
+#Chain	mariner	3-103	Ptri_2	1968239-1968538	+	22.7
+mariner		345	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_2/Ptri_2.seq	Ptri_2	3	103	1968239	1968538	22.5	33.3	114	48.2			0	Plus	2769676	4e-07
+
+#Chain	hAT	368-675	Ptri_20	95390-96358	-	45.3
+hAT		749	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_20/Ptri_20.seq	Ptri_20	368	675	96358	95390	14.7	33.8	163	67.2			0	Minus	337233	3e-13
+
+#Chain	mariner	53-123	Ptri_204	1273-1482	-	16.0
+mariner		345	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_204/Ptri_204.seq	Ptri_204	53	123	1482	1273	22.5	32.4	85	37.0			0	Minus	12541	6e-06
+
+#Chain	gypsy	969-1449	Ptri_205	1675-3018	+	96.2
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_205/Ptri_205.seq	Ptri_205	969	1449	1675	3018	20.0	37.0	536	210			0	Plus	12306	3e-58
+
+#Chain	helitronORF	10-1302	Ptri_208	5374-9576	+	235.8
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_208/Ptri_208.seq	Ptri_208	10	191	5374	6015	20.4	33.9	122	51.2			0	Plus	12086	2e-09
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_208/Ptri_208.seq	Ptri_208	551	747	6723	7436	31.4	46.0	363	144			0	Plus	12086	9e-38
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_208/Ptri_208.seq	Ptri_208	936	1157	8218	8943	31.7	51.2	403	159			0	Plus	12086	2e-42
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_208/Ptri_208.seq	Ptri_208	1156	1302	9127	9576	45.2	58.1	387	153			0	Plus	12086	1e-40
+
+#Chain	gypsy	293-431	Ptri_209	6428-6847	+	21.1
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_209/Ptri_209.seq	Ptri_209	293	431	6428	6847	15.2	29.0	100	42.9			0	Plus	12015	6e-07
+
+#Chain	gypsy	939-1018	Ptri_212	11431-11667	-	17.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_212/Ptri_212.seq	Ptri_212	939	1018	11667	11431	22.2	43.2	90	39.1			0	Minus	11769	9e-06
+
+#Chain	cacta	754-806	Ptri_217	10644-10811	+	28.4
+cacta		1264	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_217/Ptri_217.seq	Ptri_217	754	806	10644	10811	53.6	57.1	116	49.1			0	Plus	11394	6e-09
+
+#Chain	gypsy	562-1376	Ptri_218	1288-3474	-	202.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_218/Ptri_218.seq	Ptri_218	562	1376	3474	1288	24.9	42.3	1266	492			0	Minus	11391	1e-147
+
+#Chain	helitronORF	921-1023	Ptri_218	8307-8618	-	27.5
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_218/Ptri_218.seq	Ptri_218	921	1023	8618	8307	26.7	46.7	123	51.6			0	Minus	11391	1e-09
+
+#Chain	helitronORF	810-1023	Ptri_218	9450-10142	-	51.6
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_218/Ptri_218.seq	Ptri_218	810	1023	10142	9450	24.1	42.2	212	85.9			0	Minus	11391	4e-20
+
+#Chain	MuDR_A_B	632-830	Ptri_224	664-1353	-	29.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_224/Ptri_224.seq	Ptri_224	632	830	1353	664	15.0	22.1	107	45.7			0	Minus	10993	5e-08
+
+#Chain	MuDR_A_B	659-746	Ptri_225	1094-1360	-	16.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_225/Ptri_225.seq	Ptri_225	659	746	1360	1094	18.7	34.1	101	43.4			0	Minus	10919	3e-07
+
+#Chain	gypsy	292-409	Ptri_226	8305-8661	+	15.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_226/Ptri_226.seq	Ptri_226	292	409	8305	8661	13.4	31.1	90	39.1			0	Plus	10825	8e-06
+
+#Chain	gypsy	267-1416	Ptri_228	7035-10379	+	213.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_228/Ptri_228.seq	Ptri_228	267	1416	7035	10379	18.6	35.5	1086	422			0	Plus	10760	1e-124
+
+#Chain	ltr_Roo	1387-1533	Ptri_229	5713-6132	+	24.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_229/Ptri_229.seq	Ptri_229	1387	1533	5713	6132	16.6	37.1	129	54.0			0	Plus	10697	4e-10
+
+#Chain	gypsy	746-933	Ptri_229	9583-10110	-	32.7
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_229/Ptri_229.seq	Ptri_229	746	933	10110	9583	17.4	37.4	184	75.3			0	Minus	10697	6e-17
+
+#Chain	MuDR_A_B	622-828	Ptri_230	3562-4164	-	35.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_230/Ptri_230.seq	Ptri_230	622	828	4164	3562	17.0	27.7	108	46.1			0	Minus	10656	4e-08
+
+#Chain	gypsy	380-1439	Ptri_236	5023-8334	+	202.5
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_236/Ptri_236.seq	Ptri_236	380	1439	5023	8334	19.1	34.8	846	330			0	Plus	10247	3e-95
+
+#Chain	MuDR_A_B	651-812	Ptri_241	5583-6035	-	27.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_241/Ptri_241.seq	Ptri_241	651	812	6035	5583	16.9	29.1	103	44.2			0	Minus	10055	1e-07
+
+#Chain	TY1_Copia	108-1634	Ptri_242	10-3777	-	310.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_242/Ptri_242.seq	Ptri_242	507	1634	3465	10	23.6	42.1	1210	470			0	Minus	10012	1e-139
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_242/Ptri_242.seq	Ptri_242	108	372	3777	3106	16.8	35.0	136	57.0			0	Minus	10012	3e-11
+
+#Chain	gypsy	299-434	Ptri_245	9000-9428	-	19.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_245/Ptri_245.seq	Ptri_245	299	434	9428	9000	14.0	26.6	97	41.8			0	Minus	9883	1e-06
+
+#Chain	LINE	427-638	Ptri_253	49-711	-	38.8
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_253/Ptri_253.seq	Ptri_253	427	638	711	49	18.3	37.5	238	96.1			0	Minus	9272	2e-23
+
+#Chain	gypsy	315-1360	Ptri_253	5563-8523	-	151.7
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_253/Ptri_253.seq	Ptri_253	315	1360	8523	5563	14.5	31.5	542	213			0	Minus	9272	4e-59
+
+#Chain	LINE	413-626	Ptri_256	3-649	-	47.8
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_256/Ptri_256.seq	Ptri_256	562	626	200	3	24.2	42.4	108	46.1			0	Minus	9185	4e-08
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_256/Ptri_256.seq	Ptri_256	413	560	649	203	21.7	38.9	201	81.9			0	Minus	9185	5e-19
+
+#Chain	cacta	753-784	Ptri_265	6128-6223	+	27.0
+cacta		1264	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_265/Ptri_265.seq	Ptri_265	753	784	6128	6223	84.4	84.4	126	52.9			0	Plus	8714	3e-10
+
+#Chain	ltr_Roo	299-403	Ptri_266	7511-7894	+	18.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_266/Ptri_266.seq	Ptri_266	299	403	7511	7894	17.2	33.6	91	39.4			0	Plus	8706	8e-06
+
+#Chain	gypsy	276-439	Ptri_274	5484-5996	+	24.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_274/Ptri_274.seq	Ptri_274	276	439	5484	5996	15.0	23.7	93	40.2			0	Plus	8334	3e-06
+
+#Chain	TY1_Copia	782-960	Ptri_279	6172-6720	-	31.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_279/Ptri_279.seq	Ptri_279	782	960	6720	6172	17.6	34.6	93	40.4			0	Minus	8279	3e-06
+
+#Chain	TY1_Copia	250-322	Ptri_28	114570-114776	-	17.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_28/Ptri_28.seq	Ptri_28	250	322	114776	114570	23.3	41.1	108	46.2			0	Minus	270198	2e-06
+
+#Chain	TY1_Copia	265-327	Ptri_28	114900-115088	-	19.4
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_28/Ptri_28.seq	Ptri_28	265	327	115088	114900	30.8	40.0	125	52.7			0	Minus	270198	2e-08
+
+#Chain	LINE	408-757	Ptri_283	2464-3420	-	60.2
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_283/Ptri_283.seq	Ptri_283	408	757	3420	2464	17.2	34.5	270	108			0	Minus	8105	3e-27
+
+#Chain	LINE	553-749	Ptri_283	7531-8100	-	33.7
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_283/Ptri_283.seq	Ptri_283	553	749	8100	7531	17.1	30.3	182	74.6			0	Minus	8105	7e-17
+
+#Chain	P_element	564-733	Ptri_285	3408-3911	+	36.5
+P_element		766	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_285/Ptri_285.seq	Ptri_285	564	733	3408	3911	21.5	41.4	87	37.8			0	Plus	8001	6e-06
+
+#Chain	gypsy	298-391	Ptri_287	6426-6722	-	18.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_287/Ptri_287.seq	Ptri_287	298	391	6722	6426	19.2	36.4	88	38.3			0	Minus	7972	9e-06
+
+#Chain	gypsy	366-1250	Ptri_289	917-3604	+	149.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_289/Ptri_289.seq	Ptri_289	366	1250	917	3604	16.9	34.8	529	208			0	Plus	7831	2e-57
+
+#Chain	gypsy	1117-1381	Ptri_289	3728-4510	+	50.1
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_289/Ptri_289.seq	Ptri_289	1117	1381	3728	4510	18.9	35.2	247	99.6			0	Plus	7831	2e-24
+
+#Chain	gypsy	667-798	Ptri_293	1244-1648	+	23.5
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_293/Ptri_293.seq	Ptri_293	667	798	1244	1648	17.8	38.5	144	59.9			0	Plus	7778	2e-12
+
+#Chain	mariner	3-118	Ptri_3	127950-128324	+	25.1
+mariner		345	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_3/Ptri_3.seq	Ptri_3	3	118	127950	128324	21.6	34.4	116	49.0			0	Plus	2002696	2e-07
+
+#Chain	gypsy	305-409	Ptri_3	1223883-1224227	-	16.5
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_3/Ptri_3.seq	Ptri_3	305	409	1224227	1223883	15.7	28.7	134	56.0			0	Minus	2002696	1e-08
+
+#Chain	LINE	321-661	Ptri_302	2880-3917	-	63.1
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_302/Ptri_302.seq	Ptri_302	321	661	3917	2880	18.5	36.1	255	102			0	Minus	7584	2e-25
+
+#Chain	LINE	224-796	Ptri_305	2318-3976	+	81.9
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_305/Ptri_305.seq	Ptri_305	224	796	2318	3976	14.3	31.0	339	135			0	Plus	7505	2e-35
+
+#Chain	MuDR_A_B	651-813	Ptri_310	3703-4230	-	27.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_310/Ptri_310.seq	Ptri_310	651	813	4230	3703	16.9	33.1	86	37.6			0	Minus	7376	1e-05
+
+#Chain	LINE	260-920	Ptri_316	1283-3428	+	108.1
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_316/Ptri_316.seq	Ptri_316	260	512	1283	2107	15.4	32.6	199	81.1			0	Plus	7164	6e-19
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_316/Ptri_316.seq	Ptri_316	507	920	2124	3428	16.7	30.7	219	88.8			0	Plus	7164	3e-21
+
+#Chain	gypsy	651-1384	Ptri_32	254435-256304	-	158.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_32/Ptri_32.seq	Ptri_32	1158	1384	255127	254435	18.4	35.9	304	121			0	Minus	256306	2e-29
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_32/Ptri_32.seq	Ptri_32	1010	1050	255325	255203	39.0	61.0	128	53.7			0	Minus	256306	7e-09
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_32/Ptri_32.seq	Ptri_32	651	986	256304	255327	30.0	48.7	627	245			0	Minus	256306	2e-67
+
+#Chain	MuDR_A_B	651-810	Ptri_321	3636-4109	+	27.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_321/Ptri_321.seq	Ptri_321	651	810	3636	4109	17.0	25.7	124	52.3			0	Plus	7045	3e-10
+
+#Chain	MuDR_A_B	656-829	Ptri_321	6022-6564	+	29.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_321/Ptri_321.seq	Ptri_321	656	829	6022	6564	17.0	27.5	95	41.1			0	Plus	7045	8e-07
+
+#Chain	MuDR_A_B	633-768	Ptri_323	1594-2031	+	24.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_323/Ptri_323.seq	Ptri_323	633	768	1594	2031	18.1	26.8	92	39.9			0	Plus	6941	2e-06
+
+#Chain	MuDR_A_B	632-820	Ptri_324	6127-6648	+	29.7
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_324/Ptri_324.seq	Ptri_324	632	820	6127	6648	15.7	27.2	95	41.1			0	Plus	6933	8e-07
+
+#Chain	LINE	213-778	Ptri_327	2049-3713	+	87.2
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_327/Ptri_327.seq	Ptri_327	213	778	2049	3713	15.4	32.5	262	105			0	Plus	6818	2e-26
+
+#Chain	cacta	753-784	Ptri_33	40303-40398	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_33/Ptri_33.seq	Ptri_33	753	784	40303	40398	68.8	68.8	101	43.3			0	Plus	225032	8e-06
+
+#Chain	LINE	214-637	Ptri_330	3828-5168	-	72.9
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_330/Ptri_330.seq	Ptri_330	214	637	5168	3828	17.2	33.1	250	100			0	Minus	6704	6e-25
+
+#Chain	gypsy	565-1125	Ptri_346	1490-3175	+	102.7
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_346/Ptri_346.seq	Ptri_346	565	1125	1490	3175	18.3	37.8	373	148			0	Plus	6220	3e-39
+
+#Chain	gypsy	292-435	Ptri_349	1659-2111	-	24.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_349/Ptri_349.seq	Ptri_349	292	435	2111	1659	17.2	31.8	87	37.9			0	Minus	6141	1e-05
+
+#Chain	gypsy	284-431	Ptri_356	3596-4000	-	20.7
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_356/Ptri_356.seq	Ptri_356	284	431	4000	3596	14.0	25.3	100	42.9			0	Minus	6091	3e-07
+
+#Chain	gypsy	308-391	Ptri_356	5113-5379	-	18.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_356/Ptri_356.seq	Ptri_356	308	391	5379	5113	22.2	32.2	88	38.3			0	Minus	6091	7e-06
+
+#Chain	MuDR_A_B	640-842	Ptri_357	4053-4565	+	39.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_357/Ptri_357.seq	Ptri_357	640	842	4053	4565	19.4	30.8	87	38.0			0	Plus	6086	6e-06
+
+#Chain	gypsy	290-381	Ptri_373	2608-2907	+	12.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_373/Ptri_373.seq	Ptri_373	290	381	2608	2907	14.0	30.0	89	38.7			0	Plus	5674	5e-06
+
+#Chain	LINE	222-350	Ptri_385	4117-4536	-	23.1
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_385/Ptri_385.seq	Ptri_385	222	350	4536	4117	17.9	37.1	90	39.1			0	Minus	5488	3e-06
+
+#Chain	helitronORF	502-574	Ptri_39	74652-74879	+	28.8
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_39/Ptri_39.seq	Ptri_39	502	574	74652	74879	39.5	60.5	188	76.6			0	Plus	206625	6e-16
+
+#Chain	ltr_Roo	1351-1714	Ptri_390	360-1352	-	62.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_390/Ptri_390.seq	Ptri_390	1351	1714	1352	360	17.2	34.7	99	42.5			0	Minus	5421	6e-07
+
+#Chain	gypsy	318-1193	Ptri_390	1419-4052	-	165.6
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_390/Ptri_390.seq	Ptri_390	318	1193	4052	1419	18.9	35.8	652	255			0	Minus	5421	2e-72
+
+#Chain	MuDR_A_B	652-730	Ptri_395	4795-5040	-	15.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_395/Ptri_395.seq	Ptri_395	652	730	5040	4795	19.8	34.9	94	40.7			0	Minus	5390	7e-07
+
+#Chain	mariner	25-150	Ptri_4	1121246-1121647	+	13.7
+mariner		345	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_4/Ptri_4.seq	Ptri_4	25	150	1121246	1121647	10.9	32.1	109	46.3			0	Plus	1570035	1e-06
+
+#Chain	gypsy	288-391	Ptri_402	1025-1342	-	18.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_402/Ptri_402.seq	Ptri_402	288	391	1342	1025	17.3	30.0	101	43.3			0	Minus	5282	2e-07
+
+#Chain	hAT	123-308	Ptri_407	1881-2420	+	33.7
+hAT		749	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_407/Ptri_407.seq	Ptri_407	123	308	1881	2420	18.1	32.7	103	44.1			0	Plus	5180	5e-08
+
+#Chain	gypsy	361-1463	Ptri_408	1286-5017	+	221.2
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_408/Ptri_408.seq	Ptri_408	361	1080	1286	3421	21.5	41.2	879	343			0	Plus	5179	1e-100
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_408/Ptri_408.seq	Ptri_408	1111	1463	3812	5017	18.8	31.5	305	121			0	Plus	5179	2e-31
+
+#Chain	gypsy	306-428	Ptri_419	491-856	+	18.1
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_419/Ptri_419.seq	Ptri_419	306	428	491	856	14.7	27.1	89	38.7			0	Plus	4977	4e-06
+
+#Chain	helitronORF	946-1134	Ptri_420	4131-4715	+	46.9
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_420/Ptri_420.seq	Ptri_420	946	1134	4131	4715	24.8	35.9	120	50.5			0	Plus	4976	1e-09
+
+#Chain	MuDR_A_B	651-804	Ptri_422	1528-1953	-	24.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_422/Ptri_422.seq	Ptri_422	651	804	1953	1528	15.6	29.9	95	41.1			0	Minus	4961	6e-07
+
+#Chain	gypsy	700-865	Ptri_424	4429-4926	-	50.5
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_424/Ptri_424.seq	Ptri_424	700	865	4926	4429	30.4	54.2	383	151			0	Minus	4930	1e-40
+
+#Chain	LINE	926-1041	Ptri_43	67197-67580	+	25.9
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_43/Ptri_43.seq	Ptri_43	926	1041	67197	67580	22.3	37.7	122	51.5			0	Plus	173137	2e-08
+
+#Chain	MuDR_A_B	650-848	Ptri_44	42502-43212	+	33.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_44/Ptri_44.seq	Ptri_44	650	848	42502	43212	17.0	27.4	98	42.3			0	Plus	170764	9e-06
+
+#Chain	MuDR_A_B	635-810	Ptri_44	53412-53891	+	32.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_44/Ptri_44.seq	Ptri_44	635	810	53412	53891	18.5	29.9	98	42.3			0	Plus	170764	9e-06
+
+#Chain	gypsy	303-414	Ptri_443	2187-2531	+	20.4
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_443/Ptri_443.seq	Ptri_443	303	414	2187	2531	18.2	37.2	94	40.6			0	Plus	4751	1e-06
+
+#Chain	MuDR_A_B	651-802	Ptri_455	1243-1725	+	29.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_455/Ptri_455.seq	Ptri_455	651	802	1243	1725	19.5	26.0	84	36.9			0	Plus	4528	1e-05
+
+#Chain	gypsy	288-396	Ptri_455	1844-2143	+	21.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_455/Ptri_455.seq	Ptri_455	288	396	1844	2143	19.3	31.2	86	37.5			0	Plus	4528	9e-06
+
+#Chain	MuDR_A_B	651-731	Ptri_471	987-1235	-	15.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_471/Ptri_471.seq	Ptri_471	651	731	1235	987	19.0	35.7	85	37.3			0	Minus	4324	7e-06
+
+#Chain	gypsy	1278-1430	Ptri_486	2491-3000	+	30.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_486/Ptri_486.seq	Ptri_486	1278	1430	2491	3000	20.2	37.6	115	48.7			0	Plus	4142	3e-09
+
+#Chain	gypsy	1149-1338	Ptri_488	3351-3940	-	40.3
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_488/Ptri_488.seq	Ptri_488	1248	1338	3620	3351	29.7	44.0	188	76.8			0	Minus	4116	9e-18
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_488/Ptri_488.seq	Ptri_488	1149	1211	3940	3731	21.1	36.6	104	44.5			0	Minus	4116	6e-08
+
+#Chain	TY1_Copia	89-566	Ptri_50	45242-46765	-	66.4
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_50/Ptri_50.seq	Ptri_50	89	566	46765	45242	13.9	31.3	107	45.8			0	Minus	153230	1e-06
+
+#Chain	TY1_Copia	132-639	Ptri_51	20008-21366	-	63.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_51/Ptri_51.seq	Ptri_51	132	639	21366	20008	12.4	30.4	124	52.3			0	Minus	150753	1e-08
+
+#Chain	TY1_Copia	190-484	Ptri_51	117468-118394	+	42.2
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_51/Ptri_51.seq	Ptri_51	190	484	117468	118394	14.3	30.8	120	50.8			0	Plus	150753	4e-08
+
+#Chain	gypsy	296-399	Ptri_535	782-1111	+	25.5
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_535/Ptri_535.seq	Ptri_535	296	399	782	1111	24.5	36.4	91	39.5			0	Plus	3563	2e-06
+
+#Chain	gypsy	292-451	Ptri_535	1582-2052	-	23.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_535/Ptri_535.seq	Ptri_535	292	451	2052	1582	14.9	29.2	85	37.2			0	Minus	3563	9e-06
+
+#Chain	MuDR_A_B	645-770	Ptri_535	2241-2693	+	19.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_535/Ptri_535.seq	Ptri_535	645	770	2241	2693	15.1	27.6	83	36.5			0	Plus	3563	1e-05
+
+#Chain	gypsy	302-448	Ptri_539	2464-2871	-	25.4
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_539/Ptri_539.seq	Ptri_539	302	448	2871	2464	17.3	28.0	86	37.5			0	Minus	3522	7e-06
+
+#Chain	MuDR_A_B	645-788	Ptri_543	763-1143	+	26.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_543/Ptri_543.seq	Ptri_543	645	788	763	1143	18.7	24.0	89	38.8			0	Plus	3502	2e-06
+
+#Chain	gypsy	270-437	Ptri_561	194-676	+	25.2
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_561/Ptri_561.seq	Ptri_561	270	437	194	676	15.0	27.7	94	40.6			0	Plus	3397	8e-07
+
+#Chain	gypsy	294-441	Ptri_585	933-1406	-	18.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_585/Ptri_585.seq	Ptri_585	294	441	1406	933	12.7	28.3	86	37.5			0	Minus	3254	6e-06
+
+#Chain	gypsy	293-400	Ptri_590	2137-2508	+	16.5
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_590/Ptri_590.seq	Ptri_590	293	400	2137	2508	15.3	29.8	96	41.4			0	Plus	3231	4e-07
+
+#Chain	helitronORF	346-480	Ptri_591	126-587	-	30.0
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_591/Ptri_591.seq	Ptri_591	346	480	587	126	22.2	36.4	104	44.3			0	Minus	3226	5e-08
+
+#Chain	TY1_Copia	233-547	Ptri_6	930399-931445	+	41.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_6/Ptri_6.seq	Ptri_6	233	547	930399	931445	13.2	30.9	116	49.2			0	Plus	1300811	9e-07
+
+#Chain	gypsy	939-1018	Ptri_604	315-551	-	18.8
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_604/Ptri_604.seq	Ptri_604	939	1018	551	315	23.5	44.4	89	38.7			0	Minus	3153	3e-06
+
+#Chain	P_element	49-150	Ptri_609	2631-2948	+	27.7
+P_element		766	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_609/Ptri_609.seq	Ptri_609	49	150	2631	2948	27.2	47.4	88	38.2			0	Plus	3135	2e-06
+
+#Chain	cacta	753-786	Ptri_61	46967-47068	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_61/Ptri_61.seq	Ptri_61	753	786	47068	46967	67.6	67.6	98	42.1			0	Minus	105575	8e-06
+
+#Chain	gypsy	295-419	Ptri_610	254-628	+	15.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_610/Ptri_610.seq	Ptri_610	295	419	254	628	12.7	30.2	88	38.3			0	Plus	3134	4e-06
+
+#Chain	gypsy	293-384	Ptri_614	1009-1320	-	15.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_614/Ptri_614.seq	Ptri_614	293	384	1320	1009	17.3	33.7	109	46.4			0	Minus	3113	1e-08
+
+#Chain	ISC1316	160-257	Ptri_614	1329-1586	-	17.0
+ISC1316		393	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_614/Ptri_614.seq	Ptri_614	160	257	1586	1329	17.3	37.8	84	36.7			0	Minus	3113	2e-06
+
+#Chain	gypsy	284-409	Ptri_614	1714-2136	-	22.7
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_614/Ptri_614.seq	Ptri_614	284	409	2136	1714	18.0	39.3	108	46.0			0	Minus	3113	2e-08
+
+#Chain	ISC1316	209-297	Ptri_62	33622-33885	+	19.2
+ISC1316		393	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_62/Ptri_62.seq	Ptri_62	209	297	33622	33885	21.6	37.1	111	47.1			0	Plus	104140	5e-08
+
+#Chain	MuDR_A_B	654-807	Ptri_620	1119-1526	-	24.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_620/Ptri_620.seq	Ptri_620	654	807	1526	1119	15.6	25.3	89	38.8			0	Minus	3076	2e-06
+
+#Chain	MuDR_A_B	641-772	Ptri_626	1568-1918	-	21.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_626/Ptri_626.seq	Ptri_626	641	772	1918	1568	16.4	29.1	94	40.7			0	Minus	3052	4e-07
+
+#Chain	gypsy	780-1038	Ptri_63	69648-70415	-	55.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_63/Ptri_63.seq	Ptri_63	780	1038	70415	69648	21.6	38.7	252	101			0	Minus	101451	9e-24
+
+#Chain	gypsy	276-450	Ptri_633	1603-2208	-	30.1
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_633/Ptri_633.seq	Ptri_633	276	450	2208	1603	17.2	27.0	84	36.8			0	Minus	3025	1e-05
+
+#Chain	gypsy	312-387	Ptri_635	75-323	+	14.3
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_635/Ptri_635.seq	Ptri_635	312	387	75	323	18.8	30.6	103	44.1			0	Plus	3019	6e-08
+
+#Chain	gypsy	284-389	Ptri_641	2339-2695	-	18.7
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_641/Ptri_641.seq	Ptri_641	284	389	2695	2339	17.6	28.6	84	36.8			0	Minus	2967	1e-05
+
+#Chain	helitronORF	151-639	Ptri_644	325-1860	-	180.4
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_644/Ptri_644.seq	Ptri_644	151	639	1860	325	36.9	51.5	969	377			0	Minus	2960	1e-115
+
+#Chain	LINE	413-804	Ptri_656	1642-2844	-	78.4
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_656/Ptri_656.seq	Ptri_656	413	804	2844	1642	20.0	35.7	385	152			0	Minus	2882	1e-41
+
+#Chain	MuDR_A_B	649-788	Ptri_677	623-1006	+	20.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_677/Ptri_677.seq	Ptri_677	649	788	623	1006	14.9	27.7	83	36.5			0	Plus	2756	7e-06
+
+#Chain	MuDR_A_B	651-746	Ptri_682	17-259	+	14.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_682/Ptri_682.seq	Ptri_682	651	746	17	259	14.6	26.0	87	38.0			0	Plus	2744	2e-06
+
+#Chain	MuDR_A_B	633-800	Ptri_699	1835-2317	-	30.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_699/Ptri_699.seq	Ptri_699	633	800	2317	1835	18.0	25.8	90	39.2			0	Minus	2676	1e-06
+
+#Chain	gypsy	296-456	Ptri_7	900167-900706	+	20.1
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_7/Ptri_7.seq	Ptri_7	296	456	900167	900706	12.5	26.1	125	52.6			0	Plus	1063407	7e-08
+
+#Chain	helitronORF	1158-1306	Ptri_71	8896-9366	+	38.6
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_71/Ptri_71.seq	Ptri_71	1158	1306	8896	9366	25.9	38.3	175	71.6			0	Plus	75160	6e-15
+
+#Chain	LINE	899-1039	Ptri_725	1108-1567	+	29.4
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_725/Ptri_725.seq	Ptri_725	899	990	1108	1383	16.7	41.7	95	41.1			0	Plus	2513	3e-07
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_725/Ptri_725.seq	Ptri_725	1008	1039	1472	1567	43.8	53.1	90	39.1			0	Plus	2513	1e-06
+
+#Chain	gypsy	303-405	Ptri_727	1038-1379	+	15.3
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_727/Ptri_727.seq	Ptri_727	303	405	1038	1379	14.9	24.6	88	38.3			0	Plus	2507	3e-06
+
+#Chain	helitronORF	501-1076	Ptri_734	252-2210	+	75.8
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_734/Ptri_734.seq	Ptri_734	501	580	252	512	23.7	40.9	101	43.1			0	Plus	2489	8e-08
+helitronORF		1321	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_734/Ptri_734.seq	Ptri_734	842	1076	1452	2210	24.2	41.9	231	93.2			0	Plus	2489	3e-23
+
+#Chain	MuDR_A_B	640-827	Ptri_752	143-613	+	34.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_752/Ptri_752.seq	Ptri_752	640	827	143	613	18.1	26.9	85	37.3			0	Plus	2375	4e-06
+
+#Chain	TY1_Copia	186-327	Ptri_77	2560-2961	+	24.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_77/Ptri_77.seq	Ptri_77	186	327	2560	2961	17.5	39.9	111	47.3			0	Plus	63961	2e-07
+
+#Chain	gypsy	455-1394	Ptri_77	3358-5961	+	196.5
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_77/Ptri_77.seq	Ptri_77	455	1394	3358	5961	20.9	36.3	974	379			0	Plus	63961	1e-109
+
+#Chain	hAT	128-545	Ptri_77	48752-50086	+	58.1
+hAT		749	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_77/Ptri_77.seq	Ptri_77	128	545	48752	50086	13.9	29.2	193	78.8			0	Plus	63961	2e-17
+
+#Chain	gypsy	449-824	Ptri_77	62655-63803	-	82.3
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_77/Ptri_77.seq	Ptri_77	449	824	63803	62655	21.9	39.9	444	175			0	Minus	63961	2e-46
+
+#Chain	LINE	225-798	Ptri_773	75-1832	+	77.5
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_773/Ptri_773.seq	Ptri_773	225	798	75	1832	13.5	31.6	337	134			0	Plus	2266	4e-36
+
+#Chain	gypsy	303-433	Ptri_776	698-1075	-	23.1
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_776/Ptri_776.seq	Ptri_776	303	433	1075	698	17.6	28.2	91	39.5			0	Minus	2250	1e-06
+
+#Chain	hAT	516-707	Ptri_787	93-656	-	31.3
+hAT		749	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_787/Ptri_787.seq	Ptri_787	516	707	656	93	16.3	35.2	111	47.2			0	Minus	2211	2e-09
+
+#Chain	gypsy	976-1060	Ptri_797	891-1139	+	24.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_797/Ptri_797.seq	Ptri_797	976	1060	891	1139	28.2	41.2	130	54.5			0	Plus	2185	3e-11
+
+#Chain	mariner	3-81	Ptri_8	493948-494187	+	17.8
+mariner		345	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_8/Ptri_8.seq	Ptri_8	3	81	493948	494187	22.5	38.8	122	51.3			0	Plus	1047892	2e-08
+
+#Chain	hAT	372-497	Ptri_821	598-960	-	15.6
+hAT		749	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_821/Ptri_821.seq	Ptri_821	372	497	960	598	12.4	30.2	84	36.8			0	Minus	2090	3e-06
+
+#Chain	gypsy	711-1045	Ptri_826	1142-2010	+	91.1
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_826/Ptri_826.seq	Ptri_826	711	814	1142	1447	27.9	56.7	190	77.6			0	Plus	2071	2e-18
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_826/Ptri_826.seq	Ptri_826	822	1045	1438	2010	27.7	49.6	451	178			0	Plus	2071	4e-50
+
+#Chain	gypsy	690-824	Ptri_846	804-1205	+	32.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_846/Ptri_846.seq	Ptri_846	690	824	804	1205	23.7	45.9	225	91.1			0	Plus	2012	1e-22
+
+#Chain	gypsy	305-414	Ptri_850	1200-1523	+	22.2
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_850/Ptri_850.seq	Ptri_850	305	414	1200	1523	20.2	28.9	84	36.8			0	Plus	1991	6e-06
+
+#Chain	ISC1316	213-314	Ptri_866	1382-1699	+	14.5
+ISC1316		393	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_866/Ptri_866.seq	Ptri_866	213	314	1382	1699	14.2	35.8	80	35.2			0	Plus	1946	4e-06
+
+#Chain	gypsy	780-1060	Ptri_872	1002-1848	+	57.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_872/Ptri_872.seq	Ptri_872	780	907	1002	1370	27.3	46.1	202	82.2			0	Plus	1933	6e-20
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_872/Ptri_872.seq	Ptri_872	968	1060	1564	1848	24.7	48.5	98	42.2			0	Plus	1933	1e-07
+
+#Chain	gypsy	449-1050	Ptri_88	3518-5326	-	146.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_88/Ptri_88.seq	Ptri_88	449	1050	5326	3518	24.4	43.1	834	325			0	Minus	48237	6e-93
+
+#Chain	TY1_Copia	188-335	Ptri_88	5564-5962	-	28.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_88/Ptri_88.seq	Ptri_88	188	335	5962	5564	18.9	45.3	128	53.9			0	Minus	48237	1e-09
+
+#Chain	gypsy	311-382	Ptri_916	1061-1315	-	11.9
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_916/Ptri_916.seq	Ptri_916	311	382	1315	1061	16.5	31.8	82	36.0			0	Minus	1814	9e-06
+
+#Chain	gypsy	367-1442	Ptri_92	16084-19005	-	201.3
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_92/Ptri_92.seq	Ptri_92	1178	1442	16893	16084	18.4	36.9	283	113			0	Minus	44004	9e-28
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_92/Ptri_92.seq	Ptri_92	367	1082	19005	16894	21.3	38.8	740	289			0	Minus	44004	1e-81
+
+#Chain	LINE	310-803	Ptri_92	22962-24419	-	86.9
+LINE		1189	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_92/Ptri_92.seq	Ptri_92	310	803	24419	22962	17.6	36.4	515	202			0	Minus	44004	3e-55
+
+#Chain	gypsy	367-1380	Ptri_92	25867-28671	-	214.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_92/Ptri_92.seq	Ptri_92	367	1380	28671	25867	21.1	37.7	1144	445			0	Minus	44004	1e-131
+
+#Chain	gypsy	900-1444	Ptri_920	353-1798	-	104.4
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_920/Ptri_920.seq	Ptri_920	1282	1444	856	353	25.3	34.1	209	84.9			0	Minus	1800	7e-21
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_920/Ptri_920.seq	Ptri_920	1126	1268	1322	879	12.7	25.3	155	64.1			0	Minus	1800	2e-14
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_920/Ptri_920.seq	Ptri_920	900	1037	1798	1391	32.6	58.0	354	140			0	Minus	1800	1e-38
+
+#Chain	gypsy	288-377	Ptri_927	1019-1264	-	13.7
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_927/Ptri_927.seq	Ptri_927	288	377	1264	1019	15.2	29.3	83	36.4			0	Minus	1784	7e-06
+
+#Chain	gypsy	278-414	Ptri_94	19116-19526	-	24.0
+gypsy		1463	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_94/Ptri_94.seq	Ptri_94	278	414	19526	19116	17.5	28.0	97	41.8			0	Minus	41210	5e-06
+
+#Chain	MuDR_A_B	652-815	Ptri_952	6-437	-	30.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_952/Ptri_952.seq	Ptri_952	652	815	437	6	18.6	29.9	93	40.3			0	Minus	1744	3e-07
+
+#Chain	cacta	759-780	Ptri_96	13425-13490	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_96/Ptri_96.seq	Ptri_96	759	780	13490	13425	86.4	86.4	94	40.6			0	Minus	39921	9e-06
+
+#Chain	MuDR_A_B	632-689	Ptri_96	20858-21040	-	16.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_96/Ptri_96.seq	Ptri_96	632	689	21040	20858	27.9	39.3	94	40.7			0	Minus	39921	6e-06
+
+#Chain	TY1_Copia	201-306	Ptri_975	652-951	-	17.2
+TY1_Copia		1643	PSITBLASTN	transposonPSI.20932.Amirs-PC.tmp/Ptri_975/Ptri_975.seq	Ptri_975	201	306	951	652	16.2	36.9	101	43.5			0	Minus	1711	5e-08
+

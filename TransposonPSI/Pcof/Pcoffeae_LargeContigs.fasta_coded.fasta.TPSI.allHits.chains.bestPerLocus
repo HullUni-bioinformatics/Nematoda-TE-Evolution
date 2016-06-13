@@ -1,0 +1,828 @@
+#Chain	cacta	753-790	Pcof_1064	4643-4756	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1064/Pcof_1064.seq	Pcof_1064	753	790	4643	4756	52.6	60.5	94	40.6			0	Plus	6465	1e-06
+
+#Chain	helitronORF	543-1050	Pcof_1072	40-2099	-	149.9
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1072/Pcof_1072.seq	Pcof_1072	903	1050	594	40	32.4	49.2	301	120			0	Minus	2100	9e-32
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1072/Pcof_1072.seq	Pcof_1072	543	928	2099	564	26.4	38.6	455	179			0	Minus	2100	1e-50
+
+#Chain	ltr_Roo	1206-1815	Pcof_1107	249-2169	-	161.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1107/Pcof_1107.seq	Pcof_1107	1456	1815	1370	249	29.9	48.7	700	273			0	Minus	2173	7e-81
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1107/Pcof_1107.seq	Pcof_1107	1238	1434	2074	1436	19.7	42.2	268	107			0	Minus	2173	2e-27
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1107/Pcof_1107.seq	Pcof_1107	1206	1242	2169	2059	40.5	56.8	109	46.3			0	Minus	2173	1e-08
+
+#Chain	hAT	127-735	Pcof_114	315-2610	+	82.9
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_114/Pcof_114.seq	Pcof_114	127	479	315	1607	16.3	31.2	202	82.2			0	Plus	2880	4e-20
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_114/Pcof_114.seq	Pcof_114	643	735	2284	2610	27.3	40.0	126	53.0			0	Plus	2880	5e-11
+
+#Chain	ltr_Roo	1432-1785	Pcof_1142	1645-2761	-	99.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1142/Pcof_1142.seq	Pcof_1142	1661	1785	2010	1645	25.4	42.5	169	69.4			0	Minus	2930	2e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1142/Pcof_1142.seq	Pcof_1142	1432	1655	2761	2090	30.3	46.1	481	189			0	Minus	2930	2e-52
+
+#Chain	gypsy	296-448	Pcof_1156	247-738	-	25.2
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1156/Pcof_1156.seq	Pcof_1156	296	448	738	247	16.5	26.8	95	41.0			0	Minus	2441	4e-07
+
+#Chain	LINE	397-723	Pcof_12	1593-2603	+	55.3
+LINE		1189	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_12/Pcof_12.seq	Pcof_12	397	723	1593	2603	16.9	31.7	325	129			0	Plus	2615	2e-34
+
+#Chain	gypsy	533-1426	Pcof_121	673-3399	+	213.4
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_121/Pcof_121.seq	Pcof_121	533	748	673	1281	30.0	48.8	526	207			0	Plus	3745	7e-58
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_121/Pcof_121.seq	Pcof_121	745	840	1269	1586	30.2	55.7	192	78.4			0	Plus	3745	3e-18
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_121/Pcof_121.seq	Pcof_121	835	1098	1568	2329	27.3	48.5	446	176			0	Plus	3745	3e-48
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_121/Pcof_121.seq	Pcof_121	1160	1426	2485	3399	17.8	33.7	433	171			0	Plus	3745	9e-47
+
+#Chain	MuDR_A_B	640-736	Pcof_1271	5037-5303	-	26.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1271/Pcof_1271.seq	Pcof_1271	640	736	5303	5037	27.3	40.4	91	39.6			0	Minus	6145	2e-06
+
+#Chain	TY1_Copia	216-384	Pcof_1282	3037-3531	+	25.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1282/Pcof_1282.seq	Pcof_1282	216	384	3037	3531	15.1	30.7	86	37.7			0	Plus	4565	9e-06
+
+#Chain	cacta	751-784	Pcof_1355	62-163	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1355/Pcof_1355.seq	Pcof_1355	751	784	62	163	64.7	67.6	102	43.7			0	Plus	2048	4e-08
+
+#Chain	cacta	752-783	Pcof_1384	865-960	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1384/Pcof_1384.seq	Pcof_1384	752	783	865	960	59.4	62.5	89	38.7			0	Plus	3053	2e-06
+
+#Chain	ltr_Roo	1506-1742	Pcof_1414	1-741	+	39.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1414/Pcof_1414.seq	Pcof_1414	1506	1742	1	741	16.7	32.6	189	77.2			0	Plus	2302	5e-18
+
+#Chain	TY1_Copia	168-571	Pcof_146	1580-2038	-	33.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_146/Pcof_146.seq	Pcof_146	521	571	1732	1580	21.6	27.5	100	43.1			0	Minus	3881	2e-07
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_146/Pcof_146.seq	Pcof_146	168	305	2038	1583	15.9	33.8	121	51.2			0	Minus	3881	6e-10
+
+#Chain	TY1_Copia	46-591	Pcof_1468	829-1710	-	74.3
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1468/Pcof_1468.seq	Pcof_1468	415	591	1281	829	15.1	26.8	95	41.2			0	Minus	2523	4e-07
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1468/Pcof_1468.seq	Pcof_1468	46	328	1710	886	16.8	35.0	163	67.4			0	Minus	2523	4e-15
+
+#Chain	helitronORF	825-938	Pcof_1471	1476-1814	-	34.5
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1471/Pcof_1471.seq	Pcof_1471	825	938	1814	1476	30.3	43.2	96	41.2			0	Minus	2391	3e-07
+
+#Chain	hAT	132-169	Pcof_1476	542-655	+	12.0
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1476/Pcof_1476.seq	Pcof_1476	132	169	542	655	31.6	50.0	87	37.9			0	Plus	2398	2e-06
+
+#Chain	ltr_Roo	229-1291	Pcof_152	2-3485	-	247.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_152/Pcof_152.seq	Pcof_152	907	1291	1228	2	28.9	45.7	794	310			0	Minus	4476	3e-89
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_152/Pcof_152.seq	Pcof_152	516	935	2430	1138	17.6	37.0	449	177			0	Minus	4476	4e-48
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_152/Pcof_152.seq	Pcof_152	229	512	3485	2568	22.0	37.3	412	163			0	Minus	4476	1e-43
+
+#Chain	ltr_Roo	1302-1759	Pcof_153	6-1397	+	130.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_153/Pcof_153.seq	Pcof_153	1302	1759	6	1397	28.5	47.1	936	364			0	Plus	6496	1e-105
+
+#Chain	ltr_Roo	1596-1768	Pcof_1563	2618-3186	-	48.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1563/Pcof_1563.seq	Pcof_1563	1686	1768	2860	2618	33.3	59.5	158	65.2			0	Minus	3187	4e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1563/Pcof_1563.seq	Pcof_1563	1596	1686	3186	2875	22.6	44.3	152	62.9			0	Minus	3187	2e-13
+
+#Chain	helitronORF	10-67	Pcof_1578	1866-2150	+	17.1
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1578/Pcof_1578.seq	Pcof_1578	10	67	1866	2150	29.5	36.8	101	43.1			0	Plus	2215	7e-08
+
+#Chain	helitronORF	10-249	Pcof_1581	235-1283	-	49.8
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1581/Pcof_1581.seq	Pcof_1581	195	249	408	235	33.3	50.0	92	39.7			0	Minus	2405	9e-07
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1581/Pcof_1581.seq	Pcof_1581	10	132	1283	789	25.6	33.9	162	66.6			0	Minus	2405	5e-15
+
+#Chain	helitronORF	504-962	Pcof_1584	2-1420	+	161.5
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1584/Pcof_1584.seq	Pcof_1584	504	593	2	283	45.7	60.6	291	116			0	Plus	3218	4e-30
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1584/Pcof_1584.seq	Pcof_1584	596	717	282	650	42.4	58.4	324	129			0	Plus	3218	5e-34
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1584/Pcof_1584.seq	Pcof_1584	718	962	650	1420	28.0	43.6	314	125			0	Plus	3218	8e-33
+
+#Chain	ltr_Roo	1240-1764	Pcof_1610	1128-2756	-	109.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1610/Pcof_1610.seq	Pcof_1610	1240	1764	2756	1128	20.8	35.1	575	225			0	Minus	3049	6e-64
+
+#Chain	ltr_Roo	829-1757	Pcof_1625	955-3837	-	234.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1625/Pcof_1625.seq	Pcof_1625	1427	1757	1980	955	24.3	40.8	427	168			0	Minus	3837	1e-45
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1625/Pcof_1625.seq	Pcof_1625	1202	1467	2680	1844	25.3	44.0	465	183			0	Minus	3837	4e-50
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1625/Pcof_1625.seq	Pcof_1625	1092	1210	3050	2655	25.8	49.2	198	80.6			0	Minus	3837	1e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1625/Pcof_1625.seq	Pcof_1625	878	1084	3673	3071	24.0	42.8	328	130			0	Minus	3837	5e-34
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1625/Pcof_1625.seq	Pcof_1625	829	856	3837	3754	21.4	53.6	90	39.0			0	Minus	3837	4e-06
+
+#Chain	MuDR_A_B	715-811	Pcof_1755	2208-2540	-	20.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1755/Pcof_1755.seq	Pcof_1755	715	811	2540	2208	20.7	31.5	83	36.5			0	Minus	3368	9e-06
+
+#Chain	gypsy	531-895	Pcof_1818	349-1368	+	75.2
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1818/Pcof_1818.seq	Pcof_1818	531	895	349	1368	20.6	34.6	345	137			0	Plus	3683	2e-36
+
+#Chain	TY1_Copia	774-970	Pcof_1818	2502-3065	+	40.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1818/Pcof_1818.seq	Pcof_1818	774	970	2502	3065	20.6	40.7	186	76.2			0	Plus	3683	1e-17
+
+#Chain	mariner	3-82	Pcof_188	2340-2582	-	22.7
+mariner		345	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_188/Pcof_188.seq	Pcof_188	3	82	2582	2340	28.4	39.5	117	49.4			0	Minus	4375	3e-10
+
+#Chain	helitronORF	923-1321	Pcof_1961	201-1784	+	140.9
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1961/Pcof_1961.seq	Pcof_1961	923	1182	201	1091	32.6	52.5	505	198			0	Plus	2351	2e-56
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_1961/Pcof_1961.seq	Pcof_1961	1182	1321	1272	1784	40.1	57.0	394	156			0	Plus	2351	7e-43
+
+#Chain	helitronORF	345-1318	Pcof_200	170-3684	+	282.4
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_200/Pcof_200.seq	Pcof_200	345	575	170	901	35.5	51.6	505	198			0	Plus	3769	2e-55
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_200/Pcof_200.seq	Pcof_200	605	793	1094	1756	26.5	41.7	236	95.1			0	Plus	3769	2e-23
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_200/Pcof_200.seq	Pcof_200	871	950	2136	2399	33.0	54.5	172	70.5			0	Plus	3769	6e-16
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_200/Pcof_200.seq	Pcof_200	971	1198	2456	3208	29.6	49.8	410	162			0	Plus	3769	5e-44
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_200/Pcof_200.seq	Pcof_200	1181	1272	3198	3488	44.3	54.6	223	90.1			0	Plus	3769	6e-22
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_200/Pcof_200.seq	Pcof_200	1271	1318	3529	3684	32.7	50.0	95	40.8			0	Plus	3769	7e-07
+
+#Chain	cacta	758-784	Pcof_2001	325-405	-	18.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2001/Pcof_2001.seq	Pcof_2001	758	784	405	325	66.7	70.4	82	36.0			0	Minus	2158	1e-05
+
+#Chain	ltr_Roo	265-791	Pcof_2010	384-2350	+	99.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2010/Pcof_2010.seq	Pcof_2010	265	648	384	1808	18.3	33.1	264	106			0	Plus	2350	7e-27
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2010/Pcof_2010.seq	Pcof_2010	698	791	2048	2350	31.1	44.7	181	74.1			0	Plus	2350	5e-17
+
+#Chain	hAT	135-174	Pcof_2016	905-1021	+	11.0
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2016/Pcof_2016.seq	Pcof_2016	135	174	905	1021	27.5	42.5	85	37.2			0	Plus	2691	3e-06
+
+#Chain	hAT	129-173	Pcof_2016	1315-1455	+	14.4
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2016/Pcof_2016.seq	Pcof_2016	129	173	1315	1455	31.9	48.9	102	43.7			0	Plus	2691	3e-08
+
+#Chain	gypsy	694-1439	Pcof_2099	1221-3445	+	182.5
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2099/Pcof_2099.seq	Pcof_2099	694	1050	1221	2270	30.4	50.6	890	347			0	Plus	6078	1e-101
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2099/Pcof_2099.seq	Pcof_2099	1070	1265	2167	2814	19.9	34.3	221	89.5			0	Plus	6078	2e-21
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2099/Pcof_2099.seq	Pcof_2099	1264	1307	2808	2942	22.2	40.0	107	45.6			0	Plus	6078	4e-08
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2099/Pcof_2099.seq	Pcof_2099	1310	1439	2945	3445	19.4	32.4	238	96.1			0	Plus	6078	2e-23
+
+#Chain	ltr_Roo	741-1507	Pcof_2103	1069-3463	+	181.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2103/Pcof_2103.seq	Pcof_2103	741	1037	1069	1962	25.5	41.9	562	220			0	Plus	3499	7e-62
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2103/Pcof_2103.seq	Pcof_2103	1037	1507	1961	3463	22.5	40.5	517	203			0	Plus	3499	2e-56
+
+#Chain	ltr_Roo	632-1109	Pcof_2126	1-1534	-	112.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2126/Pcof_2126.seq	Pcof_2126	801	1109	957	1	26.5	49.2	706	276			0	Minus	3706	3e-79
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2126/Pcof_2126.seq	Pcof_2126	632	774	1534	1037	21.1	41.6	168	69.1			0	Minus	3706	3e-15
+
+#Chain	ltr_Roo	217-372	Pcof_2126	2554-3018	-	33.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2126/Pcof_2126.seq	Pcof_2126	217	372	3018	2554	21.3	41.5	145	60.2			0	Minus	3706	2e-12
+
+#Chain	ltr_Roo	196-811	Pcof_2127	668-2835	+	114.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2127/Pcof_2127.seq	Pcof_2127	196	623	668	2209	16.4	29.6	201	81.8			0	Plus	2837	3e-19
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2127/Pcof_2127.seq	Pcof_2127	627	811	2212	2835	23.7	38.9	211	85.6			0	Plus	2837	2e-20
+
+#Chain	helitronORF	207-771	Pcof_2145	66-2376	-	144.9
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2145/Pcof_2145.seq	Pcof_2145	367	771	1661	66	31.2	41.4	596	233			0	Minus	2438	1e-67
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2145/Pcof_2145.seq	Pcof_2145	207	246	2376	2254	46.3	58.5	100	42.8			0	Minus	2438	1e-07
+
+#Chain	LINE	57-806	Pcof_2186	324-2551	+	152.4
+LINE		1189	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2186/Pcof_2186.seq	Pcof_2186	57	720	324	2294	19.9	38.4	761	297			0	Plus	2993	2e-88
+LINE		1189	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2186/Pcof_2186.seq	Pcof_2186	721	806	2294	2551	23.6	38.2	151	62.6			0	Plus	2993	1e-13
+
+#Chain	helitronORF	370-979	Pcof_2273	143-3235	-	206.1
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2273/Pcof_2273.seq	Pcof_2273	853	979	688	143	29.7	43.4	213	86.3			0	Minus	3345	7e-21
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2273/Pcof_2273.seq	Pcof_2273	687	808	1415	1023	37.6	55.6	286	114			0	Minus	3345	2e-29
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2273/Pcof_2273.seq	Pcof_2273	537	689	2398	1877	39.1	52.9	336	133			0	Minus	3345	2e-35
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2273/Pcof_2273.seq	Pcof_2273	435	517	2993	2730	34.0	53.2	178	72.8			0	Minus	3345	1e-16
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2273/Pcof_2273.seq	Pcof_2273	370	435	3235	3035	52.2	65.7	219	88.6			0	Minus	3345	1e-21
+
+#Chain	mariner	54-144	Pcof_2292	909-1235	+	16.7
+mariner		345	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2292/Pcof_2292.seq	Pcof_2292	54	144	909	1235	18.3	25.7	77	34.0			0	Plus	2058	8e-06
+
+#Chain	hAT	135-177	Pcof_2312	1568-1693	+	16.0
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2312/Pcof_2312.seq	Pcof_2312	135	177	1568	1693	37.2	41.9	89	38.7			0	Plus	2240	8e-07
+
+#Chain	cacta	752-791	Pcof_2336	3745-3864	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2336/Pcof_2336.seq	Pcof_2336	752	791	3745	3864	55.0	57.5	97	41.8			0	Plus	4099	4e-07
+
+#Chain	ltr_Roo	209-1325	Pcof_2346	313-4130	+	235.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2346/Pcof_2346.seq	Pcof_2346	209	481	313	1215	17.9	38.0	290	116			0	Plus	4136	2e-29
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2346/Pcof_2346.seq	Pcof_2346	473	1325	1419	4130	21.9	39.6	1109	431			0	Plus	4136	1e-128
+
+#Chain	gypsy	1246-1379	Pcof_2401	1369-1767	+	21.8
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2401/Pcof_2401.seq	Pcof_2401	1246	1379	1369	1767	16.3	33.3	185	75.7			0	Plus	2795	1e-17
+
+#Chain	ltr_Roo	1341-1774	Pcof_241	2385-3707	-	129.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_241/Pcof_241.seq	Pcof_241	1341	1774	3707	2385	29.9	46.2	859	335			0	Minus	3773	1e-97
+
+#Chain	ltr_Roo	232-1111	Pcof_2416	269-3105	+	166.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2416/Pcof_2416.seq	Pcof_2416	232	257	269	346	38.5	50.0	98	42.1			0	Plus	3137	4e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2416/Pcof_2416.seq	Pcof_2416	284	956	420	2669	16.6	32.7	491	193			0	Plus	3137	1e-53
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2416/Pcof_2416.seq	Pcof_2416	957	1028	2669	2860	25.0	40.3	110	46.7			0	Plus	3137	2e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2416/Pcof_2416.seq	Pcof_2416	1030	1111	2863	3105	32.9	47.6	197	80.2			0	Plus	3137	1e-18
+
+#Chain	gypsy	277-430	Pcof_2418	260-772	+	20.6
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2418/Pcof_2418.seq	Pcof_2418	277	430	260	772	13.4	29.7	85	37.2			0	Plus	2765	7e-06
+
+#Chain	gypsy	556-1227	Pcof_2425	537-2431	+	130.6
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2425/Pcof_2425.seq	Pcof_2425	556	869	537	1442	19.1	44.5	458	180			0	Plus	2432	1e-50
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2425/Pcof_2425.seq	Pcof_2425	848	1004	1399	1848	28.4	46.9	330	131			0	Plus	2432	5e-35
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2425/Pcof_2425.seq	Pcof_2425	1002	1093	1839	2105	13.0	43.5	112	47.6			0	Plus	2432	4e-09
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2425/Pcof_2425.seq	Pcof_2425	1122	1227	2078	2431	13.3	33.3	122	51.4			0	Plus	2432	3e-10
+
+#Chain	gypsy	552-1038	Pcof_2433	128-1546	-	150.1
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2433/Pcof_2433.seq	Pcof_2433	995	1038	259	128	22.7	54.5	120	50.6			0	Minus	7338	2e-09
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2433/Pcof_2433.seq	Pcof_2433	786	996	882	253	33.0	50.5	517	203			0	Minus	7338	4e-56
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2433/Pcof_2433.seq	Pcof_2433	552	809	1546	791	27.3	45.4	504	198			0	Minus	7338	1e-54
+
+#Chain	TY1_Copia	465-565	Pcof_2433	5321-5629	-	17.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2433/Pcof_2433.seq	Pcof_2433	465	565	5629	5321	17.3	32.7	131	55.0			0	Minus	7338	8e-11
+
+#Chain	ltr_Roo	231-1223	Pcof_2458	40-3438	-	208.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2458/Pcof_2458.seq	Pcof_2458	632	1223	1908	40	23.6	43.3	861	336			0	Minus	3523	3e-98
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2458/Pcof_2458.seq	Pcof_2458	422	501	2804	2571	27.2	44.4	152	62.9			0	Minus	3523	2e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2458/Pcof_2458.seq	Pcof_2458	231	424	3438	2854	24.1	41.5	176	72.1			0	Minus	3523	3e-16
+
+#Chain	cacta	748-784	Pcof_246	2341-2451	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_246/Pcof_246.seq	Pcof_246	748	784	2451	2341	59.5	64.9	95	41.0			0	Minus	3127	4e-07
+
+#Chain	ltr_Roo	568-1237	Pcof_2472	83-2235	+	172.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2472/Pcof_2472.seq	Pcof_2472	568	768	83	769	15.3	37.0	174	71.4			0	Plus	2774	4e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2472/Pcof_2472.seq	Pcof_2472	768	879	766	1110	28.7	57.4	295	117			0	Plus	2774	2e-30
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2472/Pcof_2472.seq	Pcof_2472	882	1171	1133	2035	28.6	46.8	608	238			0	Plus	2774	4e-68
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2472/Pcof_2472.seq	Pcof_2472	1164	1237	1993	2235	35.4	58.5	190	77.5			0	Plus	2774	5e-18
+
+#Chain	MuDR_A_B	653-758	Pcof_2475	1063-1386	-	19.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2475/Pcof_2475.seq	Pcof_2475	653	758	1386	1063	18.5	27.8	93	40.3			0	Minus	2932	5e-07
+
+#Chain	gypsy	146-339	Pcof_254	906-1475	-	31.4
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_254/Pcof_254.seq	Pcof_254	146	339	1475	906	16.2	34.3	90	39.1			0	Minus	2611	2e-06
+
+#Chain	cacta	748-769	Pcof_2579	1381-1446	-	17.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2579/Pcof_2579.seq	Pcof_2579	748	769	1446	1381	77.3	81.8	93	40.2			0	Minus	4636	1e-06
+
+#Chain	gypsy	172-297	Pcof_2607	2933-3286	+	30.7
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2607/Pcof_2607.seq	Pcof_2607	172	297	2933	3286	24.4	42.5	100	42.9			0	Plus	6381	3e-07
+
+#Chain	gypsy	561-1424	Pcof_2608	849-4109	-	229.8
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2608/Pcof_2608.seq	Pcof_2608	1104	1424	1856	849	21.4	37.1	463	182			0	Minus	4470	4e-50
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2608/Pcof_2608.seq	Pcof_2608	561	1038	4109	2718	33.7	55.4	1246	484			0	Minus	4470	1e-149
+
+#Chain	hAT	364-684	Pcof_2640	1590-2870	+	29.5
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2640/Pcof_2640.seq	Pcof_2640	364	453	1590	1904	19.4	31.5	83	36.4			0	Plus	3134	6e-06
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2640/Pcof_2640.seq	Pcof_2640	657	684	2787	2870	42.9	57.1	83	36.4			0	Plus	3134	6e-06
+
+#Chain	TY1_Copia	63-613	Pcof_2709	1487-2506	+	75.2
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2709/Pcof_2709.seq	Pcof_2709	63	400	1487	2506	14.9	33.2	183	75.1			0	Plus	4534	4e-17
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2709/Pcof_2709.seq	Pcof_2709	439	613	1847	2368	14.2	29.5	127	53.5			0	Plus	4534	1e-10
+
+#Chain	MuDR_A_B	657-735	Pcof_2710	729-950	-	20.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2710/Pcof_2710.seq	Pcof_2710	657	735	950	729	25.6	37.8	82	36.1			0	Minus	2558	9e-06
+
+#Chain	gypsy	443-848	Pcof_2749	4100-5356	+	97.8
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2749/Pcof_2749.seq	Pcof_2749	443	848	4100	5356	24.1	46.1	777	303			0	Plus	5358	2e-87
+
+#Chain	gypsy	850-1378	Pcof_2750	2-1444	+	131.5
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2750/Pcof_2750.seq	Pcof_2750	850	1092	2	679	29.8	44.4	404	160			0	Plus	2116	2e-44
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2750/Pcof_2750.seq	Pcof_2750	1160	1324	793	1284	22.9	38.6	349	138			0	Plus	2116	1e-37
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2750/Pcof_2750.seq	Pcof_2750	1320	1378	1271	1444	36.1	47.5	93	40.2			0	Plus	2116	6e-07
+
+#Chain	ISC1316	213-309	Pcof_2785	5914-6225	-	11.6
+ISC1316		393	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2785/Pcof_2785.seq	Pcof_2785	213	309	6225	5914	12.0	31.5	86	37.5			0	Minus	7925	3e-06
+
+#Chain	gypsy	1185-1441	Pcof_2818	253-993	+	47.8
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2818/Pcof_2818.seq	Pcof_2818	1185	1441	253	993	18.6	35.3	202	82.2			0	Plus	5118	3e-19
+
+#Chain	ltr_Roo	550-1113	Pcof_2884	10-1902	-	123.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2884/Pcof_2884.seq	Pcof_2884	550	1113	1902	10	21.8	42.6	879	342			0	Minus	2156	1e-104
+
+#Chain	cacta	752-791	Pcof_2952	2421-2540	-	25.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2952/Pcof_2952.seq	Pcof_2952	752	791	2540	2421	62.5	62.5	100	42.9			0	Minus	2619	9e-08
+
+#Chain	ltr_Roo	1317-1705	Pcof_2956	90-1175	-	70.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2956/Pcof_2956.seq	Pcof_2956	1317	1705	1175	90	18.0	32.4	167	68.7			0	Minus	3580	4e-15
+
+#Chain	gypsy	441-1038	Pcof_2956	1340-3479	-	132.3
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2956/Pcof_2956.seq	Pcof_2956	750	1038	2179	1340	22.5	44.6	399	158			0	Minus	3580	9e-43
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2956/Pcof_2956.seq	Pcof_2956	574	742	2687	2199	30.2	46.7	353	140			0	Minus	3580	3e-37
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_2956/Pcof_2956.seq	Pcof_2956	441	548	3479	3120	15.0	32.5	90	39.1			0	Minus	3580	2e-06
+
+#Chain	gypsy	300-344	Pcof_3126	1485-1622	+	9.6
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3126/Pcof_3126.seq	Pcof_3126	300	344	1485	1622	21.3	42.6	86	37.5			0	Plus	2061	4e-06
+
+#Chain	ISC1316	142-273	Pcof_3244	5406-5819	+	19.4
+ISC1316		393	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3244/Pcof_3244.seq	Pcof_3244	142	273	5406	5819	14.7	33.6	83	36.3			0	Plus	5897	6e-06
+
+#Chain	gypsy	1001-1411	Pcof_327	770-2232	-	68.5
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_327/Pcof_327.seq	Pcof_327	1163	1411	1495	770	23.5	38.4	479	188			0	Minus	2232	2e-53
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_327/Pcof_327.seq	Pcof_327	1001	1038	2232	2119	26.3	55.3	105	44.9			0	Minus	2232	2e-08
+
+#Chain	helitronORF	90-164	Pcof_3302	121-357	+	19.6
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3302/Pcof_3302.seq	Pcof_3302	90	164	121	357	26.2	42.5	119	50.1			0	Plus	4728	1e-09
+
+#Chain	helitronORF	327-1035	Pcof_3302	1806-4726	+	243.4
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3302/Pcof_3302.seq	Pcof_3302	327	368	1806	1931	38.1	59.5	92	39.7			0	Plus	4728	2e-06
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3302/Pcof_3302.seq	Pcof_3302	370	436	1978	2181	45.6	57.4	203	82.4			0	Plus	4728	2e-19
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3302/Pcof_3302.seq	Pcof_3302	434	519	2225	2497	34.0	57.7	176	72.0			0	Plus	4728	3e-16
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3302/Pcof_3302.seq	Pcof_3302	533	581	2757	2909	58.8	70.6	157	64.7			0	Plus	4728	5e-14
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3302/Pcof_3302.seq	Pcof_3302	573	912	2921	4213	26.7	41.8	446	176			0	Plus	4728	4e-48
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3302/Pcof_3302.seq	Pcof_3302	919	979	4329	4511	37.7	60.7	120	50.5			0	Plus	4728	1e-09
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3302/Pcof_3302.seq	Pcof_3302	980	1035	4559	4726	44.6	64.3	188	76.6			0	Plus	4728	1e-17
+
+#Chain	cacta	747-781	Pcof_3376	3179-3283	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3376/Pcof_3376.seq	Pcof_3376	747	781	3283	3179	60.0	60.0	97	41.8			0	Minus	10340	1e-06
+
+#Chain	cacta	750-784	Pcof_3442	4598-4702	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3442/Pcof_3442.seq	Pcof_3442	750	784	4702	4598	60.0	62.9	96	41.4			0	Minus	4928	6e-07
+
+#Chain	cacta	750-799	Pcof_3529	1532-1714	-	21.3
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3529/Pcof_3529.seq	Pcof_3529	750	799	1714	1532	42.6	52.5	92	39.8			0	Minus	4053	1e-06
+
+#Chain	gypsy	293-346	Pcof_353	1859-2017	+	14.0
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_353/Pcof_353.seq	Pcof_353	293	346	1859	2017	25.9	44.4	84	36.8			0	Plus	2600	8e-06
+
+#Chain	ltr_Roo	772-1718	Pcof_3534	3-2838	+	245.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3534/Pcof_3534.seq	Pcof_3534	772	907	3	419	25.9	49.0	310	123			0	Plus	2838	4e-32
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3534/Pcof_3534.seq	Pcof_3534	933	1541	482	2296	27.9	46.4	1111	432			0	Plus	2838	1e-132
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3534/Pcof_3534.seq	Pcof_3534	1569	1718	2335	2838	26.8	42.3	322	128			0	Plus	2838	1e-33
+
+#Chain	MuDR_A_B	745-804	Pcof_3583	7-213	-	16.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3583/Pcof_3583.seq	Pcof_3583	745	804	213	7	26.8	32.4	88	38.4			0	Minus	2550	2e-06
+
+#Chain	ISC1316	99-305	Pcof_3583	1184-1714	-	30.2
+ISC1316		393	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3583/Pcof_3583.seq	Pcof_3583	99	305	1714	1184	14.6	29.2	80	35.2			0	Minus	2550	5e-06
+
+#Chain	ltr_Roo	246-1411	Pcof_3616	5-3767	+	275.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3616/Pcof_3616.seq	Pcof_3616	246	385	5	412	23.1	40.1	176	72.1			0	Plus	3838	4e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3616/Pcof_3616.seq	Pcof_3616	368	939	400	2370	19.5	35.7	487	191			0	Plus	3838	9e-53
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3616/Pcof_3616.seq	Pcof_3616	943	1098	2381	2821	26.6	42.4	281	112			0	Plus	3838	2e-28
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3616/Pcof_3616.seq	Pcof_3616	1091	1411	2793	3767	28.2	43.8	461	181			0	Plus	3838	1e-49
+
+#Chain	helitronORF	920-1306	Pcof_3626	966-2140	-	118.3
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3626/Pcof_3626.seq	Pcof_3626	1068	1306	1661	966	29.8	47.3	304	121			0	Minus	3880	2e-31
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3626/Pcof_3626.seq	Pcof_3626	920	1073	2140	1685	30.6	46.2	222	89.7			0	Minus	3880	8e-22
+
+#Chain	gypsy	297-369	Pcof_3631	4152-4367	-	11.0
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3631/Pcof_3631.seq	Pcof_3631	297	369	4367	4152	15.1	26.0	101	43.3			0	Minus	12518	5e-07
+
+#Chain	gypsy	572-991	Pcof_3637	929-2153	+	129.6
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3637/Pcof_3637.seq	Pcof_3637	572	805	929	1615	32.2	50.0	578	227			0	Plus	2154	7e-66
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3637/Pcof_3637.seq	Pcof_3637	799	991	1596	2153	28.1	54.8	396	156			0	Plus	2154	2e-43
+
+#Chain	gypsy	1003-1383	Pcof_3638	9-1157	+	75.1
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3638/Pcof_3638.seq	Pcof_3638	1003	1383	9	1157	19.7	33.3	482	190			0	Plus	2204	8e-54
+
+#Chain	ltr_Roo	943-1793	Pcof_3734	237-2793	+	199.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3734/Pcof_3734.seq	Pcof_3734	943	1130	237	788	24.5	43.4	322	128			0	Plus	3005	2e-33
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3734/Pcof_3734.seq	Pcof_3734	1165	1321	898	1416	24.4	45.6	250	100			0	Plus	3005	5e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3734/Pcof_3734.seq	Pcof_3734	1348	1532	1443	1988	33.3	54.3	443	174			0	Plus	3005	7e-48
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3734/Pcof_3734.seq	Pcof_3734	1563	1698	2033	2461	22.2	36.1	162	66.8			0	Plus	3005	1e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3734/Pcof_3734.seq	Pcof_3734	1702	1793	2488	2793	25.0	42.3	105	44.8			0	Plus	3005	6e-08
+
+#Chain	P_element	95-128	Pcof_3740	3780-3881	+	14.0
+P_element		766	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3740/Pcof_3740.seq	Pcof_3740	95	128	3780	3881	41.2	64.7	91	39.4			0	Plus	7399	2e-06
+
+#Chain	gypsy	594-1294	Pcof_3763	481-2498	+	159.0
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3763/Pcof_3763.seq	Pcof_3763	594	1150	481	2079	22.9	40.2	759	296			0	Plus	2498	1e-88
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3763/Pcof_3763.seq	Pcof_3763	1160	1294	2061	2498	23.3	37.7	279	111			0	Plus	2498	7e-29
+
+#Chain	cacta	746-807	Pcof_379	3079-3267	-	28.5
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_379/Pcof_379.seq	Pcof_379	746	807	3267	3079	46.0	55.6	107	45.6			0	Minus	3517	2e-08
+
+#Chain	TY1_Copia	275-590	Pcof_3796	947-1105	-	20.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3796/Pcof_3796.seq	Pcof_3796	550	590	1075	947	27.9	44.2	89	38.8			0	Minus	2642	2e-06
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3796/Pcof_3796.seq	Pcof_3796	275	320	1105	959	20.4	36.7	84	36.9			0	Minus	2642	9e-06
+
+#Chain	gypsy	168-394	Pcof_3840	2642-3319	+	40.2
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3840/Pcof_3840.seq	Pcof_3840	168	394	2642	3319	17.7	34.2	101	43.3			0	Plus	3423	1e-07
+
+#Chain	helitronORF	1070-1321	Pcof_396	1429-2184	-	104.8
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_396/Pcof_396.seq	Pcof_396	1070	1321	2184	1429	41.6	63.1	765	298			0	Minus	2265	2e-90
+
+#Chain	gypsy	544-1314	Pcof_3967	2540-4732	+	185.8
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3967/Pcof_3967.seq	Pcof_3967	544	1314	2540	4732	24.1	43.0	1391	540			0	Plus	4735	1e-168
+
+#Chain	cacta	750-808	Pcof_3968	3058-3255	+	26.8
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3968/Pcof_3968.seq	Pcof_3968	750	808	3058	3255	45.5	56.1	98	42.1			0	Plus	3400	2e-07
+
+#Chain	DDE_1	58-90	Pcof_3981	584-682	-	6.0
+DDE_1		535	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3981/Pcof_3981.seq	Pcof_3981	58	90	682	584	18.2	39.4	81	35.6			0	Minus	2132	5e-06
+
+#Chain	cacta	751-791	Pcof_3994	621-752	+	24.2
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_3994/Pcof_3994.seq	Pcof_3994	751	791	621	752	59.1	65.9	101	43.3			0	Plus	2578	7e-08
+
+#Chain	helitronORF	258-581	Pcof_4056	3547-4858	+	102.8
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4056/Pcof_4056.seq	Pcof_4056	258	517	3547	4455	29.9	48.1	451	177			0	Plus	4905	1e-48
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4056/Pcof_4056.seq	Pcof_4056	537	581	4724	4858	55.6	66.7	149	61.6			0	Plus	4905	4e-13
+
+#Chain	cacta	731-779	Pcof_4137	508-624	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4137/Pcof_4137.seq	Pcof_4137	731	779	508	624	49.0	51.0	96	41.4			0	Plus	2554	3e-07
+
+#Chain	cacta	753-780	Pcof_4137	1210-1293	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4137/Pcof_4137.seq	Pcof_4137	753	780	1210	1293	75.0	75.0	91	39.4			0	Plus	2554	1e-06
+
+#Chain	gypsy	533-1390	Pcof_4149	1232-3652	-	198.0
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4149/Pcof_4149.seq	Pcof_4149	800	1390	2872	1232	21.2	39.9	880	343			0	Minus	4476	1e-101
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4149/Pcof_4149.seq	Pcof_4149	656	805	3302	2856	29.3	54.7	402	159			0	Minus	4476	6e-43
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4149/Pcof_4149.seq	Pcof_4149	533	655	3652	3284	23.4	42.7	212	86.1			0	Minus	4476	1e-20
+
+#Chain	ltr_Roo	455-1326	Pcof_4167	30-2834	-	211.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4167/Pcof_4167.seq	Pcof_4167	1042	1326	920	30	28.8	46.5	512	201			0	Minus	3267	5e-56
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4167/Pcof_4167.seq	Pcof_4167	794	1025	1644	967	29.4	45.4	418	165			0	Minus	3267	9e-45
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4167/Pcof_4167.seq	Pcof_4167	455	795	2834	1632	18.0	33.7	226	91.4			0	Minus	3267	4e-22
+
+#Chain	ltr_Roo	411-496	Pcof_4167	2845-3090	-	22.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4167/Pcof_4167.seq	Pcof_4167	411	496	3090	2845	26.4	42.5	134	56.0			0	Minus	3267	3e-11
+
+#Chain	hAT	639-698	Pcof_4212	156-326	-	22.0
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4212/Pcof_4212.seq	Pcof_4212	639	698	326	156	36.7	56.7	162	66.8			0	Minus	2509	2e-15
+
+#Chain	hAT	134-234	Pcof_4212	2027-2383	-	19.4
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4212/Pcof_4212.seq	Pcof_4212	134	234	2383	2027	19.2	32.5	119	50.3			0	Minus	2509	3e-10
+
+#Chain	helitronORF	341-1038	Pcof_4240	1-2142	+	297.9
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4240/Pcof_4240.seq	Pcof_4240	341	480	1	429	41.7	59.0	324	129			0	Plus	2145	2e-34
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4240/Pcof_4240.seq	Pcof_4240	475	921	413	1801	42.4	59.3	1263	490			0	Plus	2145	1e-160
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4240/Pcof_4240.seq	Pcof_4240	921	1038	1798	2142	42.4	58.5	364	144			0	Plus	2145	2e-39
+
+#Chain	ltr_Roo	420-871	Pcof_429	494-2003	-	67.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_429/Pcof_429.seq	Pcof_429	687	871	1054	494	27.5	47.2	344	136			0	Minus	2270	2e-36
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_429/Pcof_429.seq	Pcof_429	420	502	2003	1704	20.0	27.0	102	43.6			0	Minus	2270	9e-08
+
+#Chain	hAT	69-158	Pcof_4305	312-575	-	21.1
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4305/Pcof_4305.seq	Pcof_4305	69	158	575	312	23.4	35.1	111	47.2			0	Minus	2453	2e-09
+
+#Chain	helitronORF	581-1264	Pcof_4331	88-2798	+	218.5
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4331/Pcof_4331.seq	Pcof_4331	581	706	88	495	26.6	42.0	160	65.9			0	Plus	3765	2e-14
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4331/Pcof_4331.seq	Pcof_4331	723	808	657	914	43.0	64.0	233	94.0			0	Plus	3765	4e-23
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4331/Pcof_4331.seq	Pcof_4331	841	907	1144	1347	30.9	51.5	118	49.7			0	Plus	3765	1e-09
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4331/Pcof_4331.seq	Pcof_4331	923	979	1596	1766	40.4	57.9	122	51.2			0	Plus	3765	4e-10
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4331/Pcof_4331.seq	Pcof_4331	977	1050	1799	2023	44.0	65.3	216	87.4			0	Plus	3765	4e-21
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4331/Pcof_4331.seq	Pcof_4331	1049	1264	2067	2798	33.2	50.8	442	174			0	Plus	3765	7e-48
+
+#Chain	helitronORF	248-517	Pcof_4332	372-1385	-	83.1
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4332/Pcof_4332.seq	Pcof_4332	435	517	632	372	26.9	50.5	145	60.1			0	Minus	2337	5e-13
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4332/Pcof_4332.seq	Pcof_4332	370	435	907	707	44.8	64.2	206	83.6			0	Minus	2337	3e-20
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4332/Pcof_4332.seq	Pcof_4332	248	368	1385	1011	25.8	46.1	126	52.8			0	Minus	2337	8e-11
+
+#Chain	LINE	274-874	Pcof_4345	1346-3222	+	85.5
+LINE		1189	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4345/Pcof_4345.seq	Pcof_4345	274	438	1346	1867	14.0	36.3	117	49.5			0	Plus	4426	2e-09
+LINE		1189	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4345/Pcof_4345.seq	Pcof_4345	475	874	1972	3222	15.6	31.5	345	137			0	Plus	4426	2e-36
+
+#Chain	ltr_Roo	828-1628	Pcof_4395	2-2454	+	209.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4395/Pcof_4395.seq	Pcof_4395	828	974	2	454	17.8	42.1	260	104			0	Plus	2456	2e-26
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4395/Pcof_4395.seq	Pcof_4395	987	1112	472	852	30.5	49.2	312	124			0	Plus	2456	1e-32
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4395/Pcof_4395.seq	Pcof_4395	1119	1298	882	1460	29.5	49.7	392	155			0	Plus	2456	4e-42
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4395/Pcof_4395.seq	Pcof_4395	1301	1628	1504	2454	28.0	46.1	582	228			0	Plus	2456	3e-65
+
+#Chain	gypsy	1201-1446	Pcof_4401	780-1517	+	44.3
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4401/Pcof_4401.seq	Pcof_4401	1201	1446	780	1517	18.0	36.7	234	94.6			0	Plus	2513	2e-23
+
+#Chain	hAT	127-172	Pcof_4414	2472-2606	-	11.0
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4414/Pcof_4414.seq	Pcof_4414	127	172	2606	2472	23.9	34.8	115	48.7			0	Minus	2833	9e-10
+
+#Chain	ltr_Roo	1481-1658	Pcof_4417	2164-2652	-	61.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4417/Pcof_4417.seq	Pcof_4417	1481	1658	2652	2164	34.3	50.6	422	166			0	Minus	2657	1e-45
+
+#Chain	TY1_Copia	795-953	Pcof_4419	443-895	+	33.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4419/Pcof_4419.seq	Pcof_4419	795	953	443	895	21.3	36.0	96	41.5			0	Plus	2305	3e-07
+
+#Chain	MuDR_A_B	739-811	Pcof_4424	734-952	+	14.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4424/Pcof_4424.seq	Pcof_4424	739	811	734	952	20.3	38.0	81	35.7			0	Plus	2240	1e-05
+
+#Chain	ISa	33-386	Pcof_4460	880-1827	+	53.1
+ISa		473	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4460/Pcof_4460.seq	Pcof_4460	33	386	880	1827	15.0	29.4	110	46.7			0	Plus	2092	1e-09
+
+#Chain	gypsy	274-366	Pcof_4496	1153-1452	-	18.6
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4496/Pcof_4496.seq	Pcof_4496	274	366	1452	1153	20.0	33.0	93	40.2			0	Minus	3560	1e-06
+
+#Chain	ltr_Roo	230-1003	Pcof_4500	930-3460	+	122.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4500/Pcof_4500.seq	Pcof_4500	230	337	930	1241	29.6	50.0	218	88.3			0	Plus	3496	4e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4500/Pcof_4500.seq	Pcof_4500	420	491	1555	1776	29.9	41.6	110	46.7			0	Plus	3496	2e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4500/Pcof_4500.seq	Pcof_4500	703	787	2566	2823	19.8	40.7	166	68.3			0	Plus	3496	5e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4500/Pcof_4500.seq	Pcof_4500	796	1003	2840	3460	25.2	46.7	421	166			0	Plus	3496	5e-45
+
+#Chain	mariner	57-120	Pcof_4525	930-1121	-	9.0
+mariner		345	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4525/Pcof_4525.seq	Pcof_4525	57	120	1121	930	14.1	35.9	94	40.5			0	Minus	3821	1e-07
+
+#Chain	ISC1316	93-266	Pcof_4548	1163-1687	+	29.6
+ISC1316		393	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4548/Pcof_4548.seq	Pcof_4548	93	266	1163	1687	17.0	27.8	82	35.9			0	Plus	2967	4e-06
+
+#Chain	gypsy	275-354	Pcof_4548	2502-2759	+	12.2
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4548/Pcof_4548.seq	Pcof_4548	275	354	2502	2759	15.2	22.8	84	36.8			0	Plus	2967	1e-05
+
+#Chain	ISC1316	213-267	Pcof_4553	2357-2512	+	14.0
+ISC1316		393	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4553/Pcof_4553.seq	Pcof_4553	213	267	2357	2512	25.5	36.4	92	39.8			0	Plus	2592	2e-07
+
+#Chain	cacta	754-785	Pcof_4592	2536-2631	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4592/Pcof_4592.seq	Pcof_4592	754	785	2631	2536	71.9	75.0	100	42.9			0	Minus	3086	1e-07
+
+#Chain	ltr_Roo	1442-1757	Pcof_4606	3-953	+	105.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4606/Pcof_4606.seq	Pcof_4606	1442	1757	3	953	33.3	51.7	676	264			0	Plus	2378	3e-77
+
+#Chain	ltr_Roo	431-509	Pcof_4606	1935-2162	+	18.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4606/Pcof_4606.seq	Pcof_4606	431	509	1935	2162	23.5	39.5	102	43.6			0	Plus	2378	1e-07
+
+#Chain	cacta	754-784	Pcof_4631	2266-2358	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4631/Pcof_4631.seq	Pcof_4631	754	784	2266	2358	64.5	67.7	86	37.5			0	Plus	2486	4e-06
+
+#Chain	gypsy	532-1390	Pcof_4663	233-2640	+	206.2
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4663/Pcof_4663.seq	Pcof_4663	532	1038	233	1705	29.6	51.5	1138	442			0	Plus	4356	1e-134
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4663/Pcof_4663.seq	Pcof_4663	1145	1390	1873	2640	22.8	39.0	526	207			0	Plus	4356	1e-57
+
+#Chain	gypsy	528-1197	Pcof_4707	2330-4330	+	173.5
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4707/Pcof_4707.seq	Pcof_4707	528	1197	2330	4330	25.9	45.4	1162	452			0	Plus	4332	1e-137
+
+#Chain	LINE	583-778	Pcof_4714	2-583	+	33.7
+LINE		1189	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4714/Pcof_4714.seq	Pcof_4714	583	778	2	583	17.2	31.6	120	50.7			0	Plus	2327	3e-10
+
+#Chain	gypsy	697-1279	Pcof_4717	14-1601	+	137.0
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4717/Pcof_4717.seq	Pcof_4717	697	820	14	382	29.0	52.4	295	118			0	Plus	2552	9e-31
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4717/Pcof_4717.seq	Pcof_4717	803	950	328	735	24.3	40.5	203	82.6			0	Plus	2552	7e-20
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4717/Pcof_4717.seq	Pcof_4717	943	1279	723	1601	19.3	35.2	457	180			0	Plus	2552	2e-50
+
+#Chain	helitronORF	861-1319	Pcof_4740	161-1965	+	157.3
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4740/Pcof_4740.seq	Pcof_4740	861	913	161	367	33.3	47.8	122	51.2			0	Plus	2017	2e-10
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4740/Pcof_4740.seq	Pcof_4740	923	979	535	702	38.6	59.6	128	53.5			0	Plus	2017	4e-11
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4740/Pcof_4740.seq	Pcof_4740	980	1264	759	1748	32.1	45.9	527	207			0	Plus	2017	9e-60
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4740/Pcof_4740.seq	Pcof_4740	1264	1319	1786	1965	46.7	66.7	153	63.2			0	Plus	2017	4e-14
+
+#Chain	LINE	206-350	Pcof_4796	263-664	-	22.0
+LINE		1189	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4796/Pcof_4796.seq	Pcof_4796	206	350	664	263	15.2	30.5	82	36.0			0	Minus	2301	1e-05
+
+#Chain	Crypton	209-281	Pcof_4818	1581-1808	-	10.6
+Crypton		457	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4818/Pcof_4818.seq	Pcof_4818	209	281	1808	1581	14.5	23.7	86	37.7			0	Minus	2722	1e-06
+
+#Chain	gypsy	786-1038	Pcof_4832	7-740	-	79.2
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4832/Pcof_4832.seq	Pcof_4832	922	1038	369	7	36.9	57.4	296	118			0	Minus	2645	7e-31
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4832/Pcof_4832.seq	Pcof_4832	786	924	740	360	25.9	49.6	304	121			0	Minus	2645	8e-32
+
+#Chain	ISa	105-381	Pcof_4854	637-1338	-	55.1
+ISa		473	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4854/Pcof_4854.seq	Pcof_4854	105	381	1338	637	19.9	32.5	169	69.4			0	Minus	2726	2e-16
+
+#Chain	gypsy	171-389	Pcof_4871	1397-2170	-	41.4
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4871/Pcof_4871.seq	Pcof_4871	171	389	2170	1397	18.9	34.7	132	55.3			0	Minus	2736	2e-11
+
+#Chain	LINE	548-855	Pcof_4892	1-978	+	55.7
+LINE		1189	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4892/Pcof_4892.seq	Pcof_4892	548	855	1	978	18.1	32.9	231	93.4			0	Plus	2282	2e-23
+
+#Chain	TY1_Copia	200-576	Pcof_4911	51-374	+	34.3
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4911/Pcof_4911.seq	Pcof_4911	200	312	51	374	15.9	31.0	88	38.5			0	Plus	2626	3e-06
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4911/Pcof_4911.seq	Pcof_4911	499	576	132	374	21.0	33.3	104	44.6			0	Plus	2626	4e-08
+
+#Chain	ltr_Roo	217-717	Pcof_4924	481-2229	+	87.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4924/Pcof_4924.seq	Pcof_4924	217	717	481	2229	17.5	34.2	374	148			0	Plus	2353	4e-40
+
+#Chain	MuDR_A_B	653-842	Pcof_4926	2219-2794	-	39.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4926/Pcof_4926.seq	Pcof_4926	653	842	2794	2219	20.6	34.8	90	39.2			0	Minus	3187	1e-06
+
+#Chain	mariner_ant1	68-166	Pcof_493	3269-3553	+	22.6
+mariner_ant1		325	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_493/Pcof_493.seq	Pcof_493	68	166	3269	3553	22.8	35.6	86	37.5			0	Plus	5767	2e-06
+
+#Chain	gypsy	571-1253	Pcof_4989	4293-6402	+	166.3
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4989/Pcof_4989.seq	Pcof_4989	571	650	4293	4532	26.2	37.5	131	54.9			0	Plus	6443	7e-11
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4989/Pcof_4989.seq	Pcof_4989	640	742	4457	4789	27.9	45.9	234	94.6			0	Plus	6443	6e-23
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_4989/Pcof_4989.seq	Pcof_4989	738	1253	4774	6402	22.6	40.7	760	297			0	Plus	6443	3e-85
+
+#Chain	hAT	129-698	Pcof_5026	213-2314	-	99.0
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5026/Pcof_5026.seq	Pcof_5026	574	698	608	213	21.5	39.3	137	57.2			0	Minus	2403	2e-12
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5026/Pcof_5026.seq	Pcof_5026	427	484	1237	1001	20.3	31.6	94	40.6			0	Minus	2403	2e-07
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5026/Pcof_5026.seq	Pcof_5026	284	432	1730	1263	22.3	38.2	198	80.7			0	Minus	2403	1e-19
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5026/Pcof_5026.seq	Pcof_5026	129	277	2314	1793	18.2	35.8	174	71.5			0	Minus	2403	7e-17
+
+#Chain	gypsy	533-1257	Pcof_5036	1253-3271	+	172.6
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5036/Pcof_5036.seq	Pcof_5036	533	1257	1253	3271	23.8	42.9	1226	476			0	Plus	3272	1e-149
+
+#Chain	helitronORF	905-1282	Pcof_505	132-1486	+	133.7
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_505/Pcof_505.seq	Pcof_505	905	979	132	356	36.0	57.3	150	62.0			0	Plus	2070	1e-13
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_505/Pcof_505.seq	Pcof_505	975	1050	386	613	39.5	60.5	237	95.5			0	Plus	2070	4e-24
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_505/Pcof_505.seq	Pcof_505	1046	1182	648	1121	29.1	49.4	256	102			0	Plus	2070	2e-26
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_505/Pcof_505.seq	Pcof_505	1183	1282	1169	1486	36.8	57.5	271	108			0	Plus	2070	4e-28
+
+#Chain	helitronORF	1265-1321	Pcof_505	1534-1704	+	27.5
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_505/Pcof_505.seq	Pcof_505	1265	1321	1534	1704	48.3	63.8	174	71.3			0	Plus	2070	1e-16
+
+#Chain	ISC1316	213-256	Pcof_5060	1166-1306	-	8.4
+ISC1316		393	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5060/Pcof_5060.seq	Pcof_5060	213	256	1306	1166	19.1	36.2	85	37.1			0	Minus	2380	1e-06
+
+#Chain	cacta	753-865	Pcof_5077	1602-1937	-	34.5
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5077/Pcof_5077.seq	Pcof_5077	753	865	1937	1602	30.5	41.4	105	44.8			0	Minus	3225	3e-08
+
+#Chain	cacta	749-809	Pcof_5080	4485-4685	+	22.8
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5080/Pcof_5080.seq	Pcof_5080	749	809	4485	4685	37.3	43.3	88	38.3			0	Plus	4728	5e-06
+
+#Chain	ltr_Roo	239-310	Pcof_5146	923-1144	+	21.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5146/Pcof_5146.seq	Pcof_5146	239	310	923	1144	29.7	43.2	93	40.2			0	Plus	2998	1e-06
+
+#Chain	cacta	753-783	Pcof_5162	840-932	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5162/Pcof_5162.seq	Pcof_5162	753	783	840	932	64.5	64.5	85	37.1			0	Plus	2805	6e-06
+
+#Chain	gypsy	1198-1379	Pcof_5176	3568-4137	-	33.3
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5176/Pcof_5176.seq	Pcof_5176	1198	1379	4137	3568	18.3	31.5	208	84.5			0	Minus	7599	8e-20
+
+#Chain	ltr_Roo	711-1466	Pcof_5191	724-3121	-	187.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5191/Pcof_5191.seq	Pcof_5191	757	1466	2979	724	24.3	40.1	1160	451			0	Minus	6724	1e-132
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5191/Pcof_5191.seq	Pcof_5191	711	762	3121	2963	28.3	52.8	124	52.1			0	Minus	6724	9e-10
+
+#Chain	ltr_Roo	211-485	Pcof_5191	4179-5204	-	40.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5191/Pcof_5191.seq	Pcof_5191	211	485	5204	4179	14.7	31.2	243	98.0			0	Minus	6724	1e-23
+
+#Chain	gypsy	296-441	Pcof_5198	424-846	+	18.4
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5198/Pcof_5198.seq	Pcof_5198	296	441	424	846	12.6	26.5	119	50.3			0	Plus	3004	8e-10
+
+#Chain	LINE	254-389	Pcof_5230	2749-3195	-	19.2
+LINE		1189	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5230/Pcof_5230.seq	Pcof_5230	254	389	3195	2749	14.1	31.5	97	41.8			0	Minus	3477	3e-07
+
+#Chain	gypsy	1246-1448	Pcof_5250	532-1113	+	33.9
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5250/Pcof_5250.seq	Pcof_5250	1246	1448	532	1113	16.7	32.1	158	65.3			0	Plus	2168	1e-14
+
+#Chain	cacta	746-806	Pcof_5282	1968-2171	-	26.9
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5282/Pcof_5282.seq	Pcof_5282	746	806	2171	1968	44.1	54.4	96	41.4			0	Minus	5881	7e-07
+
+#Chain	ltr_Roo	231-1754	Pcof_5306	4883-9843	-	378.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5306/Pcof_5306.seq	Pcof_5306	1411	1754	5929	4883	28.6	44.8	720	281			0	Minus	10870	4e-80
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5306/Pcof_5306.seq	Pcof_5306	937	1406	7358	5943	27.8	48.0	861	336			0	Minus	10870	3e-97
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5306/Pcof_5306.seq	Pcof_5306	535	957	8641	7313	20.7	43.1	584	229			0	Minus	10870	9e-64
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5306/Pcof_5306.seq	Pcof_5306	431	530	9164	8877	20.8	32.7	129	54.0			0	Minus	10870	3e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5306/Pcof_5306.seq	Pcof_5306	231	399	9843	9352	24.3	46.2	230	92.9			0	Minus	10870	5e-22
+
+#Chain	ltr_Roo	688-1238	Pcof_5309	410-2123	-	122.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5309/Pcof_5309.seq	Pcof_5309	1092	1238	877	410	26.2	46.9	166	68.3			0	Minus	2128	2e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5309/Pcof_5309.seq	Pcof_5309	688	1091	2123	888	20.9	39.3	533	209			0	Minus	2128	9e-60
+
+#Chain	helitronORF	574-688	Pcof_5326	228-629	-	27.5
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5326/Pcof_5326.seq	Pcof_5326	574	688	629	228	23.9	45.5	150	62.0			0	Minus	2630	1e-13
+
+#Chain	helitronORF	252-582	Pcof_5326	644-2237	-	117.6
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5326/Pcof_5326.seq	Pcof_5326	540	582	772	644	53.5	69.8	152	62.8			0	Minus	2630	8e-14
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5326/Pcof_5326.seq	Pcof_5326	435	517	1508	1245	29.0	46.2	161	66.2			0	Minus	2630	7e-15
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5326/Pcof_5326.seq	Pcof_5326	370	435	1828	1628	49.3	64.2	201	81.7			0	Minus	2630	1e-19
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5326/Pcof_5326.seq	Pcof_5326	252	368	2237	1878	32.5	52.5	185	75.5			0	Minus	2630	1e-17
+
+#Chain	ltr_Roo	1456-1724	Pcof_5345	1700-2536	-	81.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5345/Pcof_5345.seq	Pcof_5345	1456	1724	2536	1700	30.2	47.4	578	226			0	Minus	2536	1e-64
+
+#Chain	cacta	752-784	Pcof_5362	1690-1788	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5362/Pcof_5362.seq	Pcof_5362	752	784	1788	1690	63.6	63.6	86	37.5			0	Minus	2131	3e-06
+
+#Chain	LINE	179-740	Pcof_5365	1642-3261	-	95.0
+LINE		1189	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5365/Pcof_5365.seq	Pcof_5365	179	740	3261	1642	16.9	31.7	561	220			0	Minus	3339	1e-62
+
+#Chain	cacta	752-785	Pcof_5374	5524-5637	-	21.5
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5374/Pcof_5374.seq	Pcof_5374	752	785	5637	5524	63.2	65.8	95	41.0			0	Minus	9251	1e-06
+
+#Chain	ISC1316	207-270	Pcof_5431	1568-1786	+	13.1
+ISC1316		393	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5431/Pcof_5431.seq	Pcof_5431	207	270	1568	1786	20.5	42.5	97	41.7			0	Plus	2122	4e-08
+
+#Chain	gypsy	565-1463	Pcof_5456	75-2786	+	217.6
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5456/Pcof_5456.seq	Pcof_5456	565	1463	75	2786	24.2	41.9	1637	634			0	Plus	4713	0.0
+
+#Chain	gypsy	553-1463	Pcof_5467	553-3276	+	204.1
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5467/Pcof_5467.seq	Pcof_5467	553	1463	553	3276	22.4	40.2	1582	613			0	Plus	3691	0.0
+
+#Chain	ltr_Roo	1351-1759	Pcof_5478	2525-3828	-	109.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5478/Pcof_5478.seq	Pcof_5478	1592	1759	3064	2525	20.2	37.2	177	72.5			0	Minus	3829	3e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5478/Pcof_5478.seq	Pcof_5478	1351	1592	3828	3061	31.0	50.8	538	211			0	Minus	3829	8e-59
+
+#Chain	gypsy	649-1280	Pcof_5483	36-1914	-	112.4
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5483/Pcof_5483.seq	Pcof_5483	1181	1280	347	36	17.9	35.8	114	48.3			0	Minus	2150	2e-09
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5483/Pcof_5483.seq	Pcof_5483	649	1006	1914	880	26.4	43.1	531	208			0	Minus	2150	6e-60
+
+#Chain	helitronORF	856-915	Pcof_5498	626-799	+	21.3
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5498/Pcof_5498.seq	Pcof_5498	856	915	626	799	35.5	53.2	91	39.3			0	Plus	2512	1e-06
+
+#Chain	ltr_Roo	223-310	Pcof_5519	427-663	+	24.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5519/Pcof_5519.seq	Pcof_5519	223	310	427	663	27.3	45.5	129	54.0			0	Plus	2115	6e-11
+
+#Chain	ltr_Roo	431-1768	Pcof_5534	39-4262	-	330.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5534/Pcof_5534.seq	Pcof_5534	1631	1768	500	39	29.0	47.1	237	95.6			0	Minus	4528	3e-23
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5534/Pcof_5534.seq	Pcof_5534	1524	1625	772	515	29.4	44.1	227	91.8			0	Minus	4528	5e-22
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5534/Pcof_5534.seq	Pcof_5534	1156	1524	1850	771	25.7	41.6	602	236			0	Minus	4528	4e-66
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5534/Pcof_5534.seq	Pcof_5534	1075	1142	2125	1895	28.6	48.1	125	52.5			0	Minus	4528	4e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5534/Pcof_5534.seq	Pcof_5534	528	1068	3807	2140	24.0	43.6	837	326			0	Minus	4528	2e-94
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5534/Pcof_5534.seq	Pcof_5534	431	506	4262	4032	21.5	39.2	121	51.0			0	Minus	4528	1e-09
+
+#Chain	cacta	753-789	Pcof_5541	2498-2608	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5541/Pcof_5541.seq	Pcof_5541	753	789	2498	2608	59.5	64.9	101	43.3			0	Plus	2846	8e-08
+
+#Chain	ltr_Roo	719-1601	Pcof_5552	209-2869	+	237.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5552/Pcof_5552.seq	Pcof_5552	719	945	209	898	24.2	45.8	435	171			0	Plus	2869	5e-47
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5552/Pcof_5552.seq	Pcof_5552	941	1447	885	2453	24.9	38.6	699	273			0	Plus	2869	3e-79
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5552/Pcof_5552.seq	Pcof_5552	1449	1601	2456	2869	36.6	51.6	355	141			0	Plus	2869	2e-37
+
+#Chain	ltr_Roo	228-867	Pcof_5554	3-2126	-	120.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5554/Pcof_5554.seq	Pcof_5554	228	867	2126	3	18.8	35.1	696	272			0	Minus	2210	3e-80
+
+#Chain	ltr_Roo	632-1756	Pcof_5562	18-3402	-	301.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5562/Pcof_5562.seq	Pcof_5562	1183	1756	1742	18	27.5	46.3	1101	428			0	Minus	3567	1e-129
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5562/Pcof_5562.seq	Pcof_5562	632	1180	3402	1756	26.1	43.7	969	377			0	Minus	3567	1e-112
+
+#Chain	ltr_Roo	225-1685	Pcof_5569	325-5441	+	342.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5569/Pcof_5569.seq	Pcof_5569	225	324	325	618	31.0	50.0	205	83.3			0	Plus	11637	6e-19
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5569/Pcof_5569.seq	Pcof_5569	413	686	1185	2105	19.9	34.5	212	86.0			0	Plus	11637	9e-20
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5569/Pcof_5569.seq	Pcof_5569	688	1046	2207	3334	23.4	42.7	685	268			0	Plus	11637	5e-75
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5569/Pcof_5569.seq	Pcof_5569	1031	1553	3286	4983	26.6	44.0	877	342			0	Plus	11637	2e-97
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5569/Pcof_5569.seq	Pcof_5569	1557	1685	5019	5441	26.1	48.6	277	111			0	Plus	11637	2e-27
+
+#Chain	hAT	215-307	Pcof_5691	867-1169	+	18.4
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5691/Pcof_5691.seq	Pcof_5691	215	307	867	1169	19.8	41.6	110	46.8			0	Plus	3094	4e-09
+
+#Chain	hAT	658-684	Pcof_5691	2866-2946	+	9.0
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5691/Pcof_5691.seq	Pcof_5691	658	684	2866	2946	33.3	59.3	104	44.5			0	Plus	3094	2e-08
+
+#Chain	ltr_Roo	1159-1755	Pcof_5696	64-2000	+	168.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5696/Pcof_5696.seq	Pcof_5696	1159	1566	64	1401	27.7	43.4	676	264			0	Plus	3457	8e-76
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5696/Pcof_5696.seq	Pcof_5696	1567	1755	1401	2000	29.1	46.6	397	157			0	Plus	3457	3e-42
+
+#Chain	helitronORF	1165-1316	Pcof_5731	1522-2004	-	68.9
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5731/Pcof_5731.seq	Pcof_5731	1165	1316	2004	1522	45.3	59.6	423	167			0	Minus	2005	7e-47
+
+#Chain	gypsy	554-1030	Pcof_5759	1618-3018	+	138.1
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5759/Pcof_5759.seq	Pcof_5759	554	643	1618	1893	22.8	43.5	161	66.4			0	Plus	3020	9e-15
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5759/Pcof_5759.seq	Pcof_5759	642	902	1889	2623	29.9	52.9	648	254			0	Plus	3020	2e-73
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5759/Pcof_5759.seq	Pcof_5759	898	1030	2608	3018	29.7	50.7	321	128			0	Plus	3020	1e-33
+
+#Chain	ltr_Roo	1039-1767	Pcof_5766	1-2240	+	188.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5766/Pcof_5766.seq	Pcof_5766	1039	1100	1	195	35.4	55.4	158	65.2			0	Plus	2843	3e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5766/Pcof_5766.seq	Pcof_5766	1106	1293	210	830	28.8	47.6	341	135			0	Plus	2843	8e-36
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5766/Pcof_5766.seq	Pcof_5766	1369	1518	1061	1501	29.6	53.3	344	136			0	Plus	2843	4e-36
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5766/Pcof_5766.seq	Pcof_5766	1511	1682	1477	1992	25.5	42.6	285	114			0	Plus	2843	3e-29
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5766/Pcof_5766.seq	Pcof_5766	1684	1767	1995	2240	28.4	47.7	166	68.3			0	Plus	2843	4e-15
+
+#Chain	gypsy	484-988	Pcof_5777	1011-2504	+	112.6
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5777/Pcof_5777.seq	Pcof_5777	484	988	1011	2504	22.3	41.5	740	289			0	Plus	3066	8e-85
+
+#Chain	ltr_Roo	1274-1755	Pcof_5781	1211-2733	-	128.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5781/Pcof_5781.seq	Pcof_5781	1376	1755	2431	1211	28.0	45.5	740	289			0	Minus	2739	1e-84
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5781/Pcof_5781.seq	Pcof_5781	1274	1375	2733	2431	21.7	40.0	123	51.7			0	Minus	2739	4e-10
+
+#Chain	helitronORF	370-581	Pcof_5821	23-973	-	64.5
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5821/Pcof_5821.seq	Pcof_5821	534	581	166	23	64.6	72.9	175	71.6			0	Minus	2024	1e-16
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_5821/Pcof_5821.seq	Pcof_5821	370	435	973	773	50.7	62.7	200	81.3			0	Minus	2024	1e-19
+
+#Chain	gypsy	1318-1383	Pcof_610	1806-2000	-	14.0
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_610/Pcof_610.seq	Pcof_610	1318	1383	2000	1806	21.2	34.8	159	65.7			0	Minus	2002	8e-15
+
+#Chain	DDE_1	199-317	Pcof_631	1070-1414	+	27.5
+DDE_1		535	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_631/Pcof_631.seq	Pcof_631	199	317	1070	1414	23.1	40.5	121	51.0			0	Plus	2051	7e-11
+
+#Chain	ltr_Roo	230-895	Pcof_655	1111-3658	+	141.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_655/Pcof_655.seq	Pcof_655	230	378	1111	1539	26.5	47.0	215	87.2			0	Plus	3663	9e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_655/Pcof_655.seq	Pcof_655	413	605	1933	2637	19.3	37.0	238	96.0			0	Plus	3663	2e-23
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_655/Pcof_655.seq	Pcof_655	610	895	2657	3658	22.6	39.8	429	169			0	Plus	3663	6e-46
+
+#Chain	hAT	294-709	Pcof_683	70-1455	-	63.2
+hAT		749	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_683/Pcof_683.seq	Pcof_683	294	709	1455	70	15.2	32.6	157	64.9			0	Minus	2707	9e-15
+
+#Chain	ltr_Roo	1603-1754	Pcof_726	1795-2291	-	40.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_726/Pcof_726.seq	Pcof_726	1655	1754	2124	1795	27.0	54.1	210	85.2			0	Minus	2294	2e-20
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_726/Pcof_726.seq	Pcof_726	1603	1664	2291	2094	21.2	42.4	98	42.1			0	Minus	2294	3e-07
+
+#Chain	gypsy	1160-1373	Pcof_727	2588-3247	-	47.9
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_727/Pcof_727.seq	Pcof_727	1160	1373	3247	2588	22.4	35.4	450	177			0	Minus	3299	6e-49
+
+#Chain	ltr_Roo	221-1233	Pcof_759	87-3276	-	190.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_759/Pcof_759.seq	Pcof_759	1164	1233	296	87	37.1	55.7	188	76.8			0	Minus	3845	1e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_759/Pcof_759.seq	Pcof_759	1080	1158	564	316	31.3	54.2	180	73.7			0	Minus	3845	1e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_759/Pcof_759.seq	Pcof_759	719	1057	1637	627	26.4	47.4	712	278			0	Minus	3845	8e-80
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_759/Pcof_759.seq	Pcof_759	423	494	2600	2394	23.6	36.1	91	39.4			0	Minus	3845	3e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_759/Pcof_759.seq	Pcof_759	221	372	3276	2833	21.6	47.1	217	87.9			0	Minus	3845	6e-21
+
+#Chain	helitronORF	3-1309	Pcof_780	592-4587	+	548.9
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_780/Pcof_780.seq	Pcof_780	3	1309	592	4587	42.0	61.0	3605	1392			0	Plus	4601	0.0
+
+#Chain	gypsy	299-414	Pcof_792	1567-1875	-	18.8
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_792/Pcof_792.seq	Pcof_792	299	414	1875	1567	16.2	29.1	94	40.6			0	Minus	5851	1e-06
+
+#Chain	TY1_Copia	280-329	Pcof_822	342-488	+	16.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_822/Pcof_822.seq	Pcof_822	280	329	342	488	32.0	44.0	88	38.5			0	Plus	2920	3e-06
+
+#Chain	ltr_Roo	1060-1642	Pcof_853	536-2281	+	149.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_853/Pcof_853.seq	Pcof_853	1060	1186	536	919	23.9	35.5	109	46.3			0	Plus	2283	1e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_853/Pcof_853.seq	Pcof_853	1193	1321	936	1376	28.4	48.6	254	102			0	Plus	2283	1e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_853/Pcof_853.seq	Pcof_853	1383	1642	1523	2281	31.8	48.7	543	213			0	Plus	2283	9e-61
+
+#Chain	mariner	247-300	Pcof_857	3470-3682	+	13.7
+mariner		345	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_857/Pcof_857.seq	Pcof_857	247	300	3470	3682	25.4	35.2	81	35.5			0	Plus	4244	6e-06
+
+#Chain	gypsy	277-387	Pcof_882	434-781	-	24.2
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_882/Pcof_882.seq	Pcof_882	277	387	781	434	21.8	33.6	121	51.0			0	Minus	2235	3e-10
+
+#Chain	gypsy	1160-1462	Pcof_885	62-1110	+	66.3
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_885/Pcof_885.seq	Pcof_885	1160	1362	62	700	22.8	36.7	408	161			0	Plus	2894	4e-44
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_885/Pcof_885.seq	Pcof_885	1361	1462	697	1110	19.6	33.3	124	52.2			0	Plus	2894	2e-10
+
+#Chain	TY1_Copia	82-596	Pcof_89	363-1163	+	66.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_89/Pcof_89.seq	Pcof_89	82	314	363	1163	13.7	34.3	111	47.3			0	Plus	2074	4e-09
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_89/Pcof_89.seq	Pcof_89	418	596	606	1163	19.5	35.4	113	48.1			0	Plus	2074	2e-09
+
+#Chain	helitronORF	101-806	Pcof_9	109-3293	-	218.0
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_9/Pcof_9.seq	Pcof_9	631	806	732	109	35.1	47.6	357	141			0	Minus	3578	8e-38
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_9/Pcof_9.seq	Pcof_9	571	632	970	767	27.9	50.0	93	40.1			0	Minus	3578	1e-06
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_9/Pcof_9.seq	Pcof_9	517	581	1161	979	48.5	62.1	156	64.3			0	Minus	3578	4e-14
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_9/Pcof_9.seq	Pcof_9	435	517	1680	1417	34.4	51.6	187	76.3			0	Minus	3578	1e-17
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_9/Pcof_9.seq	Pcof_9	370	435	1916	1716	49.3	62.7	217	87.8			0	Minus	3578	3e-21
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_9/Pcof_9.seq	Pcof_9	247	368	2368	1964	22.7	41.8	149	61.6			0	Minus	3578	3e-13
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_9/Pcof_9.seq	Pcof_9	101	168	3293	3078	27.4	56.2	119	50.1			0	Minus	3578	9e-10
+
+#Chain	TY1_Copia	802-914	Pcof_90	1425-1754	-	29.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_90/Pcof_90.seq	Pcof_90	802	914	1754	1425	26.1	41.7	127	53.5			0	Minus	5401	2e-10
+
+#Chain	ltr_Roo	1375-1436	Pcof_90	1813-2004	-	12.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_90/Pcof_90.seq	Pcof_90	1375	1436	2004	1813	20.0	35.4	89	38.6			0	Minus	5401	8e-06
+
+#Chain	gypsy	409-921	Pcof_90	2692-4559	-	109.6
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_90/Pcof_90.seq	Pcof_90	617	921	3570	2692	28.7	50.2	626	245			0	Minus	5401	3e-69
+gypsy		1463	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_90/Pcof_90.seq	Pcof_90	409	546	4559	4125	16.0	35.3	108	46.0			0	Minus	5401	3e-08
+
+#Chain	cacta	751-780	Pcof_915	665-754	-	18.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_915/Pcof_915.seq	Pcof_915	751	780	754	665	60.0	63.3	83	36.4			0	Minus	2094	7e-06
+
+#Chain	cacta	752-784	Pcof_915	954-1052	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_915/Pcof_915.seq	Pcof_915	752	784	1052	954	66.7	66.7	86	37.5			0	Minus	2094	3e-06
+
+#Chain	ltr_Roo	199-507	Pcof_949	781-1834	+	61.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_949/Pcof_949.seq	Pcof_949	199	429	781	1482	18.7	32.4	275	110			0	Plus	2467	4e-28
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_949/Pcof_949.seq	Pcof_949	430	507	1592	1834	22.9	37.3	145	60.2			0	Plus	2467	9e-13
+
+#Chain	ltr_Roo	230-1800	Pcof_950	3566-8578	-	381.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_950/Pcof_950.seq	Pcof_950	410	1800	7924	3566	25.0	42.2	2236	865			0	Minus	9037	0.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_950/Pcof_950.seq	Pcof_950	291	373	8397	8155	15.3	29.4	93	40.2			0	Minus	9037	5e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_950/Pcof_950.seq	Pcof_950	230	287	8578	8405	36.2	55.2	172	70.6			0	Minus	9037	3e-15
+
+#Chain	helitronORF	10-1321	Pcof_966	313-4382	-	528.9
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_966/Pcof_966.seq	Pcof_966	971	1321	1344	313	44.3	65.3	1068	415			0	Minus	5227	1e-125
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_966/Pcof_966.seq	Pcof_966	656	975	2321	1329	37.3	53.9	719	281			0	Minus	5227	8e-81
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_966/Pcof_966.seq	Pcof_966	480	675	2863	2258	44.3	62.6	570	223			0	Minus	5227	9e-63
+helitronORF		1321	PSITBLASTN	transposonPSI.5772.Amirs-PC.tmp/Pcof_966/Pcof_966.seq	Pcof_966	10	480	4382	2862	35.5	53.0	1107	430			0	Minus	5227	1e-130
+

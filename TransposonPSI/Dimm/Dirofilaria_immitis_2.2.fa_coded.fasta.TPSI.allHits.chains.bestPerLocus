@@ -1,0 +1,1058 @@
+#Chain	ltr_Roo	458-1212	Dimm_1	317025-318388	+	56.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1/Dimm_1.seq	Dimm_1	458	499	317025	317144	35.7	54.8	128	53.7			0	Plus	1085577	5e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1/Dimm_1.seq	Dimm_1	1035	1212	317870	318388	23.3	41.3	144	59.8			0	Plus	1085577	7e-10
+
+#Chain	hAT	123-172	Dimm_1	904158-904292	+	12.8
+hAT		749	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1/Dimm_1.seq	Dimm_1	123	172	904158	904292	25.5	39.2	105	44.9			0	Plus	1085577	6e-06
+
+#Chain	hAT	638-687	Dimm_1	1011722-1011871	+	16.0
+hAT		749	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1/Dimm_1.seq	Dimm_1	638	687	1011722	1011871	32.0	52.0	118	49.9			0	Plus	1085577	2e-07
+
+#Chain	cacta	758-787	Dimm_10065	203-292	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_10065/Dimm_10065.seq	Dimm_10065	758	787	203	292	70.0	70.0	91	39.4			0	Plus	554	8e-08
+
+#Chain	ltr_Roo	1184-1305	Dimm_1011	3407-3793	-	36.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1011/Dimm_1011.seq	Dimm_1011	1184	1305	3793	3407	29.5	50.4	187	76.4			0	Minus	14826	9e-17
+
+#Chain	ISC1316	92-140	Dimm_10157	395-541	+	10.0
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_10157/Dimm_10157.seq	Dimm_10157	92	140	395	541	20.4	40.8	71	31.7			0	Plus	546	7e-06
+
+#Chain	ltr_Roo	1481-1697	Dimm_1060	2042-2691	+	49.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1060/Dimm_1060.seq	Dimm_1060	1481	1599	2042	2368	21.7	38.3	109	46.3			0	Plus	13692	1e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1060/Dimm_1060.seq	Dimm_1060	1590	1697	2338	2691	22.0	36.6	106	45.2			0	Plus	13692	2e-07
+
+#Chain	ltr_Roo	1524-1587	Dimm_1070	12356-12511	+	16.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1070/Dimm_1070.seq	Dimm_1070	1524	1587	12356	12511	25.0	46.9	110	46.7			0	Plus	13405	8e-08
+
+#Chain	ISC1316	67-140	Dimm_10812	96-314	-	11.7
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_10812/Dimm_10812.seq	Dimm_10812	67	140	314	96	15.8	32.9	70	31.3			0	Minus	491	8e-06
+
+#Chain	ltr_Roo	1693-1753	Dimm_1102	11798-11977	+	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1102/Dimm_1102.seq	Dimm_1102	1693	1753	11798	11977	27.9	55.7	117	49.4			0	Plus	12765	1e-08
+
+#Chain	cacta	751-780	Dimm_11030	2-100	-	22.7
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_11030/Dimm_11030.seq	Dimm_11030	751	780	100	2	75.8	75.8	107	45.6			0	Minus	474	4e-10
+
+#Chain	cacta	752-784	Dimm_11030	113-211	-	20.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_11030/Dimm_11030.seq	Dimm_11030	752	784	211	113	60.6	60.6	85	37.1			0	Minus	474	3e-07
+
+#Chain	ltr_Roo	1014-1050	Dimm_111	80615-80725	-	12.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_111/Dimm_111.seq	Dimm_111	1014	1050	80725	80615	32.4	51.4	103	44.0			0	Minus	133949	5e-06
+
+#Chain	ltr_Roo	745-905	Dimm_111	82042-82574	-	35.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_111/Dimm_111.seq	Dimm_111	847	905	82215	82042	20.0	48.3	126	52.9			0	Minus	133949	1e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_111/Dimm_111.seq	Dimm_111	745	846	82574	82215	23.3	40.8	181	74.1			0	Minus	133949	4e-15
+
+#Chain	ltr_Roo	912-1112	Dimm_111	130843-131404	-	50.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_111/Dimm_111.seq	Dimm_111	1018	1112	131121	130843	32.6	49.5	185	75.6			0	Minus	133949	2e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_111/Dimm_111.seq	Dimm_111	912	1016	131404	131108	18.1	40.0	151	62.5			0	Minus	133949	1e-11
+
+#Chain	ltr_Roo	271-357	Dimm_1119	1956-2198	-	20.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1119/Dimm_1119.seq	Dimm_1119	271	357	2198	1956	23.0	41.4	121	51.0			0	Minus	12430	4e-09
+
+#Chain	ltr_Roo	1479-1710	Dimm_1152	4875-5589	-	48.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1152/Dimm_1152.seq	Dimm_1152	1561	1710	5381	4875	18.3	32.6	148	61.4			0	Minus	11860	3e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1152/Dimm_1152.seq	Dimm_1152	1479	1546	5589	5389	30.9	63.2	128	53.7			0	Minus	11860	5e-10
+
+#Chain	ltr_Roo	1119-1184	Dimm_1157	2500-2682	+	16.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1157/Dimm_1157.seq	Dimm_1157	1119	1184	2500	2682	25.4	43.3	106	45.2			0	Plus	11822	2e-07
+
+#Chain	ISC1316	91-137	Dimm_11610	190-321	+	9.0
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_11610/Dimm_11610.seq	Dimm_11610	91	137	190	321	19.1	38.3	68	30.5			0	Plus	426	1e-05
+
+#Chain	ISC1316	239-320	Dimm_11646	67-312	+	12.5
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_11646/Dimm_11646.seq	Dimm_11646	239	320	67	312	15.3	37.6	68	30.5			0	Plus	423	1e-05
+
+#Chain	ltr_Roo	751-952	Dimm_12	309658-310263	+	38.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_12/Dimm_12.seq	Dimm_12	751	952	309658	310263	19.1	37.7	130	54.4			0	Plus	492990	1e-08
+
+#Chain	Crypton	212-297	Dimm_12005	11-289	-	20.1
+Crypton		457	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_12005/Dimm_12005.seq	Dimm_12005	212	297	289	11	23.4	34.0	74	33.1			0	Minus	399	1e-06
+
+#Chain	ltr_Roo	933-1049	Dimm_1203	3199-3489	-	25.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1203/Dimm_1203.seq	Dimm_1203	933	1049	3489	3199	21.8	36.1	108	46.0			0	Minus	10908	1e-07
+
+#Chain	ISC1316	215-247	Dimm_12059	240-338	+	9.0
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_12059/Dimm_12059.seq	Dimm_12059	215	247	240	338	27.3	36.4	73	32.5			0	Plus	395	2e-06
+
+#Chain	ltr_Roo	882-1570	Dimm_1214	3902-5809	+	121.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1214/Dimm_1214.seq	Dimm_1214	882	1570	3902	5809	17.6	34.9	326	129			0	Plus	10765	3e-33
+
+#Chain	ltr_Roo	1122-1603	Dimm_1214	7781-9097	-	66.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1214/Dimm_1214.seq	Dimm_1214	1448	1603	8140	7781	17.9	36.5	178	72.9			0	Minus	10765	6e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1214/Dimm_1214.seq	Dimm_1214	1122	1277	9097	8627	24.6	40.9	140	58.3			0	Minus	10765	2e-11
+
+#Chain	ltr_Roo	1708-1763	Dimm_1243	1442-1618	+	15.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1243/Dimm_1243.seq	Dimm_1243	1708	1763	1442	1618	27.1	47.5	97	41.7			0	Plus	10371	2e-06
+
+#Chain	ltr_Roo	650-839	Dimm_125	117853-118485	-	42.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_125/Dimm_125.seq	Dimm_125	650	839	118485	117853	22.4	38.2	202	82.2			0	Minus	119167	1e-17
+
+#Chain	ltr_Roo	723-773	Dimm_1252	9825-9992	-	12.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1252/Dimm_1252.seq	Dimm_1252	723	773	9992	9825	25.0	42.9	105	44.8			0	Minus	10282	2e-07
+
+#Chain	ltr_Roo	725-1587	Dimm_1253	7630-10077	+	160.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1253/Dimm_1253.seq	Dimm_1253	725	829	7630	7938	27.8	44.4	166	68.3			0	Plus	10256	2e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1253/Dimm_1253.seq	Dimm_1253	872	945	8138	8344	21.6	44.6	117	49.4			0	Plus	10256	9e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1253/Dimm_1253.seq	Dimm_1253	998	1112	8461	8763	24.1	34.5	134	56.0			0	Plus	10256	9e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1253/Dimm_1253.seq	Dimm_1253	1124	1212	8823	9089	25.6	47.8	94	40.6			0	Plus	10256	4e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1253/Dimm_1253.seq	Dimm_1253	1264	1587	9253	10077	19.9	32.5	127	53.3			0	Plus	10256	6e-10
+
+#Chain	ltr_Roo	818-859	Dimm_12538	21-143	+	11.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_12538/Dimm_12538.seq	Dimm_12538	818	859	21	143	26.2	57.1	89	38.6			0	Plus	362	7e-08
+
+#Chain	cacta	751-772	Dimm_12550	296-361	+	16.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_12550/Dimm_12550.seq	Dimm_12550	751	772	296	361	72.7	72.7	73	32.5			0	Plus	362	5e-06
+
+#Chain	ltr_Roo	249-312	Dimm_1274	8399-8584	-	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1274/Dimm_1274.seq	Dimm_1274	249	312	8584	8399	20.3	37.5	91	39.4			0	Minus	9987	9e-06
+
+#Chain	ltr_Roo	249-312	Dimm_1276	8387-8572	-	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1276/Dimm_1276.seq	Dimm_1276	249	312	8572	8387	20.3	37.5	91	39.4			0	Minus	9975	9e-06
+
+#Chain	ltr_Roo	1673-1741	Dimm_1282	370-591	+	21.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1282/Dimm_1282.seq	Dimm_1282	1673	1741	370	591	30.7	52.0	125	52.5			0	Plus	9892	8e-10
+
+#Chain	mariner	91-136	Dimm_12964	134-274	+	11.7
+mariner		345	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_12964/Dimm_12964.seq	Dimm_12964	91	136	134	274	25.5	46.8	68	30.5			0	Plus	335	4e-06
+
+#Chain	ltr_Roo	730-1720	Dimm_1297	5197-8087	+	189.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1297/Dimm_1297.seq	Dimm_1297	730	963	5197	5865	23.0	45.6	327	130			0	Plus	9754	3e-33
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1297/Dimm_1297.seq	Dimm_1297	1014	1104	5985	6251	30.4	51.1	156	64.4			0	Plus	9754	2e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1297/Dimm_1297.seq	Dimm_1297	1135	1328	6412	7008	28.9	47.8	232	93.7			0	Plus	9754	3e-22
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1297/Dimm_1297.seq	Dimm_1297	1471	1620	7321	7737	24.4	38.8	177	72.5			0	Plus	9754	9e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1297/Dimm_1297.seq	Dimm_1297	1669	1720	7917	8087	29.3	46.6	115	48.6			0	Plus	9754	1e-08
+
+#Chain	ltr_Roo	833-857	Dimm_13041	190-264	+	9.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_13041/Dimm_13041.seq	Dimm_13041	833	857	190	264	36.0	72.0	82	35.9			0	Plus	330	5e-07
+
+#Chain	ltr_Roo	1191-1618	Dimm_1308	3307-3904	-	31.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1308/Dimm_1308.seq	Dimm_1308	1564	1618	3468	3307	29.1	54.5	131	54.8			0	Minus	9553	2e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1308/Dimm_1308.seq	Dimm_1308	1191	1232	3904	3779	35.7	59.5	94	40.6			0	Minus	9553	4e-06
+
+#Chain	ltr_Roo	240-347	Dimm_1308	6075-6455	+	25.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1308/Dimm_1308.seq	Dimm_1308	240	347	6075	6455	23.6	40.2	139	57.9			0	Plus	9553	2e-11
+
+#Chain	ltr_Roo	786-860	Dimm_1308	7726-7949	+	30.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1308/Dimm_1308.seq	Dimm_1308	786	815	7726	7815	56.7	66.7	91	39.4			0	Plus	9553	9e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1308/Dimm_1308.seq	Dimm_1308	817	860	7818	7949	29.5	61.4	114	48.3			0	Plus	9553	2e-08
+
+#Chain	cacta	750-781	Dimm_131	61128-61250	-	21.1
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_131/Dimm_131.seq	Dimm_131	750	781	61250	61128	65.9	70.7	117	49.5			0	Minus	113057	5e-08
+
+#Chain	MuDR_A_B	654-751	Dimm_132	41641-41934	+	18.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_132/Dimm_132.seq	Dimm_132	654	751	41641	41934	18.4	34.7	99	42.6			0	Plus	112975	5e-06
+
+#Chain	hAT	121-185	Dimm_1338	8352-8543	-	21.6
+hAT		749	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1338/Dimm_1338.seq	Dimm_1338	121	185	8543	8352	33.3	48.5	125	52.6			0	Minus	8992	2e-10
+
+#Chain	ltr_Roo	771-1223	Dimm_1339	2014-3368	-	82.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1339/Dimm_1339.seq	Dimm_1339	941	1223	2835	2014	18.4	37.7	241	97.2			0	Minus	8981	3e-23
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1339/Dimm_1339.seq	Dimm_1339	771	862	3368	3078	33.0	57.7	266	106			0	Minus	8981	3e-26
+
+#Chain	ltr_Roo	956-1583	Dimm_1367	684-2525	-	78.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1367/Dimm_1367.seq	Dimm_1367	1352	1583	1331	684	18.5	35.0	168	69.1			0	Minus	8295	8e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1367/Dimm_1367.seq	Dimm_1367	956	1099	2525	2085	24.5	42.4	143	59.4			0	Minus	8295	7e-12
+
+#Chain	ltr_Roo	1185-1296	Dimm_1371	1081-1440	+	29.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1371/Dimm_1371.seq	Dimm_1371	1185	1296	1081	1440	26.2	44.3	132	55.2			0	Plus	8284	1e-10
+
+#Chain	ltr_Roo	988-1130	Dimm_1371	1546-1956	-	38.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1371/Dimm_1371.seq	Dimm_1371	988	1130	1956	1546	26.6	46.2	184	75.2			0	Minus	8284	9e-17
+
+#Chain	hAT	142-182	Dimm_13730	48-155	-	11.0
+hAT		749	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_13730/Dimm_13730.seq	Dimm_13730	142	182	155	48	26.8	46.3	71	31.8			0	Minus	291	3e-06
+
+#Chain	ISC1316	87-175	Dimm_1376	2292-2549	-	14.0
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1376/Dimm_1376.seq	Dimm_1376	87	175	2549	2292	15.7	34.8	85	37.1			0	Minus	8248	5e-06
+
+#Chain	ltr_Roo	412-491	Dimm_1386	1443-1664	-	16.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1386/Dimm_1386.seq	Dimm_1386	412	491	1664	1443	21.0	38.3	114	48.3			0	Minus	8079	2e-08
+
+#Chain	ltr_Roo	249-359	Dimm_14	184201-184506	+	21.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_14/Dimm_14.seq	Dimm_14	249	359	184201	184506	19.6	37.5	136	56.7			0	Plus	477549	3e-09
+
+#Chain	ltr_Roo	995-1135	Dimm_14	185669-186100	+	31.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_14/Dimm_14.seq	Dimm_14	995	1135	185669	186100	22.6	38.1	141	58.7			0	Plus	477549	7e-10
+
+#Chain	ltr_Roo	1084-1243	Dimm_14	476840-477337	-	42.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_14/Dimm_14.seq	Dimm_14	1084	1243	477337	476840	26.8	40.8	178	72.9			0	Minus	477549	4e-14
+
+#Chain	ltr_Roo	877-956	Dimm_14010	11-247	+	10.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_14010/Dimm_14010.seq	Dimm_14010	877	956	11	247	12.5	41.2	104	44.4			0	Plus	278	7e-10
+
+#Chain	cacta	754-787	Dimm_14199	167-268	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_14199/Dimm_14199.seq	Dimm_14199	754	787	268	167	61.8	64.7	83	36.4			0	Minus	269	1e-07
+
+#Chain	ltr_Roo	720-1071	Dimm_143	66923-67944	-	66.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_143/Dimm_143.seq	Dimm_143	984	1071	67168	66923	23.9	46.6	110	46.7			0	Minus	101834	6e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_143/Dimm_143.seq	Dimm_143	720	972	67944	67192	18.1	39.2	286	114			0	Minus	101834	2e-27
+
+#Chain	ltr_Roo	854-1009	Dimm_1459	6756-7175	+	25.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1459/Dimm_1459.seq	Dimm_1459	854	1009	6756	7175	16.1	34.8	145	60.2			0	Plus	7187	3e-12
+
+#Chain	ltr_Roo	766-997	Dimm_148	16130-16846	-	36.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_148/Dimm_148.seq	Dimm_148	766	997	16846	16130	15.8	40.3	251	101			0	Minus	100080	2e-23
+
+#Chain	cacta	758-780	Dimm_1491	5930-5998	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1491/Dimm_1491.seq	Dimm_1491	758	780	5930	5998	82.6	82.6	87	37.9			0	Plus	6922	9e-06
+
+#Chain	ltr_Roo	906-1168	Dimm_15	375541-376296	+	46.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_15/Dimm_15.seq	Dimm_15	906	1168	375541	376296	17.7	32.6	174	71.4			0	Plus	464095	1e-13
+
+#Chain	cacta	752-772	Dimm_1503	5586-5648	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1503/Dimm_1503.seq	Dimm_1503	752	772	5648	5586	90.5	90.5	94	40.6			0	Minus	6795	1e-06
+
+#Chain	ltr_Roo	820-889	Dimm_1504	4996-5220	+	9.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1504/Dimm_1504.seq	Dimm_1504	820	889	4996	5220	13.3	38.7	110	46.7			0	Plus	6792	4e-08
+
+#Chain	ltr_Roo	1493-1532	Dimm_1527	2320-2439	+	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1527/Dimm_1527.seq	Dimm_1527	1493	1532	2320	2439	35.0	55.0	100	42.9			0	Plus	6564	5e-07
+
+#Chain	ltr_Roo	812-923	Dimm_1528	2315-2659	+	20.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1528/Dimm_1528.seq	Dimm_1528	812	923	2315	2659	18.6	39.8	118	49.8			0	Plus	6558	4e-09
+
+#Chain	cacta	750-800	Dimm_1558	2208-2360	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1558/Dimm_1558.seq	Dimm_1558	750	800	2208	2360	45.1	51.0	92	39.8			0	Plus	6349	2e-06
+
+#Chain	ltr_Roo	253-312	Dimm_1580	107-283	-	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1580/Dimm_1580.seq	Dimm_1580	253	312	283	107	35.0	60.0	132	55.2			0	Minus	6242	9e-11
+
+#Chain	ltr_Roo	880-949	Dimm_15802	2-205	+	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_15802/Dimm_15802.seq	Dimm_15802	880	949	2	205	24.3	44.3	145	60.2			0	Plus	207	2e-15
+
+#Chain	cacta	758-782	Dimm_16	200384-200458	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_16/Dimm_16.seq	Dimm_16	758	782	200384	200458	80.0	84.0	103	44.1			0	Plus	461420	9e-06
+
+#Chain	ltr_Roo	1185-1487	Dimm_1619	2411-3344	-	48.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1619/Dimm_1619.seq	Dimm_1619	1304	1487	2920	2411	17.1	34.7	117	49.4			0	Minus	6054	5e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1619/Dimm_1619.seq	Dimm_1619	1185	1245	3344	3165	27.9	55.7	118	49.8			0	Minus	6054	4e-09
+
+#Chain	ltr_Roo	1429-1510	Dimm_167	8526-8753	-	22.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_167/Dimm_167.seq	Dimm_167	1429	1510	8753	8526	27.7	47.0	135	56.4			0	Minus	92061	7e-10
+
+#Chain	cacta	753-784	Dimm_1676	385-495	+	24.2
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1676/Dimm_1676.seq	Dimm_1676	753	784	385	495	75.7	78.4	120	50.6			0	Plus	5790	9e-10
+
+#Chain	ltr_Roo	1074-1441	Dimm_173	84345-85448	-	67.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_173/Dimm_173.seq	Dimm_173	1074	1441	85448	84345	18.4	33.6	156	64.4			0	Minus	89031	2e-12
+
+#Chain	ltr_Roo	443-1000	Dimm_173	85984-87650	+	81.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_173/Dimm_173.seq	Dimm_173	443	494	85984	86136	22.6	43.4	107	45.6			0	Plus	89031	1e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_173/Dimm_173.seq	Dimm_173	698	1000	86760	87650	23.0	40.4	340	135			0	Plus	89031	9e-34
+
+#Chain	ltr_Roo	230-312	Dimm_174	1977-2210	+	30.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_174/Dimm_174.seq	Dimm_174	230	312	1977	2210	36.1	51.8	197	80.2			0	Plus	87957	3e-17
+
+#Chain	ltr_Roo	230-1462	Dimm_174	2312-3859	+	73.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_174/Dimm_174.seq	Dimm_174	230	342	2312	2629	31.0	44.2	201	81.8			0	Plus	87957	1e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_174/Dimm_174.seq	Dimm_174	1254	1462	3236	3859	18.3	39.7	170	69.8			0	Plus	87957	5e-14
+
+#Chain	ltr_Roo	230-321	Dimm_1762	4269-4538	+	22.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1762/Dimm_1762.seq	Dimm_1762	230	321	4269	4538	23.9	43.5	142	59.0			0	Plus	5056	5e-12
+
+#Chain	ltr_Roo	216-329	Dimm_1796	2295-2636	+	22.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1796/Dimm_1796.seq	Dimm_1796	216	329	2295	2636	19.7	33.3	111	47.1			0	Plus	4640	2e-08
+
+#Chain	ltr_Roo	216-286	Dimm_1799	994-1206	-	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1799/Dimm_1799.seq	Dimm_1799	216	286	1206	994	25.4	45.1	107	45.6			0	Minus	4552	5e-08
+
+#Chain	ltr_Roo	1385-1515	Dimm_18	67734-68111	+	28.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_18/Dimm_18.seq	Dimm_18	1385	1515	67734	68111	21.7	42.0	145	60.2			0	Plus	459098	2e-10
+
+#Chain	ltr_Roo	1078-1145	Dimm_1804	1258-1461	+	20.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1804/Dimm_1804.seq	Dimm_1804	1078	1145	1258	1461	30.6	50.0	94	40.6			0	Plus	4477	2e-06
+
+#Chain	cacta	753-780	Dimm_181	19560-19643	-	25.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_181/Dimm_181.seq	Dimm_181	753	780	19643	19560	89.3	89.3	116	49.1			0	Minus	85033	5e-08
+
+#Chain	ltr_Roo	790-1002	Dimm_183	67383-68054	-	37.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_183/Dimm_183.seq	Dimm_183	790	1002	68054	67383	17.4	30.7	129	54.0			0	Minus	84568	3e-09
+
+#Chain	ltr_Roo	258-341	Dimm_183	70172-70402	-	19.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_183/Dimm_183.seq	Dimm_183	258	341	70402	70172	22.6	40.5	99	42.5			0	Minus	84568	1e-05
+
+#Chain	ltr_Roo	260-308	Dimm_1834	27-170	+	12.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1834/Dimm_1834.seq	Dimm_1834	260	308	27	170	24.5	44.9	95	40.9			0	Plus	4051	1e-06
+
+#Chain	ltr_Roo	783-1243	Dimm_1834	1829-3179	+	98.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1834/Dimm_1834.seq	Dimm_1834	783	839	1829	1996	35.1	56.1	146	60.6			0	Plus	4051	1e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1834/Dimm_1834.seq	Dimm_1834	833	1053	1975	2598	16.0	30.7	138	57.5			0	Plus	4051	1e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1834/Dimm_1834.seq	Dimm_1834	1084	1243	2682	3179	26.8	40.8	178	72.9			0	Plus	4051	2e-16
+
+#Chain	cacta	750-785	Dimm_1859	2908-3015	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1859/Dimm_1859.seq	Dimm_1859	750	785	2908	3015	66.7	69.4	111	47.2			0	Plus	3862	8e-09
+
+#Chain	ltr_Roo	247-291	Dimm_1878	18-149	+	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1878/Dimm_1878.seq	Dimm_1878	247	291	18	149	31.1	42.2	100	42.9			0	Plus	3672	3e-07
+
+#Chain	ltr_Roo	765-1243	Dimm_1878	1721-3139	+	103.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1878/Dimm_1878.seq	Dimm_1878	765	808	1721	1867	32.7	49.0	124	52.1			0	Plus	3672	4e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1878/Dimm_1878.seq	Dimm_1878	812	866	1876	2040	20.0	56.4	114	48.3			0	Plus	3672	7e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1878/Dimm_1878.seq	Dimm_1878	864	1157	2031	2879	18.3	37.0	271	108			0	Plus	3672	2e-27
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1878/Dimm_1878.seq	Dimm_1878	1165	1243	2903	3139	31.2	50.0	152	62.9			0	Plus	3672	2e-13
+
+#Chain	ltr_Roo	1181-1510	Dimm_1886	1117-1997	-	41.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1886/Dimm_1886.seq	Dimm_1886	1442	1510	1308	1117	29.0	50.7	120	50.6			0	Minus	3591	1e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1886/Dimm_1886.seq	Dimm_1886	1392	1432	1460	1338	29.3	48.8	100	42.9			0	Minus	3591	3e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1886/Dimm_1886.seq	Dimm_1886	1181	1224	1997	1869	20.5	59.1	91	39.4			0	Minus	3591	3e-06
+
+#Chain	ltr_Roo	454-829	Dimm_1886	2667-3501	+	36.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1886/Dimm_1886.seq	Dimm_1886	454	489	2667	2780	28.9	47.4	93	40.2			0	Plus	3591	2e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1886/Dimm_1886.seq	Dimm_1886	695	829	3133	3501	19.6	40.6	136	56.7			0	Plus	3591	2e-11
+
+#Chain	ltr_Roo	238-324	Dimm_1891	250-495	-	27.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1891/Dimm_1891.seq	Dimm_1891	238	324	495	250	31.0	43.7	163	67.1			0	Minus	3536	1e-14
+
+#Chain	ltr_Roo	987-1655	Dimm_19	245597-247531	-	124.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_19/Dimm_19.seq	Dimm_19	1479	1655	246079	245597	23.2	40.9	211	85.6			0	Minus	454232	5e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_19/Dimm_19.seq	Dimm_19	1140	1474	247077	246079	12.5	29.0	146	60.6			0	Minus	454232	2e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_19/Dimm_19.seq	Dimm_19	1041	1130	247373	247131	28.9	43.3	134	56.0			0	Minus	454232	4e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_19/Dimm_19.seq	Dimm_19	987	1040	247531	247373	29.6	53.7	111	47.1			0	Minus	454232	2e-06
+
+#Chain	ltr_Roo	1495-1612	Dimm_192	71434-71706	+	21.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_192/Dimm_192.seq	Dimm_192	1495	1612	71434	71706	18.6	37.3	104	44.4			0	Plus	79876	2e-06
+
+#Chain	ltr_Roo	1414-1743	Dimm_1923	340-1360	+	61.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1923/Dimm_1923.seq	Dimm_1923	1414	1642	340	1008	18.7	37.0	191	77.9			0	Plus	3323	5e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1923/Dimm_1923.seq	Dimm_1923	1671	1743	1121	1360	26.2	47.5	124	52.1			0	Plus	3323	4e-10
+
+#Chain	ltr_Roo	819-1510	Dimm_1930	250-2285	+	76.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1930/Dimm_1930.seq	Dimm_1930	819	870	250	405	17.3	48.1	112	47.5			0	Plus	3251	1e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1930/Dimm_1930.seq	Dimm_1930	941	1044	632	922	22.1	40.4	124	52.1			0	Plus	3251	4e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1930/Dimm_1930.seq	Dimm_1930	1356	1510	1833	2285	28.5	47.5	266	106			0	Plus	3251	8e-27
+
+#Chain	ltr_Roo	1367-1587	Dimm_1967	180-757	-	50.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1967/Dimm_1967.seq	Dimm_1967	1421	1587	584	180	23.2	36.3	104	44.4			0	Minus	3032	8e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1967/Dimm_1967.seq	Dimm_1967	1367	1429	757	566	18.8	40.6	103	44.0			0	Minus	3032	1e-07
+
+#Chain	ltr_Roo	804-945	Dimm_1967	1977-2405	-	31.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_1967/Dimm_1967.seq	Dimm_1967	804	945	2405	1977	22.1	41.6	167	68.7			0	Minus	3032	3e-15
+
+#Chain	ltr_Roo	1157-1463	Dimm_199	6799-7647	-	53.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_199/Dimm_199.seq	Dimm_199	1157	1463	7647	6799	17.5	34.6	116	49.0			0	Minus	78071	9e-08
+
+#Chain	ltr_Roo	224-878	Dimm_2	88449-89615	-	59.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	772	878	88781	88449	29.7	54.1	269	107			0	Minus	1069194	2e-24
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	224	325	89615	89316	27.5	47.1	213	86.4			0	Minus	1069194	7e-18
+
+#Chain	ltr_Roo	687-1752	Dimm_2	539749-542920	+	214.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	687	777	539749	540042	20.8	42.6	137	57.1			0	Plus	1069194	5e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	784	874	540075	540320	24.2	47.3	151	62.5			0	Plus	1069194	1e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	876	1100	540341	540970	20.9	37.8	209	84.9			0	Plus	1069194	2e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	1112	1380	540990	541814	19.0	34.2	131	54.8			0	Plus	1069194	2e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	1380	1645	541813	542556	19.3	33.6	222	89.9			0	Plus	1069194	6e-19
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	1677	1752	542672	542920	31.3	50.6	156	64.4			0	Plus	1069194	3e-11
+
+#Chain	ltr_Roo	835-1535	Dimm_2	583052-583895	-	36.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	1463	1535	583252	583052	35.6	57.5	167	68.7			0	Minus	1069194	2e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	835	886	583895	583731	19.6	46.4	119	50.2			0	Minus	1069194	6e-07
+
+#Chain	ltr_Roo	783-876	Dimm_2	583952-584224	-	25.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	783	876	584224	583952	27.4	40.0	110	46.7			0	Minus	1069194	7e-06
+
+#Chain	ltr_Roo	206-363	Dimm_2	585561-586016	-	35.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2/Dimm_2.seq	Dimm_2	206	363	586016	585561	22.5	35.6	212	86.0			0	Minus	1069194	9e-18
+
+#Chain	cacta	750-778	Dimm_202	35587-35673	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_202/Dimm_202.seq	Dimm_202	750	778	35587	35673	69.0	72.4	96	41.4			0	Plus	75884	1e-05
+
+#Chain	ltr_Roo	806-958	Dimm_2038	259-716	-	32.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2038/Dimm_2038.seq	Dimm_2038	903	958	423	259	19.6	41.1	113	47.9			0	Minus	2788	6e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2038/Dimm_2038.seq	Dimm_2038	806	902	716	423	22.5	51.0	184	75.2			0	Minus	2788	3e-17
+
+#Chain	gypsy	302-470	Dimm_2043	1938-2387	+	27.9
+gypsy		1463	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2043/Dimm_2043.seq	Dimm_2043	302	470	1938	2387	16.5	33.5	97	41.8			0	Plus	2771	3e-07
+
+#Chain	ltr_Roo	1668-1720	Dimm_2078	658-834	-	13.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2078/Dimm_2078.seq	Dimm_2078	1668	1720	834	658	25.4	45.8	98	42.1			0	Minus	2671	3e-07
+
+#Chain	ltr_Roo	1029-1435	Dimm_2078	1492-2521	-	77.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2078/Dimm_2078.seq	Dimm_2078	1387	1435	1677	1492	19.4	37.1	86	37.5			0	Minus	2671	9e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2078/Dimm_2078.seq	Dimm_2078	1212	1293	1962	1684	23.4	39.4	134	56.0			0	Minus	2671	2e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2078/Dimm_2078.seq	Dimm_2078	1029	1181	2521	2051	31.9	50.0	275	110			0	Minus	2671	5e-28
+
+#Chain	ltr_Roo	828-947	Dimm_2094	651-998	+	23.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2094/Dimm_2094.seq	Dimm_2094	828	947	651	998	19.4	36.3	174	71.4			0	Plus	2624	4e-16
+
+#Chain	ltr_Roo	1442-1734	Dimm_21	5155-5934	-	48.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_21/Dimm_21.seq	Dimm_21	1442	1734	5934	5155	16.5	30.7	152	62.9			0	Minus	435776	3e-11
+
+#Chain	cacta	743-800	Dimm_21	90757-90966	-	26.6
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_21/Dimm_21.seq	Dimm_21	743	800	90966	90757	45.8	51.4	117	49.5			0	Minus	435776	2e-07
+
+#Chain	ltr_Roo	1083-1135	Dimm_2135	241-408	+	15.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2135/Dimm_2135.seq	Dimm_2135	1083	1135	241	408	29.8	45.6	86	37.5			0	Plus	2557	8e-06
+
+#Chain	ltr_Roo	251-308	Dimm_2141	1082-1252	+	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2141/Dimm_2141.seq	Dimm_2141	251	308	1082	1252	22.4	44.8	96	41.3			0	Plus	2538	5e-07
+
+#Chain	ltr_Roo	749-874	Dimm_218	51900-52289	+	30.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_218/Dimm_218.seq	Dimm_218	749	874	51900	52289	24.1	47.4	242	97.6			0	Plus	71287	2e-22
+
+#Chain	ltr_Roo	1530-1653	Dimm_2191	2096-2440	-	29.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2191/Dimm_2191.seq	Dimm_2191	1530	1653	2440	2096	23.4	42.7	243	98.0			0	Minus	2442	2e-24
+
+#Chain	ltr_Roo	694-851	Dimm_220	580-1070	+	47.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_220/Dimm_220.seq	Dimm_220	694	778	580	840	21.6	43.2	129	54.0			0	Plus	71050	2e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_220/Dimm_220.seq	Dimm_220	786	851	873	1070	43.9	63.6	185	75.6			0	Plus	71050	5e-16
+
+#Chain	ltr_Roo	1185-1243	Dimm_2258	53-226	-	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2258/Dimm_2258.seq	Dimm_2258	1185	1243	226	53	30.5	50.8	114	48.3			0	Minus	2322	4e-09
+
+#Chain	ltr_Roo	1351-1417	Dimm_2288	269-469	+	19.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2288/Dimm_2288.seq	Dimm_2288	1351	1417	269	469	29.4	47.1	88	38.2			0	Plus	2259	4e-06
+
+#Chain	ltr_Roo	688-837	Dimm_23	89174-89644	-	36.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_23/Dimm_23.seq	Dimm_23	688	837	89644	89174	24.4	46.2	259	104			0	Minus	423346	1e-23
+
+#Chain	ltr_Roo	253-311	Dimm_23	90889-91038	-	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_23/Dimm_23.seq	Dimm_23	253	311	91038	90889	35.6	52.5	117	49.4			0	Minus	423346	4e-07
+
+#Chain	DDE_1	434-530	Dimm_2310	908-1210	+	19.4
+DDE_1		535	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2310/Dimm_2310.seq	Dimm_2310	434	530	908	1210	20.0	41.0	79	34.8			0	Plus	2224	8e-06
+
+#Chain	ltr_Roo	1496-1587	Dimm_2324	1903-2136	-	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2324/Dimm_2324.seq	Dimm_2324	1496	1587	2136	1903	22.8	42.4	99	42.5			0	Minus	2204	2e-07
+
+#Chain	ltr_Roo	230-1691	Dimm_233	58480-61346	+	186.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_233/Dimm_233.seq	Dimm_233	230	297	58480	58674	29.4	42.6	106	45.2			0	Plus	67812	1e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_233/Dimm_233.seq	Dimm_233	910	1217	59091	59933	18.9	36.3	305	121			0	Plus	67812	8e-30
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_233/Dimm_233.seq	Dimm_233	1221	1369	59942	60415	18.0	37.2	131	54.8			0	Plus	67812	1e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_233/Dimm_233.seq	Dimm_233	1373	1691	60420	61346	25.6	40.4	437	172			0	Plus	67812	3e-45
+
+#Chain	cacta	686-786	Dimm_2346	1003-1272	-	36.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2346/Dimm_2346.seq	Dimm_2346	686	786	1272	1003	35.6	41.3	137	57.2			0	Minus	2179	3e-12
+
+#Chain	cacta	754-785	Dimm_24	274846-274941	-	29.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_24/Dimm_24.seq	Dimm_24	754	785	274941	274846	90.6	90.6	136	56.8			0	Minus	409621	1e-09
+
+#Chain	ltr_Roo	703-783	Dimm_244	55795-56034	+	19.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_244/Dimm_244.seq	Dimm_244	703	783	55795	56034	24.4	41.5	146	60.6			0	Plus	66831	3e-11
+
+#Chain	ltr_Roo	1363-1435	Dimm_2472	1588-1809	-	16.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2472/Dimm_2472.seq	Dimm_2472	1363	1435	1809	1588	23.0	47.3	135	56.4			0	Minus	2056	1e-11
+
+#Chain	ltr_Roo	1486-1519	Dimm_2535	1432-1530	+	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2535/Dimm_2535.seq	Dimm_2535	1486	1519	1432	1530	50.0	67.6	104	44.4			0	Plus	2000	5e-08
+
+#Chain	ltr_Roo	1015-1135	Dimm_254	46192-46554	-	29.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_254/Dimm_254.seq	Dimm_254	1015	1135	46554	46192	24.3	41.9	122	51.3			0	Minus	63992	2e-08
+
+#Chain	ltr_Roo	1508-1588	Dimm_254	54105-54311	-	22.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_254/Dimm_254.seq	Dimm_254	1508	1588	54311	54105	27.2	44.4	138	57.5			0	Minus	63992	2e-10
+
+#Chain	ltr_Roo	1029-1235	Dimm_254	55699-56265	-	41.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_254/Dimm_254.seq	Dimm_254	1029	1235	56265	55699	20.0	35.7	154	63.7			0	Minus	63992	3e-12
+
+#Chain	MuDR_A_B	46-127	Dimm_255	25935-26174	-	10.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_255/Dimm_255.seq	Dimm_255	46	127	26174	25935	12.2	35.4	101	43.4			0	Minus	63271	2e-06
+
+#Chain	ltr_Roo	872-1211	Dimm_259	20561-21502	-	56.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_259/Dimm_259.seq	Dimm_259	1165	1211	20701	20561	31.9	57.4	120	50.6			0	Minus	62451	3e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_259/Dimm_259.seq	Dimm_259	872	1068	21502	20945	21.2	40.4	209	84.9			0	Minus	62451	1e-18
+
+#Chain	ltr_Roo	230-289	Dimm_259	24305-24481	+	20.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_259/Dimm_259.seq	Dimm_259	230	289	24305	24481	33.3	50.0	144	59.8			0	Plus	62451	4e-11
+
+#Chain	ltr_Roo	679-831	Dimm_259	25812-26306	+	28.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_259/Dimm_259.seq	Dimm_259	679	831	25812	26306	18.7	39.8	185	75.6			0	Plus	62451	7e-16
+
+#Chain	cacta	753-793	Dimm_2604	515-673	-	20.9
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2604/Dimm_2604.seq	Dimm_2604	753	793	673	515	50.9	52.8	100	42.9			0	Minus	1928	6e-08
+
+#Chain	cacta	753-787	Dimm_2604	692-793	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2604/Dimm_2604.seq	Dimm_2604	753	787	793	692	60.0	65.7	95	41.0			0	Minus	1928	2e-07
+
+#Chain	ltr_Roo	1486-1519	Dimm_265	654-752	+	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_265/Dimm_265.seq	Dimm_265	1486	1519	654	752	50.0	70.6	99	42.5			0	Plus	61041	6e-06
+
+#Chain	ltr_Roo	230-494	Dimm_2654	714-1571	+	51.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2654/Dimm_2654.seq	Dimm_2654	230	494	714	1571	19.3	37.3	260	104			0	Plus	1883	1e-26
+
+#Chain	gypsy	294-408	Dimm_2667	257-607	+	18.9
+gypsy		1463	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2667/Dimm_2667.seq	Dimm_2667	294	408	257	607	16.4	36.1	90	39.1			0	Plus	1876	1e-06
+
+#Chain	ltr_Roo	1507-1613	Dimm_2680	1476-1766	+	28.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2680/Dimm_2680.seq	Dimm_2680	1507	1613	1476	1766	26.6	36.7	149	61.7			0	Plus	1870	2e-13
+
+#Chain	ltr_Roo	1496-1796	Dimm_2696	851-1785	-	59.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2696/Dimm_2696.seq	Dimm_2696	1670	1796	1276	851	14.8	30.3	110	46.7			0	Minus	1853	8e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2696/Dimm_2696.seq	Dimm_2696	1590	1646	1544	1383	31.6	54.4	95	40.9			0	Minus	1853	5e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2696/Dimm_2696.seq	Dimm_2696	1496	1587	1785	1549	25.0	47.8	160	66.0			0	Minus	1853	1e-14
+
+#Chain	ltr_Roo	1417-1588	Dimm_27	1295-1781	+	45.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_27/Dimm_27.seq	Dimm_27	1417	1463	1295	1438	29.2	50.0	106	45.2			0	Plus	359787	5e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_27/Dimm_27.seq	Dimm_27	1479	1588	1470	1781	28.8	45.0	206	83.7			0	Plus	359787	1e-17
+
+#Chain	ltr_Roo	1185-1292	Dimm_27	12523-12831	-	23.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_27/Dimm_27.seq	Dimm_27	1185	1292	12831	12523	22.0	41.3	119	50.2			0	Minus	359787	2e-07
+
+#Chain	ltr_Roo	685-1222	Dimm_27	99653-101238	-	93.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_27/Dimm_27.seq	Dimm_27	851	1222	100714	99653	13.3	31.2	145	60.2			0	Minus	359787	1e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_27/Dimm_27.seq	Dimm_27	685	854	101238	100702	26.0	48.1	341	135			0	Minus	359787	1e-33
+
+#Chain	ltr_Roo	261-324	Dimm_27	102275-102463	-	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_27/Dimm_27.seq	Dimm_27	261	324	102463	102275	28.1	42.2	130	54.4			0	Minus	359787	8e-09
+
+#Chain	cacta	752-799	Dimm_2713	748-906	-	22.7
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2713/Dimm_2713.seq	Dimm_2713	752	799	906	748	47.2	50.9	93	40.2			0	Minus	1840	4e-07
+
+#Chain	ltr_Roo	921-1156	Dimm_2715	440-1086	-	53.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2715/Dimm_2715.seq	Dimm_2715	1036	1156	817	440	23.9	38.8	151	62.5			0	Minus	1839	1e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2715/Dimm_2715.seq	Dimm_2715	921	1020	1086	814	25.0	42.0	135	56.4			0	Minus	1839	9e-12
+
+#Chain	ltr_Roo	1662-1771	Dimm_2716	1468-1803	-	30.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2716/Dimm_2716.seq	Dimm_2716	1662	1771	1803	1468	27.7	45.4	164	67.5			0	Minus	1839	3e-15
+
+#Chain	ltr_Roo	247-307	Dimm_273	39587-39763	+	19.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_273/Dimm_273.seq	Dimm_273	247	307	39587	39763	31.1	49.2	112	47.5			0	Plus	59015	2e-07
+
+#Chain	ltr_Roo	246-1050	Dimm_274	28690-30718	-	80.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_274/Dimm_274.seq	Dimm_274	722	1050	29622	28690	19.1	35.9	328	130			0	Minus	59014	1e-32
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_274/Dimm_274.seq	Dimm_274	246	325	30718	30491	22.5	37.5	111	47.1			0	Minus	59014	3e-07
+
+#Chain	cacta	751-809	Dimm_2764	223-387	-	25.7
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2764/Dimm_2764.seq	Dimm_2764	751	809	387	223	43.5	51.6	83	36.4			0	Minus	1812	6e-06
+
+#Chain	ISC1316	213-267	Dimm_2792	1060-1245	-	8.9
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2792/Dimm_2792.seq	Dimm_2792	213	267	1245	1060	16.1	35.5	77	34.0			0	Minus	1796	8e-06
+
+#Chain	cacta	756-784	Dimm_28	62046-62132	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_28/Dimm_28.seq	Dimm_28	756	784	62046	62132	79.3	79.3	107	45.6			0	Plus	357011	2e-06
+
+#Chain	ltr_Roo	1460-1535	Dimm_283	11460-11672	+	20.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_283/Dimm_283.seq	Dimm_283	1460	1535	11460	11672	26.3	44.7	133	55.6			0	Plus	57519	7e-10
+
+#Chain	ltr_Roo	673-1422	Dimm_283	13597-15474	-	95.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_283/Dimm_283.seq	Dimm_283	1360	1422	13788	13597	31.2	50.0	108	46.0			0	Minus	57519	6e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_283/Dimm_283.seq	Dimm_283	673	1114	15474	14212	17.2	35.4	266	106			0	Minus	57519	2e-25
+
+#Chain	ltr_Roo	801-935	Dimm_2846	60-464	-	27.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2846/Dimm_2846.seq	Dimm_2846	801	935	464	60	20.4	37.2	98	42.1			0	Minus	1764	2e-07
+
+#Chain	ltr_Roo	400-502	Dimm_296	35550-35867	+	22.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_296/Dimm_296.seq	Dimm_296	400	502	35550	35867	21.6	36.0	108	46.0			0	Plus	56161	6e-07
+
+#Chain	ltr_Roo	400-502	Dimm_296	37009-37326	+	22.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_296/Dimm_296.seq	Dimm_296	400	502	37009	37326	21.6	36.0	108	46.0			0	Plus	56161	6e-07
+
+#Chain	ltr_Roo	703-906	Dimm_296	40387-40968	-	42.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_296/Dimm_296.seq	Dimm_296	703	906	40968	40387	21.0	39.5	214	86.8			0	Minus	56161	3e-19
+
+#Chain	ltr_Roo	400-502	Dimm_296	42295-42612	-	22.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_296/Dimm_296.seq	Dimm_296	400	502	42612	42295	21.6	36.0	108	46.0			0	Minus	56161	6e-07
+
+#Chain	ltr_Roo	400-502	Dimm_296	43754-44071	-	22.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_296/Dimm_296.seq	Dimm_296	400	502	44071	43754	21.6	36.0	108	46.0			0	Minus	56161	6e-07
+
+#Chain	ltr_Roo	725-1049	Dimm_2997	369-1315	-	67.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2997/Dimm_2997.seq	Dimm_2997	871	1049	872	369	18.2	42.0	106	45.2			0	Minus	1686	2e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_2997/Dimm_2997.seq	Dimm_2997	725	869	1315	890	24.3	46.6	164	67.5			0	Minus	1686	3e-15
+
+#Chain	cacta	758-803	Dimm_3013	1376-1513	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3013/Dimm_3013.seq	Dimm_3013	758	803	1376	1513	47.8	54.3	81	35.6			0	Plus	1677	9e-06
+
+#Chain	ltr_Roo	769-944	Dimm_31	86337-86819	+	31.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_31/Dimm_31.seq	Dimm_31	769	944	86337	86819	17.8	37.2	118	49.8			0	Plus	338708	2e-07
+
+#Chain	ltr_Roo	1349-1439	Dimm_31	88000-88242	+	17.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_31/Dimm_31.seq	Dimm_31	1349	1439	88000	88242	19.6	44.6	142	59.0			0	Plus	338708	4e-10
+
+#Chain	cacta	753-797	Dimm_3103	1185-1319	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3103/Dimm_3103.seq	Dimm_3103	753	797	1319	1185	53.3	55.6	92	39.8			0	Minus	1628	5e-07
+
+#Chain	ltr_Roo	1394-1593	Dimm_3124	804-1332	+	41.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3124/Dimm_3124.seq	Dimm_3124	1394	1546	804	1214	22.9	44.4	241	97.2			0	Plus	1614	1e-24
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3124/Dimm_3124.seq	Dimm_3124	1570	1593	1261	1332	25.0	45.8	85	37.1			0	Plus	1614	6e-06
+
+#Chain	ltr_Roo	1430-1690	Dimm_315	388-1068	+	54.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_315/Dimm_315.seq	Dimm_315	1430	1690	388	1068	20.8	36.5	360	143			0	Plus	53102	9e-37
+
+#Chain	cacta	752-785	Dimm_323	8025-8171	+	21.5
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_323/Dimm_323.seq	Dimm_323	752	785	8025	8171	63.3	63.3	122	51.4			0	Plus	52145	6e-09
+
+#Chain	cacta	754-784	Dimm_3270	754-846	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3270/Dimm_3270.seq	Dimm_3270	754	784	754	846	67.7	67.7	87	37.9			0	Plus	1556	2e-06
+
+#Chain	ltr_Roo	451-973	Dimm_333	45746-47289	+	71.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_333/Dimm_333.seq	Dimm_333	451	558	45746	46135	20.0	38.5	107	45.6			0	Plus	51202	7e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_333/Dimm_333.seq	Dimm_333	685	845	46437	46952	21.3	41.0	181	74.1			0	Plus	51202	2e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_333/Dimm_333.seq	Dimm_333	864	973	46999	47289	13.8	29.3	99	42.5			0	Plus	51202	6e-06
+
+#Chain	cacta	755-780	Dimm_3355	5-82	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3355/Dimm_3355.seq	Dimm_3355	755	780	82	5	73.1	73.1	83	36.4			0	Minus	1523	5e-06
+
+#Chain	cacta	752-780	Dimm_3355	254-340	-	26.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3355/Dimm_3355.seq	Dimm_3355	752	780	340	254	89.7	89.7	128	53.7			0	Minus	1523	2e-11
+
+#Chain	ltr_Roo	257-336	Dimm_336	43925-44161	-	22.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_336/Dimm_336.seq	Dimm_336	257	336	44161	43925	27.5	55.0	134	56.0			0	Minus	50678	5e-10
+
+#Chain	ltr_Roo	816-928	Dimm_3370	848-1322	+	23.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3370/Dimm_3370.seq	Dimm_3370	816	869	848	1009	22.2	53.7	84	36.7			0	Plus	1518	7e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3370/Dimm_3370.seq	Dimm_3370	876	928	1167	1322	20.8	54.7	110	46.7			0	Plus	1518	6e-09
+
+#Chain	ltr_Roo	1289-1617	Dimm_3504	182-1107	-	76.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3504/Dimm_3504.seq	Dimm_3504	1456	1617	628	182	27.6	43.6	121	51.0			0	Minus	1479	3e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3504/Dimm_3504.seq	Dimm_3504	1289	1432	1107	661	21.9	40.6	96	41.3			0	Minus	1479	3e-07
+
+#Chain	ltr_Roo	264-360	Dimm_353	30707-30979	-	23.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_353/Dimm_353.seq	Dimm_353	264	360	30979	30707	23.7	44.3	126	52.9			0	Minus	48252	4e-09
+
+#Chain	ltr_Roo	427-513	Dimm_370	32605-32850	+	23.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_370/Dimm_370.seq	Dimm_370	427	513	32605	32850	26.4	44.8	175	71.8			0	Plus	46599	8e-15
+
+#Chain	cacta	754-785	Dimm_3707	173-268	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3707/Dimm_3707.seq	Dimm_3707	754	785	173	268	65.6	71.9	95	41.0			0	Plus	1420	2e-07
+
+#Chain	ltr_Roo	1190-1248	Dimm_3709	142-318	-	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3709/Dimm_3709.seq	Dimm_3709	1190	1248	318	142	35.6	49.2	117	49.4			0	Minus	1419	8e-10
+
+#Chain	ISC1316	213-312	Dimm_3718	69-398	-	19.5
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3718/Dimm_3718.seq	Dimm_3718	213	312	398	69	19.5	40.7	75	33.2			0	Minus	1416	1e-05
+
+#Chain	ltr_Roo	1023-1226	Dimm_374	10588-11163	-	44.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_374/Dimm_374.seq	Dimm_374	1023	1226	11163	10588	21.8	37.3	206	83.7			0	Minus	46181	2e-18
+
+#Chain	ltr_Roo	751-928	Dimm_377	4815-5375	+	40.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_377/Dimm_377.seq	Dimm_377	751	928	4815	5375	23.0	46.6	337	134			0	Plus	45831	1e-33
+
+#Chain	ltr_Roo	1547-1730	Dimm_377	5960-6552	-	31.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_377/Dimm_377.seq	Dimm_377	1680	1730	6130	5960	17.5	47.4	105	44.8			0	Minus	45831	1e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_377/Dimm_377.seq	Dimm_377	1547	1645	6552	6262	23.2	44.4	194	79.1			0	Minus	45831	5e-17
+
+#Chain	ltr_Roo	733-850	Dimm_38	105880-106239	+	33.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_38/Dimm_38.seq	Dimm_38	733	850	105880	106239	28.5	49.6	207	84.1			0	Plus	307617	1e-17
+
+#Chain	cacta	755-780	Dimm_387	12687-12764	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_387/Dimm_387.seq	Dimm_387	755	780	12687	12764	76.9	76.9	95	41.0			0	Plus	45067	7e-06
+
+#Chain	ISC1316	213-245	Dimm_3900	798-896	+	6.0
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3900/Dimm_3900.seq	Dimm_3900	213	245	798	896	18.2	42.4	81	35.5			0	Plus	1361	2e-06
+
+#Chain	P_element	732-766	Dimm_3922	1254-1352	+	16.5
+P_element		766	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3922/Dimm_3922.seq	Dimm_3922	732	766	1254	1352	47.2	61.1	79	34.8			0	Plus	1357	7e-06
+
+#Chain	ltr_Roo	425-509	Dimm_3946	497-745	+	16.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_3946/Dimm_3946.seq	Dimm_3946	425	509	497	745	19.8	43.0	93	40.2			0	Plus	1350	5e-07
+
+#Chain	ltr_Roo	261-309	Dimm_396	10858-11001	+	16.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_396/Dimm_396.seq	Dimm_396	261	309	10858	11001	32.7	46.9	103	44.0			0	Plus	44329	2e-06
+
+#Chain	cacta	754-789	Dimm_4	218470-218601	-	22.1
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4/Dimm_4.seq	Dimm_4	754	789	218601	218470	61.4	68.2	114	48.3			0	Minus	962379	1e-06
+
+#Chain	ltr_Roo	1477-1648	Dimm_404	25632-26051	-	36.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_404/Dimm_404.seq	Dimm_404	1477	1648	26051	25632	21.0	35.8	125	52.5			0	Minus	43790	5e-09
+
+#Chain	ltr_Roo	723-1050	Dimm_404	27605-28481	-	61.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_404/Dimm_404.seq	Dimm_404	941	1050	27913	27605	22.7	40.9	170	69.8			0	Minus	43790	3e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_404/Dimm_404.seq	Dimm_404	826	914	28200	27946	16.3	37.0	110	46.7			0	Minus	43790	3e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_404/Dimm_404.seq	Dimm_404	723	822	28481	28200	22.1	41.3	125	52.5			0	Minus	43790	5e-09
+
+#Chain	ltr_Roo	1695-1757	Dimm_406	7420-7611	-	14.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_406/Dimm_406.seq	Dimm_406	1695	1757	7611	7420	23.1	40.0	103	44.0			0	Minus	43751	2e-06
+
+#Chain	ltr_Roo	233-562	Dimm_406	8671-9711	-	46.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_406/Dimm_406.seq	Dimm_406	233	562	9711	8671	14.1	32.2	137	57.1			0	Minus	43751	2e-10
+
+#Chain	LINE	270-357	Dimm_4069	138-398	+	22.5
+LINE		1189	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4069/Dimm_4069.seq	Dimm_4069	270	357	138	398	25.6	42.2	80	35.3			0	Plus	1327	8e-06
+
+#Chain	ltr_Roo	795-870	Dimm_41	48798-49016	+	20.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_41/Dimm_41.seq	Dimm_41	795	870	48798	49016	26.3	48.7	137	57.1			0	Plus	288960	1e-09
+
+#Chain	ltr_Roo	1430-1779	Dimm_41	50566-51599	+	58.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_41/Dimm_41.seq	Dimm_41	1430	1569	50566	50940	21.1	38.7	128	53.7			0	Plus	288960	1e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_41/Dimm_41.seq	Dimm_41	1670	1779	51255	51599	26.5	41.9	130	54.4			0	Plus	288960	8e-09
+
+#Chain	ltr_Roo	1401-1587	Dimm_414	29909-30409	+	35.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_414/Dimm_414.seq	Dimm_414	1401	1587	29909	30409	19.1	34.5	167	68.7			0	Plus	43208	6e-14
+
+#Chain	ltr_Roo	1435-1583	Dimm_4148	280-673	+	31.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4148/Dimm_4148.seq	Dimm_4148	1435	1498	280	459	20.3	35.9	86	37.5			0	Plus	1307	3e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4148/Dimm_4148.seq	Dimm_4148	1499	1583	452	673	22.1	45.3	110	46.7			0	Plus	1307	5e-09
+
+#Chain	cacta	753-784	Dimm_4167	457-552	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4167/Dimm_4167.seq	Dimm_4167	753	784	552	457	68.8	68.8	104	44.5			0	Minus	1302	1e-08
+
+#Chain	cacta	753-780	Dimm_4167	800-883	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4167/Dimm_4167.seq	Dimm_4167	753	780	883	800	78.6	78.6	92	39.8			0	Minus	1302	3e-07
+
+#Chain	ltr_Roo	700-775	Dimm_4267	2-229	-	19.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4267/Dimm_4267.seq	Dimm_4267	700	775	229	2	26.0	42.9	121	51.0			0	Minus	1281	2e-10
+
+#Chain	ltr_Roo	687-802	Dimm_43	197994-198362	-	22.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_43/Dimm_43.seq	Dimm_43	687	802	198362	197994	19.4	39.5	121	51.0			0	Minus	274624	9e-08
+
+#Chain	cacta	752-808	Dimm_4346	266-454	-	26.2
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4346/Dimm_4346.seq	Dimm_4346	752	808	454	266	46.0	58.7	100	42.9			0	Minus	1268	3e-08
+
+#Chain	Crypton	204-299	Dimm_435	22888-23151	+	21.0
+Crypton		457	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_435/Dimm_435.seq	Dimm_435	204	299	22888	23151	21.9	32.3	92	40.0			0	Plus	39308	4e-06
+
+#Chain	cacta	762-791	Dimm_4374	591-680	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4374/Dimm_4374.seq	Dimm_4374	762	791	680	591	63.3	66.7	80	35.2			0	Minus	1263	9e-06
+
+#Chain	cacta	753-784	Dimm_462	20192-20296	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_462/Dimm_462.seq	Dimm_462	753	784	20192	20296	68.6	71.4	107	45.6			0	Plus	37947	3e-07
+
+#Chain	cacta	753-784	Dimm_462	20312-20407	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_462/Dimm_462.seq	Dimm_462	753	784	20312	20407	75.0	78.1	106	45.2			0	Plus	37947	3e-07
+
+#Chain	cacta	753-784	Dimm_462	33804-33908	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_462/Dimm_462.seq	Dimm_462	753	784	33804	33908	68.6	71.4	104	44.5			0	Plus	37947	6e-07
+
+#Chain	cacta	754-784	Dimm_462	33918-34010	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_462/Dimm_462.seq	Dimm_462	754	784	33918	34010	74.2	74.2	97	41.8			0	Plus	37947	4e-06
+
+#Chain	ltr_Roo	230-823	Dimm_47	163962-165926	+	74.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_47/Dimm_47.seq	Dimm_47	230	370	163962	164360	25.4	40.8	187	76.4			0	Plus	256633	2e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_47/Dimm_47.seq	Dimm_47	653	823	165351	165926	22.4	41.3	186	76.0			0	Plus	256633	2e-15
+
+#Chain	ltr_Roo	1376-1496	Dimm_471	34828-35178	-	25.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_471/Dimm_471.seq	Dimm_471	1376	1496	35178	34828	21.1	37.5	103	44.0			0	Minus	37534	1e-06
+
+#Chain	hAT	637-742	Dimm_479	18320-18601	+	20.6
+hAT		749	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_479/Dimm_479.seq	Dimm_479	637	742	18320	18601	19.4	34.3	102	43.7			0	Plus	37211	5e-07
+
+#Chain	cacta	754-790	Dimm_48	14202-14312	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_48/Dimm_48.seq	Dimm_48	754	790	14312	14202	64.9	67.6	104	44.5			0	Minus	255530	4e-06
+
+#Chain	cacta	753-781	Dimm_4860	734-820	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4860/Dimm_4860.seq	Dimm_4860	753	781	820	734	65.5	69.0	87	37.9			0	Minus	1179	1e-06
+
+#Chain	ltr_Roo	720-1057	Dimm_487	18225-19241	-	61.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_487/Dimm_487.seq	Dimm_487	720	1057	19241	18225	18.1	35.2	218	88.3			0	Minus	35923	5e-20
+
+#Chain	ltr_Roo	230-400	Dimm_487	20385-20861	-	28.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_487/Dimm_487.seq	Dimm_487	230	400	20861	20385	16.6	35.4	130	54.4			0	Minus	35923	1e-09
+
+#Chain	ltr_Roo	1055-1687	Dimm_487	25377-27218	-	140.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_487/Dimm_487.seq	Dimm_487	1578	1687	25724	25377	22.9	38.1	105	44.8			0	Minus	35923	8e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_487/Dimm_487.seq	Dimm_487	1180	1589	26836	25676	19.6	35.6	225	91.0			0	Minus	35923	8e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_487/Dimm_487.seq	Dimm_487	1055	1179	27218	26838	27.6	43.3	122	51.3			0	Minus	35923	8e-09
+
+#Chain	cacta	756-779	Dimm_49	40205-40276	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_49/Dimm_49.seq	Dimm_49	756	779	40205	40276	87.5	87.5	102	43.7			0	Plus	255341	7e-06
+
+#Chain	ltr_Roo	230-817	Dimm_491	30917-32781	+	102.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_491/Dimm_491.seq	Dimm_491	230	559	30917	31942	20.4	33.2	217	87.9			0	Plus	35474	7e-20
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_491/Dimm_491.seq	Dimm_491	670	817	32311	32781	23.6	42.9	209	84.9			0	Plus	35474	6e-19
+
+#Chain	cacta	752-782	Dimm_4993	187-279	-	20.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_4993/Dimm_4993.seq	Dimm_4993	752	782	279	187	64.5	64.5	79	34.8			0	Minus	1154	1e-05
+
+#Chain	ISC1316	207-245	Dimm_5043	848-949	+	7.0
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_5043/Dimm_5043.seq	Dimm_5043	207	245	848	949	17.9	35.9	77	34.0			0	Plus	1145	4e-06
+
+#Chain	ltr_Roo	405-507	Dimm_505	22284-22610	+	23.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_505/Dimm_505.seq	Dimm_505	405	507	22284	22610	22.3	40.2	161	66.4			0	Plus	34270	2e-13
+
+#Chain	ltr_Roo	1036-1610	Dimm_506	5725-7335	+	100.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_506/Dimm_506.seq	Dimm_506	1036	1266	5725	6363	21.4	39.1	141	58.7			0	Plus	34243	5e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_506/Dimm_506.seq	Dimm_506	1375	1464	6687	6953	25.0	44.6	126	52.9			0	Plus	34243	3e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_506/Dimm_506.seq	Dimm_506	1478	1610	6973	7335	21.2	39.4	141	58.7			0	Plus	34243	5e-11
+
+#Chain	ltr_Roo	231-308	Dimm_513	5236-5466	-	18.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_513/Dimm_513.seq	Dimm_513	231	308	5466	5236	23.9	38.0	103	44.0			0	Minus	33407	1e-06
+
+#Chain	ltr_Roo	1200-1243	Dimm_513	9162-9293	+	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_513/Dimm_513.seq	Dimm_513	1200	1243	9162	9293	31.8	47.7	97	41.7			0	Plus	33407	6e-06
+
+#Chain	ltr_Roo	253-312	Dimm_5133	47-223	+	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_5133/Dimm_5133.seq	Dimm_5133	253	312	47	223	35.0	60.0	132	55.2			0	Plus	1132	8e-12
+
+#Chain	ltr_Roo	253-312	Dimm_5155	47-223	+	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_5155/Dimm_5155.seq	Dimm_5155	253	312	47	223	35.0	60.0	132	55.2			0	Plus	1129	8e-12
+
+#Chain	ltr_Roo	1711-1755	Dimm_5158	343-480	-	15.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_5158/Dimm_5158.seq	Dimm_5158	1711	1755	480	343	34.8	50.0	97	41.7			0	Minus	1128	1e-07
+
+#Chain	ltr_Roo	1314-1424	Dimm_534	636-920	-	25.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_534/Dimm_534.seq	Dimm_534	1314	1424	920	636	22.5	41.4	97	41.7			0	Minus	32339	6e-06
+
+#Chain	cacta	758-785	Dimm_5364	348-431	-	18.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_5364/Dimm_5364.seq	Dimm_5364	758	785	431	348	64.3	67.9	80	35.2			0	Minus	1097	7e-06
+
+#Chain	ltr_Roo	768-804	Dimm_5470	607-699	+	12.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_5470/Dimm_5470.seq	Dimm_5470	768	804	607	699	32.4	43.2	82	35.9			0	Plus	1081	8e-06
+
+#Chain	ltr_Roo	691-976	Dimm_5564	133-1067	-	66.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_5564/Dimm_5564.seq	Dimm_5564	843	976	603	133	21.5	41.8	245	98.7			0	Minus	1067	6e-26
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_5564/Dimm_5564.seq	Dimm_5564	767	834	853	614	28.7	43.8	155	64.1			0	Minus	1067	1e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_5564/Dimm_5564.seq	Dimm_5564	691	760	1067	852	25.7	45.9	98	42.1			0	Minus	1067	9e-08
+
+#Chain	TY1_Copia	279-331	Dimm_57	66368-66535	+	16.4
+TY1_Copia		1643	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_57/Dimm_57.seq	Dimm_57	279	331	66368	66535	31.0	43.1	103	44.2			0	Plus	226630	5e-06
+
+#Chain	cacta	727-774	Dimm_58	194376-194522	+	23.6
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_58/Dimm_58.seq	Dimm_58	727	774	194376	194522	49.1	54.7	111	47.2			0	Plus	225565	5e-07
+
+#Chain	ltr_Roo	216-342	Dimm_590	15692-16081	+	28.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_590/Dimm_590.seq	Dimm_590	216	342	15692	16081	22.1	37.5	97	41.7			0	Plus	29207	6e-06
+
+#Chain	ltr_Roo	824-870	Dimm_5901	819-959	+	11.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_5901/Dimm_5901.seq	Dimm_5901	824	870	819	959	23.4	46.8	106	45.2			0	Plus	1015	9e-09
+
+#Chain	cacta	752-784	Dimm_6168	399-497	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6168/Dimm_6168.seq	Dimm_6168	752	784	497	399	69.7	72.7	90	39.1			0	Minus	975	4e-07
+
+#Chain	ltr_Roo	185-303	Dimm_617	24636-24968	-	34.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_617/Dimm_617.seq	Dimm_617	185	303	24968	24636	28.6	47.9	144	59.8			0	Minus	28163	2e-11
+
+#Chain	ltr_Roo	230-325	Dimm_619	341-622	+	27.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_619/Dimm_619.seq	Dimm_619	230	325	341	622	28.1	42.7	183	74.8			0	Plus	28039	5e-16
+
+#Chain	ltr_Roo	680-1771	Dimm_619	1856-5120	+	221.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_619/Dimm_619.seq	Dimm_619	680	831	1856	2326	26.8	46.3	211	85.6			0	Plus	28039	3e-19
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_619/Dimm_619.seq	Dimm_619	838	1207	2343	3392	19.5	37.0	377	149			0	Plus	28039	1e-38
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_619/Dimm_619.seq	Dimm_619	1205	1245	3385	3504	39.0	65.9	112	47.5			0	Plus	28039	1e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_619/Dimm_619.seq	Dimm_619	1251	1530	3539	4372	22.1	45.2	373	148			0	Plus	28039	4e-38
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_619/Dimm_619.seq	Dimm_619	1662	1771	4785	5120	27.7	45.4	164	67.5			0	Plus	28039	9e-14
+
+#Chain	ltr_Roo	1356-1432	Dimm_622	19545-19772	+	19.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_622/Dimm_622.seq	Dimm_622	1356	1432	19545	19772	25.3	41.8	97	41.7			0	Plus	27857	5e-06
+
+#Chain	ltr_Roo	1479-1508	Dimm_6261	874-963	+	10.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6261/Dimm_6261.seq	Dimm_6261	1479	1508	874	963	33.3	70.0	97	41.7			0	Plus	964	1e-07
+
+#Chain	ltr_Roo	703-1743	Dimm_633	24069-24998	+	62.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_633/Dimm_633.seq	Dimm_633	703	863	24069	24557	24.7	48.8	274	109			0	Plus	27326	1e-26
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_633/Dimm_633.seq	Dimm_633	1662	1743	24735	24998	27.3	47.7	134	56.0			0	Plus	27326	3e-10
+
+#Chain	ltr_Roo	1479-1519	Dimm_634	16125-16247	-	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_634/Dimm_634.seq	Dimm_634	1479	1519	16247	16125	43.9	65.9	115	48.6			0	Minus	27286	4e-08
+
+#Chain	LINE	448-730	Dimm_6381	1-858	+	57.4
+LINE		1189	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6381/Dimm_6381.seq	Dimm_6381	448	730	1	858	20.3	41.9	525	206			0	Plus	947	4e-63
+
+#Chain	ltr_Roo	1376-1496	Dimm_640	278-628	-	25.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_640/Dimm_640.seq	Dimm_640	1376	1496	628	278	21.1	37.5	103	44.0			0	Minus	27058	1e-06
+
+#Chain	ltr_Roo	1201-1534	Dimm_643	12602-13490	-	69.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_643/Dimm_643.seq	Dimm_643	1352	1534	13102	12602	24.9	37.8	202	82.2			0	Minus	26982	3e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_643/Dimm_643.seq	Dimm_643	1201	1287	13490	13254	27.6	43.7	104	44.4			0	Minus	26982	8e-07
+
+#Chain	ltr_Roo	735-1047	Dimm_6455	20-934	+	85.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6455/Dimm_6455.seq	Dimm_6455	735	871	20	439	31.9	57.4	378	149			0	Plus	936	5e-43
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6455/Dimm_6455.seq	Dimm_6455	878	976	459	752	22.2	45.5	204	82.9			0	Plus	936	4e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6455/Dimm_6455.seq	Dimm_6455	1003	1047	803	934	44.4	57.8	139	57.9			0	Plus	936	7e-13
+
+#Chain	cacta	761-788	Dimm_6541	441-524	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6541/Dimm_6541.seq	Dimm_6541	761	788	441	524	82.1	85.7	110	46.8			0	Plus	925	1e-09
+
+#Chain	cacta	752-779	Dimm_66	110216-110299	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_66/Dimm_66.seq	Dimm_66	752	779	110299	110216	82.1	82.1	103	44.1			0	Minus	218134	4e-06
+
+#Chain	MuDR_A_B	655-738	Dimm_6603	485-718	+	19.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6603/Dimm_6603.seq	Dimm_6603	655	738	485	718	22.6	33.3	80	35.3			0	Plus	918	4e-06
+
+#Chain	cacta	752-817	Dimm_6624	246-443	-	29.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6624/Dimm_6624.seq	Dimm_6624	752	817	443	246	43.9	51.5	105	44.8			0	Minus	915	5e-09
+
+#Chain	ltr_Roo	265-314	Dimm_6635	458-604	+	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6635/Dimm_6635.seq	Dimm_6635	265	314	458	604	28.0	48.0	93	40.2			0	Plus	912	3e-07
+
+#Chain	ltr_Roo	835-1503	Dimm_669	2461-3998	-	83.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_669/Dimm_669.seq	Dimm_669	1321	1503	2994	2461	25.7	39.0	162	66.8			0	Minus	25746	1e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_669/Dimm_669.seq	Dimm_669	835	1071	3998	3333	15.2	34.4	211	85.6			0	Minus	25746	3e-19
+
+#Chain	ISa	94-137	Dimm_6695	110-247	+	13.4
+ISa		473	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6695/Dimm_6695.seq	Dimm_6695	94	137	110	247	30.4	43.5	75	33.2			0	Plus	905	7e-06
+
+#Chain	ISC1316	229-296	Dimm_6701	127-291	+	10.0
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_6701/Dimm_6701.seq	Dimm_6701	229	296	127	291	14.7	27.9	76	33.6			0	Plus	904	4e-06
+
+#Chain	ltr_Roo	444-1032	Dimm_68	38835-40642	+	106.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_68/Dimm_68.seq	Dimm_68	444	828	38835	40076	19.7	36.2	179	73.3			0	Plus	215243	1e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_68/Dimm_68.seq	Dimm_68	831	1032	40073	40642	15.2	35.5	207	84.1			0	Plus	215243	7e-18
+
+#Chain	gypsy	186-407	Dimm_69	139071-139712	+	30.2
+gypsy		1463	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_69/Dimm_69.seq	Dimm_69	186	407	139071	139712	13.6	33.9	105	44.9			0	Plus	214755	3e-06
+
+#Chain	cacta	753-780	Dimm_691	264-356	+	22.6
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_691/Dimm_691.seq	Dimm_691	753	780	264	356	80.6	80.6	105	44.8			0	Plus	24571	2e-07
+
+#Chain	ltr_Roo	234-1291	Dimm_695	11390-14729	+	176.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_695/Dimm_695.seq	Dimm_695	234	488	11390	12256	19.4	34.5	167	68.7			0	Plus	24420	3e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_695/Dimm_695.seq	Dimm_695	686	1172	12940	14376	18.3	35.1	264	106			0	Plus	24420	2e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_695/Dimm_695.seq	Dimm_695	1185	1291	14412	14729	35.5	55.1	210	85.2			0	Plus	24420	3e-19
+
+#Chain	ltr_Roo	1185-1741	Dimm_695	14747-16362	+	114.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_695/Dimm_695.seq	Dimm_695	1185	1546	14747	15757	23.9	41.2	327	130			0	Plus	24420	7e-33
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_695/Dimm_695.seq	Dimm_695	1563	1589	15769	15849	29.6	40.7	103	44.0			0	Plus	24420	9e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_695/Dimm_695.seq	Dimm_695	1672	1741	16138	16362	28.9	44.7	116	49.0			0	Plus	24420	3e-08
+
+#Chain	ltr_Roo	1487-1618	Dimm_70	27468-27839	-	30.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_70/Dimm_70.seq	Dimm_70	1487	1618	27839	27468	23.0	45.2	134	56.0			0	Minus	210354	2e-09
+
+#Chain	cacta	764-811	Dimm_7003	244-390	-	25.5
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_7003/Dimm_7003.seq	Dimm_7003	764	811	390	244	53.1	55.1	99	42.5			0	Minus	868	2e-08
+
+#Chain	cacta	752-780	Dimm_7065	666-770	+	20.7
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_7065/Dimm_7065.seq	Dimm_7065	752	780	666	770	71.4	71.4	104	44.5			0	Plus	862	6e-09
+
+#Chain	cacta	752-783	Dimm_7099	590-685	-	29.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_7099/Dimm_7099.seq	Dimm_7099	752	783	685	590	90.6	90.6	137	57.2			0	Minus	858	4e-13
+
+#Chain	mariner_ant1	189-243	Dimm_71	15398-15538	-	15.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_71/Dimm_71.seq	Dimm_71	189	243	15538	15398	27.3	47.3	93	40.2			0	Minus	205631	1e-05
+
+#Chain	ltr_Roo	688-994	Dimm_72	1285-2133	-	49.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_72/Dimm_72.seq	Dimm_72	688	994	2133	1285	16.2	37.2	206	83.7			0	Minus	201210	8e-18
+
+#Chain	ISC1316	213-252	Dimm_7222	330-449	+	9.0
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_7222/Dimm_7222.seq	Dimm_7222	213	252	330	449	22.5	35.0	79	34.8			0	Plus	845	2e-06
+
+#Chain	ISC1316	59-133	Dimm_7227	40-267	+	13.8
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_7227/Dimm_7227.seq	Dimm_7227	59	133	40	267	18.4	38.2	77	34.0			0	Plus	845	3e-06
+
+#Chain	LINE	196-441	Dimm_7232	60-836	+	41.1
+LINE		1189	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_7232/Dimm_7232.seq	Dimm_7232	196	441	60	836	16.7	35.2	271	108			0	Plus	845	6e-30
+
+#Chain	ltr_Roo	246-314	Dimm_727	2161-2355	+	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_727/Dimm_727.seq	Dimm_727	246	314	2161	2355	24.6	47.8	95	40.9			0	Plus	22924	7e-06
+
+#Chain	ltr_Roo	876-1238	Dimm_727	4473-5485	+	69.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_727/Dimm_727.seq	Dimm_727	876	973	4473	4721	18.4	42.9	147	61.0			0	Plus	22924	6e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_727/Dimm_727.seq	Dimm_727	993	1238	4766	5485	21.1	38.3	196	79.9			0	Plus	22924	1e-17
+
+#Chain	cacta	751-787	Dimm_7313	386-499	-	25.3
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_7313/Dimm_7313.seq	Dimm_7313	751	787	499	386	68.4	68.4	106	45.2			0	Minus	835	3e-09
+
+#Chain	cacta	755-783	Dimm_741	12998-13084	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_741/Dimm_741.seq	Dimm_741	755	783	13084	12998	79.3	79.3	101	43.3			0	Minus	22106	7e-07
+
+#Chain	cacta	753-776	Dimm_741	13118-13189	-	20.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_741/Dimm_741.seq	Dimm_741	753	776	13189	13118	83.3	83.3	96	41.4			0	Minus	22106	3e-06
+
+#Chain	ltr_Roo	122-871	Dimm_780	5983-8099	-	116.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_780/Dimm_780.seq	Dimm_780	689	871	6471	5983	26.1	41.5	257	103			0	Minus	20894	9e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_780/Dimm_780.seq	Dimm_780	345	555	7480	6884	18.5	31.1	108	46.0			0	Minus	20894	2e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_780/Dimm_780.seq	Dimm_780	122	275	8099	7671	19.5	39.0	116	49.0			0	Minus	20894	2e-08
+
+#Chain	ltr_Roo	1429-1600	Dimm_79	101254-101733	-	35.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_79/Dimm_79.seq	Dimm_79	1429	1600	101733	101254	20.9	35.1	144	59.8			0	Minus	183320	1e-10
+
+#Chain	ltr_Roo	664-1065	Dimm_79	102804-103979	-	69.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_79/Dimm_79.seq	Dimm_79	664	1065	103979	102804	17.4	33.8	141	58.7			0	Minus	183320	3e-10
+
+#Chain	ltr_Roo	1471-1584	Dimm_793	10447-10746	-	24.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_793/Dimm_793.seq	Dimm_793	1471	1584	10746	10447	21.4	41.0	128	53.7			0	Minus	20510	1e-09
+
+#Chain	ltr_Roo	1108-1211	Dimm_7966	449-760	-	30.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_7966/Dimm_7966.seq	Dimm_7966	1108	1211	760	449	29.5	40.0	172	70.6			0	Minus	761	2e-17
+
+#Chain	ltr_Roo	1171-1259	Dimm_8	206498-206776	-	24.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_8/Dimm_8.seq	Dimm_8	1171	1259	206776	206498	28.0	44.1	122	51.3			0	Minus	662182	2e-07
+
+#Chain	ltr_Roo	741-949	Dimm_802	12340-12966	-	45.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_802/Dimm_802.seq	Dimm_802	741	949	12966	12340	21.6	41.0	229	92.6			0	Minus	20205	1e-21
+
+#Chain	ltr_Roo	430-1686	Dimm_802	14211-18142	-	145.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_802/Dimm_802.seq	Dimm_802	1525	1686	14714	14211	18.2	37.4	172	70.6			0	Minus	20205	7e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_802/Dimm_802.seq	Dimm_802	1382	1431	15117	14965	27.5	45.1	103	44.0			0	Minus	20205	8e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_802/Dimm_802.seq	Dimm_802	1086	1216	15955	15548	24.8	41.4	137	57.1			0	Minus	20205	8e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_802/Dimm_802.seq	Dimm_802	854	1009	16793	16377	16.9	35.6	151	62.5			0	Minus	20205	2e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_802/Dimm_802.seq	Dimm_802	778	838	17023	16841	36.1	59.0	132	55.2			0	Minus	20205	3e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_802/Dimm_802.seq	Dimm_802	430	565	18142	17708	16.0	34.6	110	46.7			0	Minus	20205	1e-07
+
+#Chain	ltr_Roo	224-1621	Dimm_807	3577-7450	-	153.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_807/Dimm_807.seq	Dimm_807	1284	1621	4548	3577	18.3	35.2	224	90.6			0	Minus	20021	6e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_807/Dimm_807.seq	Dimm_807	1208	1282	4841	4551	21.6	39.2	106	45.2			0	Minus	20021	3e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_807/Dimm_807.seq	Dimm_807	767	811	5588	5442	36.7	57.1	133	55.6			0	Minus	20021	2e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_807/Dimm_807.seq	Dimm_807	687	763	5836	5597	29.3	48.8	100	42.9			0	Minus	20021	2e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_807/Dimm_807.seq	Dimm_807	425	509	6735	6487	19.8	43.0	95	40.9			0	Minus	20021	7e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_807/Dimm_807.seq	Dimm_807	224	286	7450	7265	30.2	47.6	147	61.0			0	Minus	20021	6e-12
+
+#Chain	cacta	754-776	Dimm_821	8538-8606	-	17.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_821/Dimm_821.seq	Dimm_821	754	776	8606	8538	73.9	73.9	93	40.2			0	Minus	19650	6e-06
+
+#Chain	ltr_Roo	792-898	Dimm_83	141626-141904	+	25.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_83/Dimm_83.seq	Dimm_83	792	898	141626	141904	23.4	40.5	150	62.1			0	Plus	177225	2e-11
+
+#Chain	cacta	748-787	Dimm_839	13951-14082	+	26.4
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_839/Dimm_839.seq	Dimm_839	748	787	13951	14082	65.9	75.0	125	52.5			0	Plus	19225	1e-09
+
+#Chain	ltr_Roo	241-329	Dimm_84	34211-34474	-	23.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_84/Dimm_84.seq	Dimm_84	241	329	34474	34211	26.7	40.0	133	55.6			0	Minus	175894	2e-09
+
+#Chain	ltr_Roo	1083-1241	Dimm_840	9950-10402	+	27.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_840/Dimm_840.seq	Dimm_840	1083	1241	9950	10402	17.4	29.8	94	40.6			0	Plus	19181	8e-06
+
+#Chain	ltr_Roo	253-312	Dimm_854	18456-18632	+	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_854/Dimm_854.seq	Dimm_854	253	312	18456	18632	35.0	60.0	132	55.2			0	Plus	18738	3e-10
+
+#Chain	ISa	271-323	Dimm_8557	45-191	-	11.0
+ISa		473	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_8557/Dimm_8557.seq	Dimm_8557	271	323	191	45	20.8	39.6	74	32.8			0	Minus	698	6e-06
+
+#Chain	ltr_Roo	722-1065	Dimm_856	15773-16798	+	73.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_856/Dimm_856.seq	Dimm_856	722	1065	15773	16798	21.3	39.0	430	169			0	Plus	18705	6e-45
+
+#Chain	ltr_Roo	1407-1530	Dimm_8641	4-366	-	36.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_8641/Dimm_8641.seq	Dimm_8641	1407	1530	366	4	29.6	48.0	262	105			0	Minus	689	8e-29
+
+#Chain	mariner	98-125	Dimm_8652	605-688	+	7.0
+mariner		345	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_8652/Dimm_8652.seq	Dimm_8652	98	125	605	688	25.0	57.1	72	32.0			0	Plus	688	7e-06
+
+#Chain	ltr_Roo	786-855	Dimm_875	9928-10134	+	20.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_875/Dimm_875.seq	Dimm_875	786	855	9928	10134	28.6	51.4	103	44.0			0	Plus	18182	7e-07
+
+#Chain	MuDR_A_B	655-738	Dimm_8778	119-352	-	19.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_8778/Dimm_8778.seq	Dimm_8778	655	738	352	119	22.6	33.3	85	37.3			0	Minus	674	5e-07
+
+#Chain	ISC1316	79-123	Dimm_8823	473-607	+	9.0
+ISC1316		393	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_8823/Dimm_8823.seq	Dimm_8823	79	123	473	607	20.0	33.3	83	36.3			0	Plus	670	3e-07
+
+#Chain	ltr_Roo	172-887	Dimm_888	839-3132	+	100.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_888/Dimm_888.seq	Dimm_888	172	291	839	1183	21.8	33.1	129	54.0			0	Plus	17814	5e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_888/Dimm_888.seq	Dimm_888	530	789	1991	2821	17.7	34.1	152	62.9			0	Plus	17814	1e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_888/Dimm_888.seq	Dimm_888	785	887	2809	3132	27.8	50.9	249	100			0	Plus	17814	4e-24
+
+#Chain	ltr_Roo	1084-1243	Dimm_9	89181-89678	+	42.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_9/Dimm_9.seq	Dimm_9	1084	1243	89181	89678	26.8	40.8	178	72.9			0	Plus	601870	4e-14
+
+#Chain	ltr_Roo	117-898	Dimm_9	257819-260252	+	81.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_9/Dimm_9.seq	Dimm_9	117	279	257819	258271	19.6	37.5	126	52.9			0	Plus	601870	5e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_9/Dimm_9.seq	Dimm_9	454	494	258809	258937	30.2	53.5	108	46.0			0	Plus	601870	6e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_9/Dimm_9.seq	Dimm_9	743	898	259782	260252	23.5	46.4	272	109			0	Plus	601870	5e-25
+
+#Chain	ltr_Roo	1200-1298	Dimm_9014	297-626	-	22.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_9014/Dimm_9014.seq	Dimm_9014	1200	1298	626	297	22.5	37.8	105	44.8			0	Minus	652	4e-09
+
+#Chain	ltr_Roo	761-969	Dimm_905	9853-10443	+	42.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_905/Dimm_905.seq	Dimm_905	761	969	9853	10443	20.4	36.2	254	102			0	Plus	17362	2e-24
+
+#Chain	ltr_Roo	738-1782	Dimm_908	12643-14635	+	158.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_908/Dimm_908.seq	Dimm_908	738	910	12643	13173	25.1	48.0	343	136			0	Plus	17298	7e-35
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_908/Dimm_908.seq	Dimm_908	1274	1437	13136	13552	19.8	39.5	139	57.9			0	Plus	17298	4e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_908/Dimm_908.seq	Dimm_908	1430	1681	13530	14312	24.1	37.8	290	116			0	Plus	17298	1e-28
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_908/Dimm_908.seq	Dimm_908	1684	1782	14306	14635	21.6	36.9	115	48.6			0	Plus	17298	3e-08
+
+#Chain	ltr_Roo	883-1045	Dimm_9138	219-641	-	31.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_9138/Dimm_9138.seq	Dimm_9138	883	1045	641	219	19.6	38.7	156	64.4			0	Minus	641	1e-15
+
+#Chain	cacta	752-784	Dimm_9240	138-236	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_9240/Dimm_9240.seq	Dimm_9240	752	784	138	236	57.6	57.6	76	33.7			0	Plus	632	8e-06
+
+#Chain	cacta	752-780	Dimm_9357	452-538	+	29.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_9357/Dimm_9357.seq	Dimm_9357	752	780	452	538	100.0	100.0	144	59.9			0	Plus	622	2e-14
+
+#Chain	ltr_Roo	1013-1141	Dimm_9797	3-394	-	43.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_9797/Dimm_9797.seq	Dimm_9797	1083	1141	191	3	29.7	54.7	109	46.3			0	Minus	579	8e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_9797/Dimm_9797.seq	Dimm_9797	1013	1083	394	161	35.9	46.2	173	71.0			0	Minus	579	8e-18
+
+#Chain	ltr_Roo	736-1000	Dimm_981	9321-10098	+	53.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_981/Dimm_981.seq	Dimm_981	736	802	9321	9536	27.8	50.0	116	49.0			0	Plus	15500	2e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_981/Dimm_981.seq	Dimm_981	804	1000	9541	10098	17.8	36.0	115	48.6			0	Plus	15500	2e-08
+
+#Chain	cacta	755-784	Dimm_981	14263-14352	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_981/Dimm_981.seq	Dimm_981	755	784	14352	14263	73.3	73.3	99	42.5			0	Minus	15500	8e-07
+
+#Chain	ltr_Roo	766-1757	Dimm_984	4300-7253	-	147.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_984/Dimm_984.seq	Dimm_984	1680	1757	4554	4300	23.3	41.9	123	51.7			0	Minus	15436	3e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_984/Dimm_984.seq	Dimm_984	1461	1534	5184	4975	36.5	55.4	167	68.7			0	Minus	15436	2e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.30425.Amirs-PC.tmp/Dimm_984/Dimm_984.seq	Dimm_984	766	1280	7253	5700	19.8	39.7	508	200			0	Minus	15436	3e-54
+

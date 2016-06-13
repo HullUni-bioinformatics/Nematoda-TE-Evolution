@@ -1,0 +1,944 @@
+#Chain	ISC1316	89-150	Bpah_10000	761-946	-	16.0
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10000/Bpah_10000.seq	Bpah_10000	89	150	946	761	25.8	43.5	79	34.8			0	Minus	1073	2e-06
+
+#Chain	ltr_Roo	261-371	Bpah_10039	745-1056	-	24.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10039/Bpah_10039.seq	Bpah_10039	261	371	1056	745	21.6	40.5	157	64.8			0	Minus	1067	6e-15
+
+#Chain	ISC1316	75-116	Bpah_10118	15-128	+	11.0
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10118/Bpah_10118.seq	Bpah_10118	75	116	15	128	26.2	47.6	78	34.4			0	Plus	1057	3e-06
+
+#Chain	ltr_Roo	1707-1820	Bpah_10121	40-405	-	22.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10121/Bpah_10121.seq	Bpah_10121	1707	1820	405	40	19.7	40.2	125	52.5			0	Minus	1057	5e-11
+
+#Chain	ltr_Roo	585-865	Bpah_10142	173-1051	+	73.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10142/Bpah_10142.seq	Bpah_10142	585	865	173	1051	26.0	45.1	464	183			0	Plus	1053	7e-54
+
+#Chain	ltr_Roo	230-371	Bpah_10229	598-999	+	31.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10229/Bpah_10229.seq	Bpah_10229	230	371	598	999	21.8	41.5	211	85.6			0	Plus	1041	9e-22
+
+#Chain	ltr_Roo	230-354	Bpah_1040	4-360	-	32.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1040/Bpah_1040.seq	Bpah_1040	230	354	360	4	25.6	43.2	204	82.9			0	Minus	10234	6e-19
+
+#Chain	ltr_Roo	752-977	Bpah_1041	2798-3529	+	28.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1041/Bpah_1041.seq	Bpah_1041	752	977	2798	3529	12.8	34.2	117	49.4			0	Plus	10231	9e-09
+
+#Chain	ltr_Roo	782-1012	Bpah_1041	9024-9654	+	47.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1041/Bpah_1041.seq	Bpah_1041	782	835	9024	9185	40.7	55.6	153	63.3			0	Plus	10231	5e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1041/Bpah_1041.seq	Bpah_1041	853	1012	9172	9654	15.8	36.8	135	56.4			0	Plus	10231	7e-11
+
+#Chain	ltr_Roo	1165-1447	Bpah_10488	19-896	-	61.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10488/Bpah_10488.seq	Bpah_10488	1277	1447	537	19	21.7	43.3	167	68.7			0	Minus	1004	3e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10488/Bpah_10488.seq	Bpah_10488	1165	1238	896	675	33.3	57.3	189	77.2			0	Minus	1004	4e-19
+
+#Chain	ltr_Roo	1557-1783	Bpah_10530	245-991	-	54.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10530/Bpah_10530.seq	Bpah_10530	1557	1783	991	245	24.1	39.9	408	161			0	Minus	999	1e-46
+
+#Chain	ltr_Roo	261-324	Bpah_10735	552-740	+	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10735/Bpah_10735.seq	Bpah_10735	261	324	552	740	28.1	40.6	123	51.7			0	Plus	970	7e-11
+
+#Chain	ltr_Roo	1386-1513	Bpah_10821	304-693	+	25.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10821/Bpah_10821.seq	Bpah_10821	1386	1513	304	693	19.6	40.6	170	69.8			0	Plus	958	9e-17
+
+#Chain	ltr_Roo	821-1141	Bpah_10831	2-956	-	90.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10831/Bpah_10831.seq	Bpah_10831	1061	1141	232	2	29.9	44.8	137	57.1			0	Minus	957	1e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10831/Bpah_10831.seq	Bpah_10831	865	1067	831	232	26.4	46.6	463	182			0	Minus	957	4e-54
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_10831/Bpah_10831.seq	Bpah_10831	821	862	956	831	31.0	69.0	133	55.6			0	Minus	957	4e-12
+
+#Chain	mariner	3-57	Bpah_11	141626-141790	+	12.0
+mariner		345	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11/Bpah_11.seq	Bpah_11	3	57	141626	141790	21.8	32.7	96	41.3			0	Plus	374402	9e-06
+
+#Chain	cacta	750-785	Bpah_11	210995-211102	-	28.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11/Bpah_11.seq	Bpah_11	750	785	211102	210995	77.8	77.8	137	57.2			0	Minus	374402	8e-10
+
+#Chain	ltr_Roo	1518-1772	Bpah_110	5640-6396	-	52.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_110/Bpah_110.seq	Bpah_110	1679	1772	5948	5640	24.3	43.7	137	57.1			0	Minus	145234	6e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_110/Bpah_110.seq	Bpah_110	1518	1670	6396	6001	19.2	36.5	186	76.0			0	Minus	145234	1e-15
+
+#Chain	ltr_Roo	238-1111	Bpah_110	7673-10457	-	163.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_110/Bpah_110.seq	Bpah_110	1014	1111	7960	7673	29.6	44.9	157	64.8			0	Minus	145234	3e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_110/Bpah_110.seq	Bpah_110	756	1005	8669	7983	17.3	37.7	341	135			0	Minus	145234	1e-33
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_110/Bpah_110.seq	Bpah_110	422	749	9865	8708	17.1	35.7	217	87.9			0	Minus	145234	3e-19
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_110/Bpah_110.seq	Bpah_110	238	405	10457	9966	21.0	40.9	164	67.5			0	Minus	145234	5e-13
+
+#Chain	MuDR_A_B	653-741	Bpah_11033	688-930	-	12.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11033/Bpah_11033.seq	Bpah_11033	653	741	930	688	14.4	27.8	84	36.9			0	Minus	931	1e-06
+
+#Chain	cacta	471-533	Bpah_11067	574-759	+	13.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11067/Bpah_11067.seq	Bpah_11067	471	533	574	759	20.6	30.2	81	35.6			0	Plus	928	4e-06
+
+#Chain	cacta	753-782	Bpah_112	40113-40202	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_112/Bpah_112.seq	Bpah_112	753	782	40202	40113	80.0	80.0	111	47.2			0	Minus	144063	3e-07
+
+#Chain	ltr_Roo	230-291	Bpah_112	129085-129267	-	16.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_112/Bpah_112.seq	Bpah_112	230	291	129267	129085	25.8	43.5	102	43.6			0	Minus	144063	7e-06
+
+#Chain	ltr_Roo	994-1196	Bpah_1124	21-624	-	42.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1124/Bpah_1124.seq	Bpah_1124	1162	1196	128	21	33.3	58.3	100	42.9			0	Minus	8973	8e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1124/Bpah_1124.seq	Bpah_1124	994	1146	624	178	20.0	40.0	132	55.2			0	Minus	8973	1e-10
+
+#Chain	ltr_Roo	989-1548	Bpah_1136	7-1226	-	111.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1136/Bpah_1136.seq	Bpah_1136	1392	1548	471	7	27.0	45.3	254	102			0	Minus	8867	8e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1136/Bpah_1136.seq	Bpah_1136	1165	1233	690	484	32.9	55.7	174	71.4			0	Minus	8867	2e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1136/Bpah_1136.seq	Bpah_1136	1087	1148	940	743	37.3	52.2	138	57.5			0	Minus	8867	3e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1136/Bpah_1136.seq	Bpah_1136	989	1071	1226	981	27.7	55.4	128	53.7			0	Minus	8867	4e-10
+
+#Chain	ltr_Roo	917-1196	Bpah_11391	15-831	-	75.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11391/Bpah_11391.seq	Bpah_11391	1078	1196	389	15	30.7	50.4	232	93.7			0	Minus	886	1e-24
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11391/Bpah_11391.seq	Bpah_11391	917	1057	831	430	27.7	49.6	329	131			0	Minus	886	8e-37
+
+#Chain	gypsy	279-419	Bpah_11486	182-595	-	21.3
+gypsy		1463	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11486/Bpah_11486.seq	Bpah_11486	279	419	595	182	15.1	36.3	87	37.9			0	Minus	874	8e-07
+
+#Chain	ltr_Roo	238-308	Bpah_11498	153-359	+	23.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11498/Bpah_11498.seq	Bpah_11498	238	308	153	359	32.4	52.1	168	69.1			0	Plus	872	1e-16
+
+#Chain	ltr_Roo	668-840	Bpah_115	2812-3351	-	33.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_115/Bpah_115.seq	Bpah_115	668	840	3351	2812	19.4	40.8	144	59.8			0	Minus	141324	1e-10
+
+#Chain	ltr_Roo	886-1036	Bpah_11571	2-430	-	34.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11571/Bpah_11571.seq	Bpah_11571	886	1036	430	2	22.5	45.7	308	122			0	Minus	861	3e-34
+
+#Chain	ltr_Roo	504-781	Bpah_11619	1-847	+	64.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11619/Bpah_11619.seq	Bpah_11619	504	709	1	636	22.6	41.6	138	57.5			0	Plus	855	7e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11619/Bpah_11619.seq	Bpah_11619	696	781	620	847	20.7	35.6	132	55.2			0	Plus	855	4e-12
+
+#Chain	cacta	764-797	Bpah_11711	158-259	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_11711/Bpah_11711.seq	Bpah_11711	764	797	259	158	55.9	61.8	80	35.2			0	Minus	839	4e-06
+
+#Chain	ltr_Roo	1013-1050	Bpah_1183	4384-4497	-	15.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1183/Bpah_1183.seq	Bpah_1183	1013	1050	4497	4384	39.5	65.8	129	54.0			0	Minus	8491	3e-10
+
+#Chain	ltr_Roo	746-1695	Bpah_1188	3842-5359	+	100.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1188/Bpah_1188.seq	Bpah_1188	746	852	3842	4171	28.6	53.6	263	105			0	Plus	8428	6e-26
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1188/Bpah_1188.seq	Bpah_1188	883	951	4248	4451	20.3	37.7	139	57.9			0	Plus	8428	2e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1188/Bpah_1188.seq	Bpah_1188	1440	1695	4682	5359	22.0	39.4	277	111			0	Plus	8428	1e-27
+
+#Chain	ltr_Roo	668-956	Bpah_1190	6844-7697	+	39.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1190/Bpah_1190.seq	Bpah_1190	668	862	6844	7413	13.9	40.2	117	49.4			0	Plus	8411	7e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1190/Bpah_1190.seq	Bpah_1190	887	956	7491	7697	17.1	38.6	121	51.0			0	Plus	8411	3e-09
+
+#Chain	hAT	92-213	Bpah_12	361623-361967	-	23.1
+hAT		749	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_12/Bpah_12.seq	Bpah_12	92	213	361967	361623	18.9	35.2	124	52.2			0	Minus	363364	1e-08
+
+#Chain	ltr_Roo	238-308	Bpah_1209	1474-1680	+	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1209/Bpah_1209.seq	Bpah_1209	238	308	1474	1680	29.6	40.8	129	54.0			0	Plus	8276	3e-10
+
+#Chain	ltr_Roo	1123-1217	Bpah_12108	499-783	-	32.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_12108/Bpah_12108.seq	Bpah_12108	1123	1217	783	499	34.0	57.7	210	85.2			0	Minus	784	5e-22
+
+#Chain	ltr_Roo	687-1111	Bpah_1212	198-1411	-	74.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1212/Bpah_1212.seq	Bpah_1212	1011	1111	491	198	28.4	50.0	155	64.1			0	Minus	8246	3e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1212/Bpah_1212.seq	Bpah_1212	884	950	816	619	11.9	38.8	114	48.3			0	Minus	8246	2e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1212/Bpah_1212.seq	Bpah_1212	687	871	1411	863	20.2	41.9	213	86.4			0	Minus	8246	5e-20
+
+#Chain	ltr_Roo	230-282	Bpah_1212	2491-2646	-	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1212/Bpah_1212.seq	Bpah_1212	230	282	2646	2491	34.0	49.1	118	49.8			0	Minus	8246	5e-09
+
+#Chain	ISC1316	213-296	Bpah_1213	5666-5920	-	16.8
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1213/Bpah_1213.seq	Bpah_1213	213	296	5920	5666	20.0	35.3	112	47.5			0	Minus	8236	3e-09
+
+#Chain	ltr_Roo	107-347	Bpah_12130	87-774	+	43.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_12130/Bpah_12130.seq	Bpah_12130	107	246	87	494	18.7	42.0	90	39.0			0	Plus	781	5e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_12130/Bpah_12130.seq	Bpah_12130	261	347	517	774	19.5	36.8	133	55.6			0	Plus	781	2e-12
+
+#Chain	ISC1316	90-137	Bpah_12367	608-745	-	7.0
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_12367/Bpah_12367.seq	Bpah_12367	90	137	745	608	14.6	37.5	73	32.5			0	Minus	747	7e-06
+
+#Chain	ltr_Roo	1451-1696	Bpah_127	68710-69423	-	63.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_127/Bpah_127.seq	Bpah_127	1451	1696	69423	68710	25.8	45.7	432	170			0	Minus	133233	3e-44
+
+#Chain	ltr_Roo	560-778	Bpah_12726	1-693	-	45.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_12726/Bpah_12726.seq	Bpah_12726	560	778	693	1	20.9	41.8	226	91.4			0	Minus	694	4e-24
+
+#Chain	ISC1316	221-299	Bpah_12860	343-555	+	12.6
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_12860/Bpah_12860.seq	Bpah_12860	221	299	343	555	16.0	40.7	73	32.5			0	Plus	674	6e-06
+
+#Chain	ltr_Roo	843-870	Bpah_1290	6621-6704	+	10.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1290/Bpah_1290.seq	Bpah_1290	843	870	6621	6704	35.7	57.1	90	39.0			0	Plus	7660	9e-06
+
+#Chain	ltr_Roo	843-1071	Bpah_1290	6918-7589	+	52.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1290/Bpah_1290.seq	Bpah_1290	843	889	6918	7073	30.8	50.0	119	50.2			0	Plus	7660	4e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1290/Bpah_1290.seq	Bpah_1290	884	974	7057	7320	16.5	47.3	148	61.4			0	Plus	7660	2e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1290/Bpah_1290.seq	Bpah_1290	989	1071	7344	7589	27.7	55.4	128	53.7			0	Plus	7660	3e-10
+
+#Chain	ISC1316	220-257	Bpah_12985	2-115	-	9.0
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_12985/Bpah_12985.seq	Bpah_12985	220	257	115	2	23.7	39.5	84	36.7			0	Minus	656	2e-07
+
+#Chain	ltr_Roo	243-313	Bpah_13022	274-480	-	24.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13022/Bpah_13022.seq	Bpah_13022	243	313	480	274	33.8	45.1	132	55.2			0	Minus	652	1e-12
+
+#Chain	ltr_Roo	1434-1648	Bpah_13060	6-605	+	64.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13060/Bpah_13060.seq	Bpah_13060	1434	1648	6	605	30.1	44.9	445	175			0	Plus	646	4e-53
+
+#Chain	ltr_Roo	1120-1225	Bpah_13129	340-615	+	29.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13129/Bpah_13129.seq	Bpah_13129	1120	1225	340	615	27.4	46.2	83	36.3			0	Plus	635	2e-06
+
+#Chain	ISC1316	65-137	Bpah_13244	289-489	+	21.7
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13244/Bpah_13244.seq	Bpah_13244	65	137	289	489	29.7	44.6	74	32.9			0	Plus	616	4e-06
+
+#Chain	ltr_Roo	1201-1302	Bpah_13363	60-383	+	18.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13363/Bpah_13363.seq	Bpah_13363	1201	1302	60	383	17.9	40.2	133	55.6			0	Plus	597	7e-13
+
+#Chain	ltr_Roo	1577-1733	Bpah_13398	70-589	-	40.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13398/Bpah_13398.seq	Bpah_13398	1672	1733	273	70	30.0	50.0	144	59.8			0	Minus	591	3e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13398/Bpah_13398.seq	Bpah_13398	1577	1672	589	281	22.9	41.0	172	70.6			0	Minus	591	1e-17
+
+#Chain	TY1_Copia	260-356	Bpah_1356	1175-1498	+	17.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1356/Bpah_1356.seq	Bpah_1356	260	356	1175	1498	18.5	36.1	93	40.4			0	Plus	7094	2e-06
+
+#Chain	hAT	127-181	Bpah_13615	259-456	+	10.8
+hAT		749	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13615/Bpah_13615.seq	Bpah_13615	127	181	259	456	19.7	34.8	80	35.3			0	Plus	555	1e-06
+
+#Chain	ltr_Roo	1022-1120	Bpah_1379	6620-6907	+	31.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1379/Bpah_1379.seq	Bpah_1379	1022	1120	6620	6907	32.1	46.2	207	84.1			0	Plus	6924	2e-19
+
+#Chain	ltr_Roo	238-296	Bpah_13836	347-520	+	20.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13836/Bpah_13836.seq	Bpah_13836	238	296	347	520	35.0	50.0	123	51.7			0	Plus	522	9e-12
+
+#Chain	ltr_Roo	763-960	Bpah_139	10908-11490	-	34.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_139/Bpah_139.seq	Bpah_139	836	960	11285	10908	16.7	34.0	131	54.8			0	Minus	127651	3e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_139/Bpah_139.seq	Bpah_139	763	810	11490	11335	28.8	50.0	128	53.7			0	Minus	127651	6e-09
+
+#Chain	ltr_Roo	912-1057	Bpah_13997	85-502	-	39.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13997/Bpah_13997.seq	Bpah_13997	1031	1057	165	85	44.4	59.3	84	36.7			0	Minus	503	9e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_13997/Bpah_13997.seq	Bpah_13997	912	1031	502	164	23.3	50.0	232	93.7			0	Minus	503	1e-25
+
+#Chain	ltr_Roo	1387-1454	Bpah_14019	2-208	-	16.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_14019/Bpah_14019.seq	Bpah_14019	1387	1454	208	2	24.6	50.7	178	72.9			0	Minus	501	1e-18
+
+#Chain	ltr_Roo	685-814	Bpah_1407	5540-6001	+	30.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1407/Bpah_1407.seq	Bpah_1407	685	814	5540	6001	23.2	44.5	204	82.9			0	Plus	6664	4e-19
+
+#Chain	ISC1316	219-273	Bpah_143	21669-21833	+	8.0
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_143/Bpah_143.seq	Bpah_143	219	273	21669	21833	14.5	36.4	93	40.2			0	Plus	123614	8e-06
+
+#Chain	ltr_Roo	856-1470	Bpah_143	120894-122625	-	130.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_143/Bpah_143.seq	Bpah_143	1413	1470	121070	120894	23.7	42.4	123	51.7			0	Minus	123614	2e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_143/Bpah_143.seq	Bpah_143	1166	1408	121774	121070	19.2	35.8	181	74.1			0	Minus	123614	3e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_143/Bpah_143.seq	Bpah_143	856	1136	122625	121804	25.0	43.5	473	186			0	Minus	123614	2e-49
+
+#Chain	ltr_Roo	367-507	Bpah_1434	94-522	+	26.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1434/Bpah_1434.seq	Bpah_1434	367	507	94	522	18.5	40.4	159	65.6			0	Plus	6538	7e-14
+
+#Chain	ltr_Roo	829-907	Bpah_1453	5194-5445	+	16.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1453/Bpah_1453.seq	Bpah_1453	829	907	5194	5445	20.2	38.1	132	55.2			0	Plus	6417	1e-10
+
+#Chain	cacta	753-784	Bpah_148	23396-23491	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_148/Bpah_148.seq	Bpah_148	753	784	23396	23491	71.9	75.0	99	42.5			0	Plus	119102	7e-06
+
+#Chain	cacta	754-784	Bpah_148	23588-23680	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_148/Bpah_148.seq	Bpah_148	754	784	23588	23680	71.0	74.2	98	42.1			0	Plus	119102	9e-06
+
+#Chain	ltr_Roo	987-1112	Bpah_15	335487-335846	-	38.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_15/Bpah_15.seq	Bpah_15	987	1112	335846	335487	30.2	45.2	161	66.4			0	Minus	336343	2e-12
+
+#Chain	ltr_Roo	1661-1783	Bpah_1518	216-620	-	29.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1518/Bpah_1518.seq	Bpah_1518	1661	1783	620	216	24.1	40.9	210	85.2			0	Minus	6058	7e-20
+
+#Chain	ltr_Roo	230-456	Bpah_1518	1729-2310	-	46.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1518/Bpah_1518.seq	Bpah_1518	230	456	2310	1729	20.3	35.7	241	97.2			0	Minus	6058	2e-23
+
+#Chain	ltr_Roo	724-781	Bpah_1564	4724-4897	+	12.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1564/Bpah_1564.seq	Bpah_1564	724	781	4724	4897	22.0	37.3	109	46.3			0	Plus	5858	4e-08
+
+#Chain	ltr_Roo	1014-1043	Bpah_1569	2-79	+	12.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1569/Bpah_1569.seq	Bpah_1569	1014	1043	2	79	40.0	56.7	91	39.4			0	Plus	5843	5e-06
+
+#Chain	ltr_Roo	1035-1120	Bpah_1569	85-333	+	24.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1569/Bpah_1569.seq	Bpah_1569	1035	1120	85	333	29.0	41.9	148	61.4			0	Plus	5843	1e-12
+
+#Chain	ltr_Roo	434-556	Bpah_159	4-423	+	27.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_159/Bpah_159.seq	Bpah_159	434	556	4	423	22.4	39.2	171	70.2			0	Plus	114213	6e-14
+
+#Chain	ltr_Roo	917-1354	Bpah_159	2175-3554	+	116.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_159/Bpah_159.seq	Bpah_159	917	1354	2175	3554	26.5	46.8	849	331			0	Plus	114213	5e-93
+
+#Chain	cacta	750-780	Bpah_16	102161-102253	-	27.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_16/Bpah_16.seq	Bpah_16	750	780	102253	102161	87.1	87.1	125	52.5			0	Minus	331773	2e-08
+
+#Chain	ltr_Roo	1253-1751	Bpah_162	32-1513	+	128.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_162/Bpah_162.seq	Bpah_162	1253	1568	32	934	28.9	45.6	540	212			0	Plus	110420	6e-57
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_162/Bpah_162.seq	Bpah_162	1570	1616	939	1079	29.8	51.1	115	48.6			0	Plus	110420	2e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_162/Bpah_162.seq	Bpah_162	1662	1751	1220	1513	25.5	42.9	152	62.9			0	Plus	110420	9e-12
+
+#Chain	ltr_Roo	293-550	Bpah_1621	4-912	-	41.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1621/Bpah_1621.seq	Bpah_1621	293	550	912	4	15.9	31.2	193	78.7			0	Minus	5608	6e-18
+
+#Chain	ltr_Roo	338-1783	Bpah_1641	987-5526	-	339.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1641/Bpah_1641.seq	Bpah_1641	1644	1783	1439	987	20.8	40.3	205	83.3			0	Minus	5534	2e-19
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1641/Bpah_1641.seq	Bpah_1641	338	1648	5526	1435	23.7	42.9	2148	831			0	Minus	5534	0.0
+
+#Chain	cacta	753-782	Bpah_166	13761-13850	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_166/Bpah_166.seq	Bpah_166	753	782	13761	13850	73.3	80.0	106	45.2			0	Plus	108104	9e-07
+
+#Chain	cacta	749-781	Bpah_1669	2060-2158	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1669/Bpah_1669.seq	Bpah_1669	749	781	2158	2060	72.7	72.7	112	47.5			0	Minus	5422	9e-09
+
+#Chain	ltr_Roo	1041-1294	Bpah_167	6359-7009	+	45.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_167/Bpah_167.seq	Bpah_167	1041	1294	6359	7009	17.7	31.4	120	50.6			0	Plus	107984	4e-08
+
+#Chain	ltr_Roo	646-830	Bpah_168	43076-43591	-	34.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_168/Bpah_168.seq	Bpah_168	646	830	43591	43076	18.5	36.9	150	62.1			0	Minus	107751	1e-11
+
+#Chain	ltr_Roo	423-1760	Bpah_1686	1362-5182	-	239.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1686/Bpah_1686.seq	Bpah_1686	1691	1760	1568	1362	26.8	43.7	133	55.6			0	Minus	5362	6e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1686/Bpah_1686.seq	Bpah_1686	1185	1285	2008	1688	28.4	51.4	198	80.6			0	Minus	5362	2e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1686/Bpah_1686.seq	Bpah_1686	1025	1185	2490	2002	32.4	48.0	379	150			0	Minus	5362	1e-39
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1686/Bpah_1686.seq	Bpah_1686	531	1024	4001	2490	22.5	45.1	793	309			0	Minus	5362	2e-88
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1686/Bpah_1686.seq	Bpah_1686	423	555	5182	4748	21.5	35.6	173	71.0			0	Minus	5362	1e-15
+
+#Chain	ltr_Roo	247-320	Bpah_169	434-643	+	17.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_169/Bpah_169.seq	Bpah_169	247	320	434	643	24.1	41.8	104	44.4			0	Plus	107576	3e-06
+
+#Chain	ltr_Roo	420-871	Bpah_17	61-1543	-	99.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_17/Bpah_17.seq	Bpah_17	544	871	1089	61	24.2	43.9	504	198			0	Minus	327997	3e-52
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_17/Bpah_17.seq	Bpah_17	420	511	1543	1268	21.9	38.5	116	49.0			0	Minus	327997	4e-07
+
+#Chain	cacta	753-785	Bpah_17	169977-170075	+	26.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_17/Bpah_17.seq	Bpah_17	753	785	169977	170075	78.8	78.8	120	50.6			0	Plus	327997	7e-08
+
+#Chain	ltr_Roo	230-371	Bpah_17	327387-327788	+	32.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_17/Bpah_17.seq	Bpah_17	230	371	327387	327788	23.2	43.7	229	92.6			0	Plus	327997	3e-20
+
+#Chain	ltr_Roo	1162-1783	Bpah_1702	2906-4771	-	160.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1702/Bpah_1702.seq	Bpah_1702	1162	1783	4771	2906	25.8	42.1	927	361			0	Minus	5274	1e-104
+
+#Chain	ltr_Roo	230-1696	Bpah_1704	266-2701	+	165.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1704/Bpah_1704.seq	Bpah_1704	230	470	266	1039	17.6	35.6	256	102			0	Plus	5268	2e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1704/Bpah_1704.seq	Bpah_1704	1133	1218	1027	1287	33.0	56.8	193	78.7			0	Plus	5268	6e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1704/Bpah_1704.seq	Bpah_1704	1271	1696	1472	2701	22.2	38.6	516	203			0	Plus	5268	8e-56
+
+#Chain	ltr_Roo	230-372	Bpah_175	103689-104093	-	36.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_175/Bpah_175.seq	Bpah_175	230	372	104093	103689	25.2	39.9	240	96.8			0	Minus	104471	5e-22
+
+#Chain	ltr_Roo	674-918	Bpah_1753	245-1018	-	67.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1753/Bpah_1753.seq	Bpah_1753	674	918	1018	245	27.7	50.4	581	228			0	Minus	5100	2e-63
+
+#Chain	ltr_Roo	242-771	Bpah_1753	1103-2407	-	84.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1753/Bpah_1753.seq	Bpah_1753	674	771	1408	1103	26.0	47.1	182	74.5			0	Minus	5100	1e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1753/Bpah_1753.seq	Bpah_1753	500	639	1953	1540	21.9	41.8	103	44.0			0	Minus	5100	2e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1753/Bpah_1753.seq	Bpah_1753	242	371	2407	2042	21.4	41.2	166	68.3			0	Minus	5100	8e-15
+
+#Chain	ltr_Roo	230-371	Bpah_1791	3583-3984	-	34.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1791/Bpah_1791.seq	Bpah_1791	230	371	3984	3583	24.6	40.8	244	98.3			0	Minus	4989	5e-24
+
+#Chain	ltr_Roo	230-275	Bpah_180	232-366	-	15.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_180/Bpah_180.seq	Bpah_180	230	275	366	232	32.6	50.0	115	48.6			0	Minus	100066	2e-07
+
+#Chain	ltr_Roo	230-1433	Bpah_184	22514-26353	-	285.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_184/Bpah_184.seq	Bpah_184	1231	1433	23146	22514	20.9	36.0	128	53.7			0	Minus	96901	5e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_184/Bpah_184.seq	Bpah_184	986	1234	23891	23136	33.5	51.4	532	209			0	Minus	96901	4e-56
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_184/Bpah_184.seq	Bpah_184	721	969	24697	23927	27.8	51.7	675	264			0	Minus	96901	9e-73
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_184/Bpah_184.seq	Bpah_184	470	693	25587	24796	20.1	36.9	114	48.3			0	Minus	96901	2e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_184/Bpah_184.seq	Bpah_184	230	464	26353	25694	19.3	38.3	228	92.2			0	Minus	96901	1e-20
+
+#Chain	ltr_Roo	1045-1188	Bpah_19	5666-6064	+	32.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_19/Bpah_19.seq	Bpah_19	1045	1188	5666	6064	22.4	38.1	138	57.5			0	Plus	309627	1e-09
+
+#Chain	ltr_Roo	1484-1519	Bpah_190	3478-3585	+	16.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_190/Bpah_190.seq	Bpah_190	1484	1519	3478	3585	44.4	66.7	104	44.4			0	Plus	95372	3e-06
+
+#Chain	ISC1316	204-296	Bpah_190	14433-14768	-	12.4
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_190/Bpah_190.seq	Bpah_190	204	296	14768	14433	13.3	29.2	93	40.2			0	Minus	95372	6e-06
+
+#Chain	ltr_Roo	1577-1691	Bpah_1907	3504-3815	-	22.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1907/Bpah_1907.seq	Bpah_1907	1577	1691	3815	3504	19.1	38.3	123	51.7			0	Minus	4641	7e-10
+
+#Chain	ltr_Roo	420-596	Bpah_1915	380-1000	+	36.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1915/Bpah_1915.seq	Bpah_1915	420	596	380	1000	20.6	36.4	142	59.0			0	Plus	4620	5e-12
+
+#Chain	ltr_Roo	246-492	Bpah_1925	2311-3087	-	45.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1925/Bpah_1925.seq	Bpah_1925	246	492	3087	2311	18.2	32.7	176	72.1			0	Minus	4596	4e-16
+
+#Chain	ltr_Roo	398-778	Bpah_1996	3206-4407	-	52.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1996/Bpah_1996.seq	Bpah_1996	617	778	3733	3206	19.7	38.8	101	43.3			0	Minus	4457	3e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_1996/Bpah_1996.seq	Bpah_1996	398	507	4407	4078	18.6	41.6	137	57.1			0	Minus	4457	2e-11
+
+#Chain	hAT	638-687	Bpah_202	53421-53570	-	16.0
+hAT		749	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_202/Bpah_202.seq	Bpah_202	638	687	53570	53421	32.0	52.0	119	50.3			0	Minus	92242	1e-08
+
+#Chain	ltr_Roo	99-1408	Bpah_2020	346-4403	+	268.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2020/Bpah_2020.seq	Bpah_2020	99	316	346	1104	20.8	37.3	159	65.6			0	Plus	4403	4e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2020/Bpah_2020.seq	Bpah_2020	328	759	1125	2627	19.1	36.4	315	125			0	Plus	4403	2e-32
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2020/Bpah_2020.seq	Bpah_2020	790	943	2629	3099	27.0	52.8	384	152			0	Plus	4403	2e-40
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2020/Bpah_2020.seq	Bpah_2020	941	1049	3090	3389	22.0	38.5	167	68.7			0	Plus	4403	5e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2020/Bpah_2020.seq	Bpah_2020	1117	1172	3530	3697	29.8	45.6	109	46.3			0	Plus	4403	3e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2020/Bpah_2020.seq	Bpah_2020	1170	1279	3691	4047	26.0	43.9	192	78.3			0	Plus	4403	6e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2020/Bpah_2020.seq	Bpah_2020	1284	1408	4044	4403	23.9	44.0	182	74.5			0	Plus	4403	9e-17
+
+#Chain	ltr_Roo	1273-1610	Bpah_2062	1-963	-	97.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2062/Bpah_2062.seq	Bpah_2062	1273	1610	963	1	28.7	46.1	635	248			0	Minus	4300	4e-70
+
+#Chain	ltr_Roo	500-1508	Bpah_2062	972-4071	-	271.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2062/Bpah_2062.seq	Bpah_2062	1273	1508	1646	972	29.1	49.0	446	176			0	Minus	4300	9e-48
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2062/Bpah_2062.seq	Bpah_2062	1119	1243	2140	1766	37.0	58.3	314	125			0	Minus	4300	3e-32
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2062/Bpah_2062.seq	Bpah_2062	917	1111	2757	2200	27.2	48.7	393	155			0	Minus	4300	2e-41
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2062/Bpah_2062.seq	Bpah_2062	709	917	3404	2754	28.3	49.8	545	214			0	Minus	4300	2e-59
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2062/Bpah_2062.seq	Bpah_2062	500	722	4071	3373	19.9	39.8	138	57.5			0	Minus	4300	1e-11
+
+#Chain	ltr_Roo	1481-1763	Bpah_210	89014-89828	-	72.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_210/Bpah_210.seq	Bpah_210	1644	1763	89379	89014	24.4	42.3	148	61.4			0	Minus	90566	2e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_210/Bpah_210.seq	Bpah_210	1481	1667	89828	89340	23.0	39.3	197	80.2			0	Minus	90566	3e-17
+
+#Chain	ltr_Roo	1162-1368	Bpah_2114	3556-4206	+	52.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2114/Bpah_2114.seq	Bpah_2114	1162	1368	3556	4206	25.4	44.8	270	108			0	Plus	4207	4e-27
+
+#Chain	ltr_Roo	230-303	Bpah_2155	886-1101	+	22.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2155/Bpah_2155.seq	Bpah_2155	230	303	886	1101	30.3	47.4	137	57.1			0	Plus	4118	1e-11
+
+#Chain	cacta	753-784	Bpah_2220	2123-2218	+	28.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2220/Bpah_2220.seq	Bpah_2220	753	784	2123	2218	87.5	87.5	134	56.0			0	Plus	4007	2e-11
+
+#Chain	ltr_Roo	230-559	Bpah_227	84097-85182	+	60.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_227/Bpah_227.seq	Bpah_227	230	559	84097	85182	18.3	35.2	298	119			0	Plus	85280	7e-29
+
+#Chain	ltr_Roo	1513-1752	Bpah_2307	3024-3797	-	51.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2307/Bpah_2307.seq	Bpah_2307	1513	1752	3797	3024	21.3	37.1	228	92.2			0	Minus	3852	3e-22
+
+#Chain	ltr_Roo	265-1800	Bpah_2325	1647-3054	-	90.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2325/Bpah_2325.seq	Bpah_2325	1625	1800	2273	1647	25.7	41.9	218	88.3			0	Minus	3821	4e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2325/Bpah_2325.seq	Bpah_2325	468	526	2425	2246	25.0	40.0	89	38.6			0	Minus	3821	6e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2325/Bpah_2325.seq	Bpah_2325	265	366	3054	2785	29.4	42.2	119	50.2			0	Minus	3821	2e-09
+
+#Chain	ltr_Roo	251-555	Bpah_2355	496-1519	-	45.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2355/Bpah_2355.seq	Bpah_2355	455	555	870	496	21.7	37.2	124	52.1			0	Minus	3765	5e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2355/Bpah_2355.seq	Bpah_2355	251	339	1519	1271	27.0	44.9	159	65.6			0	Minus	3765	4e-14
+
+#Chain	ltr_Roo	1460-1507	Bpah_238	4-129	-	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_238/Bpah_238.seq	Bpah_238	1460	1507	129	4	29.2	54.2	99	42.5			0	Minus	81042	9e-06
+
+#Chain	ltr_Roo	1440-1512	Bpah_238	338-538	+	19.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_238/Bpah_238.seq	Bpah_238	1440	1512	338	538	26.0	46.6	136	56.7			0	Plus	81042	5e-10
+
+#Chain	ltr_Roo	819-909	Bpah_238	1304-1591	+	20.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_238/Bpah_238.seq	Bpah_238	819	909	1304	1591	22.9	41.7	164	67.5			0	Plus	81042	3e-13
+
+#Chain	ltr_Roo	623-1118	Bpah_24	50914-52202	+	85.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_24/Bpah_24.seq	Bpah_24	623	783	50914	51447	17.4	38.6	109	46.3			0	Plus	278127	2e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_24/Bpah_24.seq	Bpah_24	857	1118	51453	52202	22.1	37.1	227	91.8			0	Plus	278127	4e-20
+
+#Chain	cacta	753-782	Bpah_24	85509-85598	-	29.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_24/Bpah_24.seq	Bpah_24	753	782	85598	85509	96.7	100.0	143	59.5			0	Minus	278127	1e-10
+
+#Chain	ISC1316	59-123	Bpah_241	61334-61534	-	10.7
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_241/Bpah_241.seq	Bpah_241	59	123	61534	61334	16.4	35.8	95	40.9			0	Minus	79991	3e-06
+
+#Chain	ltr_Roo	1093-1533	Bpah_243	73763-75116	-	98.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_243/Bpah_243.seq	Bpah_243	1273	1533	74530	73763	21.9	38.4	271	108			0	Minus	78729	7e-26
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_243/Bpah_243.seq	Bpah_243	1093	1219	75116	74718	32.6	51.9	264	106			0	Minus	78729	5e-25
+
+#Chain	MuDR_A_B	657-737	Bpah_246	73132-73362	-	20.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_246/Bpah_246.seq	Bpah_246	657	737	73362	73132	24.7	38.3	111	47.3			0	Minus	77262	1e-07
+
+#Chain	cacta	759-818	Bpah_25	218528-218686	-	27.5
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_25/Bpah_25.seq	Bpah_25	759	818	218686	218528	45.9	54.1	113	47.9			0	Minus	276727	4e-07
+
+#Chain	ltr_Roo	231-508	Bpah_2507	827-1681	-	51.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2507/Bpah_2507.seq	Bpah_2507	231	508	1681	827	18.5	34.0	237	95.6			0	Minus	3544	2e-23
+
+#Chain	ltr_Roo	412-1780	Bpah_252	59-786	+	53.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_252/Bpah_252.seq	Bpah_252	412	559	59	532	20.6	38.2	150	62.1			0	Plus	74690	1e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_252/Bpah_252.seq	Bpah_252	1702	1780	556	786	28.7	50.0	132	55.2			0	Plus	74690	1e-09
+
+#Chain	ltr_Roo	741-881	Bpah_2542	724-1149	+	32.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2542/Bpah_2542.seq	Bpah_2542	741	881	724	1149	22.7	35.3	95	40.9			0	Plus	3498	1e-06
+
+#Chain	ltr_Roo	1117-1302	Bpah_2542	2215-2709	+	32.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2542/Bpah_2542.seq	Bpah_2542	1117	1302	2215	2709	17.3	39.6	126	52.9			0	Plus	3498	2e-10
+
+#Chain	cacta	752-815	Bpah_2584	1652-1876	+	24.8
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2584/Bpah_2584.seq	Bpah_2584	752	815	1652	1876	38.7	48.0	100	42.9			0	Plus	3454	1e-07
+
+#Chain	TY1_Copia	336-396	Bpah_2594	1131-1313	+	15.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2594/Bpah_2594.seq	Bpah_2594	336	396	1131	1313	24.6	42.6	93	40.4			0	Plus	3445	1e-06
+
+#Chain	ltr_Roo	230-330	Bpah_2637	259-564	+	26.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2637/Bpah_2637.seq	Bpah_2637	230	330	259	564	26.0	44.2	144	59.8			0	Plus	3388	2e-12
+
+#Chain	ltr_Roo	231-325	Bpah_2666	2990-3268	-	29.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2666/Bpah_2666.seq	Bpah_2666	231	325	3268	2990	30.5	43.2	190	77.5			0	Minus	3349	7e-18
+
+#Chain	ISC1316	221-296	Bpah_2705	1332-1559	-	18.0
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2705/Bpah_2705.seq	Bpah_2705	221	296	1559	1332	23.7	50.0	94	40.6			0	Minus	3309	1e-07
+
+#Chain	ltr_Roo	1669-1783	Bpah_2748	20-400	+	26.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2748/Bpah_2748.seq	Bpah_2748	1669	1783	20	400	23.3	41.9	207	84.1			0	Plus	3260	7e-20
+
+#Chain	ltr_Roo	260-438	Bpah_2748	1614-2219	-	32.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2748/Bpah_2748.seq	Bpah_2748	260	438	2219	1614	18.1	31.9	124	52.1			0	Minus	3260	4e-10
+
+#Chain	ltr_Roo	727-957	Bpah_2766	2044-2471	-	19.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2766/Bpah_2766.seq	Bpah_2766	896	957	2244	2044	12.9	35.7	93	40.2			0	Minus	3244	2e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2766/Bpah_2766.seq	Bpah_2766	727	786	2471	2289	19.7	44.3	100	42.9			0	Minus	3244	2e-07
+
+#Chain	cacta	753-781	Bpah_2836	1840-1926	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_2836/Bpah_2836.seq	Bpah_2836	753	781	1840	1926	69.0	69.0	94	40.6			0	Plus	3171	6e-07
+
+#Chain	ltr_Roo	631-1351	Bpah_297	12978-14731	-	99.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_297/Bpah_297.seq	Bpah_297	1195	1351	13499	12978	19.5	43.1	163	67.1			0	Minus	66109	3e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_297/Bpah_297.seq	Bpah_297	876	1137	13799	13164	16.4	34.4	155	64.1			0	Minus	66109	2e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_297/Bpah_297.seq	Bpah_297	631	761	14731	14246	19.5	36.6	98	42.1			0	Minus	66109	1e-05
+
+#Chain	ltr_Roo	230-477	Bpah_297	18893-19594	+	42.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_297/Bpah_297.seq	Bpah_297	230	477	18893	19594	17.1	34.9	199	81.0			0	Plus	66109	2e-17
+
+#Chain	ltr_Roo	230-325	Bpah_297	21290-21595	-	24.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_297/Bpah_297.seq	Bpah_297	230	325	21595	21290	25.0	36.5	147	61.0			0	Minus	66109	2e-11
+
+#Chain	TY1_Copia	318-396	Bpah_3018	2448-2690	+	17.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3018/Bpah_3018.seq	Bpah_3018	318	396	2448	2690	22.2	42.0	91	39.6			0	Plus	2988	2e-06
+
+#Chain	ltr_Roo	1397-1597	Bpah_3079	2406-2916	+	37.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3079/Bpah_3079.seq	Bpah_3079	1397	1470	2406	2621	22.7	49.3	178	72.9			0	Plus	2937	2e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3079/Bpah_3079.seq	Bpah_3079	1487	1597	2644	2916	18.9	36.0	92	39.8			0	Plus	2937	2e-06
+
+#Chain	ltr_Roo	807-1760	Bpah_3129	933-2897	-	179.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3129/Bpah_3129.seq	Bpah_3129	1482	1760	1787	933	28.6	45.5	578	226			0	Minus	2897	2e-64
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3129/Bpah_3129.seq	Bpah_3129	941	1178	2475	1777	25.9	46.5	433	171			0	Minus	2897	9e-47
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3129/Bpah_3129.seq	Bpah_3129	807	942	2897	2475	27.7	52.5	350	139			0	Minus	2897	7e-37
+
+#Chain	ISC1316	225-296	Bpah_3160	939-1151	-	13.0
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3160/Bpah_3160.seq	Bpah_3160	225	296	1151	939	18.1	40.3	83	36.3			0	Minus	2873	3e-06
+
+#Chain	ltr_Roo	226-867	Bpah_3225	271-2389	+	133.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3225/Bpah_3225.seq	Bpah_3225	226	494	271	1134	20.4	38.5	268	107			0	Plus	2822	3e-27
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3225/Bpah_3225.seq	Bpah_3225	535	867	1349	2389	23.6	44.7	474	186			0	Plus	2822	8e-52
+
+#Chain	ltr_Roo	1162-1781	Bpah_3235	869-2768	-	168.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3235/Bpah_3235.seq	Bpah_3235	1595	1781	1492	869	24.3	41.9	270	108			0	Minus	2812	2e-27
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3235/Bpah_3235.seq	Bpah_3235	1162	1597	2768	1482	28.1	42.0	731	285			0	Minus	2812	3e-83
+
+#Chain	TY1_Copia	234-394	Bpah_325	38980-39417	+	33.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_325/Bpah_325.seq	Bpah_325	234	394	38980	39417	20.5	41.0	99	42.7			0	Plus	61661	4e-06
+
+#Chain	ltr_Roo	1284-1774	Bpah_3255	1456-2785	-	115.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3255/Bpah_3255.seq	Bpah_3255	1557	1774	2013	1456	16.9	32.5	174	71.4			0	Minus	2798	4e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3255/Bpah_3255.seq	Bpah_3255	1284	1568	2785	1946	27.5	49.7	547	215			0	Minus	2798	9e-61
+
+#Chain	cacta	751-780	Bpah_3280	2045-2134	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3280/Bpah_3280.seq	Bpah_3280	751	780	2134	2045	80.0	83.3	112	47.5			0	Minus	2771	4e-09
+
+#Chain	cacta	731-779	Bpah_33	70109-70246	-	25.9
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_33/Bpah_33.seq	Bpah_33	731	779	70246	70109	52.8	54.7	112	47.5			0	Minus	256198	4e-07
+
+#Chain	ltr_Roo	1045-1130	Bpah_331	313-570	+	21.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_331/Bpah_331.seq	Bpah_331	1045	1130	313	570	25.0	44.3	113	47.9			0	Plus	61020	1e-07
+
+#Chain	TY1_Copia	260-327	Bpah_334	18715-18906	+	19.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_334/Bpah_334.seq	Bpah_334	260	327	18715	18906	29.0	43.5	113	48.1			0	Plus	60661	1e-07
+
+#Chain	ltr_Roo	420-1619	Bpah_3359	1622-2413	-	47.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3359/Bpah_3359.seq	Bpah_3359	1512	1619	1927	1622	27.8	41.7	133	55.6			0	Minus	2713	3e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3359/Bpah_3359.seq	Bpah_3359	420	511	2413	2138	18.8	36.5	105	44.8			0	Minus	2713	5e-08
+
+#Chain	ltr_Roo	773-891	Bpah_336	58037-58375	-	25.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_336/Bpah_336.seq	Bpah_336	773	891	58375	58037	21.1	40.6	124	52.1			0	Minus	60358	7e-09
+
+#Chain	cacta	753-780	Bpah_350	37336-37419	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_350/Bpah_350.seq	Bpah_350	753	780	37419	37336	85.7	85.7	118	49.8			0	Minus	57747	2e-08
+
+#Chain	ltr_Roo	1164-1762	Bpah_3572	12-1823	+	170.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3572/Bpah_3572.seq	Bpah_3572	1164	1762	12	1823	28.4	47.5	1180	458			0	Plus	2570	1e-143
+
+#Chain	ltr_Roo	414-494	Bpah_3572	1846-2085	-	18.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3572/Bpah_3572.seq	Bpah_3572	414	494	2085	1846	22.9	39.8	140	58.3			0	Minus	2570	4e-12
+
+#Chain	TY1_Copia	184-471	Bpah_36	198981-199877	-	41.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_36/Bpah_36.seq	Bpah_36	184	471	199877	198981	14.5	33.2	108	46.2			0	Minus	245414	2e-06
+
+#Chain	ltr_Roo	230-278	Bpah_364	52232-52375	+	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_364/Bpah_364.seq	Bpah_364	230	278	52232	52375	34.7	51.0	111	47.1			0	Plus	54974	3e-07
+
+#Chain	ltr_Roo	420-932	Bpah_3656	5-1691	-	100.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3656/Bpah_3656.seq	Bpah_3656	633	932	973	5	28.2	49.7	656	257			0	Minus	2525	2e-74
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3656/Bpah_3656.seq	Bpah_3656	420	494	1691	1464	21.2	38.8	87	37.9			0	Minus	2525	6e-06
+
+#Chain	ltr_Roo	230-775	Bpah_3739	3-1809	-	114.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3739/Bpah_3739.seq	Bpah_3739	504	775	854	3	22.1	42.2	268	107			0	Minus	2477	3e-27
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_3739/Bpah_3739.seq	Bpah_3739	230	511	1809	913	19.4	37.8	289	115			0	Minus	2477	8e-30
+
+#Chain	ltr_Roo	230-1311	Bpah_389	45757-49076	+	256.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_389/Bpah_389.seq	Bpah_389	230	399	45757	46206	18.4	37.4	165	67.9			0	Plus	50104	1e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_389/Bpah_389.seq	Bpah_389	420	958	46347	48134	23.1	42.2	817	319			0	Plus	50104	1e-89
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_389/Bpah_389.seq	Bpah_389	954	1191	48086	48682	25.3	41.6	344	136			0	Plus	50104	2e-34
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_389/Bpah_389.seq	Bpah_389	1192	1311	48684	49076	34.1	47.7	225	91.0			0	Plus	50104	1e-20
+
+#Chain	ltr_Roo	85-258	Bpah_399	42767-43282	-	38.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_399/Bpah_399.seq	Bpah_399	85	258	43282	42767	22.0	37.9	118	49.8			0	Minus	48211	3e-08
+
+#Chain	ltr_Roo	1272-1692	Bpah_40	225371-226453	+	77.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_40/Bpah_40.seq	Bpah_40	1272	1692	225371	226453	18.4	33.0	167	68.7			0	Plus	227963	3e-13
+
+#Chain	ltr_Roo	867-1763	Bpah_41	1173-3664	+	117.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_41/Bpah_41.seq	Bpah_41	867	1042	1173	1676	20.1	34.4	159	65.6			0	Plus	227286	2e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_41/Bpah_41.seq	Bpah_41	1028	1240	1631	2239	20.0	37.4	153	63.3			0	Plus	227286	1e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_41/Bpah_41.seq	Bpah_41	1513	1763	2894	3664	15.6	34.8	135	56.4			0	Plus	227286	2e-09
+
+#Chain	ltr_Roo	1119-1251	Bpah_41	4317-4679	+	30.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_41/Bpah_41.seq	Bpah_41	1119	1251	4317	4679	22.6	35.8	134	56.0			0	Plus	227286	2e-09
+
+#Chain	cacta	751-784	Bpah_414	381-491	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_414/Bpah_414.seq	Bpah_414	751	784	381	491	67.6	67.6	95	41.0			0	Plus	45255	6e-06
+
+#Chain	cacta	752-791	Bpah_420	26109-26228	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_420/Bpah_420.seq	Bpah_420	752	791	26109	26228	57.5	65.0	94	40.6			0	Plus	44708	1e-05
+
+#Chain	ltr_Roo	258-333	Bpah_424	31888-32109	+	19.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_424/Bpah_424.seq	Bpah_424	258	333	31888	32109	26.0	41.6	119	50.2			0	Plus	44509	2e-08
+
+#Chain	cacta	753-776	Bpah_4249	1214-1285	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4249/Bpah_4249.seq	Bpah_4249	753	776	1214	1285	100.0	100.0	117	49.5			0	Plus	2257	8e-10
+
+#Chain	ltr_Roo	230-325	Bpah_4308	594-866	+	28.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4308/Bpah_4308.seq	Bpah_4308	230	325	594	866	29.2	47.9	178	72.9			0	Plus	2230	1e-16
+
+#Chain	ltr_Roo	800-971	Bpah_433	9980-10378	-	29.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_433/Bpah_433.seq	Bpah_433	800	971	10378	9980	17.3	36.4	102	43.6			0	Minus	43458	2e-06
+
+#Chain	ltr_Roo	1328-1755	Bpah_44	162965-164191	+	113.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_44/Bpah_44.seq	Bpah_44	1328	1474	162965	163396	23.2	37.1	121	51.0			0	Plus	214351	7e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_44/Bpah_44.seq	Bpah_44	1480	1609	163389	163757	29.2	48.5	276	110			0	Plus	214351	6e-26
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_44/Bpah_44.seq	Bpah_44	1594	1755	163682	164191	25.3	40.8	179	73.3			0	Plus	214351	1e-14
+
+#Chain	ltr_Roo	137-511	Bpah_4465	746-2014	-	63.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4465/Bpah_4465.seq	Bpah_4465	137	511	2014	746	16.9	33.7	264	106			0	Minus	2175	6e-27
+
+#Chain	cacta	752-787	Bpah_447	19806-19913	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_447/Bpah_447.seq	Bpah_447	752	787	19806	19913	63.9	66.7	97	41.8			0	Plus	40646	4e-06
+
+#Chain	TY1_Copia	290-417	Bpah_45	28555-28926	+	24.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_45/Bpah_45.seq	Bpah_45	290	417	28555	28926	19.4	43.3	107	45.8			0	Plus	213855	2e-06
+
+#Chain	cacta	753-784	Bpah_4541	1404-1499	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4541/Bpah_4541.seq	Bpah_4541	753	784	1499	1404	75.0	78.1	109	46.4			0	Minus	2148	6e-09
+
+#Chain	ltr_Roo	231-284	Bpah_4560	3-161	-	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4560/Bpah_4560.seq	Bpah_4560	231	284	161	3	38.9	51.9	152	62.9			0	Minus	2142	1e-13
+
+#Chain	ltr_Roo	1454-1513	Bpah_46	192156-192323	+	19.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_46/Bpah_46.seq	Bpah_46	1454	1513	192156	192323	31.7	50.0	131	54.8			0	Plus	213324	5e-09
+
+#Chain	ltr_Roo	1273-1761	Bpah_4656	708-2099	-	129.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4656/Bpah_4656.seq	Bpah_4656	1273	1761	2099	708	26.4	43.6	870	339			0	Minus	2111	1e-103
+
+#Chain	ltr_Roo	710-790	Bpah_4727	59-316	-	21.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4727/Bpah_4727.seq	Bpah_4727	710	790	316	59	26.4	47.1	179	73.3			0	Minus	2087	7e-17
+
+#Chain	ltr_Roo	536-764	Bpah_4727	719-1429	-	44.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4727/Bpah_4727.seq	Bpah_4727	536	764	1429	719	19.5	40.7	190	77.5			0	Minus	2087	3e-18
+
+#Chain	cacta	754-784	Bpah_484	31073-31165	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_484/Bpah_484.seq	Bpah_484	754	784	31073	31165	74.2	77.4	104	44.5			0	Plus	36569	5e-07
+
+#Chain	cacta	753-786	Bpah_484	31298-31399	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_484/Bpah_484.seq	Bpah_484	753	786	31298	31399	64.7	64.7	95	41.0			0	Plus	36569	6e-06
+
+#Chain	cacta	753-787	Bpah_49	50464-50586	+	25.6
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_49/Bpah_49.seq	Bpah_49	753	787	50464	50586	73.2	73.2	120	50.6			0	Plus	208149	4e-08
+
+#Chain	ltr_Roo	1399-1751	Bpah_4932	574-1685	+	74.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4932/Bpah_4932.seq	Bpah_4932	1399	1630	574	1257	20.7	34.8	246	99.1			0	Plus	2020	7e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4932/Bpah_4932.seq	Bpah_4932	1633	1751	1272	1685	22.5	41.3	198	80.6			0	Plus	2020	3e-19
+
+#Chain	ltr_Roo	1481-1648	Bpah_4958	1534-2000	-	51.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4958/Bpah_4958.seq	Bpah_4958	1576	1648	1746	1534	30.1	49.3	178	72.9			0	Minus	2014	8e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_4958/Bpah_4958.seq	Bpah_4958	1481	1574	2000	1749	30.9	45.7	209	84.9			0	Minus	2014	2e-20
+
+#Chain	ltr_Roo	460-902	Bpah_50	192-1634	-	93.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_50/Bpah_50.seq	Bpah_50	828	902	425	192	25.0	48.8	207	84.1			0	Minus	207997	7e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_50/Bpah_50.seq	Bpah_50	782	825	562	431	43.2	59.1	125	52.5			0	Minus	207997	2e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_50/Bpah_50.seq	Bpah_50	460	767	1634	612	18.1	34.2	153	63.3			0	Minus	207997	1e-11
+
+#Chain	ISC1316	196-255	Bpah_5034	1433-1603	+	13.0
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5034/Bpah_5034.seq	Bpah_5034	196	255	1433	1603	21.7	35.0	78	34.4			0	Plus	1985	7e-06
+
+#Chain	ltr_Roo	987-1230	Bpah_5099	1229-1963	+	82.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5099/Bpah_5099.seq	Bpah_5099	987	1230	1229	1963	33.9	52.9	569	223			0	Plus	1964	1e-64
+
+#Chain	MuDR_A_B	723-823	Bpah_5150	478-759	-	19.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5150/Bpah_5150.seq	Bpah_5150	723	823	759	478	18.8	33.7	91	39.6			0	Minus	1947	6e-07
+
+#Chain	ltr_Roo	1024-1648	Bpah_5187	86-1932	-	145.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5187/Bpah_5187.seq	Bpah_5187	1061	1648	1801	86	21.5	36.2	598	234			0	Minus	1934	2e-68
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5187/Bpah_5187.seq	Bpah_5187	1024	1067	1932	1801	43.2	56.8	135	56.4			0	Minus	1934	9e-12
+
+#Chain	gypsy	296-359	Bpah_5205	1258-1452	-	10.0
+gypsy		1463	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5205/Bpah_5205.seq	Bpah_5205	296	359	1452	1258	15.7	32.9	84	36.8			0	Minus	1927	6e-06
+
+#Chain	ltr_Roo	780-821	Bpah_528	28986-29111	+	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_528/Bpah_528.seq	Bpah_528	780	821	28986	29111	33.3	54.8	103	44.0			0	Plus	32215	1e-06
+
+#Chain	ltr_Roo	886-1331	Bpah_5354	4-1401	+	119.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5354/Bpah_5354.seq	Bpah_5354	886	1331	4	1401	26.8	47.5	808	315			0	Plus	1884	6e-96
+
+#Chain	cacta	744-781	Bpah_5386	541-654	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5386/Bpah_5386.seq	Bpah_5386	744	781	541	654	50.0	55.3	96	41.4			0	Plus	1875	2e-07
+
+#Chain	ltr_Roo	231-1530	Bpah_54	198715-202806	+	322.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_54/Bpah_54.seq	Bpah_54	231	1530	198715	202806	24.8	44.3	2188	847			0	Plus	202810	0.0
+
+#Chain	MuDR_A_B	8-129	Bpah_5555	901-1215	+	25.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5555/Bpah_5555.seq	Bpah_5555	8	129	901	1215	20.5	32.8	92	39.9			0	Plus	1833	4e-07
+
+#Chain	cacta	751-805	Bpah_56	83381-83545	-	27.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_56/Bpah_56.seq	Bpah_56	751	805	83545	83381	49.1	60.0	101	43.3			0	Minus	199658	7e-06
+
+#Chain	ltr_Roo	905-1027	Bpah_5643	692-1024	-	26.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5643/Bpah_5643.seq	Bpah_5643	905	1027	1024	692	21.1	40.7	144	59.8			0	Minus	1812	7e-13
+
+#Chain	ltr_Roo	261-306	Bpah_5645	1271-1405	-	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5645/Bpah_5645.seq	Bpah_5645	261	306	1405	1271	30.4	47.8	96	41.3			0	Minus	1811	3e-07
+
+#Chain	ltr_Roo	1019-1525	Bpah_576	4658-6130	+	73.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_576/Bpah_576.seq	Bpah_576	1019	1217	4658	5230	23.9	42.6	156	64.4			0	Plus	28445	7e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_576/Bpah_576.seq	Bpah_576	1392	1525	5738	6130	19.4	37.4	192	78.3			0	Plus	28445	4e-17
+
+#Chain	cacta	757-788	Bpah_58	152457-152552	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_58/Bpah_58.seq	Bpah_58	757	788	152457	152552	75.0	81.2	112	47.5			0	Plus	198688	3e-07
+
+#Chain	cacta	752-809	Bpah_5891	1105-1284	+	23.2
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5891/Bpah_5891.seq	Bpah_5891	752	809	1105	1284	40.0	48.3	82	36.0			0	Plus	1750	8e-06
+
+#Chain	MuDR_A_B	649-737	Bpah_592	17731-17973	+	18.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_592/Bpah_592.seq	Bpah_592	649	737	17731	17973	20.7	35.9	92	39.9			0	Plus	27118	7e-06
+
+#Chain	ltr_Roo	632-898	Bpah_5945	34-900	-	75.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_5945/Bpah_5945.seq	Bpah_5945	632	898	900	34	28.2	50.2	557	218			0	Minus	1738	1e-63
+
+#Chain	MuDR_A_B	11-127	Bpah_6	486691-487038	+	24.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6/Bpah_6.seq	Bpah_6	11	127	486691	487038	20.5	33.3	104	44.6			0	Plus	487081	5e-06
+
+#Chain	ISC1316	213-265	Bpah_6018	434-589	+	11.0
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6018/Bpah_6018.seq	Bpah_6018	213	265	434	589	20.8	37.7	80	35.2			0	Plus	1720	3e-06
+
+#Chain	ltr_Roo	420-639	Bpah_6059	706-1455	-	43.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6059/Bpah_6059.seq	Bpah_6059	420	639	1455	706	19.8	36.6	183	74.8			0	Minus	1713	1e-17
+
+#Chain	ltr_Roo	692-1763	Bpah_611	539-2591	+	160.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_611/Bpah_611.seq	Bpah_611	692	783	539	805	22.6	48.4	119	50.2			0	Plus	25979	1e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_611/Bpah_611.seq	Bpah_611	780	904	799	1173	25.6	45.9	262	105			0	Plus	25979	3e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_611/Bpah_611.seq	Bpah_611	938	1148	1182	1778	29.7	46.2	334	133			0	Plus	25979	1e-33
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_611/Bpah_611.seq	Bpah_611	1514	1763	1827	2591	17.8	37.8	272	109			0	Plus	25979	2e-26
+
+#Chain	ltr_Roo	230-372	Bpah_6117	634-1038	-	33.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6117/Bpah_6117.seq	Bpah_6117	230	372	1038	634	23.1	43.4	227	91.8			0	Minus	1699	8e-23
+
+#Chain	MuDR_A_B	51-119	Bpah_6139	1347-1535	-	13.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6139/Bpah_6139.seq	Bpah_6139	51	119	1535	1347	18.8	34.8	80	35.3			0	Minus	1694	9e-06
+
+#Chain	MuDR_A_B	656-735	Bpah_6144	790-1059	-	21.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6144/Bpah_6144.seq	Bpah_6144	656	735	1059	790	26.7	35.6	89	38.8			0	Minus	1692	8e-07
+
+#Chain	ltr_Roo	245-372	Bpah_615	174-533	+	28.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_615/Bpah_615.seq	Bpah_615	245	372	174	533	22.5	39.5	153	63.3			0	Plus	25757	2e-12
+
+#Chain	ltr_Roo	845-974	Bpah_6180	1285-1686	+	29.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6180/Bpah_6180.seq	Bpah_6180	845	974	1285	1686	23.0	45.2	327	130			0	Plus	1686	4e-35
+
+#Chain	TY1_Copia	268-396	Bpah_6197	664-1050	+	25.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6197/Bpah_6197.seq	Bpah_6197	268	396	664	1050	19.4	33.3	93	40.4			0	Plus	1683	4e-07
+
+#Chain	ISC1316	42-241	Bpah_6248	225-770	-	24.6
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6248/Bpah_6248.seq	Bpah_6248	42	241	770	225	12.3	33.5	79	34.8			0	Minus	1673	4e-06
+
+#Chain	ltr_Roo	455-930	Bpah_6256	12-1636	+	92.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6256/Bpah_6256.seq	Bpah_6256	455	720	12	1025	17.2	32.9	151	62.5			0	Plus	1672	9e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6256/Bpah_6256.seq	Bpah_6256	703	930	938	1636	20.3	44.4	352	139			0	Plus	1672	3e-38
+
+#Chain	cacta	752-780	Bpah_63	129069-129155	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_63/Bpah_63.seq	Bpah_63	752	780	129069	129155	72.4	72.4	103	44.1			0	Plus	196223	4e-06
+
+#Chain	ISC1316	47-125	Bpah_6340	720-953	-	14.9
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6340/Bpah_6340.seq	Bpah_6340	47	125	953	720	18.8	36.2	78	34.4			0	Minus	1651	5e-06
+
+#Chain	ltr_Roo	1095-1259	Bpah_6597	894-1407	-	50.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6597/Bpah_6597.seq	Bpah_6597	1162	1259	1187	894	33.3	57.6	216	87.6			0	Minus	1596	1e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6597/Bpah_6597.seq	Bpah_6597	1095	1146	1407	1237	34.5	53.4	131	54.8			0	Minus	1596	2e-11
+
+#Chain	mariner	2-44	Bpah_671	3556-3684	+	14.0
+mariner		345	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_671/Bpah_671.seq	Bpah_671	2	44	3556	3684	32.6	46.5	94	40.5			0	Plus	22032	8e-07
+
+#Chain	MuDR_A_B	655-731	Bpah_6747	878-1078	+	16.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6747/Bpah_6747.seq	Bpah_6747	655	731	878	1078	20.8	37.7	93	40.3			0	Plus	1563	2e-07
+
+#Chain	ISC1316	213-259	Bpah_6747	1103-1243	+	7.0
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6747/Bpah_6747.seq	Bpah_6747	213	259	1103	1243	14.9	36.2	99	42.5			0	Plus	1563	1e-08
+
+#Chain	ltr_Roo	829-930	Bpah_6756	35-352	+	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6756/Bpah_6756.seq	Bpah_6756	829	930	35	352	20.6	48.6	227	91.8			0	Plus	1562	6e-23
+
+#Chain	ltr_Roo	1670-1737	Bpah_6756	441-659	-	16.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6756/Bpah_6756.seq	Bpah_6756	1670	1737	659	441	24.7	47.9	115	48.6			0	Minus	1562	2e-09
+
+#Chain	ltr_Roo	763-895	Bpah_6756	897-1303	+	35.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6756/Bpah_6756.seq	Bpah_6756	763	814	897	1061	32.1	50.0	124	52.1			0	Plus	1562	1e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6756/Bpah_6756.seq	Bpah_6756	836	895	1112	1303	31.2	51.6	165	67.9			0	Plus	1562	2e-15
+
+#Chain	ltr_Roo	145-274	Bpah_68	149516-149941	+	30.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_68/Bpah_68.seq	Bpah_68	145	274	149516	149941	23.1	40.1	122	51.3			0	Plus	190087	5e-08
+
+#Chain	ltr_Roo	425-866	Bpah_687	1880-3247	+	48.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_687/Bpah_687.seq	Bpah_687	425	524	1880	2197	19.3	34.9	97	41.7			0	Plus	21089	4e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_687/Bpah_687.seq	Bpah_687	721	866	2801	3247	20.1	45.0	223	90.3			0	Plus	21089	7e-21
+
+#Chain	ltr_Roo	1409-1689	Bpah_69	40139-40945	-	46.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_69/Bpah_69.seq	Bpah_69	1409	1689	40945	40139	16.7	32.8	182	74.5			0	Minus	189184	5e-15
+
+#Chain	ltr_Roo	721-939	Bpah_6961	4-672	-	55.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_6961/Bpah_6961.seq	Bpah_6961	721	939	672	4	25.3	46.4	391	154			0	Minus	1520	4e-43
+
+#Chain	LINE	983-1040	Bpah_7146	291-434	+	21.0
+LINE		1189	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_7146/Bpah_7146.seq	Bpah_7146	983	1040	291	434	36.2	48.3	106	45.3			0	Plus	1489	8e-09
+
+#Chain	cacta	753-784	Bpah_7225	10-105	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_7225/Bpah_7225.seq	Bpah_7225	753	784	105	10	75.0	78.1	109	46.4			0	Minus	1476	4e-09
+
+#Chain	cacta	753-791	Bpah_7225	237-353	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_7225/Bpah_7225.seq	Bpah_7225	753	791	353	237	61.5	66.7	101	43.3			0	Minus	1476	3e-08
+
+#Chain	ltr_Roo	230-320	Bpah_723	210-476	+	28.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_723/Bpah_723.seq	Bpah_723	230	320	210	476	30.8	49.5	203	82.5			0	Plus	19028	2e-18
+
+#Chain	ltr_Roo	750-856	Bpah_7230	291-620	-	27.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_7230/Bpah_7230.seq	Bpah_7230	750	856	620	291	25.9	50.0	151	62.5			0	Minus	1476	7e-14
+
+#Chain	ltr_Roo	230-325	Bpah_7267	4-285	-	27.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_7267/Bpah_7267.seq	Bpah_7267	230	325	285	4	28.1	43.8	202	82.2			0	Minus	1469	5e-20
+
+#Chain	hAT	127-181	Bpah_7468	317-514	-	10.8
+hAT		749	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_7468/Bpah_7468.seq	Bpah_7468	127	181	514	317	19.7	34.8	80	35.3			0	Minus	1440	5e-06
+
+#Chain	TY1_Copia	267-396	Bpah_7521	698-1099	-	23.3
+TY1_Copia		1643	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_7521/Bpah_7521.seq	Bpah_7521	267	396	1099	698	17.9	33.6	92	40.0			0	Minus	1431	4e-07
+
+#Chain	LINE	285-321	Bpah_7665	601-711	-	9.0
+LINE		1189	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_7665/Bpah_7665.seq	Bpah_7665	285	321	711	601	24.3	37.8	80	35.3			0	Minus	1408	9e-06
+
+#Chain	ltr_Roo	1185-1242	Bpah_774	2238-2408	+	19.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_774/Bpah_774.seq	Bpah_774	1185	1242	2238	2408	32.8	51.7	127	53.3			0	Plus	17180	9e-10
+
+#Chain	ltr_Roo	1556-1732	Bpah_795	10583-11151	+	45.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_795/Bpah_795.seq	Bpah_795	1556	1648	10583	10855	28.0	44.1	233	94.1			0	Plus	16358	4e-22
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_795/Bpah_795.seq	Bpah_795	1667	1732	10936	11151	29.2	50.0	148	61.4			0	Plus	16358	4e-12
+
+#Chain	ISC1316	226-301	Bpah_7969	710-937	-	14.8
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_7969/Bpah_7969.seq	Bpah_7969	226	301	937	710	19.5	33.8	76	33.6			0	Minus	1359	7e-06
+
+#Chain	cacta	753-786	Bpah_800	8714-8815	+	30.0
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_800/Bpah_800.seq	Bpah_800	753	786	8714	8815	88.2	91.2	144	59.9			0	Plus	16220	5e-12
+
+#Chain	ltr_Roo	230-555	Bpah_816	14179-15116	+	47.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_816/Bpah_816.seq	Bpah_816	230	329	14179	14466	22.3	40.8	121	51.0			0	Plus	15732	5e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_816/Bpah_816.seq	Bpah_816	412	555	14679	15116	17.4	33.6	149	61.7			0	Plus	15732	3e-12
+
+#Chain	ltr_Roo	721-837	Bpah_8163	204-571	+	30.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8163/Bpah_8163.seq	Bpah_8163	721	801	204	461	22.1	43.0	102	43.6			0	Plus	1329	4e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8163/Bpah_8163.seq	Bpah_8163	800	837	458	571	34.2	55.3	96	41.3			0	Plus	1329	2e-07
+
+#Chain	ltr_Roo	1638-1760	Bpah_822	5813-6139	+	21.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_822/Bpah_822.seq	Bpah_822	1638	1760	5813	6139	17.2	33.6	127	53.3			0	Plus	15490	9e-10
+
+#Chain	ltr_Roo	1445-1517	Bpah_8235	1098-1304	-	23.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8235/Bpah_8235.seq	Bpah_8235	1445	1517	1304	1098	31.5	47.9	136	56.7			0	Minus	1317	4e-12
+
+#Chain	ltr_Roo	941-1368	Bpah_8237	4-1308	-	118.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8237/Bpah_8237.seq	Bpah_8237	1127	1368	744	4	28.9	46.8	377	149			0	Minus	1317	9e-42
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8237/Bpah_8237.seq	Bpah_8237	1031	1130	1058	732	28.0	41.5	153	63.3			0	Minus	1317	3e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8237/Bpah_8237.seq	Bpah_8237	941	1031	1308	1057	22.0	46.2	154	63.7			0	Minus	1317	2e-14
+
+#Chain	ltr_Roo	756-839	Bpah_826	150-416	-	20.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_826/Bpah_826.seq	Bpah_826	756	839	416	150	24.7	48.3	175	71.8			0	Minus	15391	2e-15
+
+#Chain	ltr_Roo	696-973	Bpah_827	10594-11443	-	62.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_827/Bpah_827.seq	Bpah_827	845	973	10983	10594	19.1	45.8	276	110			0	Minus	15272	4e-27
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_827/Bpah_827.seq	Bpah_827	696	841	11443	10994	25.7	48.7	271	108			0	Minus	15272	2e-26
+
+#Chain	ltr_Roo	1218-1331	Bpah_827	14741-15136	-	31.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_827/Bpah_827.seq	Bpah_827	1218	1331	15136	14741	27.3	46.2	165	67.9			0	Minus	15272	4e-14
+
+#Chain	ltr_Roo	226-322	Bpah_840	14475-14759	+	29.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_840/Bpah_840.seq	Bpah_840	226	322	14475	14759	29.9	48.5	187	76.4			0	Plus	14795	9e-17
+
+#Chain	ltr_Roo	181-287	Bpah_8413	979-1290	+	26.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8413/Bpah_8413.seq	Bpah_8413	181	287	979	1290	24.3	43.9	157	64.8			0	Plus	1293	1e-14
+
+#Chain	ltr_Roo	239-305	Bpah_8469	820-996	+	19.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8469/Bpah_8469.seq	Bpah_8469	239	305	820	996	28.4	41.8	108	46.0			0	Plus	1286	8e-09
+
+#Chain	cacta	751-805	Bpah_8484	591-776	+	25.7
+cacta		1264	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8484/Bpah_8484.seq	Bpah_8484	751	805	591	776	46.8	54.8	93	40.2			0	Plus	1284	2e-07
+
+#Chain	ltr_Roo	230-308	Bpah_8621	425-652	+	25.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8621/Bpah_8621.seq	Bpah_8621	230	308	425	652	31.6	49.4	173	71.0			0	Plus	1266	1e-16
+
+#Chain	ltr_Roo	1703-1777	Bpah_866	9571-9792	+	18.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_866/Bpah_866.seq	Bpah_866	1703	1777	9571	9792	25.0	43.4	108	46.0			0	Plus	14147	1e-07
+
+#Chain	ltr_Roo	1118-1343	Bpah_866	11404-12021	-	50.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_866/Bpah_866.seq	Bpah_866	1118	1343	12021	11404	22.4	43.5	244	98.3			0	Minus	14147	2e-23
+
+#Chain	ltr_Roo	917-1298	Bpah_8778	1-1164	+	108.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8778/Bpah_8778.seq	Bpah_8778	917	1043	1	348	23.6	48.8	253	101			0	Plus	1246	1e-26
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8778/Bpah_8778.seq	Bpah_8778	1035	1139	354	671	31.9	46.6	210	85.2			0	Plus	1246	3e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_8778/Bpah_8778.seq	Bpah_8778	1142	1298	676	1164	28.9	54.2	302	120			0	Plus	1246	1e-32
+
+#Chain	ltr_Roo	1415-1508	Bpah_882	3391-3651	-	24.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_882/Bpah_882.seq	Bpah_882	1415	1508	3651	3391	26.3	50.5	115	48.6			0	Minus	13836	2e-08
+
+#Chain	ltr_Roo	1691-1781	Bpah_882	13540-13836	-	23.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_882/Bpah_882.seq	Bpah_882	1691	1781	13836	13540	25.3	44.4	163	67.1			0	Minus	13836	5e-14
+
+#Chain	ltr_Roo	1682-1791	Bpah_904	2089-2436	+	24.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_904/Bpah_904.seq	Bpah_904	1682	1791	2089	2436	22.2	39.3	104	44.4			0	Plus	13093	4e-07
+
+#Chain	ltr_Roo	687-1178	Bpah_920	9025-10337	-	105.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_920/Bpah_920.seq	Bpah_920	1015	1178	9540	9025	28.5	44.1	194	79.1			0	Minus	12647	1e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_920/Bpah_920.seq	Bpah_920	914	1035	9808	9464	18.9	41.0	140	58.3			0	Minus	12647	2e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_920/Bpah_920.seq	Bpah_920	687	844	10337	9864	22.6	46.4	164	67.5			0	Minus	12647	3e-14
+
+#Chain	ltr_Roo	1182-1426	Bpah_935	6790-7539	-	44.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_935/Bpah_935.seq	Bpah_935	1182	1426	7539	6790	18.0	43.0	255	102			0	Minus	12333	6e-25
+
+#Chain	ltr_Roo	770-1004	Bpah_935	10621-11314	-	49.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_935/Bpah_935.seq	Bpah_935	843	1004	11091	10621	18.9	40.8	258	103			0	Minus	12333	3e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_935/Bpah_935.seq	Bpah_935	770	835	11314	11111	28.2	49.3	102	43.6			0	Minus	12333	5e-07
+
+#Chain	ltr_Roo	1407-1464	Bpah_946	10950-11123	+	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_946/Bpah_946.seq	Bpah_946	1407	1464	10950	11123	22.4	48.3	104	44.4			0	Plus	12156	4e-07
+
+#Chain	MuDR_A_B	653-731	Bpah_9469	295-498	-	13.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_9469/Bpah_9469.seq	Bpah_9469	653	731	498	295	17.1	37.8	78	34.6			0	Minus	1144	9e-06
+
+#Chain	ltr_Roo	230-285	Bpah_9621	956-1120	+	20.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_9621/Bpah_9621.seq	Bpah_9621	230	285	956	1120	35.7	53.6	148	61.4			0	Plus	1120	9e-14
+
+#Chain	ltr_Roo	1929-2092	Bpah_964	1584-2072	+	28.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_964/Bpah_964.seq	Bpah_964	1929	2092	1584	2072	17.2	34.3	95	40.9			0	Plus	11819	4e-06
+
+#Chain	ltr_Roo	230-597	Bpah_97	71225-72303	+	68.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_97/Bpah_97.seq	Bpah_97	230	356	71225	71578	26.8	44.9	200	81.4			0	Plus	157913	3e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_97/Bpah_97.seq	Bpah_97	420	597	71680	72303	19.1	36.7	167	68.7			0	Plus	157913	2e-13
+
+#Chain	ISC1316	88-177	Bpah_9713	664-957	+	16.6
+ISC1316		393	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_9713/Bpah_9713.seq	Bpah_9713	88	177	664	957	18.4	33.7	75	33.2			0	Plus	1109	7e-06
+
+#Chain	LINE	983-1040	Bpah_978	11331-11474	+	21.0
+LINE		1189	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_978/Bpah_978.seq	Bpah_978	983	1040	11331	11474	36.2	48.3	103	44.1			0	Plus	11476	2e-07
+
+#Chain	ltr_Roo	894-1148	Bpah_983	1909-2635	-	21.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_983/Bpah_983.seq	Bpah_983	1107	1148	2031	1909	28.6	47.6	92	39.8			0	Minus	11294	8e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_983/Bpah_983.seq	Bpah_983	894	967	2635	2378	12.8	31.4	115	48.6			0	Minus	11294	2e-08
+
+#Chain	ltr_Roo	1374-1440	Bpah_983	7155-7358	+	17.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_983/Bpah_983.seq	Bpah_983	1374	1440	7155	7358	26.1	43.5	130	54.4			0	Plus	11294	3e-10
+
+#Chain	ltr_Roo	721-852	Bpah_9918	2-403	-	42.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_9918/Bpah_9918.seq	Bpah_9918	721	852	403	2	32.1	55.5	352	139			0	Minus	1083	3e-39
+
+#Chain	ltr_Roo	1396-1724	Bpah_995	5737-6849	-	45.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_995/Bpah_995.seq	Bpah_995	1675	1724	5898	5737	27.8	55.6	101	43.3			0	Minus	11062	7e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_995/Bpah_995.seq	Bpah_995	1396	1533	6849	6463	22.8	40.7	144	59.8			0	Minus	11062	7e-12
+
+#Chain	ltr_Roo	1576-1820	Bpah_995	10161-11018	-	57.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.2410.Amirs-PC.tmp/Bpah_995/Bpah_995.seq	Bpah_995	1576	1820	11018	10161	23.6	42.4	366	145			0	Minus	11062	9e-38
+

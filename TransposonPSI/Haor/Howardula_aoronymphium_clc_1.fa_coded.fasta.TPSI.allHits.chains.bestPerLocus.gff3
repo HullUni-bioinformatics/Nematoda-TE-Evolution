@@ -1,0 +1,16 @@
+Haor_1206	TransposonPSI	translated_nucleotide_match	30	209	169	+	.	ID=chain00001; Target=ltr_Roo; E=2e-18 1487 1553
+Haor_122	TransposonPSI	translated_nucleotide_match	6	302	276	+	.	ID=chain00002; Target=gypsy; E=1e-32 573 671
+Haor_139	TransposonPSI	translated_nucleotide_match	101	232	71	-	.	ID=chain00003; Target=ISb; E=1e-06 62 101
+Haor_1401	TransposonPSI	translated_nucleotide_match	63	338	118	-	.	ID=chain00004; Target=LINE; E=8e-12 1093 1184
+Haor_1716	TransposonPSI	translated_nucleotide_match	2	283	160	-	.	ID=chain00005; Target=LINE; E=2e-17 478 561
+Haor_1717	TransposonPSI	translated_nucleotide_match	3	212	160	+	.	ID=chain00006; Target=LINE; E=9e-18 412 481
+Haor_287	TransposonPSI	translated_nucleotide_match	3	167	95	+	.	ID=chain00007; Target=mariner; E=1e-09 101 156
+Haor_41	TransposonPSI	translated_nucleotide_match	32	424	78	+	.	ID=chain00008; Target=gypsy; E=4e-06 289 422
+Haor_429	TransposonPSI	translated_nucleotide_match	184	255	68	-	.	ID=chain00009; Target=ISC1316; E=6e-06 312 335
+Haor_449	TransposonPSI	translated_nucleotide_match	42	458	261	-	.	ID=chain00010; Target=LINE; E=5e-30 72 217
+Haor_508	TransposonPSI	translated_nucleotide_match	2	262	99	+	.	ID=chain00011; Target=gypsy; E=2e-09 1313 1406
+Haor_610	TransposonPSI	translated_nucleotide_match	99	206	77	-	.	ID=chain00012; Target=hAT; E=1e-06 140 180
+Haor_709	TransposonPSI	translated_nucleotide_match	3	77	76	+	.	ID=chain00013; Target=cacta; E=1e-06 757 781
+Haor_805	TransposonPSI	translated_nucleotide_match	81	182	92	+	.	ID=chain00014; Target=gypsy; E=9e-09 602 634
+Haor_934	TransposonPSI	translated_nucleotide_match	151	285	90	+	.	ID=chain00015; Target=cacta; E=2e-08 729 780
+Haor_975	TransposonPSI	translated_nucleotide_match	512	715	85	+	.	ID=chain00016; Target=MuDR_A_B; E=6e-07 652 720

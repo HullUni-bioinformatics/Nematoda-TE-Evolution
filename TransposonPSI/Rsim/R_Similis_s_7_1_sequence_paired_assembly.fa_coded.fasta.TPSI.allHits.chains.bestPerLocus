@@ -1,0 +1,1527 @@
+#Chain	helitronORF	890-1168	Rsim_1051	3289-4105	+	115.0
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1051/Rsim_1051.seq	Rsim_1051	890	956	3289	3489	53.7	67.2	201	81.7			0	Plus	4332	3e-19
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1051/Rsim_1051.seq	Rsim_1051	962	1040	3495	3731	34.2	57.0	216	87.4			0	Plus	4332	5e-21
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1051/Rsim_1051.seq	Rsim_1051	1038	1168	3725	4105	39.7	55.7	305	121			0	Plus	4332	2e-31
+
+#Chain	helitronORF	474-681	Rsim_1062	1-570	-	76.8
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1062/Rsim_1062.seq	Rsim_1062	474	681	570	1	36.9	53.2	406	160			0	Minus	2746	5e-44
+
+#Chain	LINE	690-777	Rsim_1072	948-1202	+	17.0
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1072/Rsim_1072.seq	Rsim_1072	690	777	948	1202	19.3	38.6	143	59.5			0	Plus	25458	7e-12
+
+#Chain	cacta	756-808	Rsim_1080	5515-5718	+	24.2
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1080/Rsim_1080.seq	Rsim_1080	756	808	5515	5718	45.6	50.0	116	49.1			0	Plus	6279	3e-09
+
+#Chain	cacta	752-778	Rsim_1094	2732-2866	+	15.6
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1094/Rsim_1094.seq	Rsim_1094	752	778	2732	2866	57.8	57.8	85	37.1			0	Plus	3917	9e-06
+
+#Chain	gypsy	291-383	Rsim_110	5264-5557	+	20.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_110/Rsim_110.seq	Rsim_110	291	383	5264	5557	22.4	33.6	93	40.2			0	Plus	25004	8e-06
+
+#Chain	helitronORF	1232-1317	Rsim_1146	72-341	+	31.6
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1146/Rsim_1146.seq	Rsim_1146	1232	1317	72	341	36.8	53.7	238	95.9			0	Plus	2190	4e-24
+
+#Chain	cacta	752-797	Rsim_115	20045-20182	-	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_115/Rsim_115.seq	Rsim_115	752	797	20182	20045	54.3	63.0	108	46.0			0	Minus	58093	3e-07
+
+#Chain	cacta	753-789	Rsim_115	20280-20390	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_115/Rsim_115.seq	Rsim_115	753	789	20390	20280	64.9	70.3	101	43.3			0	Minus	58093	2e-06
+
+#Chain	cacta	745-792	Rsim_115	21960-22103	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_115/Rsim_115.seq	Rsim_115	745	792	21960	22103	50.0	60.4	103	44.1			0	Plus	58093	1e-06
+
+#Chain	cacta	752-787	Rsim_117	74554-74676	+	24.6
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_117/Rsim_117.seq	Rsim_117	752	787	74554	74676	68.3	73.2	109	46.4			0	Plus	102607	4e-07
+
+#Chain	cacta	757-783	Rsim_1176	9-89	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1176/Rsim_1176.seq	Rsim_1176	757	783	9	89	88.9	92.6	119	50.2			0	Plus	38232	1e-08
+
+#Chain	hAT	251-705	Rsim_1197	4172-5808	-	83.7
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1197/Rsim_1197.seq	Rsim_1197	528	705	4804	4172	19.2	37.6	186	76.1			0	Minus	41409	7e-17
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1197/Rsim_1197.seq	Rsim_1197	426	494	5159	4950	28.2	43.7	109	46.4			0	Minus	41409	8e-08
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1197/Rsim_1197.seq	Rsim_1197	251	420	5808	5221	17.7	33.3	246	99.2			0	Minus	41409	6e-24
+
+#Chain	cacta	750-805	Rsim_121	18714-18881	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_121/Rsim_121.seq	Rsim_121	750	805	18714	18881	41.1	46.4	96	41.4			0	Plus	36854	5e-06
+
+#Chain	gypsy	269-431	Rsim_1210	3374-3940	-	24.1
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1210/Rsim_1210.seq	Rsim_1210	269	431	3940	3374	14.8	27.0	91	39.5			0	Minus	6465	3e-06
+
+#Chain	MuDR_A_B	651-840	Rsim_1215	1454-2032	+	29.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1215/Rsim_1215.seq	Rsim_1215	651	840	1454	2032	15.7	29.3	89	38.8			0	Plus	3206	2e-06
+
+#Chain	mariner	321-345	Rsim_1222	87-161	-	11.0
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1222/Rsim_1222.seq	Rsim_1222	321	345	161	87	44.0	68.0	85	37.0			0	Minus	6124	3e-06
+
+#Chain	ltr_Roo	781-841	Rsim_1242	233-388	+	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1242/Rsim_1242.seq	Rsim_1242	781	841	233	388	34.4	44.3	100	42.9			0	Plus	4450	4e-07
+
+#Chain	cacta	728-775	Rsim_1255	11743-11886	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1255/Rsim_1255.seq	Rsim_1255	728	775	11886	11743	48.0	54.0	93	40.2			0	Minus	20400	6e-06
+
+#Chain	mariner_ant1	27-310	Rsim_1275	1661-2487	+	67.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1275/Rsim_1275.seq	Rsim_1275	27	119	1661	1945	17.7	33.3	108	45.9			0	Plus	17160	1e-08
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1275/Rsim_1275.seq	Rsim_1275	119	310	1957	2487	26.3	38.9	237	95.6			0	Plus	17160	1e-24
+
+#Chain	gypsy	282-386	Rsim_1281	2501-2836	-	16.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1281/Rsim_1281.seq	Rsim_1281	282	386	2836	2501	15.2	33.9	92	39.9			0	Minus	12323	5e-06
+
+#Chain	gypsy	294-450	Rsim_1299	345-848	+	24.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1299/Rsim_1299.seq	Rsim_1299	294	450	345	848	15.3	25.9	96	41.4			0	Plus	24257	4e-06
+
+#Chain	gypsy	275-424	Rsim_1299	11675-12121	+	20.7
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1299/Rsim_1299.seq	Rsim_1299	275	424	11675	12121	13.8	27.6	93	40.2			0	Plus	24257	8e-06
+
+#Chain	cacta	721-777	Rsim_1302	8025-8174	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1302/Rsim_1302.seq	Rsim_1302	721	777	8025	8174	42.1	52.6	96	41.4			0	Plus	26601	3e-06
+
+#Chain	cacta	759-787	Rsim_1310	6793-6879	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1310/Rsim_1310.seq	Rsim_1310	759	787	6879	6793	72.4	75.9	100	42.9			0	Minus	24369	1e-06
+
+#Chain	ISb	96-189	Rsim_1368	7532-7873	-	20.2
+ISb		351	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1368/Rsim_1368.seq	Rsim_1368	96	189	7873	7532	21.5	33.1	90	39.0			0	Minus	8101	1e-06
+
+#Chain	ltr_Roo	935-1391	Rsim_1384	15-1478	+	100.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1384/Rsim_1384.seq	Rsim_1384	935	1391	15	1478	22.0	41.3	613	240			0	Plus	29428	4e-66
+
+#Chain	cacta	752-786	Rsim_1385	9115-9228	-	22.1
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1385/Rsim_1385.seq	Rsim_1385	752	786	9228	9115	63.2	65.8	94	40.6			0	Minus	22695	5e-06
+
+#Chain	cacta	752-784	Rsim_1385	9411-9527	-	20.3
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1385/Rsim_1385.seq	Rsim_1385	752	784	9527	9411	61.5	64.1	94	40.6			0	Minus	22695	5e-06
+
+#Chain	MuDR_A_B	623-815	Rsim_1391	3609-4088	-	28.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1391/Rsim_1391.seq	Rsim_1391	623	815	4088	3609	14.6	25.3	101	43.4			0	Minus	9156	2e-07
+
+#Chain	TY1_Copia	263-315	Rsim_1402	19099-19257	+	13.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1402/Rsim_1402.seq	Rsim_1402	263	315	19099	19257	24.5	47.2	95	41.2			0	Plus	22687	4e-06
+
+#Chain	gypsy	447-874	Rsim_1407	425-2110	-	123.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1407/Rsim_1407.seq	Rsim_1407	571	874	1324	425	32.4	54.6	757	296			0	Minus	3365	1e-86
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1407/Rsim_1407.seq	Rsim_1407	447	569	2110	1703	20.6	41.2	111	47.2			0	Minus	3365	8e-09
+
+#Chain	cacta	748-779	Rsim_1427	3-98	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1427/Rsim_1427.seq	Rsim_1427	748	779	98	3	65.6	68.8	100	42.9			0	Minus	5251	2e-07
+
+#Chain	DDE_1	354-454	Rsim_1442	1388-1693	+	18.8
+DDE_1		535	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1442/Rsim_1442.seq	Rsim_1442	354	454	1388	1693	18.6	36.3	93	40.2			0	Plus	17874	2e-06
+
+#Chain	cacta	753-801	Rsim_146	4928-5071	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_146/Rsim_146.seq	Rsim_146	753	801	5071	4928	49.0	55.1	108	46.0			0	Minus	25228	1e-07
+
+#Chain	cacta	754-784	Rsim_146	5078-5179	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_146/Rsim_146.seq	Rsim_146	754	784	5179	5078	67.6	67.6	101	43.3			0	Minus	25228	8e-07
+
+#Chain	cacta	751-790	Rsim_1461	8807-8929	-	24.4
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1461/Rsim_1461.seq	Rsim_1461	751	790	8929	8807	61.0	63.4	106	45.2			0	Minus	39146	3e-07
+
+#Chain	gypsy	296-409	Rsim_1476	6364-6780	+	15.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1476/Rsim_1476.seq	Rsim_1476	296	409	6364	6780	13.7	28.8	96	41.4			0	Plus	12115	2e-06
+
+#Chain	cacta	752-778	Rsim_1476	12035-12115	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1476/Rsim_1476.seq	Rsim_1476	752	778	12035	12115	88.9	88.9	110	46.8			0	Plus	12115	3e-08
+
+#Chain	cacta	752-800	Rsim_1477	5-151	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1477/Rsim_1477.seq	Rsim_1477	752	800	5	151	46.9	51.0	90	39.1			0	Plus	4292	3e-06
+
+#Chain	cacta	752-795	Rsim_1491	1531-1704	-	18.2
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1491/Rsim_1491.seq	Rsim_1491	752	795	1704	1531	41.4	43.1	88	38.3			0	Minus	8092	9e-06
+
+#Chain	cacta	753-785	Rsim_1491	1831-1929	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1491/Rsim_1491.seq	Rsim_1491	753	785	1929	1831	63.6	66.7	92	39.8			0	Minus	8092	3e-06
+
+#Chain	DDE_1	9-90	Rsim_1496	550-879	+	13.3
+DDE_1		535	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1496/Rsim_1496.seq	Rsim_1496	9	90	550	879	16.2	38.7	95	41.0			0	Plus	8284	4e-07
+
+#Chain	gypsy	307-417	Rsim_1502	5500-5838	-	20.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1502/Rsim_1502.seq	Rsim_1502	307	417	5838	5500	18.6	34.5	91	39.5			0	Minus	17517	1e-05
+
+#Chain	gypsy	1328-1380	Rsim_1506	16462-16614	-	10.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1506/Rsim_1506.seq	Rsim_1506	1328	1380	16614	16462	18.9	37.7	105	44.9			0	Minus	24092	3e-07
+
+#Chain	cacta	753-788	Rsim_1507	24298-24471	+	19.2
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1507/Rsim_1507.seq	Rsim_1507	753	788	24298	24471	53.4	55.2	97	41.8			0	Plus	32045	3e-06
+
+#Chain	gypsy	1255-1337	Rsim_1510	421-669	+	25.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1510/Rsim_1510.seq	Rsim_1510	1255	1337	421	669	30.1	49.4	178	73.0			0	Plus	11901	3e-16
+
+#Chain	cacta	748-780	Rsim_1531	30099-30197	-	26.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1531/Rsim_1531.seq	Rsim_1531	748	780	30197	30099	78.8	78.8	109	46.4			0	Minus	64566	3e-07
+
+#Chain	cacta	753-783	Rsim_1531	30413-30505	-	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1531/Rsim_1531.seq	Rsim_1531	753	783	30505	30413	80.6	80.6	111	47.2			0	Minus	64566	1e-07
+
+#Chain	gypsy	306-388	Rsim_1532	1466-1702	+	15.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1532/Rsim_1532.seq	Rsim_1532	306	388	1466	1702	18.1	33.7	84	36.8			0	Plus	2879	9e-06
+
+#Chain	cacta	753-798	Rsim_1540	145-282	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1540/Rsim_1540.seq	Rsim_1540	753	798	145	282	54.3	60.9	108	46.0			0	Plus	11576	6e-08
+
+#Chain	cacta	752-780	Rsim_1557	4847-4942	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1557/Rsim_1557.seq	Rsim_1557	752	780	4847	4942	65.6	65.6	91	39.4			0	Plus	13599	6e-06
+
+#Chain	LINE	87-742	Rsim_1558	866-2779	+	117.4
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1558/Rsim_1558.seq	Rsim_1558	87	742	866	2779	17.9	36.7	821	320			0	Plus	2825	1e-96
+
+#Chain	hAT	67-526	Rsim_156	20472-22495	+	72.5
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_156/Rsim_156.seq	Rsim_156	67	167	20472	20771	24.3	43.9	97	41.8			0	Plus	32103	2e-06
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_156/Rsim_156.seq	Rsim_156	196	526	21425	22495	14.5	31.4	124	52.2			0	Plus	32103	1e-09
+
+#Chain	ltr_Roo	682-1771	Rsim_1566	17-3442	+	261.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1566/Rsim_1566.seq	Rsim_1566	682	1771	17	3442	24.0	43.1	1828	708			0	Plus	8191	0.0
+
+#Chain	ltr_Roo	217-541	Rsim_1566	6563-7627	+	62.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1566/Rsim_1566.seq	Rsim_1566	217	541	6563	7627	19.1	33.1	289	115			0	Plus	8191	6e-29
+
+#Chain	hAT	60-175	Rsim_158	1451-1804	+	17.9
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_158/Rsim_158.seq	Rsim_158	60	175	1451	1804	15.4	21.5	88	38.3			0	Plus	9227	5e-06
+
+#Chain	MuDR_A_B	720-810	Rsim_1583	7844-8149	-	16.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1583/Rsim_1583.seq	Rsim_1583	720	810	8149	7844	18.6	29.4	89	38.8			0	Minus	10269	6e-06
+
+#Chain	cacta	753-780	Rsim_1596	8-91	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1596/Rsim_1596.seq	Rsim_1596	753	780	8	91	89.3	89.3	114	48.3			0	Plus	3999	4e-09
+
+#Chain	gypsy	293-437	Rsim_1635	2854-3273	+	18.3
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1635/Rsim_1635.seq	Rsim_1635	293	437	2854	3273	12.6	26.5	87	37.9			0	Plus	5132	8e-06
+
+#Chain	mariner	54-141	Rsim_1652	6268-6516	-	15.0
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1652/Rsim_1652.seq	Rsim_1652	54	141	6516	6268	17.0	29.5	90	39.0			0	Minus	13836	2e-06
+
+#Chain	cacta	757-785	Rsim_1666	23278-23364	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1666/Rsim_1666.seq	Rsim_1666	757	785	23278	23364	75.9	75.9	106	45.2			0	Plus	51560	4e-07
+
+#Chain	cacta	748-807	Rsim_1706	8148-8333	+	27.3
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1706/Rsim_1706.seq	Rsim_1706	748	807	8148	8333	45.5	51.5	98	42.1			0	Plus	15412	1e-06
+
+#Chain	cacta	759-805	Rsim_1730	9541-9672	-	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1730/Rsim_1730.seq	Rsim_1730	759	805	9672	9541	53.1	59.2	95	41.0			0	Minus	9672	2e-06
+
+#Chain	gypsy	272-413	Rsim_1731	1803-2219	-	20.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1731/Rsim_1731.seq	Rsim_1731	272	413	2219	1803	14.1	30.9	94	40.6			0	Minus	7742	2e-06
+
+#Chain	gypsy	268-427	Rsim_1744	3217-3684	+	28.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1744/Rsim_1744.seq	Rsim_1744	268	427	3217	3684	17.8	32.5	90	39.1			0	Plus	9630	7e-06
+
+#Chain	hAT	129-172	Rsim_1756	1363-1491	+	10.0
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1756/Rsim_1756.seq	Rsim_1756	129	172	1363	1491	22.7	36.4	109	46.4			0	Plus	35721	6e-08
+
+#Chain	helitronORF	866-1034	Rsim_177	39768-40226	+	37.3
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_177/Rsim_177.seq	Rsim_177	866	1034	39768	40226	22.1	36.6	95	40.8			0	Plus	47469	9e-06
+
+#Chain	ISb	5-345	Rsim_177	45781-46812	-	158.2
+ISb		351	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_177/Rsim_177.seq	Rsim_177	5	345	46812	45781	46.4	62.0	1028	400			0	Minus	47469	1e-131
+
+#Chain	gypsy	294-424	Rsim_178	5696-6052	-	23.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_178/Rsim_178.seq	Rsim_178	294	424	6052	5696	17.9	25.4	88	38.3			0	Minus	7328	8e-06
+
+#Chain	cacta	753-784	Rsim_1821	7544-7660	-	20.5
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1821/Rsim_1821.seq	Rsim_1821	753	784	7660	7544	64.1	66.7	90	39.1			0	Minus	15674	1e-05
+
+#Chain	cacta	717-767	Rsim_1824	39315-39458	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1824/Rsim_1824.seq	Rsim_1824	717	767	39458	39315	45.1	51.0	102	43.7			0	Minus	42426	1e-06
+
+#Chain	ISC1316	4-370	Rsim_1837	45-1028	+	74.5
+ISC1316		393	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1837/Rsim_1837.seq	Rsim_1837	4	370	45	1028	20.3	37.7	522	205			0	Plus	4045	2e-61
+
+#Chain	gypsy	301-437	Rsim_1858	10690-11085	-	23.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1858/Rsim_1858.seq	Rsim_1858	301	437	11085	10690	16.8	27.0	96	41.4			0	Minus	23742	3e-06
+
+#Chain	MuDR_A_B	653-792	Rsim_1858	12973-13440	+	21.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1858/Rsim_1858.seq	Rsim_1858	653	792	12973	13440	15.0	33.1	93	40.3			0	Plus	23742	5e-06
+
+#Chain	helitronORF	9-1318	Rsim_187	1397-5671	+	395.5
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_187/Rsim_187.seq	Rsim_187	9	101	1397	1687	34.3	43.4	165	67.8			0	Plus	6261	7e-15
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_187/Rsim_187.seq	Rsim_187	131	1040	1735	4857	29.9	45.8	1464	568			0	Plus	6261	0.0
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_187/Rsim_187.seq	Rsim_187	1089	1318	4946	5671	39.8	54.1	510	200			0	Plus	6261	9e-56
+
+#Chain	LINE	209-357	Rsim_188	10010-10450	-	21.2
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_188/Rsim_188.seq	Rsim_188	209	357	10450	10010	14.2	27.7	97	41.8			0	Minus	49291	4e-06
+
+#Chain	LINE	207-422	Rsim_1895	7949-8584	+	41.5
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1895/Rsim_1895.seq	Rsim_1895	207	422	7949	8584	19.2	30.1	107	45.7			0	Plus	15185	9e-08
+
+#Chain	cacta	751-771	Rsim_1903	17584-17646	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1903/Rsim_1903.seq	Rsim_1903	751	771	17584	17646	90.5	95.2	92	39.8			0	Plus	17781	7e-06
+
+#Chain	MuDR_A_B	661-870	Rsim_1905	6337-7008	+	44.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1905/Rsim_1905.seq	Rsim_1905	661	870	6337	7008	21.4	27.5	94	40.7			0	Plus	30246	5e-06
+
+#Chain	cacta	750-784	Rsim_1916	21883-21996	-	25.8
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1916/Rsim_1916.seq	Rsim_1916	750	784	21996	21883	73.7	73.7	121	51.0			0	Minus	42911	7e-09
+
+#Chain	ltr_Roo	861-909	Rsim_1928	163-339	-	9.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1928/Rsim_1928.seq	Rsim_1928	861	909	339	163	18.6	39.0	117	49.4			0	Minus	6920	6e-09
+
+#Chain	gypsy	292-431	Rsim_1941	6416-6853	+	21.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1941/Rsim_1941.seq	Rsim_1941	292	431	6416	6853	15.0	24.5	108	46.0			0	Plus	10028	6e-08
+
+#Chain	cacta	752-784	Rsim_196	5887-5985	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_196/Rsim_196.seq	Rsim_196	752	784	5887	5985	75.8	75.8	114	48.3			0	Plus	14074	1e-08
+
+#Chain	gypsy	307-398	Rsim_1961	4682-4954	+	16.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1961/Rsim_1961.seq	Rsim_1961	307	398	4682	4954	18.3	24.7	90	39.1			0	Plus	7602	5e-06
+
+#Chain	gypsy	292-389	Rsim_1966	4290-4580	+	12.1
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1966/Rsim_1966.seq	Rsim_1966	292	389	4290	4580	12.3	20.8	86	37.5			0	Plus	4609	9e-06
+
+#Chain	hAT	216-290	Rsim_1971	14082-14306	+	11.7
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1971/Rsim_1971.seq	Rsim_1971	216	290	14082	14306	15.6	39.0	88	38.3			0	Plus	15032	9e-06
+
+#Chain	cacta	753-805	Rsim_1973	2327-2485	+	31.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1973/Rsim_1973.seq	Rsim_1973	753	805	2327	2485	58.5	66.0	122	51.4			0	Plus	14021	1e-09
+
+#Chain	gypsy	1246-1291	Rsim_198	1368-1517	+	9.2
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_198/Rsim_198.seq	Rsim_198	1246	1291	1368	1517	20.0	44.0	95	41.0			0	Plus	2464	4e-07
+
+#Chain	cacta	753-799	Rsim_1984	561-701	-	28.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1984/Rsim_1984.seq	Rsim_1984	753	799	701	561	59.6	59.6	104	44.5			0	Minus	13581	2e-07
+
+#Chain	cacta	753-799	Rsim_1984	1816-1956	+	28.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1984/Rsim_1984.seq	Rsim_1984	753	799	1816	1956	59.6	59.6	105	44.8			0	Plus	13581	2e-07
+
+#Chain	cacta	753-836	Rsim_1984	2163-2363	+	30.7
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1984/Rsim_1984.seq	Rsim_1984	753	836	2163	2363	36.5	43.5	97	41.8			0	Plus	13581	1e-06
+
+#Chain	gypsy	284-389	Rsim_1986	14190-14540	+	19.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_1986/Rsim_1986.seq	Rsim_1986	284	389	14190	14540	17.9	27.4	96	41.4			0	Plus	33113	5e-06
+
+#Chain	gypsy	284-413	Rsim_2037	4152-4538	+	23.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2037/Rsim_2037.seq	Rsim_2037	284	413	4152	4538	18.0	36.1	99	42.6			0	Plus	6621	4e-07
+
+#Chain	gypsy	1161-1395	Rsim_2062	4393-5100	+	42.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2062/Rsim_2062.seq	Rsim_2062	1161	1395	4393	5100	18.2	34.8	205	83.4			0	Plus	19604	5e-19
+
+#Chain	gypsy	302-395	Rsim_2072	10732-11046	+	17.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2072/Rsim_2072.seq	Rsim_2072	302	395	10732	11046	19.0	30.5	91	39.5			0	Plus	15832	9e-06
+
+#Chain	TY1_Copia	138-332	Rsim_2077	1269-1847	+	26.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2077/Rsim_2077.seq	Rsim_2077	138	332	1269	1847	13.6	30.5	121	51.2			0	Plus	5794	9e-10
+
+#Chain	gypsy	551-908	Rsim_2077	2766-3821	+	98.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2077/Rsim_2077.seq	Rsim_2077	551	908	2766	3821	27.6	48.5	867	338			0	Plus	5794	2e-98
+
+#Chain	cacta	753-785	Rsim_21	11977-12075	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_21/Rsim_21.seq	Rsim_21	753	785	12075	11977	72.7	75.8	97	41.8			0	Minus	36147	4e-06
+
+#Chain	cacta	753-784	Rsim_21	12340-12453	-	22.8
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_21/Rsim_21.seq	Rsim_21	753	784	12453	12340	71.1	71.1	97	41.8			0	Minus	36147	4e-06
+
+#Chain	cacta	754-800	Rsim_21	12475-12636	-	24.4
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_21/Rsim_21.seq	Rsim_21	754	800	12636	12475	51.9	53.7	94	40.6			0	Minus	36147	8e-06
+
+#Chain	gypsy	274-381	Rsim_2120	4486-4845	-	18.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2120/Rsim_2120.seq	Rsim_2120	274	381	4845	4486	16.7	35.0	91	39.5			0	Minus	5337	3e-06
+
+#Chain	cacta	752-788	Rsim_214	13-126	+	24.3
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_214/Rsim_214.seq	Rsim_214	752	788	13	126	65.8	71.1	108	46.0			0	Plus	31086	2e-07
+
+#Chain	cacta	753-797	Rsim_214	28248-28385	-	26.2
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_214/Rsim_214.seq	Rsim_214	753	797	28385	28248	58.3	60.4	102	43.7			0	Minus	31086	8e-07
+
+#Chain	hAT	191-706	Rsim_2159	895-2467	-	58.9
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2159/Rsim_2159.seq	Rsim_2159	653	706	1056	895	24.1	50.0	114	48.3			0	Minus	3314	1e-09
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2159/Rsim_2159.seq	Rsim_2159	369	506	1832	1362	13.3	34.9	129	54.1			0	Minus	3314	2e-11
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2159/Rsim_2159.seq	Rsim_2159	191	342	2467	1943	18.1	29.9	134	56.1			0	Minus	3314	6e-12
+
+#Chain	hAT	630-706	Rsim_2161	5691-5915	+	20.0
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2161/Rsim_2161.seq	Rsim_2161	630	706	5691	5915	26.0	50.6	160	66.1			0	Plus	9448	2e-14
+
+#Chain	MuDR_A_B	619-744	Rsim_2166	3078-3440	+	24.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2166/Rsim_2166.seq	Rsim_2166	619	744	3078	3440	19.8	34.1	93	40.3			0	Plus	6269	1e-06
+
+#Chain	gypsy	296-427	Rsim_2170	8688-9092	+	21.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2170/Rsim_2170.seq	Rsim_2170	296	427	8688	9092	15.9	31.0	109	46.4			0	Plus	11191	5e-08
+
+#Chain	MuDR_A_B	616-802	Rsim_2189	13587-14225	+	27.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2189/Rsim_2189.seq	Rsim_2189	616	802	13587	14225	14.7	25.2	103	44.2			0	Plus	36057	5e-07
+
+#Chain	cacta	754-777	Rsim_2212	12288-12359	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2212/Rsim_2212.seq	Rsim_2212	754	777	12288	12359	91.7	91.7	102	43.7			0	Plus	17792	4e-07
+
+#Chain	MuDR_A_B	757-851	Rsim_2217	4873-5196	+	23.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2217/Rsim_2217.seq	Rsim_2217	757	851	4873	5196	25.0	38.0	88	38.4			0	Plus	9814	8e-06
+
+#Chain	ISC1316	217-259	Rsim_222	2774-2902	-	5.0
+ISC1316		393	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_222/Rsim_222.seq	Rsim_222	217	259	2902	2774	11.6	37.2	82	35.9			0	Minus	4578	6e-06
+
+#Chain	cacta	753-784	Rsim_223	19310-19429	+	20.8
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_223/Rsim_223.seq	Rsim_223	753	784	19310	19429	65.0	65.0	102	43.7			0	Plus	19434	5e-07
+
+#Chain	MuDR_A_B	651-807	Rsim_2247	3128-3577	+	22.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2247/Rsim_2247.seq	Rsim_2247	651	807	3128	3577	14.5	24.2	91	39.6			0	Plus	3580	1e-06
+
+#Chain	gypsy	298-451	Rsim_2254	4136-4558	-	23.7
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2254/Rsim_2254.seq	Rsim_2254	298	451	4558	4136	15.4	27.2	90	39.1			0	Minus	10867	8e-06
+
+#Chain	ltr_Roo	1123-1178	Rsim_2260	6239-6406	-	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2260/Rsim_2260.seq	Rsim_2260	1123	1178	6406	6239	25.0	44.6	130	54.4			0	Minus	8124	2e-10
+
+#Chain	LINE	852-1041	Rsim_2265	23058-23678	+	37.6
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2265/Rsim_2265.seq	Rsim_2265	852	1041	23058	23678	19.8	32.9	171	70.3			0	Plus	28568	6e-15
+
+#Chain	cacta	753-782	Rsim_2276	3321-3410	-	26.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2276/Rsim_2276.seq	Rsim_2276	753	782	3410	3321	86.7	86.7	116	49.1			0	Minus	5853	3e-09
+
+#Chain	cacta	759-787	Rsim_2276	3423-3509	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2276/Rsim_2276.seq	Rsim_2276	759	787	3509	3423	72.4	75.9	93	40.2			0	Minus	5853	2e-06
+
+#Chain	cacta	753-785	Rsim_2276	3843-3941	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2276/Rsim_2276.seq	Rsim_2276	753	785	3941	3843	72.7	75.8	101	43.3			0	Minus	5853	2e-07
+
+#Chain	mariner_ant1	234-281	Rsim_228	32679-32828	-	16.3
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_228/Rsim_228.seq	Rsim_228	234	281	32828	32679	34.0	46.0	105	44.8			0	Minus	65538	1e-07
+
+#Chain	mariner	280-329	Rsim_2286	18-164	-	18.0
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2286/Rsim_2286.seq	Rsim_2286	280	329	164	18	36.0	58.0	135	56.3			0	Minus	11083	5e-12
+
+#Chain	gypsy	737-849	Rsim_2291	561-887	+	39.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2291/Rsim_2291.seq	Rsim_2291	737	849	561	887	34.5	62.8	299	119			0	Plus	3662	5e-31
+
+#Chain	gypsy	274-417	Rsim_2300	2966-3448	+	23.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2300/Rsim_2300.seq	Rsim_2300	274	417	2966	3448	16.4	30.9	91	39.5			0	Plus	8601	5e-06
+
+#Chain	cacta	755-781	Rsim_231	17800-17955	+	13.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_231/Rsim_231.seq	Rsim_231	755	781	17800	17955	48.1	48.1	93	40.2			0	Plus	26464	8e-06
+
+#Chain	LINE	645-734	Rsim_2322	1-261	+	17.0
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2322/Rsim_2322.seq	Rsim_2322	645	734	1	261	18.9	44.4	110	46.8			0	Plus	17169	4e-08
+
+#Chain	cacta	753-828	Rsim_2335	2165-2386	+	29.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2335/Rsim_2335.seq	Rsim_2335	753	828	2165	2386	38.2	47.4	96	41.4			0	Plus	21386	2e-06
+
+#Chain	cacta	748-778	Rsim_2335	2520-2612	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2335/Rsim_2335.seq	Rsim_2335	748	778	2520	2612	64.5	67.7	93	40.2			0	Plus	21386	6e-06
+
+#Chain	gypsy	303-398	Rsim_2357	1878-2153	-	14.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2357/Rsim_2357.seq	Rsim_2357	303	398	2153	1878	15.2	23.2	85	37.2			0	Minus	3326	8e-06
+
+#Chain	hAT	128-185	Rsim_2368	12402-12599	+	15.0
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2368/Rsim_2368.seq	Rsim_2368	128	185	12402	12599	25.8	39.4	112	47.6			0	Plus	16161	1e-08
+
+#Chain	LINE	686-730	Rsim_2379	10036-10173	-	6.8
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2379/Rsim_2379.seq	Rsim_2379	686	730	10173	10036	15.2	41.3	89	38.7			0	Minus	10176	7e-06
+
+#Chain	hAT	129-182	Rsim_2382	11166-11333	-	15.2
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2382/Rsim_2382.seq	Rsim_2382	129	182	11333	11166	28.1	40.4	135	56.4			0	Minus	12073	2e-11
+
+#Chain	cacta	758-782	Rsim_2383	6-80	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2383/Rsim_2383.seq	Rsim_2383	758	782	80	6	96.0	96.0	120	50.6			0	Minus	9159	2e-09
+
+#Chain	mariner	54-137	Rsim_2404	2633-2869	-	16.0
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2404/Rsim_2404.seq	Rsim_2404	54	137	2869	2633	19.1	29.2	90	39.0			0	Minus	11187	1e-06
+
+#Chain	ltr_Roo	1376-1527	Rsim_2407	4237-4677	+	33.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2407/Rsim_2407.seq	Rsim_2407	1376	1527	4237	4677	22.2	40.7	112	47.5			0	Plus	6546	2e-08
+
+#Chain	gypsy	1016-1424	Rsim_2427	33-1295	+	68.3
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2427/Rsim_2427.seq	Rsim_2427	1016	1424	33	1295	16.7	34.1	579	227			0	Plus	4730	8e-64
+
+#Chain	cacta	747-778	Rsim_2453	1793-1888	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2453/Rsim_2453.seq	Rsim_2453	747	778	1888	1793	65.6	68.8	89	38.7			0	Minus	3676	3e-06
+
+#Chain	cacta	756-788	Rsim_246	17193-17291	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_246/Rsim_246.seq	Rsim_246	756	788	17193	17291	69.7	69.7	104	44.5			0	Plus	22107	3e-07
+
+#Chain	gypsy	276-382	Rsim_2464	8149-8499	+	19.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2464/Rsim_2464.seq	Rsim_2464	276	382	8149	8499	17.8	33.9	99	42.6			0	Plus	23703	2e-06
+
+#Chain	cacta	757-784	Rsim_2472	11-94	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2472/Rsim_2472.seq	Rsim_2472	757	784	11	94	85.7	85.7	111	47.2			0	Plus	19977	4e-08
+
+#Chain	cacta	753-798	Rsim_2483	4675-4812	-	26.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2483/Rsim_2483.seq	Rsim_2483	753	798	4812	4675	56.5	63.0	112	47.5			0	Minus	4851	8e-09
+
+#Chain	gypsy	304-420	Rsim_2485	26969-27286	+	17.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2485/Rsim_2485.seq	Rsim_2485	304	420	26969	27286	15.3	30.5	108	46.0			0	Plus	29348	2e-07
+
+#Chain	hAT	131-193	Rsim_2485	28995-29213	-	11.2
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2485/Rsim_2485.seq	Rsim_2485	131	193	29213	28995	17.8	34.2	93	40.3			0	Minus	29348	4e-06
+
+#Chain	MuDR_A_B	651-851	Rsim_2491	5243-5779	-	29.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2491/Rsim_2491.seq	Rsim_2491	651	851	5779	5243	14.9	26.9	94	40.7			0	Minus	5978	9e-07
+
+#Chain	MuDR_A_B	652-818	Rsim_2524	11009-11500	+	28.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2524/Rsim_2524.seq	Rsim_2524	652	818	11009	11500	17.3	27.2	93	40.3			0	Plus	19679	4e-06
+
+#Chain	cacta	756-779	Rsim_2537	2125-2196	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2537/Rsim_2537.seq	Rsim_2537	756	779	2125	2196	83.3	83.3	91	39.4			0	Plus	16962	8e-06
+
+#Chain	ltr_Roo	1345-1419	Rsim_2543	4595-4822	-	16.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2543/Rsim_2543.seq	Rsim_2543	1345	1419	4822	4595	22.4	43.4	112	47.5			0	Minus	11516	4e-08
+
+#Chain	ltr_Roo	785-813	Rsim_2543	7217-7303	-	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2543/Rsim_2543.seq	Rsim_2543	785	813	7303	7217	48.3	65.5	112	47.5			0	Minus	11516	4e-08
+
+#Chain	hAT	132-706	Rsim_2559	890-1558	-	32.5
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2559/Rsim_2559.seq	Rsim_2559	619	706	1159	890	23.9	44.6	161	66.5			0	Minus	2849	3e-15
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2559/Rsim_2559.seq	Rsim_2559	132	173	1558	1427	27.3	34.1	87	37.9			0	Minus	2849	2e-06
+
+#Chain	helitronORF	2-1316	Rsim_2560	169-4463	+	399.4
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2560/Rsim_2560.seq	Rsim_2560	2	702	169	2484	27.4	41.0	858	334			0	Plus	4855	1e-100
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2560/Rsim_2560.seq	Rsim_2560	675	1316	2400	4463	32.3	47.1	1065	414			0	Plus	4855	1e-128
+
+#Chain	MuDR_A_B	650-756	Rsim_257	9513-9833	-	18.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_257/Rsim_257.seq	Rsim_257	650	756	9833	9513	17.0	29.5	90	39.2			0	Minus	13568	6e-06
+
+#Chain	MuDR_A_B	596-826	Rsim_2587	1319-1942	-	41.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2587/Rsim_2587.seq	Rsim_2587	596	826	1942	1319	18.0	30.0	102	43.8			0	Minus	3182	5e-08
+
+#Chain	cacta	754-782	Rsim_2594	133-219	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2594/Rsim_2594.seq	Rsim_2594	754	782	133	219	72.4	72.4	91	39.4			0	Plus	11448	5e-06
+
+#Chain	ltr_Roo	1067-1142	Rsim_2608	2702-2926	-	19.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2608/Rsim_2608.seq	Rsim_2608	1067	1142	2926	2702	26.2	40.5	123	51.7			0	Minus	6372	1e-09
+
+#Chain	MuDR_A_B	651-771	Rsim_2622	2013-2333	-	16.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2622/Rsim_2622.seq	Rsim_2622	651	771	2333	2013	13.2	24.0	83	36.5			0	Minus	2931	8e-06
+
+#Chain	TY1_Copia	187-375	Rsim_2635	854-1381	-	28.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2635/Rsim_2635.seq	Rsim_2635	187	375	1381	854	15.3	32.3	106	45.4			0	Minus	18377	2e-07
+
+#Chain	cacta	753-787	Rsim_2684	3607-3750	-	16.8
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2684/Rsim_2684.seq	Rsim_2684	753	787	3750	3607	47.9	56.2	92	39.8			0	Minus	8574	3e-06
+
+#Chain	gypsy	276-413	Rsim_2712	2675-3130	+	27.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2712/Rsim_2712.seq	Rsim_2712	276	413	2675	3130	19.6	33.3	96	41.4			0	Plus	4071	5e-07
+
+#Chain	gypsy	274-391	Rsim_2714	4036-4398	-	19.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2714/Rsim_2714.seq	Rsim_2714	274	391	4398	4036	16.8	28.8	95	41.0			0	Minus	4820	9e-07
+
+#Chain	hAT	88-348	Rsim_2734	12749-13779	-	36.3
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2734/Rsim_2734.seq	Rsim_2734	237	348	13129	12749	17.2	33.6	152	63.0			0	Minus	16333	2e-13
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2734/Rsim_2734.seq	Rsim_2734	88	172	13779	13549	20.0	32.9	117	49.5			0	Minus	16333	3e-09
+
+#Chain	mariner	54-185	Rsim_2761	98-475	-	17.0
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2761/Rsim_2761.seq	Rsim_2761	54	185	475	98	12.9	29.5	80	35.1			0	Minus	5033	9e-06
+
+#Chain	mariner	3-79	Rsim_2765	6484-6717	-	21.7
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2765/Rsim_2765.seq	Rsim_2765	3	79	6717	6484	28.2	39.7	116	49.0			0	Minus	12943	1e-09
+
+#Chain	MuDR_A_B	652-715	Rsim_2767	8030-8194	-	13.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2767/Rsim_2767.seq	Rsim_2767	652	715	8194	8030	20.3	39.1	95	41.1			0	Minus	14527	2e-06
+
+#Chain	cacta	753-851	Rsim_2777	8339-8647	-	31.4
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2777/Rsim_2777.seq	Rsim_2777	753	851	8647	8339	31.7	49.0	116	49.1			0	Minus	9143	4e-09
+
+#Chain	cacta	750-784	Rsim_2777	8663-8773	-	22.7
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2777/Rsim_2777.seq	Rsim_2777	750	784	8773	8663	64.9	64.9	94	40.6			0	Minus	9143	2e-06
+
+#Chain	MuDR_A_B	652-830	Rsim_2788	9131-9601	+	28.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2788/Rsim_2788.seq	Rsim_2788	652	830	9131	9601	16.0	29.8	106	45.3			0	Plus	14985	9e-08
+
+#Chain	mariner	18-121	Rsim_2828	5933-6235	-	23.5
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2828/Rsim_2828.seq	Rsim_2828	18	121	6235	5933	22.6	32.1	88	38.2			0	Minus	12744	3e-06
+
+#Chain	gypsy	1283-1381	Rsim_2828	10214-10531	+	20.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2828/Rsim_2828.seq	Rsim_2828	1283	1381	10214	10531	20.6	31.8	96	41.4			0	Plus	12744	2e-06
+
+#Chain	gypsy	1232-1378	Rsim_2832	4173-4652	-	33.7
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2832/Rsim_2832.seq	Rsim_2832	1232	1378	4652	4173	22.9	40.4	190	77.6			0	Minus	5162	7e-18
+
+#Chain	mariner	1-111	Rsim_2832	4707-5057	-	22.8
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2832/Rsim_2832.seq	Rsim_2832	1	111	5057	4707	20.5	41.0	105	44.7			0	Minus	5162	9e-09
+
+#Chain	MuDR_A_B	630-794	Rsim_2838	1294-1734	-	26.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2838/Rsim_2838.seq	Rsim_2838	630	794	1734	1294	15.8	27.9	86	37.6			0	Minus	6007	8e-06
+
+#Chain	cacta	753-780	Rsim_2885	12133-12216	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2885/Rsim_2885.seq	Rsim_2885	753	780	12133	12216	85.7	85.7	109	46.4			0	Plus	12305	5e-08
+
+#Chain	cacta	753-780	Rsim_2885	12220-12303	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2885/Rsim_2885.seq	Rsim_2885	753	780	12220	12303	82.1	82.1	106	45.2			0	Plus	12305	1e-07
+
+#Chain	mariner_ant1	112-280	Rsim_2887	1475-1999	+	37.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2887/Rsim_2887.seq	Rsim_2887	112	280	1475	1999	22.3	35.3	147	61.0			0	Plus	15090	2e-13
+
+#Chain	gypsy	489-1432	Rsim_2904	1764-4652	-	224.7
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2904/Rsim_2904.seq	Rsim_2904	489	1432	4652	1764	23.8	41.2	1528	593			0	Minus	7098	0.0
+
+#Chain	TY1_Copia	67-593	Rsim_2904	5430-6209	-	60.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2904/Rsim_2904.seq	Rsim_2904	444	593	5918	5430	15.2	32.1	104	44.6			0	Minus	7098	1e-07
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2904/Rsim_2904.seq	Rsim_2904	67	329	6209	5496	14.2	31.3	139	58.1			0	Minus	7098	9e-12
+
+#Chain	cacta	747-784	Rsim_2909	4917-5024	-	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2909/Rsim_2909.seq	Rsim_2909	747	784	5024	4917	65.8	68.4	97	41.8			0	Minus	5455	5e-07
+
+#Chain	cacta	753-780	Rsim_293	20265-20348	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_293/Rsim_293.seq	Rsim_293	753	780	20348	20265	82.1	82.1	100	42.9			0	Minus	48365	2e-06
+
+#Chain	cacta	754-792	Rsim_293	28928-29044	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_293/Rsim_293.seq	Rsim_293	754	792	28928	29044	59.0	64.1	99	42.5			0	Plus	48365	3e-06
+
+#Chain	mariner	10-79	Rsim_2951	6309-6518	+	17.0
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2951/Rsim_2951.seq	Rsim_2951	10	79	6309	6518	24.3	50.0	126	52.8			0	Plus	6518	3e-11
+
+#Chain	Crypton	201-282	Rsim_2961	6107-6310	-	19.0
+Crypton		457	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2961/Rsim_2961.seq	Rsim_2961	201	282	6310	6107	23.2	32.9	85	37.3			0	Minus	7460	4e-06
+
+#Chain	MuDR_A_B	633-766	Rsim_2967	259-657	-	24.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2967/Rsim_2967.seq	Rsim_2967	633	766	657	259	18.6	27.1	85	37.3			0	Minus	2046	3e-06
+
+#Chain	MuDR_A_B	652-723	Rsim_2968	229-441	-	21.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2968/Rsim_2968.seq	Rsim_2968	652	723	441	229	29.2	43.1	88	38.4			0	Minus	9584	7e-06
+
+#Chain	MuDR_A_B	355-494	Rsim_2968	3304-3756	-	21.3
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2968/Rsim_2968.seq	Rsim_2968	355	494	3756	3304	15.2	37.7	96	41.5			0	Minus	9584	9e-07
+
+#Chain	cacta	751-780	Rsim_2970	8677-8766	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2970/Rsim_2970.seq	Rsim_2970	751	780	8766	8677	63.3	66.7	93	40.2			0	Minus	23801	7e-06
+
+#Chain	mariner_ant1	18-111	Rsim_2974	334-618	-	20.1
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2974/Rsim_2974.seq	Rsim_2974	18	111	618	334	21.4	37.9	89	38.6			0	Minus	15148	2e-06
+
+#Chain	MuDR_A_B	649-838	Rsim_2981	2510-2989	-	28.7
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2981/Rsim_2981.seq	Rsim_2981	649	838	2989	2510	15.1	29.7	97	41.9			0	Minus	28790	2e-06
+
+#Chain	ltr_Roo	162-278	Rsim_2986	23295-23654	+	26.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2986/Rsim_2986.seq	Rsim_2986	162	278	23295	23654	22.6	40.3	105	44.8			0	Plus	25449	6e-07
+
+#Chain	gypsy	723-807	Rsim_2987	1925-2176	-	28.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2987/Rsim_2987.seq	Rsim_2987	723	807	2176	1925	32.9	54.1	226	91.5			0	Minus	8835	8e-22
+
+#Chain	helitronORF	804-934	Rsim_2995	20922-21266	+	33.0
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_2995/Rsim_2995.seq	Rsim_2995	804	934	20922	21266	25.2	44.3	99	42.4			0	Plus	26906	2e-06
+
+#Chain	cacta	751-813	Rsim_302	3320-3496	+	29.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_302/Rsim_302.seq	Rsim_302	751	813	3320	3496	46.0	57.1	103	44.1			0	Plus	5526	1e-07
+
+#Chain	Crypton	218-323	Rsim_3033	13802-14128	-	25.0
+Crypton		457	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3033/Rsim_3033.seq	Rsim_3033	218	323	14128	13802	23.6	36.4	91	39.6			0	Minus	21149	2e-06
+
+#Chain	MuDR_A_B	664-810	Rsim_3057	1492-1929	-	26.3
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3057/Rsim_3057.seq	Rsim_3057	664	810	1929	1492	17.9	30.5	86	37.6			0	Minus	4697	6e-06
+
+#Chain	gypsy	560-1302	Rsim_3067	1-2073	-	199.1
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3067/Rsim_3067.seq	Rsim_3067	560	1302	2073	1	26.8	45.9	1437	557			0	Minus	2769	0.0
+
+#Chain	cacta	753-781	Rsim_3079	5-91	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3079/Rsim_3079.seq	Rsim_3079	753	781	5	91	72.4	75.9	89	38.7			0	Plus	2613	2e-06
+
+#Chain	MuDR_A_B	633-852	Rsim_3088	2662-3432	+	41.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3088/Rsim_3088.seq	Rsim_3088	633	852	2662	3432	18.8	26.8	87	38.0			0	Plus	6410	6e-06
+
+#Chain	TY1_Copia	207-399	Rsim_310	49333-49947	+	27.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_310/Rsim_310.seq	Rsim_310	207	399	49333	49947	14.4	32.1	103	44.2			0	Plus	55571	1e-06
+
+#Chain	gypsy	306-414	Rsim_3125	68-418	-	19.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3125/Rsim_3125.seq	Rsim_3125	306	414	418	68	17.9	31.6	104	44.5			0	Minus	4892	8e-08
+
+#Chain	gypsy	253-441	Rsim_3125	463-1011	-	29.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3125/Rsim_3125.seq	Rsim_3125	253	441	1011	463	15.8	28.1	88	38.3			0	Minus	4892	6e-06
+
+#Chain	cacta	650-783	Rsim_3149	1255-1689	+	37.7
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3149/Rsim_3149.seq	Rsim_3149	650	783	1255	1689	28.1	37.7	94	40.6			0	Plus	12996	3e-06
+
+#Chain	mariner_ant1	200-279	Rsim_3162	3304-3549	+	23.4
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3162/Rsim_3162.seq	Rsim_3162	200	279	3304	3549	29.3	46.3	108	45.9			0	Plus	5215	3e-09
+
+#Chain	gypsy	259-423	Rsim_3176	1628-2143	+	21.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3176/Rsim_3176.seq	Rsim_3176	259	423	1628	2143	13.1	29.1	135	56.4			0	Plus	5562	2e-11
+
+#Chain	cacta	727-782	Rsim_3199	2784-2987	+	25.5
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3199/Rsim_3199.seq	Rsim_3199	727	782	2784	2987	45.6	48.5	105	44.8			0	Plus	7341	8e-08
+
+#Chain	cacta	753-786	Rsim_3238	23-124	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3238/Rsim_3238.seq	Rsim_3238	753	786	23	124	67.6	70.6	99	42.5			0	Plus	7764	4e-07
+
+#Chain	ltr_Roo	402-1610	Rsim_3248	289-4146	-	299.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3248/Rsim_3248.seq	Rsim_3248	402	1610	4146	289	24.8	43.1	1873	725			0	Minus	5603	0.0
+
+#Chain	ltr_Roo	208-324	Rsim_3252	915-1262	+	33.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3252/Rsim_3252.seq	Rsim_3252	208	324	915	1262	28.8	49.2	188	76.8			0	Plus	3458	1e-17
+
+#Chain	ltr_Roo	295-491	Rsim_3252	1456-2043	+	32.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3252/Rsim_3252.seq	Rsim_3252	295	491	1456	2043	16.5	31.6	136	56.7			0	Plus	3458	2e-11
+
+#Chain	gypsy	289-385	Rsim_3276	86-400	+	13.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3276/Rsim_3276.seq	Rsim_3276	289	385	86	400	14.3	21.9	85	37.2			0	Plus	2853	7e-06
+
+#Chain	gypsy	294-429	Rsim_3279	2488-2943	+	19.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3279/Rsim_3279.seq	Rsim_3279	294	429	2488	2943	14.3	25.3	86	37.5			0	Plus	3865	8e-06
+
+#Chain	cacta	755-785	Rsim_3281	11862-11954	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3281/Rsim_3281.seq	Rsim_3281	755	785	11862	11954	74.2	74.2	96	41.4			0	Plus	20775	3e-06
+
+#Chain	MuDR_A_B	641-814	Rsim_3287	376-873	-	28.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3287/Rsim_3287.seq	Rsim_3287	641	814	873	376	16.3	32.0	87	38.0			0	Minus	4453	4e-06
+
+#Chain	cacta	752-781	Rsim_3291	2311-2400	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3291/Rsim_3291.seq	Rsim_3291	752	781	2400	2311	63.3	63.3	87	37.9			0	Minus	5121	7e-06
+
+#Chain	cacta	753-781	Rsim_3301	9908-10003	-	20.9
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3301/Rsim_3301.seq	Rsim_3301	753	781	10003	9908	71.9	75.0	103	44.1			0	Minus	10680	2e-07
+
+#Chain	cacta	751-781	Rsim_3323	2367-2459	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3323/Rsim_3323.seq	Rsim_3323	751	781	2367	2459	77.4	77.4	100	42.9			0	Plus	5788	2e-07
+
+#Chain	gypsy	302-453	Rsim_333	12675-13133	-	29.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_333/Rsim_333.seq	Rsim_333	302	453	13133	12675	19.6	27.2	119	50.3			0	Minus	13165	4e-09
+
+#Chain	gypsy	1197-1440	Rsim_334	5579-6310	-	36.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_334/Rsim_334.seq	Rsim_334	1197	1440	6310	5579	15.1	32.9	227	91.9			0	Minus	13587	9e-22
+
+#Chain	gypsy	288-427	Rsim_3370	1873-2283	-	19.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3370/Rsim_3370.seq	Rsim_3370	288	427	2283	1873	14.2	33.3	102	43.7			0	Minus	3832	1e-07
+
+#Chain	gypsy	284-414	Rsim_3375	1828-2244	-	23.1
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3375/Rsim_3375.seq	Rsim_3375	284	414	2244	1828	17.6	26.4	94	40.6			0	Minus	17792	4e-06
+
+#Chain	MuDR_A_B	651-809	Rsim_3375	9082-9552	+	23.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3375/Rsim_3375.seq	Rsim_3375	651	809	9082	9552	14.7	27.1	94	40.7			0	Plus	17792	3e-06
+
+#Chain	gypsy	772-1391	Rsim_3421	444-2156	-	146.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3421/Rsim_3421.seq	Rsim_3421	772	1391	2156	444	23.7	41.9	1090	424			0	Minus	2158	1e-134
+
+#Chain	gypsy	246-391	Rsim_3427	2896-3309	-	25.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3427/Rsim_3427.seq	Rsim_3427	246	391	3309	2896	17.1	28.9	92	39.9			0	Minus	7095	3e-06
+
+#Chain	mariner	261-345	Rsim_3429	1376-1639	+	31.2
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3429/Rsim_3429.seq	Rsim_3429	261	345	1376	1639	36.7	48.9	173	70.9			0	Plus	19587	1e-16
+
+#Chain	gypsy	1100-1397	Rsim_3475	1647-2552	-	59.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3475/Rsim_3475.seq	Rsim_3475	1100	1397	2552	1647	19.8	38.0	487	192			0	Minus	2619	5e-54
+
+#Chain	MuDR_A_B	648-775	Rsim_3477	487-861	+	19.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3477/Rsim_3477.seq	Rsim_3477	648	775	487	861	15.5	25.6	87	38.0			0	Plus	8641	8e-06
+
+#Chain	gypsy	298-414	Rsim_3552	2876-3244	-	17.7
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3552/Rsim_3552.seq	Rsim_3552	298	414	3244	2876	15.1	27.0	91	39.5			0	Minus	3699	2e-06
+
+#Chain	LINE	718-772	Rsim_3562	22962-23117	+	12.0
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3562/Rsim_3562.seq	Rsim_3562	718	772	22962	23117	21.8	50.9	107	45.7			0	Plus	23310	1e-07
+
+#Chain	cacta	752-792	Rsim_3565	4435-4569	-	22.8
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3565/Rsim_3565.seq	Rsim_3565	752	792	4569	4435	55.6	62.2	91	39.4			0	Minus	7129	3e-06
+
+#Chain	cacta	752-784	Rsim_3577	2737-2838	-	25.2
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3577/Rsim_3577.seq	Rsim_3577	752	784	2838	2737	76.5	76.5	112	47.5			0	Minus	5958	9e-09
+
+#Chain	ltr_Roo	235-444	Rsim_3583	796-1419	-	35.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3583/Rsim_3583.seq	Rsim_3583	235	444	1419	796	17.1	33.3	108	46.0			0	Minus	4385	4e-08
+
+#Chain	gypsy	295-418	Rsim_3585	310-693	-	12.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3585/Rsim_3585.seq	Rsim_3585	295	418	693	310	10.0	23.1	96	41.4			0	Minus	3570	5e-07
+
+#Chain	ltr_Roo	1028-1071	Rsim_3611	2496-2633	-	12.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3611/Rsim_3611.seq	Rsim_3611	1028	1071	2633	2496	28.3	58.7	97	41.7			0	Minus	5501	1e-06
+
+#Chain	gypsy	301-395	Rsim_3693	2-292	+	16.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3693/Rsim_3693.seq	Rsim_3693	301	395	2	292	16.8	26.7	93	40.2			0	Plus	6281	2e-06
+
+#Chain	mariner	6-167	Rsim_3710	1937-2443	+	37.6
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3710/Rsim_3710.seq	Rsim_3710	6	167	1937	2443	23.2	36.7	225	91.0			0	Plus	3055	6e-24
+
+#Chain	gypsy	440-1463	Rsim_3716	1950-5627	-	230.2
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3716/Rsim_3716.seq	Rsim_3716	544	1463	4862	1950	22.6	42.1	1633	633			0	Minus	7351	0.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3716/Rsim_3716.seq	Rsim_3716	440	540	5627	5289	22.1	38.1	99	42.6			0	Minus	7351	4e-07
+
+#Chain	gypsy	291-439	Rsim_3717	2831-3262	-	30.2
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3717/Rsim_3717.seq	Rsim_3717	291	439	3262	2831	20.3	30.7	99	42.6			0	Minus	3273	2e-07
+
+#Chain	MuDR_A_B	652-801	Rsim_3723	6692-7180	-	30.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3723/Rsim_3723.seq	Rsim_3723	652	801	7180	6692	20.0	29.4	95	41.1			0	Minus	9598	1e-06
+
+#Chain	cacta	731-780	Rsim_373	1941-2072	-	28.4
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_373/Rsim_373.seq	Rsim_373	731	780	2072	1941	56.9	58.8	115	48.7			0	Minus	9817	7e-09
+
+#Chain	TY1_Copia	285-322	Rsim_3738	7781-7906	-	10.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3738/Rsim_3738.seq	Rsim_3738	285	322	7906	7781	26.2	38.1	104	44.6			0	Minus	8843	1e-07
+
+#Chain	MuDR_A_B	635-819	Rsim_3761	5490-5975	-	33.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3761/Rsim_3761.seq	Rsim_3761	635	819	5975	5490	17.9	23.7	107	45.7			0	Minus	10216	5e-08
+
+#Chain	gypsy	306-385	Rsim_3768	621-863	+	14.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3768/Rsim_3768.seq	Rsim_3768	306	385	621	863	18.3	26.8	94	40.6			0	Plus	11828	3e-06
+
+#Chain	MuDR_A_B	648-752	Rsim_3768	4778-5098	-	17.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3768/Rsim_3768.seq	Rsim_3768	648	752	5098	4778	16.4	28.2	90	39.2			0	Minus	11828	5e-06
+
+#Chain	cacta	753-784	Rsim_378	21398-21493	-	31.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_378/Rsim_378.seq	Rsim_378	753	784	21493	21398	96.9	96.9	151	62.6			0	Minus	29421	1e-12
+
+#Chain	gypsy	291-496	Rsim_379	26934-27563	-	28.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_379/Rsim_379.seq	Rsim_379	291	496	27563	26934	13.6	27.7	98	42.2			0	Minus	58233	5e-06
+
+#Chain	gypsy	294-417	Rsim_3793	273-653	+	16.7
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3793/Rsim_3793.seq	Rsim_3793	294	417	273	653	13.5	27.8	90	39.1			0	Plus	3552	2e-06
+
+#Chain	gypsy	985-1038	Rsim_3803	1965-2126	+	25.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3803/Rsim_3803.seq	Rsim_3803	985	1038	1965	2126	46.3	63.0	184	75.3			0	Plus	3098	2e-17
+
+#Chain	gypsy	969-1015	Rsim_3831	2548-2688	-	10.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3831/Rsim_3831.seq	Rsim_3831	969	1015	2688	2548	21.3	51.1	121	51.0			0	Minus	6824	1e-09
+
+#Chain	gypsy	282-416	Rsim_3837	4517-4891	+	25.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3837/Rsim_3837.seq	Rsim_3837	282	416	4517	4891	18.8	36.2	90	39.1			0	Plus	8869	6e-06
+
+#Chain	gypsy	277-380	Rsim_3871	2758-3048	+	20.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3871/Rsim_3871.seq	Rsim_3871	277	380	2758	3048	19.8	24.5	95	41.0			0	Plus	3588	6e-07
+
+#Chain	MuDR_A_B	652-765	Rsim_3880	19-396	-	20.3
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3880/Rsim_3880.seq	Rsim_3880	652	765	396	19	17.8	25.9	84	36.9			0	Minus	3244	7e-06
+
+#Chain	gypsy	282-409	Rsim_3897	2368-2763	+	20.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3897/Rsim_3897.seq	Rsim_3897	282	409	2368	2763	16.3	31.9	90	39.1			0	Plus	6402	4e-06
+
+#Chain	hAT	125-172	Rsim_392	2242-2376	+	10.0
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_392/Rsim_392.seq	Rsim_392	125	172	2242	2376	20.8	37.5	86	37.6			0	Plus	10237	9e-06
+
+#Chain	LINE	176-357	Rsim_3922	2914-3432	-	29.5
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3922/Rsim_3922.seq	Rsim_3922	176	357	3432	2914	16.2	26.7	89	38.7			0	Minus	4236	3e-06
+
+#Chain	ISb	7-338	Rsim_395	167-976	+	115.9
+ISb		351	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_395/Rsim_395.seq	Rsim_395	7	338	167	976	34.9	47.3	608	238			0	Plus	11167	1e-72
+
+#Chain	mariner	54-131	Rsim_3984	3022-3282	+	17.0
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3984/Rsim_3984.seq	Rsim_3984	54	131	3022	3282	21.8	36.8	83	36.3			0	Plus	4967	4e-06
+
+#Chain	cacta	737-787	Rsim_3989	6179-6376	-	23.2
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3989/Rsim_3989.seq	Rsim_3989	737	787	6376	6179	45.5	48.5	92	39.8			0	Minus	7857	3e-06
+
+#Chain	cacta	709-780	Rsim_3989	6390-6584	-	30.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3989/Rsim_3989.seq	Rsim_3989	709	780	6584	6390	41.7	43.1	94	40.6			0	Minus	7857	1e-06
+
+#Chain	cacta	753-778	Rsim_3989	7357-7434	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_3989/Rsim_3989.seq	Rsim_3989	753	778	7434	7357	84.6	84.6	97	41.8			0	Minus	7857	6e-07
+
+#Chain	TY1_Copia	778-954	Rsim_400	24410-24925	+	35.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_400/Rsim_400.seq	Rsim_400	778	954	24410	24925	20.1	34.8	103	44.2			0	Plus	90074	2e-06
+
+#Chain	MuDR_A_B	654-744	Rsim_4003	3189-3464	-	21.7
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4003/Rsim_4003.seq	Rsim_4003	654	744	3464	3189	23.9	31.5	89	38.8			0	Minus	6514	4e-06
+
+#Chain	gypsy	312-423	Rsim_4010	2036-2386	+	14.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4010/Rsim_4010.seq	Rsim_4010	312	423	2036	2386	13.3	25.0	113	47.9			0	Plus	5145	7e-09
+
+#Chain	LINE	792-871	Rsim_4022	1726-1983	+	5.6
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4022/Rsim_4022.seq	Rsim_4022	792	871	1726	1983	7.0	19.8	84	36.8			0	Plus	2377	6e-06
+
+#Chain	gypsy	313-415	Rsim_4028	245-568	+	12.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4028/Rsim_4028.seq	Rsim_4028	313	415	245	568	12.4	25.7	92	39.9			0	Plus	7034	3e-06
+
+#Chain	MuDR_A_B	354-431	Rsim_4042	2754-2987	-	19.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4042/Rsim_4042.seq	Rsim_4042	354	431	2987	2754	24.4	48.7	114	48.4			0	Minus	3939	2e-09
+
+#Chain	DDE_1	31-246	Rsim_4085	2-718	-	28.9
+DDE_1		535	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4085/Rsim_4085.seq	Rsim_4085	31	246	718	2	13.4	28.5	96	41.4			0	Minus	6253	3e-07
+
+#Chain	hAT	129-204	Rsim_4099	38-277	+	18.5
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4099/Rsim_4099.seq	Rsim_4099	129	204	38	277	24.4	41.5	118	49.9			0	Plus	2153	3e-10
+
+#Chain	cacta	754-784	Rsim_4107	1586-1678	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4107/Rsim_4107.seq	Rsim_4107	754	784	1586	1678	71.0	74.2	97	41.8			0	Plus	7248	6e-07
+
+#Chain	gypsy	276-444	Rsim_4115	36-530	-	28.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4115/Rsim_4115.seq	Rsim_4115	276	444	530	36	16.9	29.2	89	38.7			0	Minus	2834	2e-06
+
+#Chain	gypsy	294-450	Rsim_4146	223-699	+	31.1
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4146/Rsim_4146.seq	Rsim_4146	294	450	223	699	19.8	30.2	91	39.5			0	Plus	6820	4e-06
+
+#Chain	gypsy	323-446	Rsim_4172	3-392	+	28.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4172/Rsim_4172.seq	Rsim_4172	323	446	3	392	22.6	35.3	110	46.8			0	Plus	6747	2e-08
+
+#Chain	helitronORF	738-1321	Rsim_42	340-2088	-	242.9
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_42/Rsim_42.seq	Rsim_42	738	1321	2088	340	41.6	57.7	1603	621			0	Minus	2091	0.0
+
+#Chain	MuDR_A_B	651-804	Rsim_4201	1-399	-	29.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4201/Rsim_4201.seq	Rsim_4201	651	804	399	1	18.8	30.5	90	39.2			0	Minus	7538	3e-06
+
+#Chain	MuDR_A_B	353-425	Rsim_4246	123-341	+	15.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4246/Rsim_4246.seq	Rsim_4246	353	425	123	341	20.5	45.2	100	43.0			0	Plus	9134	3e-07
+
+#Chain	MuDR_A_B	657-776	Rsim_4280	1542-1904	-	19.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4280/Rsim_4280.seq	Rsim_4280	657	776	1904	1542	16.3	30.2	92	39.9			0	Minus	4945	1e-06
+
+#Chain	MuDR_A_B	652-813	Rsim_4327	4216-4725	+	31.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4327/Rsim_4327.seq	Rsim_4327	652	813	4216	4725	19.7	31.2	91	39.6			0	Plus	17071	6e-06
+
+#Chain	gypsy	319-411	Rsim_4327	16751-17044	+	16.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4327/Rsim_4327.seq	Rsim_4327	319	411	16751	17044	18.2	29.3	92	39.9			0	Plus	17071	7e-06
+
+#Chain	gypsy	298-438	Rsim_4342	515-904	-	23.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4342/Rsim_4342.seq	Rsim_4342	298	438	904	515	16.6	26.2	95	41.0			0	Minus	3804	7e-07
+
+#Chain	gypsy	299-439	Rsim_4342	2508-2948	-	21.7
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4342/Rsim_4342.seq	Rsim_4342	299	439	2948	2508	15.4	27.5	96	41.4			0	Minus	3804	5e-07
+
+#Chain	cacta	753-806	Rsim_4343	25-186	-	28.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4343/Rsim_4343.seq	Rsim_4343	753	806	186	25	51.9	57.4	127	53.3			0	Minus	2844	7e-11
+
+#Chain	hAT	627-735	Rsim_4352	3268-3654	+	27.7
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4352/Rsim_4352.seq	Rsim_4352	627	735	3268	3654	25.4	40.0	151	62.6			0	Plus	5264	1e-13
+
+#Chain	gypsy	298-418	Rsim_4362	5037-5492	+	19.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4362/Rsim_4362.seq	Rsim_4362	298	418	5037	5492	16.4	25.7	92	39.9			0	Plus	8578	4e-06
+
+#Chain	MuDR_A_B	651-775	Rsim_4369	5245-5634	-	21.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4369/Rsim_4369.seq	Rsim_4369	651	775	5634	5245	17.3	32.3	94	40.7			0	Minus	6474	9e-07
+
+#Chain	MuDR_A_B	641-765	Rsim_4382	7590-7958	-	20.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4382/Rsim_4382.seq	Rsim_4382	641	765	7958	7590	16.4	25.8	91	39.6			0	Minus	8543	3e-06
+
+#Chain	cacta	753-794	Rsim_44	422-541	-	27.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_44/Rsim_44.seq	Rsim_44	753	794	541	422	64.3	69.0	111	47.2			0	Minus	8063	2e-08
+
+#Chain	cacta	753-780	Rsim_44	593-676	-	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_44/Rsim_44.seq	Rsim_44	753	780	676	593	89.3	89.3	114	48.3			0	Minus	8063	8e-09
+
+#Chain	TY1_Copia	231-297	Rsim_4422	9416-9619	-	13.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4422/Rsim_4422.seq	Rsim_4422	231	297	9619	9416	20.6	39.7	90	39.2			0	Minus	12819	9e-06
+
+#Chain	cacta	759-784	Rsim_4434	29-106	+	18.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4434/Rsim_4434.seq	Rsim_4434	759	784	29	106	69.2	69.2	86	37.5			0	Plus	4181	7e-06
+
+#Chain	cacta	753-782	Rsim_4450	3-92	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4450/Rsim_4450.seq	Rsim_4450	753	782	3	92	83.3	83.3	117	49.5			0	Plus	5923	2e-09
+
+#Chain	cacta	753-784	Rsim_4450	159-254	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4450/Rsim_4450.seq	Rsim_4450	753	784	159	254	78.1	78.1	112	47.5			0	Plus	5923	9e-09
+
+#Chain	cacta	753-788	Rsim_4450	324-431	+	27.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4450/Rsim_4450.seq	Rsim_4450	753	788	324	431	75.0	75.0	115	48.7			0	Plus	5923	4e-09
+
+#Chain	cacta	752-804	Rsim_4461	5897-6070	-	23.4
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4461/Rsim_4461.seq	Rsim_4461	752	804	6070	5897	44.1	50.8	90	39.1			0	Minus	6074	4e-06
+
+#Chain	mariner	56-140	Rsim_4475	1649-1900	+	15.8
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4475/Rsim_4475.seq	Rsim_4475	56	140	1649	1900	18.6	32.6	80	35.1			0	Plus	3634	6e-06
+
+#Chain	MuDR_A_B	655-851	Rsim_4493	1427-1915	-	34.3
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4493/Rsim_4493.seq	Rsim_4493	655	851	1915	1427	17.4	26.9	84	36.9			0	Minus	3278	7e-06
+
+#Chain	gypsy	275-441	Rsim_450	2916-3494	+	24.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_450/Rsim_450.seq	Rsim_450	275	441	2916	3494	14.9	26.7	92	39.9			0	Plus	5974	2e-06
+
+#Chain	gypsy	290-430	Rsim_4554	5349-5732	+	26.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4554/Rsim_4554.seq	Rsim_4554	290	430	5349	5732	19.1	31.9	106	45.2			0	Plus	12047	1e-07
+
+#Chain	gypsy	290-375	Rsim_4567	6281-6544	-	13.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4567/Rsim_4567.seq	Rsim_4567	290	375	6544	6281	16.1	35.5	91	39.5			0	Minus	7662	4e-06
+
+#Chain	cacta	753-804	Rsim_4567	7172-7327	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4567/Rsim_4567.seq	Rsim_4567	753	804	7327	7172	44.2	48.1	108	46.0			0	Minus	7662	4e-08
+
+#Chain	cacta	753-782	Rsim_4567	7438-7527	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4567/Rsim_4567.seq	Rsim_4567	753	782	7527	7438	80.0	80.0	106	45.2			0	Minus	7662	6e-08
+
+#Chain	cacta	754-784	Rsim_4567	7570-7662	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4567/Rsim_4567.seq	Rsim_4567	754	784	7662	7570	71.0	71.0	94	40.6			0	Minus	7662	2e-06
+
+#Chain	gypsy	282-415	Rsim_4586	93-539	+	22.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4586/Rsim_4586.seq	Rsim_4586	282	415	93	539	16.9	29.2	102	43.7			0	Plus	2216	5e-08
+
+#Chain	cacta	753-784	Rsim_459	47172-47279	+	20.4
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_459/Rsim_459.seq	Rsim_459	753	784	47172	47279	63.9	63.9	97	41.8			0	Plus	65044	6e-06
+
+#Chain	cacta	753-784	Rsim_459	47650-47754	+	23.8
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_459/Rsim_459.seq	Rsim_459	753	784	47650	47754	74.3	74.3	107	45.6			0	Plus	65044	4e-07
+
+#Chain	hAT	659-708	Rsim_4610	6207-6356	+	15.0
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4610/Rsim_4610.seq	Rsim_4610	659	708	6207	6356	30.0	46.0	138	57.6			0	Plus	6510	5e-12
+
+#Chain	MuDR_A_B	652-853	Rsim_4612	589-1194	+	35.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4612/Rsim_4612.seq	Rsim_4612	652	853	589	1194	17.5	31.1	100	43.0			0	Plus	3678	1e-07
+
+#Chain	gypsy	280-441	Rsim_4627	3473-3991	-	25.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4627/Rsim_4627.seq	Rsim_4627	280	441	3991	3473	16.0	28.0	90	39.1			0	Minus	7643	5e-06
+
+#Chain	gypsy	304-403	Rsim_4629	2494-2799	+	13.7
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4629/Rsim_4629.seq	Rsim_4629	304	403	2494	2799	13.7	25.5	87	37.9			0	Plus	3791	6e-06
+
+#Chain	MuDR_A_B	650-775	Rsim_4630	6707-7057	+	26.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4630/Rsim_4630.seq	Rsim_4630	650	775	6707	7057	20.8	30.8	90	39.2			0	Plus	13680	6e-06
+
+#Chain	TY1_Copia	210-597	Rsim_4635	2778-3917	-	55.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4635/Rsim_4635.seq	Rsim_4635	210	597	3917	2778	14.2	32.6	111	47.3			0	Minus	7919	2e-08
+
+#Chain	MuDR_A_B	660-852	Rsim_4663	2845-3456	-	33.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4663/Rsim_4663.seq	Rsim_4663	660	852	3456	2845	17.3	32.2	97	41.9			0	Minus	5018	3e-07
+
+#Chain	MuDR_A_B	329-432	Rsim_4676	828-1142	+	23.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4676/Rsim_4676.seq	Rsim_4676	329	432	828	1142	22.9	37.1	108	46.1			0	Plus	2386	7e-09
+
+#Chain	gypsy	293-445	Rsim_468	6903-7325	+	21.7
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_468/Rsim_468.seq	Rsim_468	293	445	6903	7325	14.2	32.3	94	40.6			0	Plus	10739	3e-06
+
+#Chain	gypsy	1174-1346	Rsim_4722	683-1303	-	28.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4722/Rsim_4722.seq	Rsim_4722	1174	1346	1303	683	16.5	29.2	90	39.1			0	Minus	2032	1e-06
+
+#Chain	gypsy	292-386	Rsim_4732	1330-1635	+	14.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4732/Rsim_4732.seq	Rsim_4732	292	386	1330	1635	14.7	27.5	87	37.9			0	Plus	4435	7e-06
+
+#Chain	MuDR_A_B	651-807	Rsim_4765	16158-16646	+	27.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4765/Rsim_4765.seq	Rsim_4765	651	807	16158	16646	17.2	29.4	91	39.6			0	Plus	20942	7e-06
+
+#Chain	MuDR_A_B	649-852	Rsim_4772	53-718	-	34.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4772/Rsim_4772.seq	Rsim_4772	649	852	718	53	16.7	28.9	87	38.0			0	Minus	3783	4e-06
+
+#Chain	gypsy	277-451	Rsim_4789	4518-5021	-	25.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4789/Rsim_4789.seq	Rsim_4789	277	451	5021	4518	14.3	24.0	97	41.8			0	Minus	7990	8e-07
+
+#Chain	TY1_Copia	217-690	Rsim_4793	70-684	+	46.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4793/Rsim_4793.seq	Rsim_4793	217	321	70	360	16.0	34.0	85	37.3			0	Plus	3365	9e-06
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4793/Rsim_4793.seq	Rsim_4793	512	690	73	684	16.8	32.7	114	48.5			0	Plus	3365	3e-09
+
+#Chain	gypsy	571-1422	Rsim_4793	760-3234	+	213.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4793/Rsim_4793.seq	Rsim_4793	571	1422	760	3234	25.0	43.9	1504	583			0	Plus	3365	0.0
+
+#Chain	cacta	752-780	Rsim_4830	3-89	-	28.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4830/Rsim_4830.seq	Rsim_4830	752	780	89	3	96.6	96.6	137	57.2			0	Minus	5900	1e-11
+
+#Chain	cacta	752-784	Rsim_4851	2049-2147	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4851/Rsim_4851.seq	Rsim_4851	752	784	2049	2147	60.6	60.6	86	37.5			0	Plus	2174	3e-06
+
+#Chain	DDE_1	41-90	Rsim_488	2138-2290	+	10.8
+DDE_1		535	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_488/Rsim_488.seq	Rsim_488	41	90	2138	2290	21.6	45.1	80	35.2			0	Plus	3025	9e-06
+
+#Chain	cacta	728-817	Rsim_4893	1504-1818	-	27.4
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4893/Rsim_4893.seq	Rsim_4893	728	817	1818	1504	30.4	38.3	88	38.3			0	Minus	2083	2e-06
+
+#Chain	MuDR_A_B	647-807	Rsim_4896	11175-11696	-	25.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4896/Rsim_4896.seq	Rsim_4896	647	807	11696	11175	15.5	24.1	108	46.1			0	Minus	11750	4e-08
+
+#Chain	mariner_ant1	180-278	Rsim_4959	7544-7846	-	21.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4959/Rsim_4959.seq	Rsim_4959	180	278	7846	7544	21.9	41.0	151	62.5			0	Minus	17257	7e-14
+
+#Chain	gypsy	1228-1327	Rsim_4959	12231-12545	+	16.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4959/Rsim_4959.seq	Rsim_4959	1228	1327	12231	12545	16.0	33.0	116	49.1			0	Plus	17257	1e-08
+
+#Chain	gypsy	302-397	Rsim_497	8313-8561	-	13.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_497/Rsim_497.seq	Rsim_497	302	397	8561	8313	13.5	26.0	93	40.2			0	Minus	10136	3e-06
+
+#Chain	gypsy	275-436	Rsim_497	8794-9303	-	29.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_497/Rsim_497.seq	Rsim_497	275	436	9303	8794	17.9	27.9	96	41.4			0	Minus	10136	1e-06
+
+#Chain	cacta	753-807	Rsim_4991	2667-2801	-	33.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_4991/Rsim_4991.seq	Rsim_4991	753	807	2801	2667	60.0	65.5	139	57.9			0	Minus	2802	3e-12
+
+#Chain	gypsy	725-761	Rsim_5026	2745-2855	+	12.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5026/Rsim_5026.seq	Rsim_5026	725	761	2745	2855	32.4	51.4	87	37.9			0	Plus	4748	7e-06
+
+#Chain	ltr_Roo	785-818	Rsim_5028	7118-7213	+	15.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5028/Rsim_5028.seq	Rsim_5028	785	818	7118	7213	44.1	70.6	105	44.8			0	Plus	7244	2e-07
+
+#Chain	Crypton	220-299	Rsim_5035	1007-1213	+	14.0
+Crypton		457	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5035/Rsim_5035.seq	Rsim_5035	220	299	1007	1213	17.5	30.0	87	38.1			0	Plus	3879	1e-06
+
+#Chain	mariner_ant1	34-278	Rsim_5056	10413-11207	-	37.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5056/Rsim_5056.seq	Rsim_5056	34	278	11207	10413	15.3	31.6	88	38.2			0	Minus	12974	2e-06
+
+#Chain	gypsy	280-444	Rsim_5071	4938-5465	-	26.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5071/Rsim_5071.seq	Rsim_5071	280	444	5465	4938	16.3	29.2	104	44.5			0	Minus	12523	2e-07
+
+#Chain	cacta	753-780	Rsim_5096	18-101	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5096/Rsim_5096.seq	Rsim_5096	753	780	101	18	85.7	85.7	110	46.8			0	Minus	3485	9e-09
+
+#Chain	cacta	753-780	Rsim_5096	182-265	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5096/Rsim_5096.seq	Rsim_5096	753	780	265	182	85.7	85.7	106	45.2			0	Minus	3485	3e-08
+
+#Chain	gypsy	291-425	Rsim_5103	4057-4497	+	18.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5103/Rsim_5103.seq	Rsim_5103	291	425	4057	4497	13.6	25.9	103	44.1			0	Plus	15267	3e-07
+
+#Chain	cacta	753-800	Rsim_5109	3-152	+	21.1
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5109/Rsim_5109.seq	Rsim_5109	753	800	3	152	44.0	46.0	87	37.9			0	Plus	4052	5e-06
+
+#Chain	gypsy	276-452	Rsim_5120	6601-7152	+	32.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5120/Rsim_5120.seq	Rsim_5120	276	452	6601	7152	18.3	34.4	98	42.2			0	Plus	8673	7e-07
+
+#Chain	TY1_Copia	254-396	Rsim_514	20099-20509	+	22.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_514/Rsim_514.seq	Rsim_514	254	396	20099	20509	16.0	36.1	96	41.5			0	Plus	41572	6e-06
+
+#Chain	gypsy	276-453	Rsim_5141	60-527	+	32.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5141/Rsim_5141.seq	Rsim_5141	276	453	60	527	18.4	32.4	85	37.2			0	Plus	2025	5e-06
+
+#Chain	cacta	752-772	Rsim_5144	12-74	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5144/Rsim_5144.seq	Rsim_5144	752	772	12	74	100.0	100.0	104	44.5			0	Plus	5519	8e-08
+
+#Chain	MuDR_A_B	651-843	Rsim_5152	3117-3602	+	31.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5152/Rsim_5152.seq	Rsim_5152	651	843	3117	3602	16.5	29.5	86	37.6			0	Plus	4995	6e-06
+
+#Chain	MuDR_A_B	640-757	Rsim_5161	969-1343	-	19.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5161/Rsim_5161.seq	Rsim_5161	640	757	1343	969	16.8	25.6	99	42.6			0	Minus	6626	3e-07
+
+#Chain	cacta	729-787	Rsim_520	4412-4588	+	27.1
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_520/Rsim_520.seq	Rsim_520	729	787	4412	4588	46.0	49.2	98	42.1			0	Plus	8053	6e-07
+
+#Chain	helitronORF	1180-1309	Rsim_5217	1489-1896	+	44.9
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5217/Rsim_5217.seq	Rsim_5217	1180	1309	1489	1896	34.5	48.6	196	79.7			0	Plus	2092	3e-19
+
+#Chain	gypsy	275-461	Rsim_5220	20-562	+	22.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5220/Rsim_5220.seq	Rsim_5220	275	461	20	562	12.1	25.3	98	42.2			0	Plus	12117	1e-06
+
+#Chain	cacta	751-783	Rsim_523	9471-9569	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_523/Rsim_523.seq	Rsim_523	751	783	9471	9569	60.6	60.6	90	39.1			0	Plus	12208	8e-06
+
+#Chain	LINE	205-798	Rsim_5258	1592-3457	+	99.2
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5258/Rsim_5258.seq	Rsim_5258	205	798	1592	3457	16.7	32.8	450	177			0	Plus	3945	6e-49
+
+#Chain	gypsy	277-438	Rsim_5297	2637-3110	-	23.3
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5297/Rsim_5297.seq	Rsim_5297	277	438	3110	2637	14.4	26.4	85	37.2			0	Minus	3656	9e-06
+
+#Chain	gypsy	276-406	Rsim_5320	951-1376	-	19.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5320/Rsim_5320.seq	Rsim_5320	276	406	1376	951	14.9	24.3	84	36.8			0	Minus	2057	6e-06
+
+#Chain	Crypton	257-303	Rsim_5341	3471-3614	+	7.8
+Crypton		457	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5341/Rsim_5341.seq	Rsim_5341	257	303	3471	3614	16.7	22.9	82	36.2			0	Plus	4434	6e-06
+
+#Chain	hAT	630-706	Rsim_5342	2153-2371	+	20.0
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5342/Rsim_5342.seq	Rsim_5342	630	706	2153	2371	26.0	48.1	158	65.3			0	Plus	2525	6e-15
+
+#Chain	MuDR_A_B	655-850	Rsim_5361	2685-3215	-	43.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5361/Rsim_5361.seq	Rsim_5361	655	850	3215	2685	22.0	33.0	96	41.5			0	Minus	3691	3e-07
+
+#Chain	MuDR_A_B	646-850	Rsim_5387	589-1224	-	31.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5387/Rsim_5387.seq	Rsim_5387	646	850	1224	589	15.3	25.5	92	39.9			0	Minus	2427	6e-07
+
+#Chain	cacta	753-780	Rsim_5400	2330-2413	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5400/Rsim_5400.seq	Rsim_5400	753	780	2413	2330	75.0	75.0	92	39.8			0	Minus	10455	4e-06
+
+#Chain	cacta	742-777	Rsim_5400	4295-4402	-	20.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5400/Rsim_5400.seq	Rsim_5400	742	777	4402	4295	55.6	58.3	90	39.1			0	Minus	10455	6e-06
+
+#Chain	helitronORF	904-962	Rsim_5417	4453-4635	-	19.4
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5417/Rsim_5417.seq	Rsim_5417	904	962	4635	4453	32.8	45.9	98	42.0			0	Minus	4977	4e-07
+
+#Chain	helitronORF	872-919	Rsim_5446	1759-1908	-	16.3
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5446/Rsim_5446.seq	Rsim_5446	872	919	1908	1759	34.0	50.0	89	38.5			0	Minus	9940	1e-05
+
+#Chain	cacta	752-806	Rsim_5447	7427-7603	-	24.3
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5447/Rsim_5447.seq	Rsim_5447	752	806	7603	7427	44.1	49.2	95	41.0			0	Minus	7779	1e-06
+
+#Chain	gypsy	299-448	Rsim_5453	5415-5843	+	25.1
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5453/Rsim_5453.seq	Rsim_5453	299	448	5415	5843	16.7	25.0	91	39.5			0	Plus	7881	4e-06
+
+#Chain	MuDR_A_B	626-797	Rsim_5480	2379-2828	+	29.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5480/Rsim_5480.seq	Rsim_5480	626	797	2379	2828	16.9	27.3	85	37.3			0	Plus	5221	9e-06
+
+#Chain	gypsy	305-400	Rsim_5492	996-1331	-	17.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5492/Rsim_5492.seq	Rsim_5492	305	400	1331	996	18.3	29.6	87	37.9			0	Minus	5108	8e-06
+
+#Chain	gypsy	284-383	Rsim_5498	2561-2902	-	16.7
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5498/Rsim_5498.seq	Rsim_5498	284	383	2902	2561	16.7	28.1	96	41.4			0	Minus	3502	4e-07
+
+#Chain	MuDR_A_B	650-851	Rsim_5512	38-538	-	37.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5512/Rsim_5512.seq	Rsim_5512	650	851	538	38	18.3	32.7	87	38.0			0	Minus	2451	2e-06
+
+#Chain	gypsy	304-420	Rsim_5528	4703-5044	+	18.3
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5528/Rsim_5528.seq	Rsim_5528	304	420	4703	5044	15.6	24.6	92	39.9			0	Plus	7765	3e-06
+
+#Chain	MuDR_A_B	635-827	Rsim_5530	4315-4923	-	35.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5530/Rsim_5530.seq	Rsim_5530	635	827	4923	4315	18.2	29.0	92	39.9			0	Minus	4967	1e-06
+
+#Chain	gypsy	262-413	Rsim_5537	4784-5263	+	24.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5537/Rsim_5537.seq	Rsim_5537	262	413	4784	5263	16.4	24.8	96	41.4			0	Plus	7383	1e-06
+
+#Chain	cacta	753-784	Rsim_5544	5031-5129	+	23.3
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5544/Rsim_5544.seq	Rsim_5544	753	784	5031	5129	72.7	72.7	104	44.5			0	Plus	14390	2e-07
+
+#Chain	mariner	51-191	Rsim_5582	1009-1488	+	21.0
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5582/Rsim_5582.seq	Rsim_5582	51	191	1009	1488	14.9	26.1	80	35.1			0	Plus	4038	7e-06
+
+#Chain	MuDR_A_B	651-850	Rsim_5593	620-1225	-	34.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5593/Rsim_5593.seq	Rsim_5593	651	850	1225	620	17.1	22.3	95	41.1			0	Minus	5208	6e-07
+
+#Chain	LINE	404-807	Rsim_5594	434-1474	-	65.0
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5594/Rsim_5594.seq	Rsim_5594	404	807	1474	434	16.1	33.9	281	112			0	Minus	2800	4e-29
+
+#Chain	gypsy	290-422	Rsim_5597	1892-2284	+	25.3
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5597/Rsim_5597.seq	Rsim_5597	290	422	1892	2284	19.0	33.6	91	39.5			0	Plus	2405	1e-06
+
+#Chain	cacta	758-806	Rsim_5659	1673-1819	-	22.3
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5659/Rsim_5659.seq	Rsim_5659	758	806	1819	1673	45.5	50.9	92	39.8			0	Minus	2613	8e-07
+
+#Chain	LINE	208-359	Rsim_5675	1351-1872	+	27.5
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5675/Rsim_5675.seq	Rsim_5675	208	359	1351	1872	18.1	28.2	91	39.5			0	Plus	2066	7e-07
+
+#Chain	MuDR_A_B	651-815	Rsim_5681	3792-4208	-	29.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5681/Rsim_5681.seq	Rsim_5681	651	815	4208	3792	17.6	27.3	97	41.9			0	Minus	4577	3e-07
+
+#Chain	ltr_Roo	341-487	Rsim_5702	984-1415	-	23.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5702/Rsim_5702.seq	Rsim_5702	341	487	1415	984	16.2	29.2	86	37.5			0	Minus	2126	7e-06
+
+#Chain	gypsy	306-415	Rsim_5709	2061-2402	-	15.3
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5709/Rsim_5709.seq	Rsim_5709	306	415	2402	2061	13.9	28.7	99	42.6			0	Minus	2466	1e-07
+
+#Chain	gypsy	289-386	Rsim_5723	1719-1991	-	17.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5723/Rsim_5723.seq	Rsim_5723	289	386	1991	1719	17.3	26.5	89	38.7			0	Minus	2982	3e-06
+
+#Chain	MuDR_A_B	651-802	Rsim_5749	9447-9863	-	29.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5749/Rsim_5749.seq	Rsim_5749	651	802	9863	9447	19.1	29.6	97	41.9			0	Minus	11074	7e-07
+
+#Chain	gypsy	146-1184	Rsim_5763	99-2996	-	213.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5763/Rsim_5763.seq	Rsim_5763	146	1184	2996	99	20.5	37.0	1041	405			0	Minus	3366	1e-123
+
+#Chain	cacta	754-785	Rsim_58	10427-10522	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_58/Rsim_58.seq	Rsim_58	754	785	10522	10427	75.0	75.0	110	46.8			0	Minus	10679	3e-08
+
+#Chain	gypsy	280-389	Rsim_5803	202-567	-	17.2
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5803/Rsim_5803.seq	Rsim_5803	280	389	567	202	15.6	27.0	83	36.4			0	Minus	2379	1e-05
+
+#Chain	gypsy	277-429	Rsim_5805	354-935	+	19.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5805/Rsim_5805.seq	Rsim_5805	277	429	354	935	12.4	26.8	87	37.9			0	Plus	3220	5e-06
+
+#Chain	gypsy	275-419	Rsim_5823	280-702	-	24.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5823/Rsim_5823.seq	Rsim_5823	275	419	702	280	17.1	30.8	115	48.7			0	Minus	3840	3e-09
+
+#Chain	gypsy	300-389	Rsim_5826	1777-2052	-	20.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5826/Rsim_5826.seq	Rsim_5826	300	389	2052	1777	22.8	33.7	92	39.9			0	Minus	6312	3e-06
+
+#Chain	gypsy	274-381	Rsim_5835	1526-1846	+	21.2
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5835/Rsim_5835.seq	Rsim_5835	274	381	1526	1846	19.6	33.9	91	39.5			0	Plus	2928	1e-06
+
+#Chain	gypsy	298-439	Rsim_5841	1153-1605	+	23.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5841/Rsim_5841.seq	Rsim_5841	298	439	1153	1605	16.8	31.6	95	41.0			0	Plus	2121	3e-07
+
+#Chain	MuDR_A_B	640-751	Rsim_5847	1736-2041	-	17.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5847/Rsim_5847.seq	Rsim_5847	640	751	2041	1736	15.9	28.3	86	37.6			0	Minus	3674	5e-06
+
+#Chain	gypsy	306-405	Rsim_5856	5212-5511	-	15.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5856/Rsim_5856.seq	Rsim_5856	306	405	5511	5212	15.0	27.0	98	42.2			0	Minus	6234	5e-07
+
+#Chain	gypsy	285-430	Rsim_5856	5620-6033	-	23.1
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5856/Rsim_5856.seq	Rsim_5856	285	430	6033	5620	15.8	24.3	100	42.9			0	Minus	6234	3e-07
+
+#Chain	mariner	173-199	Rsim_5865	1270-1350	+	9.0
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5865/Rsim_5865.seq	Rsim_5865	173	199	1270	1350	33.3	63.0	88	38.2			0	Plus	4422	9e-07
+
+#Chain	ltr_Roo	1497-1638	Rsim_5884	175-528	-	25.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5884/Rsim_5884.seq	Rsim_5884	1497	1638	528	175	18.2	31.5	97	41.7			0	Minus	7523	1e-06
+
+#Chain	mariner_ant1	24-310	Rsim_5906	2181-3071	-	41.9
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5906/Rsim_5906.seq	Rsim_5906	24	310	3071	2181	14.6	29.4	177	72.5			0	Minus	4039	7e-18
+
+#Chain	mariner	2-62	Rsim_593	3420-3644	-	13.0
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_593/Rsim_593.seq	Rsim_593	2	62	3644	3420	21.3	34.7	93	40.1			0	Minus	18571	1e-06
+
+#Chain	gypsy	227-389	Rsim_594	274-738	-	33.3
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_594/Rsim_594.seq	Rsim_594	227	389	738	274	20.4	33.5	93	40.2			0	Minus	11497	4e-06
+
+#Chain	cacta	756-812	Rsim_598	24-173	+	30.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_598/Rsim_598.seq	Rsim_598	756	812	24	173	52.6	59.6	109	46.4			0	Plus	6435	2e-08
+
+#Chain	gypsy	288-441	Rsim_5981	2062-2568	+	24.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_5981/Rsim_5981.seq	Rsim_5981	288	441	2062	2568	16.0	29.6	98	42.2			0	Plus	3415	3e-07
+
+#Chain	MuDR_A_B	652-830	Rsim_6002	1038-1646	+	26.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6002/Rsim_6002.seq	Rsim_6002	652	830	1038	1646	15.0	25.4	98	42.3			0	Plus	8839	4e-07
+
+#Chain	gypsy	307-437	Rsim_6004	1235-1582	-	24.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6004/Rsim_6004.seq	Rsim_6004	307	437	1582	1235	18.7	27.6	86	37.5			0	Minus	3961	8e-06
+
+#Chain	gypsy	263-406	Rsim_6043	2337-2780	-	21.3
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6043/Rsim_6043.seq	Rsim_6043	263	406	2780	2337	14.8	31.5	98	42.2			0	Minus	5037	4e-07
+
+#Chain	MuDR_A_B	640-830	Rsim_6048	59-625	-	31.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6048/Rsim_6048.seq	Rsim_6048	640	830	625	59	16.5	28.4	85	37.3			0	Minus	2253	3e-06
+
+#Chain	gypsy	569-745	Rsim_607	2697-3206	+	42.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_607/Rsim_607.seq	Rsim_607	569	745	2697	3206	24.0	41.9	318	126			0	Plus	3207	3e-33
+
+#Chain	MuDR_A_B	640-850	Rsim_6087	5459-6088	-	32.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6087/Rsim_6087.seq	Rsim_6087	640	850	6088	5459	15.6	26.6	89	38.8			0	Minus	6482	4e-06
+
+#Chain	MuDR_A_B	645-810	Rsim_6092	1668-2255	-	25.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6092/Rsim_6092.seq	Rsim_6092	645	810	2255	1668	15.6	24.1	83	36.5			0	Minus	3401	9e-06
+
+#Chain	cacta	752-784	Rsim_6129	17-115	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6129/Rsim_6129.seq	Rsim_6129	752	784	115	17	72.7	75.8	111	47.2			0	Minus	6892	1e-08
+
+#Chain	MuDR_A_B	652-815	Rsim_6138	1204-1719	-	28.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6138/Rsim_6138.seq	Rsim_6138	652	815	1719	1204	17.4	32.0	110	46.9			0	Minus	2872	5e-09
+
+#Chain	gypsy	290-414	Rsim_6154	833-1231	-	25.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6154/Rsim_6154.seq	Rsim_6154	290	414	1231	833	20.3	35.3	97	41.8			0	Minus	6062	6e-07
+
+#Chain	gypsy	280-427	Rsim_6208	300-731	+	21.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6208/Rsim_6208.seq	Rsim_6208	280	427	300	731	14.5	30.3	99	42.6			0	Plus	3646	2e-07
+
+#Chain	MuDR_A_B	649-812	Rsim_6214	690-1199	+	21.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6214/Rsim_6214.seq	Rsim_6214	649	812	690	1199	13.1	25.6	86	37.6			0	Plus	3033	4e-06
+
+#Chain	MuDR_A_B	649-821	Rsim_6215	653-1201	-	27.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6215/Rsim_6215.seq	Rsim_6215	649	821	1201	653	15.6	24.6	97	41.9			0	Minus	4022	3e-07
+
+#Chain	cacta	752-780	Rsim_6219	768-854	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6219/Rsim_6219.seq	Rsim_6219	752	780	768	854	65.5	65.5	85	37.1			0	Plus	3168	7e-06
+
+#Chain	gypsy	265-453	Rsim_6266	14-541	+	29.1
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6266/Rsim_6266.seq	Rsim_6266	265	453	14	541	15.4	27.7	88	38.3			0	Plus	2064	2e-06
+
+#Chain	gypsy	292-445	Rsim_6266	1333-1824	+	28.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6266/Rsim_6266.seq	Rsim_6266	292	445	1333	1824	18.5	28.3	101	43.3			0	Plus	2064	6e-08
+
+#Chain	MuDR_A_B	619-763	Rsim_6325	2-433	-	25.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6325/Rsim_6325.seq	Rsim_6325	619	763	433	2	17.8	28.3	88	38.4			0	Minus	2319	2e-06
+
+#Chain	gypsy	310-405	Rsim_6355	1511-1825	+	17.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6355/Rsim_6355.seq	Rsim_6355	310	405	1511	1825	18.1	34.3	86	37.5			0	Plus	2455	5e-06
+
+#Chain	gypsy	298-417	Rsim_6374	625-969	-	21.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6374/Rsim_6374.seq	Rsim_6374	298	417	969	625	17.9	30.1	90	39.1			0	Minus	2461	2e-06
+
+#Chain	MuDR_A_B	656-850	Rsim_6380	1253-1885	+	24.8
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6380/Rsim_6380.seq	Rsim_6380	656	850	1253	1885	12.7	26.4	84	36.9			0	Plus	2137	4e-06
+
+#Chain	gypsy	308-420	Rsim_6395	3891-4238	+	16.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6395/Rsim_6395.seq	Rsim_6395	308	420	3891	4238	14.7	27.6	89	38.7			0	Plus	7480	7e-06
+
+#Chain	cacta	749-805	Rsim_641	29086-29259	-	27.5
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_641/Rsim_641.seq	Rsim_641	749	805	29259	29086	48.3	55.2	94	40.6			0	Minus	32143	7e-06
+
+#Chain	mariner_ant1	35-183	Rsim_6410	64-513	-	28.6
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6410/Rsim_6410.seq	Rsim_6410	35	183	513	64	19.2	29.5	78	34.4			0	Minus	2851	8e-06
+
+#Chain	MuDR_A_B	654-731	Rsim_6416	649-891	-	16.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6416/Rsim_6416.seq	Rsim_6416	654	731	891	649	20.5	33.7	85	37.3			0	Minus	2046	3e-06
+
+#Chain	gypsy	293-429	Rsim_6471	769-1143	+	16.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6471/Rsim_6471.seq	Rsim_6471	293	429	769	1143	11.7	24.1	87	37.9			0	Plus	2888	4e-06
+
+#Chain	LINE	916-1045	Rsim_6481	1645-2088	+	28.2
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6481/Rsim_6481.seq	Rsim_6481	916	1045	1645	2088	21.7	33.6	164	67.6			0	Plus	4379	5e-15
+
+#Chain	cacta	750-777	Rsim_649	12524-12607	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_649/Rsim_649.seq	Rsim_649	750	777	12524	12607	71.4	71.4	95	41.0			0	Plus	19275	3e-06
+
+#Chain	gypsy	276-383	Rsim_6499	339-671	-	17.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6499/Rsim_6499.seq	Rsim_6499	276	383	671	339	16.5	28.7	85	37.2			0	Minus	2176	5e-06
+
+#Chain	gypsy	298-385	Rsim_6502	2310-2609	-	15.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6502/Rsim_6502.seq	Rsim_6502	298	385	2609	2310	18.0	38.0	87	37.9			0	Minus	2619	4e-06
+
+#Chain	MuDR_A_B	653-830	Rsim_6505	4142-4717	-	27.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6505/Rsim_6505.seq	Rsim_6505	653	830	4717	4142	15.4	31.3	95	41.1			0	Minus	7502	9e-07
+
+#Chain	MuDR_A_B	633-801	Rsim_6509	3460-3990	-	29.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6509/Rsim_6509.seq	Rsim_6509	633	801	3990	3460	17.5	27.0	92	39.9			0	Minus	11867	3e-06
+
+#Chain	gypsy	253-402	Rsim_6509	7859-8347	+	29.1
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6509/Rsim_6509.seq	Rsim_6509	253	402	7859	8347	19.4	34.5	92	39.9			0	Plus	11867	5e-06
+
+#Chain	gypsy	307-454	Rsim_6518	886-1347	+	24.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6518/Rsim_6518.seq	Rsim_6518	307	454	886	1347	16.6	30.7	96	41.4			0	Plus	2100	2e-07
+
+#Chain	gypsy	294-414	Rsim_6525	101-451	-	21.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6525/Rsim_6525.seq	Rsim_6525	294	414	451	101	18.0	25.4	88	38.3			0	Minus	2251	2e-06
+
+#Chain	MuDR_A_B	638-821	Rsim_6598	2708-3259	+	32.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6598/Rsim_6598.seq	Rsim_6598	638	821	2708	3259	17.6	27.0	88	38.4			0	Plus	4442	3e-06
+
+#Chain	cacta	750-810	Rsim_663	14917-15099	-	26.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_663/Rsim_663.seq	Rsim_663	750	810	15099	14917	42.6	54.1	95	41.0			0	Minus	39394	7e-06
+
+#Chain	cacta	750-794	Rsim_663	17548-17679	-	28.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_663/Rsim_663.seq	Rsim_663	750	794	17679	17548	62.2	68.9	119	50.2			0	Minus	39394	1e-08
+
+#Chain	cacta	755-806	Rsim_6632	4342-4515	-	25.1
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6632/Rsim_6632.seq	Rsim_6632	755	806	4515	4342	48.3	51.7	98	42.1			0	Minus	4516	3e-07
+
+#Chain	mariner_ant1	13-198	Rsim_6673	2360-3013	-	31.6
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6673/Rsim_6673.seq	Rsim_6673	13	198	3013	2360	17.0	29.7	79	34.8			0	Minus	3049	6e-06
+
+#Chain	MuDR_A_B	641-808	Rsim_6686	819-1361	+	25.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6686/Rsim_6686.seq	Rsim_6686	641	808	819	1361	15.0	26.2	88	38.4			0	Plus	2086	1e-06
+
+#Chain	gypsy	288-403	Rsim_6703	188-544	-	16.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6703/Rsim_6703.seq	Rsim_6703	288	403	544	188	14.3	31.1	93	40.2			0	Minus	3187	9e-07
+
+#Chain	gypsy	228-424	Rsim_6706	236-838	+	28.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6706/Rsim_6706.seq	Rsim_6706	228	424	236	838	14.2	26.5	85	37.2			0	Plus	2510	6e-06
+
+#Chain	LINE	259-359	Rsim_6711	2585-2917	+	16.4
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6711/Rsim_6711.seq	Rsim_6711	259	359	2585	2917	16.2	35.1	93	40.3			0	Plus	3374	8e-07
+
+#Chain	ISC1316	4-370	Rsim_6713	667-1671	+	72.7
+ISC1316		393	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6713/Rsim_6713.seq	Rsim_6713	4	370	667	1671	19.8	37.4	558	219			0	Plus	6348	3e-66
+
+#Chain	gypsy	292-421	Rsim_6726	1599-1991	+	18.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6726/Rsim_6726.seq	Rsim_6726	292	421	1599	1991	14.2	29.1	85	37.2			0	Plus	3639	9e-06
+
+#Chain	mariner	52-142	Rsim_6752	1293-1613	-	15.3
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6752/Rsim_6752.seq	Rsim_6752	52	142	1613	1293	16.8	27.1	77	34.0			0	Minus	2233	9e-06
+
+#Chain	gypsy	298-431	Rsim_6755	2441-2878	+	20.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6755/Rsim_6755.seq	Rsim_6755	298	431	2441	2878	15.4	28.9	89	38.7			0	Plus	2912	2e-06
+
+#Chain	hAT	650-709	Rsim_680	180-359	-	23.0
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_680/Rsim_680.seq	Rsim_680	650	709	359	180	38.3	48.3	106	45.3			0	Minus	28485	1e-07
+
+#Chain	LINE	735-876	Rsim_6818	1816-2229	-	19.9
+LINE		1189	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6818/Rsim_6818.seq	Rsim_6818	735	876	2229	1816	14.0	28.0	85	37.2			0	Minus	2968	6e-06
+
+#Chain	gypsy	320-421	Rsim_6827	361-699	-	13.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6827/Rsim_6827.seq	Rsim_6827	320	421	699	361	13.3	29.2	88	38.3			0	Minus	2184	2e-06
+
+#Chain	Crypton	251-329	Rsim_6841	1013-1297	-	12.5
+Crypton		457	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6841/Rsim_6841.seq	Rsim_6841	251	329	1297	1013	15.8	29.5	80	35.4			0	Minus	3025	7e-06
+
+#Chain	gypsy	292-407	Rsim_6850	1235-1585	+	17.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6850/Rsim_6850.seq	Rsim_6850	292	407	1235	1585	15.1	25.2	95	41.0			0	Plus	2384	4e-07
+
+#Chain	gypsy	294-419	Rsim_6854	718-1119	-	18.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6854/Rsim_6854.seq	Rsim_6854	294	419	1119	718	14.8	27.4	94	40.6			0	Minus	2454	5e-07
+
+#Chain	gypsy	290-397	Rsim_6857	1459-1776	-	18.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6857/Rsim_6857.seq	Rsim_6857	290	397	1776	1459	17.1	34.2	108	46.0			0	Minus	3131	2e-08
+
+#Chain	MuDR_A_B	655-863	Rsim_6876	2054-2545	-	48.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6876/Rsim_6876.seq	Rsim_6876	655	863	2545	2054	23.0	34.4	91	39.6			0	Minus	3177	1e-06
+
+#Chain	gypsy	292-425	Rsim_6886	896-1321	+	24.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6886/Rsim_6886.seq	Rsim_6886	292	425	896	1321	18.2	27.7	90	39.1			0	Plus	2210	1e-06
+
+#Chain	DDE_1	28-183	Rsim_6904	746-1198	+	27.3
+DDE_1		535	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6904/Rsim_6904.seq	Rsim_6904	28	183	746	1198	17.5	29.5	79	34.8			0	Plus	2119	8e-06
+
+#Chain	MuDR_A_B	651-750	Rsim_6904	1782-2057	-	19.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6904/Rsim_6904.seq	Rsim_6904	651	750	2057	1782	19.6	28.4	82	36.1			0	Minus	2119	7e-06
+
+#Chain	gypsy	276-415	Rsim_6928	2072-2539	+	21.3
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6928/Rsim_6928.seq	Rsim_6928	276	415	2072	2539	15.2	27.2	84	36.8			0	Plus	2953	1e-05
+
+#Chain	MuDR_A_B	655-850	Rsim_6951	622-1158	+	35.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6951/Rsim_6951.seq	Rsim_6951	655	850	622	1158	18.3	30.5	95	41.1			0	Plus	4571	5e-07
+
+#Chain	cacta	749-780	Rsim_6958	1939-2034	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6958/Rsim_6958.seq	Rsim_6958	749	780	1939	2034	78.1	84.4	118	49.8			0	Plus	2038	5e-10
+
+#Chain	gypsy	250-450	Rsim_6984	701-1282	+	33.2
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_6984/Rsim_6984.seq	Rsim_6984	250	450	701	1282	16.5	28.2	84	36.8			0	Plus	2129	7e-06
+
+#Chain	MuDR_A_B	651-818	Rsim_7004	1374-1877	+	25.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7004/Rsim_7004.seq	Rsim_7004	651	818	1374	1877	14.9	29.3	84	36.9			0	Plus	2267	4e-06
+
+#Chain	gypsy	293-382	Rsim_7008	1860-2129	-	14.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7008/Rsim_7008.seq	Rsim_7008	293	382	2129	1860	15.6	30.0	88	38.3			0	Minus	4629	5e-06
+
+#Chain	gypsy	298-439	Rsim_7025	1082-1453	-	19.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7025/Rsim_7025.seq	Rsim_7025	298	439	1453	1082	13.4	21.8	90	39.1			0	Minus	2329	1e-06
+
+#Chain	gypsy	278-421	Rsim_7032	737-1150	-	27.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7032/Rsim_7032.seq	Rsim_7032	278	421	1150	737	19.0	28.6	84	36.8			0	Minus	2205	7e-06
+
+#Chain	gypsy	284-389	Rsim_7040	2254-2574	-	22.6
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7040/Rsim_7040.seq	Rsim_7040	284	389	2574	2254	21.3	37.0	100	42.9			0	Minus	3136	1e-07
+
+#Chain	MuDR_A_B	655-828	Rsim_7076	2-433	+	33.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7076/Rsim_7076.seq	Rsim_7076	655	828	2	433	19.5	29.3	105	45.0			0	Plus	2128	1e-08
+
+#Chain	Crypton	212-334	Rsim_7092	1232-1573	+	19.6
+Crypton		457	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7092/Rsim_7092.seq	Rsim_7092	212	334	1232	1573	15.9	24.6	84	36.9			0	Plus	3877	3e-06
+
+#Chain	gypsy	319-392	Rsim_711	6313-6549	+	17.4
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_711/Rsim_711.seq	Rsim_711	319	392	6313	6549	23.5	35.8	96	41.4			0	Plus	11448	2e-06
+
+#Chain	ISC1316	208-257	Rsim_711	9909-10064	-	9.6
+ISC1316		393	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_711/Rsim_711.seq	Rsim_711	208	257	10064	9909	19.2	34.6	89	38.6			0	Minus	11448	2e-06
+
+#Chain	helitronORF	676-811	Rsim_7119	2777-3193	+	38.1
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7119/Rsim_7119.seq	Rsim_7119	676	811	2777	3193	28.0	37.3	89	38.5			0	Plus	4628	4e-06
+
+#Chain	MuDR_A_B	651-721	Rsim_7151	1476-1679	-	14.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7151/Rsim_7151.seq	Rsim_7151	651	721	1679	1476	19.7	31.0	85	37.3			0	Minus	2503	4e-06
+
+#Chain	cacta	752-874	Rsim_7177	195-590	-	31.2
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7177/Rsim_7177.seq	Rsim_7177	752	874	590	195	25.4	32.6	85	37.1			0	Minus	3094	7e-06
+
+#Chain	gypsy	294-425	Rsim_7179	1727-2128	+	22.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7179/Rsim_7179.seq	Rsim_7179	294	425	1727	2128	17.3	32.4	89	38.7			0	Plus	2203	2e-06
+
+#Chain	gypsy	310-392	Rsim_7182	1361-1612	+	14.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7182/Rsim_7182.seq	Rsim_7182	310	392	1361	1612	17.9	31.0	86	37.5			0	Plus	2064	4e-06
+
+#Chain	gypsy	304-397	Rsim_7199	1235-1507	+	14.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7199/Rsim_7199.seq	Rsim_7199	304	397	1235	1507	14.9	29.8	83	36.4			0	Plus	2044	8e-06
+
+#Chain	gypsy	313-387	Rsim_7203	1534-1752	+	16.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7203/Rsim_7203.seq	Rsim_7203	313	387	1534	1752	21.3	37.3	87	37.9			0	Plus	2006	3e-06
+
+#Chain	gypsy	300-427	Rsim_7204	204-581	+	21.5
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7204/Rsim_7204.seq	Rsim_7204	300	427	204	581	16.8	27.5	89	38.7			0	Plus	2502	2e-06
+
+#Chain	MuDR_A_B	700-881	Rsim_7245	636-1133	-	39.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7245/Rsim_7245.seq	Rsim_7245	700	881	1133	636	21.7	37.0	90	39.2			0	Minus	3313	1e-06
+
+#Chain	MuDR_A_B	651-756	Rsim_7253	637-987	-	17.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7253/Rsim_7253.seq	Rsim_7253	651	756	987	637	16.9	30.5	85	37.3			0	Minus	2194	3e-06
+
+#Chain	gypsy	319-437	Rsim_7272	3-386	+	16.8
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7272/Rsim_7272.seq	Rsim_7272	319	437	3	386	14.1	21.9	93	40.2			0	Plus	2122	6e-07
+
+#Chain	MuDR_A_B	656-852	Rsim_7272	818-1354	-	37.2
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7272/Rsim_7272.seq	Rsim_7272	656	852	1354	818	18.9	33.0	83	36.5			0	Minus	2122	5e-06
+
+#Chain	MuDR_A_B	633-802	Rsim_7319	1137-1661	+	27.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_7319/Rsim_7319.seq	Rsim_7319	633	802	1137	1661	16.1	28.6	85	37.3			0	Plus	2832	4e-06
+
+#Chain	cacta	752-786	Rsim_737	39016-39126	+	22.7
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_737/Rsim_737.seq	Rsim_737	752	786	39016	39126	64.9	70.3	96	41.4			0	Plus	64711	8e-06
+
+#Chain	cacta	751-784	Rsim_77	23348-23464	+	22.7
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_77/Rsim_77.seq	Rsim_77	751	784	23348	23464	66.7	66.7	99	42.5			0	Plus	48173	3e-06
+
+#Chain	cacta	753-816	Rsim_77	23608-23820	+	30.7
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_77/Rsim_77.seq	Rsim_77	753	816	23608	23820	47.9	50.7	96	41.4			0	Plus	48173	6e-06
+
+#Chain	cacta	760-799	Rsim_825	3060-3179	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_825/Rsim_825.seq	Rsim_825	760	799	3060	3179	52.5	60.0	91	39.4			0	Plus	14126	6e-06
+
+#Chain	cacta	751-854	Rsim_83	5233-5517	+	30.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_83/Rsim_83.seq	Rsim_83	751	854	5233	5517	28.8	37.5	96	41.4			0	Plus	14152	2e-06
+
+#Chain	cacta	753-785	Rsim_835	2814-2945	-	18.7
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_835/Rsim_835.seq	Rsim_835	753	785	2945	2814	56.8	59.1	97	41.8			0	Minus	28416	3e-06
+
+#Chain	gypsy	262-434	Rsim_835	5414-5923	-	27.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_835/Rsim_835.seq	Rsim_835	262	434	5923	5414	15.6	24.9	94	40.6			0	Minus	28416	7e-06
+
+#Chain	mariner_ant1	209-297	Rsim_853	1742-2020	+	22.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_853/Rsim_853.seq	Rsim_853	209	297	1742	2020	24.7	44.1	106	45.2			0	Plus	6154	7e-09
+
+#Chain	cacta	752-799	Rsim_880	17025-17168	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_880/Rsim_880.seq	Rsim_880	752	799	17168	17025	47.9	54.2	99	42.5			0	Minus	19059	1e-06
+
+#Chain	mariner	6-91	Rsim_892	12402-12653	+	21.8
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_892/Rsim_892.seq	Rsim_892	6	91	12402	12653	25.3	37.9	94	40.5			0	Plus	13087	5e-07
+
+#Chain	mariner	6-91	Rsim_893	8050-8301	+	20.7
+mariner		345	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_893/Rsim_893.seq	Rsim_893	6	91	8050	8301	24.1	37.9	96	41.3			0	Plus	8738	2e-07
+
+#Chain	gypsy	269-397	Rsim_901	440-835	-	19.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_901/Rsim_901.seq	Rsim_901	269	397	835	440	14.7	27.9	120	50.6			0	Minus	8197	2e-09
+
+#Chain	cacta	753-792	Rsim_906	2642-2761	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_906/Rsim_906.seq	Rsim_906	753	792	2761	2642	52.5	60.0	100	42.9			0	Minus	38304	2e-06
+
+#Chain	cacta	750-782	Rsim_92	21831-21929	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_92/Rsim_92.seq	Rsim_92	750	782	21831	21929	69.7	75.8	104	44.5			0	Plus	36678	5e-07
+
+#Chain	hAT	92-173	Rsim_92	29884-30147	+	21.2
+hAT		749	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_92/Rsim_92.seq	Rsim_92	92	173	29884	30147	25.8	38.2	125	52.6			0	Plus	36678	1e-09
+
+#Chain	cacta	753-787	Rsim_936	1585-1689	+	27.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_936/Rsim_936.seq	Rsim_936	753	787	1585	1689	77.1	80.0	122	51.4			0	Plus	4942	5e-10
+
+#Chain	gypsy	295-458	Rsim_969	1551-2078	-	25.9
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_969/Rsim_969.seq	Rsim_969	295	458	2078	1551	15.8	32.6	95	41.0			0	Minus	2431	4e-07
+
+#Chain	TY1_Copia	285-324	Rsim_973	7263-7385	-	11.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_973/Rsim_973.seq	Rsim_973	285	324	7385	7263	29.3	41.5	95	41.2			0	Minus	22064	4e-06
+
+#Chain	gypsy	812-903	Rsim_98	4331-4582	+	27.0
+gypsy		1463	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_98/Rsim_98.seq	Rsim_98	812	903	4331	4582	29.3	52.2	205	83.4			0	Plus	17693	4e-19
+
+#Chain	cacta	750-788	Rsim_981	8328-8504	+	18.5
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_981/Rsim_981.seq	Rsim_981	750	788	8328	8504	47.5	52.5	92	39.8			0	Plus	23123	8e-06
+
+#Chain	cacta	744-789	Rsim_986	7041-7175	+	27.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_986/Rsim_986.seq	Rsim_986	744	789	7041	7175	58.7	69.6	117	49.5			0	Plus	12466	5e-09
+
+#Chain	helitronORF	1123-1272	Rsim_995	16359-16758	-	50.0
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_995/Rsim_995.seq	Rsim_995	1206	1272	16553	16359	52.2	73.1	235	94.8			0	Minus	18813	1e-22
+helitronORF		1321	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_995/Rsim_995.seq	Rsim_995	1123	1156	16758	16657	44.1	61.8	106	45.1			0	Minus	18813	2e-07
+
+#Chain	cacta	753-784	Rsim_998	16458-16553	+	26.0
+cacta		1264	PSITBLASTN	transposonPSI.8928.Amirs-PC.tmp/Rsim_998/Rsim_998.seq	Rsim_998	753	784	16458	16553	81.2	84.4	120	50.6			0	Plus	22652	4e-09
+

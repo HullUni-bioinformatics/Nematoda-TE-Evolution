@@ -1,0 +1,1328 @@
+#Chain	gypsy	354-1463	Sste_1	16580-19963	-	199.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_1/Sste_1.seq	Sste_1	354	1463	19963	16580	18.0	35.8	965	376			0	Minus	4975635	1e-106
+
+#Chain	mariner	195-340	Sste_1	28946-29401	+	35.3
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_1/Sste_1.seq	Sste_1	195	340	28946	29401	24.2	41.6	196	79.8			0	Plus	4975635	5e-17
+
+#Chain	mariner	3-81	Sste_1	294059-294298	+	18.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_1/Sste_1.seq	Sste_1	3	81	294059	294298	23.8	40.0	130	54.4			0	Plus	4975635	9e-09
+
+#Chain	mariner_ant1	23-303	Sste_1	530189-531064	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_1/Sste_1.seq	Sste_1	23	303	531064	530189	22.6	36.2	249	100			0	Minus	4975635	1e-23
+
+#Chain	mariner_ant1	23-303	Sste_1	1329928-1330803	+	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_1/Sste_1.seq	Sste_1	23	303	1329928	1330803	22.3	35.5	251	101			0	Plus	4975635	8e-24
+
+#Chain	TY1_Copia	27-459	Sste_1	1540089-1541339	+	58.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_1/Sste_1.seq	Sste_1	27	459	1540089	1541339	13.6	32.3	116	49.2			0	Plus	4975635	4e-06
+
+#Chain	LINE	8-787	Sste_1	1660699-1663002	+	121.7
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_1/Sste_1.seq	Sste_1	8	787	1660699	1663002	15.6	32.3	601	235			0	Plus	4975635	2e-63
+
+#Chain	mariner	242-305	Sste_10	10826-11044	-	19.3
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	242	305	11044	10826	30.1	38.4	130	54.4			0	Minus	662015	1e-09
+
+#Chain	mariner	198-341	Sste_10	12617-13057	+	41.5
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	198	341	12617	13057	28.8	37.3	204	82.9			0	Plus	662015	7e-19
+
+#Chain	mariner	144-258	Sste_10	23131-23463	-	18.4
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	144	258	23463	23131	16.0	33.6	98	42.0			0	Minus	662015	9e-06
+
+#Chain	mariner	35-342	Sste_10	45825-46754	+	67.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	35	342	45825	46754	22.0	39.0	371	147			0	Plus	662015	1e-39
+
+#Chain	mariner_ant1	23-303	Sste_10	65833-66708	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	23	303	66708	65833	22.6	36.2	242	97.6			0	Minus	662015	1e-23
+
+#Chain	mariner_ant1	23-303	Sste_10	73970-74845	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	23	303	73970	74845	22.6	35.9	243	97.9			0	Plus	662015	1e-23
+
+#Chain	mariner	244-331	Sste_10	186098-186382	-	28.4
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	244	331	186382	186098	32.3	41.7	147	60.9			0	Minus	662015	1e-11
+
+#Chain	mariner	2-342	Sste_10	192661-193715	+	77.3
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	2	287	192661	193551	19.7	36.6	343	136			0	Plus	662015	5e-36
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	285	342	193545	193715	36.2	50.0	124	52.1			0	Plus	662015	7e-09
+
+#Chain	mariner	3-340	Sste_10	194977-196023	+	65.2
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	3	340	194977	196023	19.3	37.9	358	142			0	Plus	662015	6e-38
+
+#Chain	mariner	43-251	Sste_10	196645-197256	+	38.7
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	43	251	196645	197256	18.5	32.0	189	77.1			0	Plus	662015	6e-17
+
+#Chain	mariner	2-342	Sste_10	198042-199097	+	64.1
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	2	342	198042	199097	18.8	37.5	351	139			0	Plus	662015	5e-37
+
+#Chain	mariner	101-283	Sste_10	200102-200638	+	35.0
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	101	283	200102	200638	19.1	33.7	134	55.9			0	Plus	662015	4e-10
+
+#Chain	helitronORF	4-1298	Sste_10	262229-266354	-	478.6
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	515	1298	264613	262229	39.0	57.5	1938	750			0	Minus	662015	0.0
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	4	513	266354	264618	33.9	47.9	1096	426			0	Minus	662015	1e-124
+
+#Chain	mariner	103-342	Sste_10	282529-283251	-	61.4
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	103	342	283251	282529	25.6	40.8	325	129			0	Minus	662015	9e-34
+
+#Chain	mariner	128-342	Sste_10	284290-284937	+	53.1
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	128	342	284290	284937	24.7	40.1	284	113			0	Plus	662015	1e-28
+
+#Chain	helitronORF	1235-1320	Sste_10	478574-478846	+	26.5
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_10/Sste_10.seq	Sste_10	1235	1320	478574	478846	30.8	49.5	125	52.4			0	Plus	662015	4e-08
+
+#Chain	mariner_ant1	23-303	Sste_101	404-1279	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_101/Sste_101.seq	Sste_101	23	303	404	1279	22.6	36.2	247	99.5			0	Plus	67252	2e-25
+
+#Chain	gypsy	1160-1461	Sste_101	9877-10866	-	62.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_101/Sste_101.seq	Sste_101	1160	1461	10866	9877	20.8	36.8	383	151			0	Minus	67252	3e-39
+
+#Chain	piggybac	3-390	Sste_101	11446-12591	-	91.2
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_101/Sste_101.seq	Sste_101	3	390	12591	11446	23.5	46.2	765	298			0	Minus	67252	7e-92
+
+#Chain	gypsy	569-1018	Sste_101	13146-14456	-	131.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_101/Sste_101.seq	Sste_101	569	1018	14456	13146	29.3	48.6	967	376			0	Minus	67252	1e-108
+
+#Chain	LINE	937-1041	Sste_101	25796-26158	-	21.5
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_101/Sste_101.seq	Sste_101	937	1041	26158	25796	20.5	35.2	114	48.4			0	Minus	67252	6e-08
+
+#Chain	gypsy	613-1349	Sste_101	26889-28959	-	113.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_101/Sste_101.seq	Sste_101	1175	1349	27401	26889	21.7	38.9	186	76.1			0	Minus	67252	3e-16
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_101/Sste_101.seq	Sste_101	613	1032	28959	27724	18.0	36.5	237	95.7			0	Minus	67252	4e-22
+
+#Chain	LINE	413-645	Sste_101	38442-39149	+	47.5
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_101/Sste_101.seq	Sste_101	413	645	38442	39149	20.4	41.2	241	97.3			0	Plus	67252	8e-23
+
+#Chain	LINE	270-637	Sste_101	46152-47228	+	58.5
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_101/Sste_101.seq	Sste_101	270	637	46152	47228	15.9	34.7	276	110			0	Plus	67252	7e-27
+
+#Chain	gypsy	1278-1463	Sste_101	66512-67192	-	30.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_101/Sste_101.seq	Sste_101	1278	1463	67192	66512	16.2	31.9	170	69.9			0	Minus	67252	2e-14
+
+#Chain	gypsy	580-1347	Sste_102	4-2130	-	121.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_102/Sste_102.seq	Sste_102	580	1347	2130	4	15.8	35.5	671	262			0	Minus	67230	4e-73
+
+#Chain	TY1_Copia	124-654	Sste_102	2308-3117	-	72.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_102/Sste_102.seq	Sste_102	409	654	3117	2308	16.3	33.7	116	49.2			0	Minus	67230	5e-08
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_102/Sste_102.seq	Sste_102	124	328	3117	2503	15.6	35.6	97	41.9			0	Minus	67230	8e-06
+
+#Chain	mariner	49-345	Sste_102	4712-5583	-	100.1
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_102/Sste_102.seq	Sste_102	287	345	4885	4712	28.8	50.8	124	52.1			0	Minus	67230	7e-10
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_102/Sste_102.seq	Sste_102	49	291	5583	4870	34.2	48.6	593	232			0	Minus	67230	1e-69
+
+#Chain	mariner_ant1	199-317	Sste_102	6825-7169	+	33.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_102/Sste_102.seq	Sste_102	199	317	6825	7169	28.3	43.3	117	49.4			0	Plus	67230	4e-09
+
+#Chain	mariner_ant1	203-280	Sste_102	15823-16068	-	15.2
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_102/Sste_102.seq	Sste_102	203	280	16068	15823	19.5	45.1	91	39.4			0	Minus	67230	6e-06
+
+#Chain	gypsy	348-1462	Sste_102	25046-28723	-	210.7
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_102/Sste_102.seq	Sste_102	348	1462	28723	25046	18.9	37.1	1147	446			0	Minus	67230	1e-131
+
+#Chain	gypsy	1169-1451	Sste_102	32845-33759	+	49.5
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_102/Sste_102.seq	Sste_102	1169	1451	32845	33759	17.5	33.3	300	119			0	Plus	67230	2e-29
+
+#Chain	gypsy	380-1420	Sste_102	51043-53862	+	206.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_102/Sste_102.seq	Sste_102	380	1420	51043	53862	19.8	37.0	864	337			0	Plus	67230	2e-96
+
+#Chain	LINE	86-802	Sste_103	22028-24164	-	119.0
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_103/Sste_103.seq	Sste_103	558	802	22750	22028	18.6	36.8	269	108			0	Minus	65466	4e-26
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_103/Sste_103.seq	Sste_103	86	562	24164	22737	15.4	32.8	327	130			0	Minus	65466	7e-33
+
+#Chain	gypsy	446-785	Sste_103	24716-25642	-	71.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_103/Sste_103.seq	Sste_103	446	785	25642	24716	21.0	38.9	401	158			0	Minus	65466	2e-41
+
+#Chain	gypsy	574-655	Sste_103	32262-32510	+	20.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_103/Sste_103.seq	Sste_103	574	655	32262	32510	24.7	41.2	108	46.0			0	Plus	65466	4e-07
+
+#Chain	gypsy	662-1442	Sste_103	34146-36309	+	182.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_103/Sste_103.seq	Sste_103	662	948	34146	34955	31.4	53.3	597	234			0	Plus	65466	2e-64
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_103/Sste_103.seq	Sste_103	949	1442	34957	36309	18.6	33.4	533	209			0	Plus	65466	7e-57
+
+#Chain	gypsy	956-1339	Sste_103	44236-45229	-	54.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_103/Sste_103.seq	Sste_103	1250	1339	44496	44236	20.9	46.2	117	49.5			0	Minus	65466	3e-08
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_103/Sste_103.seq	Sste_103	956	1098	45229	44810	25.2	46.2	215	87.2			0	Minus	65466	1e-19
+
+#Chain	mariner	4-342	Sste_103	47295-48296	-	73.2
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_103/Sste_103.seq	Sste_103	4	342	48296	47295	21.6	36.8	374	148			0	Minus	65466	4e-41
+
+#Chain	LINE	232-723	Sste_103	59633-61219	+	76.3
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_103/Sste_103.seq	Sste_103	232	723	59633	61219	15.5	34.7	231	93.4			0	Plus	65466	1e-21
+
+#Chain	helitronORF	10-675	Sste_104	17-2245	-	209.1
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_104/Sste_104.seq	Sste_104	10	675	2245	17	31.4	46.3	1060	412			0	Minus	65298	1e-121
+
+#Chain	mariner_ant1	149-303	Sste_105	1-492	+	35.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_105/Sste_105.seq	Sste_105	149	303	1	492	22.6	38.4	161	66.4			0	Plus	63380	1e-14
+
+#Chain	mariner_ant1	23-303	Sste_105	62077-62952	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_105/Sste_105.seq	Sste_105	23	303	62952	62077	22.6	36.9	252	101			0	Minus	63380	8e-26
+
+#Chain	mariner	205-300	Sste_106	3603-3884	-	18.0
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_106/Sste_106.seq	Sste_106	205	300	3884	3603	18.8	39.6	92	39.7			0	Minus	63235	4e-06
+
+#Chain	ISC1316	216-320	Sste_109	53631-53897	-	20.8
+ISC1316		393	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_109/Sste_109.seq	Sste_109	216	320	53897	53631	19.8	33.0	93	40.2			0	Minus	57413	3e-06
+
+#Chain	mariner_ant1	23-303	Sste_11	516-1391	-	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_11/Sste_11.seq	Sste_11	23	303	1391	516	22.3	35.5	252	101			0	Minus	627769	8e-25
+
+#Chain	mariner_ant1	23-303	Sste_11	305250-306125	+	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_11/Sste_11.seq	Sste_11	23	303	305250	306125	22.3	35.5	250	100			0	Plus	627769	1e-24
+
+#Chain	mariner_ant1	23-303	Sste_11	429367-430242	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_11/Sste_11.seq	Sste_11	23	303	429367	430242	22.6	36.2	248	99.9			0	Plus	627769	2e-24
+
+#Chain	TY1_Copia	130-326	Sste_111	4357-4872	+	35.3
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	130	326	4357	4872	17.9	34.3	113	48.1			0	Plus	56216	8e-08
+
+#Chain	TY1_Copia	55-329	Sste_111	5890-6648	+	38.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	55	329	5890	6648	14.0	32.9	123	51.9			0	Plus	56216	6e-09
+
+#Chain	gypsy	563-1442	Sste_111	8677-11171	+	193.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	563	711	8677	9120	21.4	41.6	271	108			0	Plus	56216	3e-26
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	706	1442	9093	11171	21.9	40.5	962	374			0	Plus	56216	1e-108
+
+#Chain	mariner	75-343	Sste_111	18346-19137	-	50.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	75	343	19137	18346	18.9	34.2	177	72.5			0	Minus	56216	2e-16
+
+#Chain	TY1_Copia	745-942	Sste_111	19548-20138	-	37.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	745	942	20138	19548	18.7	34.5	118	50.0			0	Minus	56216	2e-08
+
+#Chain	gypsy	725-910	Sste_111	25358-25916	-	38.7
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	787	910	25705	25358	18.5	38.7	151	62.6			0	Minus	56216	3e-12
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	725	780	25916	25746	28.1	56.1	101	43.3			0	Minus	56216	2e-06
+
+#Chain	gypsy	679-834	Sste_111	31836-32315	+	26.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	679	834	31836	32315	16.9	42.5	184	75.3			0	Plus	56216	4e-16
+
+#Chain	gypsy	1311-1382	Sste_111	34186-34449	-	9.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	1311	1382	34449	34186	12.5	27.3	96	41.4			0	Minus	56216	8e-06
+
+#Chain	TY1_Copia	74-303	Sste_111	35382-35951	-	36.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	74	303	35951	35382	15.7	36.2	139	58.1			0	Minus	56216	8e-11
+
+#Chain	mariner_ant1	23-303	Sste_111	54983-55858	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_111/Sste_111.seq	Sste_111	23	303	55858	54983	22.6	36.2	249	100			0	Minus	56216	2e-25
+
+#Chain	mariner_ant1	23-303	Sste_112	54714-55589	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_112/Sste_112.seq	Sste_112	23	303	54714	55589	22.6	36.2	241	97.2			0	Plus	56127	2e-24
+
+#Chain	gypsy	383-987	Sste_114	1057-2841	-	113.7
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	383	987	2841	1057	18.8	41.0	778	304			0	Minus	55021	4e-86
+
+#Chain	gypsy	1200-1425	Sste_114	8533-9294	-	39.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	1200	1425	9294	8533	17.4	34.0	227	91.9			0	Minus	55021	4e-21
+
+#Chain	mariner	190-316	Sste_114	11961-12344	-	30.6
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	190	316	12344	11961	24.1	43.6	112	47.4			0	Minus	55021	2e-08
+
+#Chain	gypsy	384-1442	Sste_114	15524-18878	+	180.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	384	1241	15524	17977	17.2	37.1	655	256			0	Plus	55021	2e-71
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	1247	1442	18216	18878	17.0	35.3	161	66.4			0	Plus	55021	2e-13
+
+#Chain	LINE	461-692	Sste_114	24064-24768	-	52.4
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	461	692	24768	24064	22.6	43.1	365	145			0	Minus	55021	2e-37
+
+#Chain	TY1_Copia	249-321	Sste_114	25434-25658	+	15.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	249	321	25434	25658	21.3	44.0	102	43.9			0	Plus	55021	2e-06
+
+#Chain	gypsy	789-1435	Sste_114	26796-28620	+	112.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	789	870	26796	27050	20.0	35.3	96	41.4			0	Plus	55021	8e-06
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	879	1263	27044	28072	16.8	33.3	199	81.1			0	Plus	55021	8e-18
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	1259	1435	28057	28620	17.9	34.9	193	78.8			0	Plus	55021	4e-17
+
+#Chain	mariner_ant1	190-264	Sste_114	49239-49484	-	20.1
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_114/Sste_114.seq	Sste_114	190	264	49484	49239	26.8	42.7	101	43.2			0	Minus	55021	3e-07
+
+#Chain	mariner	51-336	Sste_115	1522-2355	+	52.9
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_115/Sste_115.seq	Sste_115	51	336	1522	2355	18.5	38.0	176	72.1			0	Plus	54134	2e-16
+
+#Chain	mariner_ant1	229-284	Sste_115	17202-17369	-	18.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_115/Sste_115.seq	Sste_115	229	284	17369	17202	32.1	51.8	106	45.2			0	Minus	54134	7e-08
+
+#Chain	gypsy	831-1304	Sste_115	26111-27429	+	63.5
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_115/Sste_115.seq	Sste_115	831	963	26111	26497	19.9	33.3	97	41.8			0	Plus	54134	6e-06
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_115/Sste_115.seq	Sste_115	986	1304	26560	27429	11.6	28.7	155	64.1			0	Plus	54134	1e-12
+
+#Chain	gypsy	1270-1368	Sste_115	43716-43997	-	22.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_115/Sste_115.seq	Sste_115	1270	1368	43997	43716	22.2	35.4	179	73.4			0	Minus	54134	2e-15
+
+#Chain	mariner	38-342	Sste_115	46187-47089	-	71.1
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_115/Sste_115.seq	Sste_115	38	342	47089	46187	23.3	36.2	406	160			0	Minus	54134	1e-45
+
+#Chain	gypsy	1268-1365	Sste_115	50121-50399	-	20.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_115/Sste_115.seq	Sste_115	1268	1365	50399	50121	20.4	32.7	165	68.0			0	Minus	54134	7e-14
+
+#Chain	gypsy	613-1365	Sste_116	14387-16501	+	128.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_116/Sste_116.seq	Sste_116	613	1365	14387	16501	17.1	35.1	560	220			0	Plus	53182	4e-60
+
+#Chain	LINE	954-1041	Sste_116	17253-17570	+	16.6
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_116/Sste_116.seq	Sste_116	954	1041	17253	17570	18.9	35.8	109	46.4			0	Plus	53182	2e-07
+
+#Chain	gypsy	556-1194	Sste_116	18874-20670	+	122.7
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_116/Sste_116.seq	Sste_116	556	1194	18874	20670	19.2	37.0	627	245			0	Plus	53182	5e-68
+
+#Chain	DDE_1	103-308	Sste_116	27598-28185	+	38.3
+DDE_1		535	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_116/Sste_116.seq	Sste_116	103	308	27598	28185	18.6	36.7	155	64.1			0	Plus	53182	2e-13
+
+#Chain	gypsy	428-1366	Sste_116	35431-37875	+	184.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_116/Sste_116.seq	Sste_116	428	1091	35431	37368	22.7	38.3	641	251			0	Plus	53182	1e-69
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_116/Sste_116.seq	Sste_116	1198	1366	37381	37875	19.9	37.4	176	72.2			0	Plus	53182	4e-15
+
+#Chain	hAT	215-434	Sste_116	39933-40610	+	35.0
+hAT		749	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_116/Sste_116.seq	Sste_116	215	434	39933	40610	15.9	32.6	117	49.5			0	Plus	53182	1e-08
+
+#Chain	mariner	49-336	Sste_116	43139-43999	-	63.6
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_116/Sste_116.seq	Sste_116	49	336	43999	43139	22.1	38.6	347	137			0	Minus	53182	1e-37
+
+#Chain	gypsy	354-676	Sste_116	52130-53182	+	45.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_116/Sste_116.seq	Sste_116	354	676	52130	53182	14.2	33.1	151	62.6			0	Plus	53182	3e-12
+
+#Chain	gypsy	355-1463	Sste_120	12541-16009	-	217.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_120/Sste_120.seq	Sste_120	1141	1463	13644	12541	19.9	34.4	396	156			0	Minus	43860	6e-41
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_120/Sste_120.seq	Sste_120	355	1114	16009	13739	20.1	38.5	756	295			0	Minus	43860	1e-83
+
+#Chain	gypsy	372-1391	Sste_120	28833-32109	+	165.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_120/Sste_120.seq	Sste_120	372	1028	28833	30836	19.7	36.9	576	226			0	Plus	43860	4e-62
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_120/Sste_120.seq	Sste_120	1198	1391	31531	32109	18.8	31.2	160	66.0			0	Plus	43860	2e-13
+
+#Chain	gypsy	655-1454	Sste_124	7195-9421	-	165.5
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_124/Sste_124.seq	Sste_124	881	1454	8757	7195	19.8	32.6	392	155			0	Minus	40871	1e-40
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_124/Sste_124.seq	Sste_124	765	867	9080	8769	17.3	46.2	125	52.6			0	Minus	40871	2e-09
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_124/Sste_124.seq	Sste_124	655	760	9421	9104	32.1	53.8	201	81.8			0	Minus	40871	3e-18
+
+#Chain	gypsy	354-1394	Sste_124	13253-16162	+	202.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_124/Sste_124.seq	Sste_124	354	1394	13253	16162	19.4	36.7	1003	390			0	Plus	40871	1e-113
+
+#Chain	gypsy	366-1384	Sste_124	17273-20301	-	200.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_124/Sste_124.seq	Sste_124	699	1384	19291	17273	21.4	39.3	762	297			0	Minus	40871	2e-84
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_124/Sste_124.seq	Sste_124	366	701	20301	19282	15.9	33.5	182	74.5			0	Minus	40871	5e-16
+
+#Chain	gypsy	314-1207	Sste_124	25025-27652	+	189.5
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_124/Sste_124.seq	Sste_124	314	1207	25025	27652	21.2	39.6	824	321			0	Plus	40871	5e-92
+
+#Chain	TY1_Copia	672-957	Sste_124	27800-28618	+	58.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_124/Sste_124.seq	Sste_124	672	957	27800	28618	20.6	36.2	201	82.0			0	Plus	40871	3e-18
+
+#Chain	gypsy	1314-1428	Sste_124	31483-31812	-	25.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_124/Sste_124.seq	Sste_124	1314	1428	31812	31483	22.0	42.4	121	51.0			0	Minus	40871	7e-09
+
+#Chain	LINE	321-778	Sste_125	4362-5728	-	69.8
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	470	778	5321	4362	15.9	33.0	201	81.9			0	Minus	39504	2e-18
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	321	474	5728	5300	13.4	30.6	99	42.6			0	Minus	39504	2e-06
+
+#Chain	gypsy	855-1441	Sste_125	15499-17129	-	131.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	978	1441	16785	15499	18.8	35.9	499	196			0	Minus	39504	4e-53
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	855	981	17129	16770	34.8	51.5	310	123			0	Minus	39504	6e-31
+
+#Chain	gypsy	787-1444	Sste_125	17245-19043	-	140.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	1206	1444	18012	17245	22.0	35.1	333	132			0	Minus	39504	1e-33
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	787	1118	19043	18054	26.6	46.8	536	210			0	Minus	39504	2e-57
+
+#Chain	gypsy	566-1211	Sste_125	25110-26933	-	115.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	566	1211	26933	25110	17.9	36.2	432	170			0	Minus	39504	3e-45
+
+#Chain	gypsy	447-1150	Sste_125	27989-29968	-	155.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	447	1150	29968	27989	22.1	43.4	791	309			0	Minus	39504	7e-88
+
+#Chain	TY1_Copia	110-569	Sste_125	30121-30801	-	65.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	359	569	30735	30130	16.7	31.3	100	43.1			0	Minus	39504	2e-06
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	110	330	30801	30121	13.5	34.0	108	46.2			0	Minus	39504	2e-07
+
+#Chain	mariner_ant1	23-303	Sste_125	38364-39239	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_125/Sste_125.seq	Sste_125	23	303	38364	39239	22.6	36.2	250	100			0	Plus	39504	9e-26
+
+#Chain	gypsy	615-1036	Sste_128	14970-16231	-	78.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_128/Sste_128.seq	Sste_128	914	1036	15377	14970	21.7	39.9	111	47.2			0	Minus	36144	9e-08
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_128/Sste_128.seq	Sste_128	615	911	16231	15380	17.4	42.6	280	112			0	Minus	36144	2e-27
+
+#Chain	gypsy	110-1381	Sste_13	287701-291156	+	260.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_13/Sste_13.seq	Sste_13	110	1381	287701	291156	20.5	35.1	1105	430			0	Plus	532280	1e-125
+
+#Chain	gypsy	110-1381	Sste_13	292107-295562	+	262.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_13/Sste_13.seq	Sste_13	110	1381	292107	295562	20.6	35.1	1105	430			0	Plus	532280	1e-125
+
+#Chain	gypsy	984-1381	Sste_130	23043-24096	-	60.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_130/Sste_130.seq	Sste_130	1167	1381	23672	23043	19.8	34.1	261	104			0	Minus	33846	3e-25
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_130/Sste_130.seq	Sste_130	984	1052	24096	23875	25.7	33.8	104	44.5			0	Minus	33846	6e-07
+
+#Chain	gypsy	662-1386	Sste_130	24610-26584	-	136.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_130/Sste_130.seq	Sste_130	916	1386	25845	24610	17.0	33.1	263	105			0	Minus	33846	1e-25
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_130/Sste_130.seq	Sste_130	662	865	26584	25979	27.5	51.0	373	148			0	Minus	33846	2e-38
+
+#Chain	mariner_ant1	149-303	Sste_131	5-496	+	35.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_131/Sste_131.seq	Sste_131	149	303	5	496	22.6	38.4	158	65.2			0	Plus	33070	2e-14
+
+#Chain	gypsy	651-1354	Sste_134	4626-6486	+	107.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_134/Sste_134.seq	Sste_134	651	858	4626	5222	28.4	52.9	414	163			0	Plus	29064	3e-43
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_134/Sste_134.seq	Sste_134	989	1038	5562	5711	28.0	54.0	107	45.6			0	Plus	29064	2e-07
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_134/Sste_134.seq	Sste_134	1208	1354	6046	6486	23.5	38.3	246	99.2			0	Plus	29064	1e-23
+
+#Chain	TY1_Copia	42-324	Sste_134	11206-12105	+	46.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_134/Sste_134.seq	Sste_134	42	324	11206	12105	16.5	31.6	102	43.9			0	Plus	29064	9e-07
+
+#Chain	gypsy	510-1326	Sste_134	12425-14650	+	161.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_134/Sste_134.seq	Sste_134	510	720	12425	13036	20.7	37.4	182	74.5			0	Plus	29064	4e-16
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_134/Sste_134.seq	Sste_134	726	940	13051	13656	28.7	51.9	362	143			0	Plus	29064	3e-37
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_134/Sste_134.seq	Sste_134	938	1326	13661	14650	14.4	32.2	201	81.8			0	Plus	29064	2e-18
+
+#Chain	gypsy	615-1427	Sste_134	20130-23019	+	153.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_134/Sste_134.seq	Sste_134	615	1066	20130	21464	23.1	42.8	564	221			0	Plus	29064	6e-61
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_134/Sste_134.seq	Sste_134	1195	1290	21556	21846	17.6	37.3	123	51.8			0	Plus	29064	3e-09
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_134/Sste_134.seq	Sste_134	1284	1427	22585	23019	22.1	38.9	117	49.5			0	Plus	29064	2e-08
+
+#Chain	gypsy	851-1463	Sste_135	10-1977	+	121.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_135/Sste_135.seq	Sste_135	851	1463	10	1977	19.8	36.6	672	263			0	Plus	27022	1e-73
+
+#Chain	gypsy	624-777	Sste_135	6109-6570	+	31.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_135/Sste_135.seq	Sste_135	624	777	6109	6570	20.5	38.1	101	43.3			0	Plus	27022	1e-06
+
+#Chain	mariner_ant1	23-303	Sste_135	25595-26470	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_135/Sste_135.seq	Sste_135	23	303	25595	26470	22.6	36.2	249	100			0	Plus	27022	8e-26
+
+#Chain	helitronORF	10-1320	Sste_137	10932-15302	-	410.3
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_137/Sste_137.seq	Sste_137	10	1320	15302	10932	31.3	48.4	2197	850			0	Minus	26222	0.0
+
+#Chain	gypsy	434-1379	Sste_138	11206-14178	-	186.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_138/Sste_138.seq	Sste_138	434	1379	14178	11206	19.7	38.2	1030	401			0	Minus	25099	1e-117
+
+#Chain	piggybac	5-389	Sste_138	18186-19312	+	124.5
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_138/Sste_138.seq	Sste_138	5	61	18186	18356	26.3	49.1	121	50.8			0	Plus	25099	8e-10
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_138/Sste_138.seq	Sste_138	55	389	18335	19312	32.7	52.7	797	311			0	Plus	25099	1e-96
+
+#Chain	hAT	97-703	Sste_138	21218-22987	+	89.8
+hAT		749	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_138/Sste_138.seq	Sste_138	97	703	21218	22987	14.8	31.1	144	59.9			0	Plus	25099	4e-12
+
+#Chain	helitronORF	719-1321	Sste_141	2015-3819	-	227.0
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_141/Sste_141.seq	Sste_141	1102	1321	2689	2015	45.9	62.9	629	246			0	Minus	18493	6e-69
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_141/Sste_141.seq	Sste_141	719	1080	3819	2725	34.8	52.8	805	314			0	Minus	18493	3e-90
+
+#Chain	helitronORF	206-1320	Sste_143	3134-6958	+	352.3
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_143/Sste_143.seq	Sste_143	206	1320	3134	6958	31.6	48.5	1929	747			0	Plus	17076	0.0
+
+#Chain	mariner	215-321	Sste_143	14957-15304	+	22.1
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_143/Sste_143.seq	Sste_143	215	321	14957	15304	20.7	37.9	114	48.2			0	Plus	17076	3e-09
+
+#Chain	gypsy	1204-1399	Sste_144	200-784	+	39.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_144/Sste_144.seq	Sste_144	1204	1399	200	784	20.3	37.1	203	82.6			0	Plus	16801	8e-19
+
+#Chain	mariner	37-283	Sste_147	421-1167	+	40.0
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_147/Sste_147.seq	Sste_147	37	283	421	1167	16.2	31.0	152	62.8			0	Plus	15644	5e-14
+
+#Chain	mariner	198-345	Sste_148	10073-10513	-	31.2
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_148/Sste_148.seq	Sste_148	198	345	10513	10073	21.1	30.3	111	47.1			0	Minus	13581	5e-09
+
+#Chain	gypsy	694-1343	Sste_148	11856-13565	+	124.5
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_148/Sste_148.seq	Sste_148	694	785	11856	12122	25.0	55.4	149	61.8			0	Plus	13581	1e-12
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_148/Sste_148.seq	Sste_148	795	1045	12151	12855	26.3	45.0	404	160			0	Plus	13581	2e-42
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_148/Sste_148.seq	Sste_148	1154	1343	12990	13565	18.7	37.8	250	100			0	Plus	13581	2e-24
+
+#Chain	mariner	34-342	Sste_153	960-1876	+	74.9
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_153/Sste_153.seq	Sste_153	34	256	960	1595	21.8	33.2	226	91.4			0	Plus	11737	2e-23
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_153/Sste_153.seq	Sste_153	270	342	1655	1876	36.0	50.7	132	55.1			0	Plus	11737	1e-11
+
+#Chain	gypsy	392-1215	Sste_153	4010-6368	+	188.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_153/Sste_153.seq	Sste_153	392	654	4010	4729	16.7	34.9	180	73.8			0	Plus	11737	2e-16
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_153/Sste_153.seq	Sste_153	656	952	4714	5595	29.3	50.2	566	222			0	Plus	11737	1e-61
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_153/Sste_153.seq	Sste_153	945	1215	5580	6368	21.1	37.5	248	99			0	Plus	11737	3e-24
+
+#Chain	mariner	39-342	Sste_153	9997-10898	+	63.3
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_153/Sste_153.seq	Sste_153	39	162	9997	10350	18.9	36.2	117	49.4			0	Plus	11737	8e-10
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_153/Sste_153.seq	Sste_153	156	342	10335	10898	21.3	37.6	192	78.3			0	Plus	11737	4e-19
+
+#Chain	mariner_ant1	23-303	Sste_156	779-1654	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_156/Sste_156.seq	Sste_156	23	303	1654	779	22.6	36.2	249	100			0	Minus	11025	3e-26
+
+#Chain	mariner_ant1	23-303	Sste_157	385-1260	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_157/Sste_157.seq	Sste_157	23	303	385	1260	22.6	36.2	248	99.9			0	Plus	10847	3e-26
+
+#Chain	mariner	270-339	Sste_157	8759-8968	+	23.7
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_157/Sste_157.seq	Sste_157	270	339	8759	8968	33.8	53.5	117	49.4			0	Plus	10847	7e-10
+
+#Chain	gypsy	1196-1338	Sste_159	6715-7125	+	32.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_159/Sste_159.seq	Sste_159	1196	1338	6715	7125	23.0	33.8	160	66.0			0	Plus	10427	5e-14
+
+#Chain	gypsy	519-1460	Sste_163	2183-4702	-	195.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_163/Sste_163.seq	Sste_163	1142	1460	3172	2183	17.7	36.5	334	133			0	Minus	9307	2e-34
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_163/Sste_163.seq	Sste_163	519	1124	4702	2867	23.0	42.0	712	278			0	Minus	9307	4e-79
+
+#Chain	mariner_ant1	23-303	Sste_164	772-1647	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_164/Sste_164.seq	Sste_164	23	303	1647	772	22.6	36.2	243	97.9			0	Minus	9127	1e-25
+
+#Chain	mariner_ant1	226-303	Sste_165	69-305	+	20.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_165/Sste_165.seq	Sste_165	226	303	69	305	26.6	44.3	134	56.0			0	Plus	9014	4e-12
+
+#Chain	mariner	259-343	Sste_167	2754-3008	-	16.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_167/Sste_167.seq	Sste_167	259	343	3008	2754	19.8	44.2	107	45.5			0	Minus	8607	9e-09
+
+#Chain	mariner_ant1	23-296	Sste_171	833-2077	+	38.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_171/Sste_171.seq	Sste_171	23	124	833	1120	21.9	37.1	83	36.3			0	Plus	7722	5e-06
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_171/Sste_171.seq	Sste_171	212	296	1820	2077	18.4	40.2	95	40.9			0	Plus	7722	2e-07
+
+#Chain	LINE	213-778	Sste_179	2019-3680	-	90.6
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_179/Sste_179.seq	Sste_179	213	778	3680	2019	16.0	34.4	341	135			0	Minus	6956	1e-35
+
+#Chain	mariner	123-273	Sste_18	5296-5742	-	28.7
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	123	273	5742	5296	19.0	31.0	103	44.0			0	Minus	400476	1e-06
+
+#Chain	mariner	29-315	Sste_18	46718-47596	-	49.4
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	29	315	47596	46718	17.2	32.5	186	75.9			0	Minus	400476	8e-17
+
+#Chain	mariner	23-342	Sste_18	49685-50656	+	70.4
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	23	342	49685	50656	22.0	37.8	355	141			0	Plus	400476	8e-38
+
+#Chain	helitronORF	349-1075	Sste_18	55306-57700	-	142.3
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	1005	1075	55527	55306	31.1	52.7	131	54.7			0	Minus	400476	5e-09
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	856	958	56003	55680	31.8	51.8	104	44.3			0	Minus	400476	7e-06
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	467	639	57354	56821	30.9	48.9	273	109			0	Minus	400476	1e-25
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	349	443	57700	57419	35.8	51.6	155	63.9			0	Minus	400476	8e-12
+
+#Chain	mariner	3-342	Sste_18	62726-63778	+	67.3
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	3	342	62726	63778	19.8	37.1	343	136			0	Plus	400476	3e-36
+
+#Chain	mariner	100-262	Sste_18	71186-71662	+	36.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	100	262	71186	71662	22.6	34.5	198	80.6			0	Plus	400476	2e-18
+
+#Chain	TY1_Copia	739-914	Sste_18	73913-74434	-	35.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	739	914	74434	73913	20.2	37.2	138	57.7			0	Minus	400476	8e-10
+
+#Chain	mariner_ant1	23-303	Sste_18	105744-106619	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	23	303	105744	106619	22.6	36.2	247	99.5			0	Plus	400476	2e-24
+
+#Chain	mariner	244-342	Sste_18	115492-115809	+	28.7
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	244	342	115492	115809	29.0	43.0	103	44.0			0	Plus	400476	1e-06
+
+#Chain	ltr_Roo	233-481	Sste_18	118816-119469	-	45.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_18/Sste_18.seq	Sste_18	233	481	119469	118816	18.3	33.3	132	55.2			0	Minus	400476	7e-09
+
+#Chain	gypsy	728-1437	Sste_181	2864-4852	-	128.5
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_181/Sste_181.seq	Sste_181	728	1437	4852	2864	18.1	35.4	609	239			0	Minus	6710	3e-67
+
+#Chain	mariner_ant1	23-303	Sste_181	5116-5991	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_181/Sste_181.seq	Sste_181	23	303	5116	5991	22.6	36.2	249	100			0	Plus	6710	2e-26
+
+#Chain	DDE_1	2-324	Sste_182	1115-2133	-	64.5
+DDE_1		535	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_182/Sste_182.seq	Sste_182	101	324	1765	1115	20.4	34.3	283	113			0	Minus	6632	7e-30
+DDE_1		535	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_182/Sste_182.seq	Sste_182	2	108	2133	1777	17.6	38.7	86	37.5			0	Minus	6632	4e-06
+
+#Chain	piggybac	4-250	Sste_182	5053-5775	+	68.4
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_182/Sste_182.seq	Sste_182	4	250	5053	5775	27.7	44.2	437	172			0	Plus	6632	7e-50
+
+#Chain	piggybac	275-389	Sste_182	5849-6202	+	23.2
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_182/Sste_182.seq	Sste_182	275	389	5849	6202	20.2	48.7	262	105			0	Plus	6632	8e-28
+
+#Chain	gypsy	613-1004	Sste_183	702-1850	-	73.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_183/Sste_183.seq	Sste_183	613	1004	1850	702	18.7	40.8	382	151			0	Minus	6500	3e-40
+
+#Chain	mariner	231-343	Sste_187	2178-2516	-	23.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_187/Sste_187.seq	Sste_187	231	343	2516	2178	21.1	38.6	145	60.2			0	Minus	6269	2e-13
+
+#Chain	gypsy	1291-1388	Sste_187	4473-4757	-	19.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_187/Sste_187.seq	Sste_187	1291	1388	4757	4473	19.4	35.7	101	43.3			0	Minus	6269	2e-07
+
+#Chain	gypsy	456-1384	Sste_19	154675-157404	-	188.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_19/Sste_19.seq	Sste_19	456	1384	157404	154675	20.3	37.3	940	366			0	Minus	382278	1e-104
+
+#Chain	TY1_Copia	518-631	Sste_19	157432-157809	-	21.4
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_19/Sste_19.seq	Sste_19	518	631	157809	157432	18.8	35.2	111	47.3			0	Minus	382278	1e-06
+
+#Chain	P_element	651-763	Sste_19	170090-170419	+	26.9
+P_element		766	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_19/Sste_19.seq	Sste_19	651	763	170090	170419	23.8	45.2	102	43.6			0	Plus	382278	6e-06
+
+#Chain	TY1_Copia	240-578	Sste_2	62588-63694	+	46.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_2/Sste_2.seq	Sste_2	240	578	62588	63694	13.6	33.2	157	65.0			0	Plus	2682231	3e-11
+
+#Chain	mariner	34-342	Sste_2	268998-269924	+	58.7
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_2/Sste_2.seq	Sste_2	34	342	268998	269924	19.0	37.9	341	135			0	Plus	2682231	4e-35
+
+#Chain	TY1_Copia	221-322	Sste_2	627789-628094	+	24.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_2/Sste_2.seq	Sste_2	221	322	627789	628094	23.6	43.4	129	54.3			0	Plus	2682231	6e-08
+
+#Chain	mariner_ant1	23-303	Sste_2	774411-775286	+	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_2/Sste_2.seq	Sste_2	23	303	774411	775286	22.3	35.5	245	98.7			0	Plus	2682231	2e-23
+
+#Chain	ISC1316	37-293	Sste_2	868308-869105	-	34.7
+ISC1316		393	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_2/Sste_2.seq	Sste_2	37	293	869105	868308	13.5	35.0	118	49.8			0	Minus	2682231	2e-07
+
+#Chain	hAT	212-673	Sste_2	1494988-1496373	-	65.6
+hAT		749	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_2/Sste_2.seq	Sste_2	212	673	1496373	1494988	14.2	31.1	128	53.7			0	Minus	2682231	3e-08
+
+#Chain	TY1_Copia	135-471	Sste_2	1996272-1997270	-	40.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_2/Sste_2.seq	Sste_2	135	471	1997270	1996272	11.9	32.3	142	59.3			0	Minus	2682231	2e-09
+
+#Chain	LINE	908-1034	Sste_2	2007215-2007604	+	27.2
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_2/Sste_2.seq	Sste_2	908	1034	2007215	2007604	21.4	36.4	151	62.6			0	Plus	2682231	1e-10
+
+#Chain	gypsy	359-1384	Sste_202	1628-4414	+	168.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_202/Sste_202.seq	Sste_202	359	1061	1628	3745	18.7	39.3	597	234			0	Plus	5154	7e-66
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_202/Sste_202.seq	Sste_202	1204	1384	3887	4414	20.5	38.4	183	74.9			0	Plus	5154	5e-17
+
+#Chain	LINE	405-778	Sste_21	9672-10862	-	61.3
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	405	778	10862	9672	16.4	34.2	294	117			0	Minus	368211	3e-28
+
+#Chain	gypsy	448-1452	Sste_21	13010-15820	+	182.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	448	1452	13010	15820	18.2	35.6	826	322			0	Plus	368211	4e-91
+
+#Chain	gypsy	879-1020	Sste_21	19929-20378	+	29.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	879	1020	19929	20378	20.5	39.7	157	64.9			0	Plus	368211	4e-12
+
+#Chain	gypsy	1154-1363	Sste_21	27807-28466	-	39.7
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	1154	1363	28466	27807	18.9	33.0	150	62.2			0	Minus	368211	3e-11
+
+#Chain	gypsy	1104-1299	Sste_21	33612-34208	+	37.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	1104	1299	33612	34208	19.0	35.6	174	71.4			0	Plus	368211	4e-14
+
+#Chain	gypsy	353-1189	Sste_21	38707-41235	-	177.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	353	1189	41235	38707	21.2	38.1	729	285			0	Minus	368211	2e-79
+
+#Chain	LINE	911-1062	Sste_21	58856-59332	-	24.9
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	911	1062	59332	58856	16.4	33.3	129	54.2			0	Minus	368211	6e-09
+
+#Chain	gypsy	581-1384	Sste_21	59591-61858	-	139.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	581	1384	61858	59591	17.3	35.0	627	245			0	Minus	368211	3e-67
+
+#Chain	DDE_1	3-497	Sste_21	73496-75043	-	93.1
+DDE_1		535	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	3	497	75043	73496	18.8	37.0	429	169			0	Minus	368211	8e-46
+
+#Chain	gypsy	1072-1282	Sste_21	99620-100291	-	39.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	1072	1282	100291	99620	18.6	31.0	183	74.9			0	Minus	368211	4e-15
+
+#Chain	DDE_1	2-329	Sste_21	118875-119849	+	67.9
+DDE_1		535	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	2	329	118875	119849	20.7	36.4	397	157			0	Plus	368211	7e-42
+
+#Chain	gypsy	1072-1282	Sste_21	137857-138528	+	39.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	1072	1282	137857	138528	18.6	31.0	183	74.9			0	Plus	368211	4e-15
+
+#Chain	gypsy	474-763	Sste_21	143726-144616	-	47.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	474	763	144616	143726	16.2	33.1	163	67.2			0	Minus	368211	8e-13
+
+#Chain	TY1_Copia	243-340	Sste_21	144760-145065	-	19.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	243	340	145065	144760	20.0	39.0	106	45.4			0	Minus	368211	4e-06
+
+#Chain	gypsy	725-878	Sste_21	207337-207795	-	29.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	725	878	207795	207337	18.8	42.2	193	78.8			0	Minus	368211	3e-16
+
+#Chain	piggybac	262-367	Sste_21	219363-219665	-	28.0
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	262	367	219665	219363	26.4	50.9	183	74.7			0	Minus	368211	3e-16
+
+#Chain	mariner	8-310	Sste_21	221542-222452	-	58.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	158	310	222003	221542	18.4	38.0	134	55.9			0	Minus	368211	2e-10
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	8	181	222452	221922	17.6	36.4	105	44.7			0	Minus	368211	7e-07
+
+#Chain	piggybac	5-388	Sste_21	236891-238051	+	94.5
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	5	388	236891	238051	24.6	45.1	773	301			0	Plus	368211	3e-92
+
+#Chain	gypsy	802-936	Sste_21	240631-240999	+	26.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	802	936	240631	240999	19.3	35.6	172	70.7			0	Plus	368211	8e-14
+
+#Chain	gypsy	634-1161	Sste_21	245765-247280	+	96.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	634	825	245765	246328	22.7	45.9	256	103			0	Plus	368211	1e-23
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	852	1161	246393	247280	16.9	34.5	154	63.7			0	Plus	368211	1e-11
+
+#Chain	LINE	399-778	Sste_21	274336-275481	+	68.4
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	399	778	274336	275481	18.0	36.4	272	109			0	Plus	368211	1e-25
+
+#Chain	mariner	11-296	Sste_21	299919-300734	-	63.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	11	296	300734	299919	22.3	39.7	236	95.2			0	Minus	368211	5e-23
+
+#Chain	gypsy	463-794	Sste_21	307673-308593	-	58.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	463	794	308593	307673	17.6	35.4	167	68.7			0	Minus	368211	3e-13
+
+#Chain	gypsy	936-1067	Sste_21	310594-310965	+	30.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	936	1067	310594	310965	22.7	39.4	121	51.0			0	Plus	368211	7e-08
+
+#Chain	gypsy	354-673	Sste_21	367166-368209	+	45.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_21/Sste_21.seq	Sste_21	354	673	367166	368209	14.3	33.3	162	66.8			0	Plus	368211	1e-12
+
+#Chain	mariner	182-342	Sste_23	67-546	+	26.6
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_23/Sste_23.seq	Sste_23	182	342	67	546	16.5	39.0	139	57.8			0	Plus	352385	5e-11
+
+#Chain	hAT	315-696	Sste_26	68617-69870	-	61.5
+hAT		749	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_26/Sste_26.seq	Sste_26	315	696	69870	68617	16.1	34.8	145	60.3			0	Minus	346959	4e-11
+
+#Chain	mariner	80-315	Sste_26	133342-134052	+	47.2
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_26/Sste_26.seq	Sste_26	80	315	133342	134052	20.0	36.9	142	59.0			0	Plus	346959	2e-11
+
+#Chain	mariner	6-342	Sste_26	210115-211158	-	69.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_26/Sste_26.seq	Sste_26	6	342	211158	210115	20.7	37.1	383	151			0	Minus	346959	2e-41
+
+#Chain	mariner_ant1	23-303	Sste_26	345824-346699	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_26/Sste_26.seq	Sste_26	23	303	345824	346699	22.6	35.5	252	101			0	Plus	346959	4e-25
+
+#Chain	gypsy	442-962	Sste_267	3-1733	-	131.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_267/Sste_267.seq	Sste_267	442	962	1733	3	25.2	43.6	859	335			0	Minus	3320	1e-100
+
+#Chain	mariner_ant1	23-294	Sste_27	344906-345757	+	62.3
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_27/Sste_27.seq	Sste_27	23	294	344906	345757	22.9	36.2	225	91.0			0	Plus	346351	8e-22
+
+#Chain	gypsy	841-1463	Sste_276	1169-3169	-	117.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_276/Sste_276.seq	Sste_276	841	1463	3169	1169	18.8	35.5	604	237			0	Minus	3215	1e-67
+
+#Chain	LINE	282-778	Sste_28	13686-15131	+	81.0
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	282	778	13686	15131	16.3	31.5	293	117			0	Plus	332416	3e-28
+
+#Chain	mariner_ant1	226-302	Sste_28	30007-30240	-	19.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	226	302	30240	30007	25.6	43.6	98	42.1			0	Minus	332416	4e-06
+
+#Chain	gypsy	455-1436	Sste_28	53487-56228	+	207.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	455	1436	53487	56228	21.1	38.1	1139	443			0	Plus	332416	1e-129
+
+#Chain	TY1_Copia	210-330	Sste_28	60734-61108	+	24.4
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	210	330	60734	61108	20.2	34.1	104	44.6			0	Plus	332416	6e-06
+
+#Chain	gypsy	455-1404	Sste_28	61277-64219	+	170.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	455	1404	61277	64219	17.9	33.4	738	288			0	Plus	332416	2e-80
+
+#Chain	gypsy	604-878	Sste_28	69451-70279	-	55.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	748	878	69840	69451	19.7	41.7	179	73.4			0	Minus	332416	1e-14
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	604	756	70279	69815	19.6	41.1	171	70.3			0	Minus	332416	9e-14
+
+#Chain	mariner	28-342	Sste_28	78219-79187	+	68.7
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	28	342	78219	79187	21.8	37.1	414	163			0	Plus	332416	2e-45
+
+#Chain	gypsy	629-692	Sste_28	163783-163956	+	17.7
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	629	692	163783	163956	27.7	50.8	112	47.6			0	Plus	332416	7e-07
+
+#Chain	gypsy	560-1289	Sste_28	166529-168501	+	137.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	560	1036	166529	167920	25.6	48.2	882	344			0	Plus	332416	9e-98
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	1236	1289	168319	168501	27.9	42.6	130	54.5			0	Plus	332416	5e-09
+
+#Chain	helitronORF	943-1274	Sste_28	216800-217879	-	105.6
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	943	1274	217879	216800	31.8	48.9	572	224			0	Minus	332416	7e-61
+
+#Chain	mariner	25-342	Sste_28	251630-252607	+	63.9
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	25	342	251630	252607	20.1	35.9	380	150			0	Plus	332416	4e-41
+
+#Chain	mariner	41-335	Sste_28	253431-254320	+	58.2
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	41	159	253431	253784	19.0	38.9	115	48.6			0	Plus	332416	4e-08
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	192	335	253871	254320	24.7	38.0	163	67.1			0	Plus	332416	5e-14
+
+#Chain	mariner	212-340	Sste_28	256299-256685	+	35.5
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	212	340	256299	256685	27.5	44.2	210	85.2			0	Plus	332416	6e-20
+
+#Chain	mariner	137-342	Sste_28	257310-257936	+	43.7
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	137	342	257310	257936	21.2	36.9	271	108			0	Plus	332416	3e-27
+
+#Chain	gypsy	276-453	Sste_28	269750-270313	+	21.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	276	453	269750	270313	12.0	36.1	114	48.3			0	Plus	332416	4e-07
+
+#Chain	gypsy	405-1444	Sste_28	280509-283547	+	202.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	405	1444	280509	283547	19.5	37.4	942	367			0	Plus	332416	1e-105
+
+#Chain	LINE	908-1041	Sste_28	288716-289165	-	26.7
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	908	1041	289165	288716	19.9	34.4	131	54.9			0	Minus	332416	3e-09
+
+#Chain	gypsy	604-1365	Sste_28	289655-291793	-	130.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_28/Sste_28.seq	Sste_28	604	1365	291793	289655	17.1	34.6	509	200			0	Minus	332416	3e-53
+
+#Chain	mariner	172-342	Sste_294	2469-2963	-	29.4
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_294/Sste_294.seq	Sste_294	172	342	2963	2469	17.2	34.5	158	65.2			0	Minus	2969	2e-15
+
+#Chain	mariner_ant1	23-303	Sste_3	165381-166256	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_3/Sste_3.seq	Sste_3	23	303	165381	166256	22.6	36.2	249	100			0	Plus	2114442	6e-24
+
+#Chain	mariner_ant1	23-303	Sste_3	861521-862396	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_3/Sste_3.seq	Sste_3	23	303	861521	862396	22.6	36.2	242	97.6			0	Plus	2114442	4e-23
+
+#Chain	mariner_ant1	23-303	Sste_3	1181121-1181996	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_3/Sste_3.seq	Sste_3	23	303	1181121	1181996	22.6	35.5	252	101			0	Plus	2114442	3e-24
+
+#Chain	TY1_Copia	496-564	Sste_3	1214142-1214345	+	15.3
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_3/Sste_3.seq	Sste_3	496	564	1214142	1214345	22.2	40.3	117	49.6			0	Plus	2114442	1e-06
+
+#Chain	TY1_Copia	89-544	Sste_3	1674039-1675265	+	68.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_3/Sste_3.seq	Sste_3	89	544	1674039	1675265	15.1	30.0	118	50.0			0	Plus	2114442	9e-07
+
+#Chain	gypsy	447-1207	Sste_3	2012590-2014965	+	162.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_3/Sste_3.seq	Sste_3	447	1207	2012590	2014965	21.4	42.0	847	330			0	Plus	2114442	8e-93
+
+#Chain	mariner_ant1	23-303	Sste_3	2113294-2114169	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_3/Sste_3.seq	Sste_3	23	303	2113294	2114169	22.6	36.2	249	100			0	Plus	2114442	6e-24
+
+#Chain	piggybac	5-389	Sste_30	1117-2262	+	130.1
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_30/Sste_30.seq	Sste_30	5	389	1117	2262	33.8	56.7	896	349			0	Plus	327960	1e-108
+
+#Chain	piggybac	57-352	Sste_30	2815-3732	-	50.9
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_30/Sste_30.seq	Sste_30	57	352	3732	2815	17.2	32.9	162	66.6			0	Minus	327960	1e-13
+
+#Chain	mariner	192-317	Sste_30	4883-5272	-	33.6
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_30/Sste_30.seq	Sste_30	192	317	5272	4883	26.7	38.5	187	76.3			0	Minus	327960	5e-17
+
+#Chain	piggybac	2-345	Sste_30	311553-313007	-	73.4
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_30/Sste_30.seq	Sste_30	250	345	311807	311553	22.7	45.4	113	47.8			0	Minus	327960	9e-08
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_30/Sste_30.seq	Sste_30	2	172	313007	312543	30.2	51.7	297	118			0	Minus	327960	3e-30
+
+#Chain	gypsy	353-1424	Sste_30	320489-323468	+	164.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_30/Sste_30.seq	Sste_30	353	1038	320489	322540	18.1	38.5	534	210			0	Plus	327960	3e-56
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_30/Sste_30.seq	Sste_30	1186	1424	322692	323468	17.0	35.2	199	81.1			0	Plus	327960	5e-17
+
+#Chain	mariner	5-342	Sste_31	112656-113669	-	58.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_31/Sste_31.seq	Sste_31	5	342	113669	112656	17.4	36.5	211	85.6			0	Minus	325152	5e-20
+
+#Chain	gypsy	843-1378	Sste_31	190364-191794	+	78.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_31/Sste_31.seq	Sste_31	843	1378	190364	191794	14.7	32.6	370	146			0	Plus	325152	5e-37
+
+#Chain	mariner	23-341	Sste_31	304963-305931	-	67.6
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_31/Sste_31.seq	Sste_31	23	341	305931	304963	21.2	37.6	348	138			0	Minus	325152	5e-37
+
+#Chain	gypsy	365-1381	Sste_31	307774-310789	-	202.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_31/Sste_31.seq	Sste_31	1148	1381	308502	307774	21.0	37.7	298	119			0	Minus	325152	1e-28
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_31/Sste_31.seq	Sste_31	365	1045	310789	308708	22.5	40.5	797	311			0	Minus	325152	1e-87
+
+#Chain	gypsy	664-983	Sste_31	312748-313758	-	64.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_31/Sste_31.seq	Sste_31	664	983	313758	312748	20.0	39.7	337	134			0	Minus	325152	4e-33
+
+#Chain	gypsy	372-1004	Sste_31	314725-316575	+	113.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_31/Sste_31.seq	Sste_31	372	1004	314725	316575	17.9	37.8	464	183			0	Plus	325152	5e-48
+
+#Chain	TY1_Copia	743-962	Sste_31	317876-318526	+	41.4
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_31/Sste_31.seq	Sste_31	743	962	317876	318526	18.8	36.2	163	67.4			0	Plus	325152	7e-13
+
+#Chain	TY1_Copia	1147-1366	Sste_31	323923-324564	-	43.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_31/Sste_31.seq	Sste_31	1147	1366	324564	323923	19.8	40.1	173	71.2			0	Minus	325152	5e-14
+
+#Chain	mariner_ant1	23-303	Sste_32	253-1128	-	62.9
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_32/Sste_32.seq	Sste_32	23	303	1128	253	22.4	35.6	244	98.3			0	Minus	320206	4e-24
+
+#Chain	gypsy	570-1341	Sste_33	19077-21167	+	125.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_33/Sste_33.seq	Sste_33	570	1341	19077	21167	16.3	33.5	621	243			0	Plus	319239	2e-66
+
+#Chain	gypsy	365-1441	Sste_33	183905-187164	+	213.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_33/Sste_33.seq	Sste_33	365	914	183905	185680	18.3	34.9	416	164			0	Plus	319239	2e-42
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_33/Sste_33.seq	Sste_33	837	1441	185377	187164	18.6	36.6	573	225			0	Plus	319239	7e-61
+
+#Chain	mariner	1-342	Sste_33	233207-234208	-	59.2
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_33/Sste_33.seq	Sste_33	1	342	234208	233207	17.3	35.7	200	81.3			0	Minus	319239	1e-18
+
+#Chain	mariner_ant1	23-303	Sste_34	159493-160368	+	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_34/Sste_34.seq	Sste_34	23	303	159493	160368	22.3	36.2	243	97.9			0	Plus	308927	5e-24
+
+#Chain	mariner	3-81	Sste_35	207712-207951	-	19.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_35/Sste_35.seq	Sste_35	3	81	207951	207712	25.0	33.8	110	46.7			0	Minus	299760	1e-07
+
+#Chain	gypsy	416-1238	Sste_374	34-2187	-	158.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_374/Sste_374.seq	Sste_374	416	1238	2187	34	19.2	36.0	676	264			0	Minus	2238	3e-78
+
+#Chain	mariner_ant1	23-303	Sste_376	1238-2113	-	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_376/Sste_376.seq	Sste_376	23	303	2113	1238	22.3	35.5	248	99.9			0	Minus	2224	4e-27
+
+#Chain	gypsy	226-356	Sste_38	11139-11528	+	20.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_38/Sste_38.seq	Sste_38	226	356	11139	11528	15.3	33.6	127	53.3			0	Plus	276207	1e-08
+
+#Chain	mariner_ant1	23-303	Sste_38	93225-94100	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_38/Sste_38.seq	Sste_38	23	303	94100	93225	22.6	36.2	249	100			0	Minus	276207	8e-25
+
+#Chain	mariner_ant1	23-303	Sste_38	268061-268936	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_38/Sste_38.seq	Sste_38	23	303	268936	268061	22.6	36.2	249	100			0	Minus	276207	8e-25
+
+#Chain	gypsy	620-710	Sste_399	1798-2058	+	16.7
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_399/Sste_399.seq	Sste_399	620	710	1798	2058	18.3	43.0	105	44.9			0	Plus	2067	2e-08
+
+#Chain	mariner_ant1	23-303	Sste_4	117862-118737	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_4/Sste_4.seq	Sste_4	23	303	118737	117862	22.6	36.2	249	100			0	Minus	1959802	6e-24
+
+#Chain	LINE	901-1084	Sste_4	652076-652627	+	36.8
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_4/Sste_4.seq	Sste_4	901	1084	652076	652627	20.0	36.8	169	69.6			0	Plus	1959802	7e-13
+
+#Chain	mariner_ant1	23-303	Sste_4	675311-676186	-	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_4/Sste_4.seq	Sste_4	23	303	676186	675311	22.3	35.5	250	100			0	Minus	1959802	4e-24
+
+#Chain	mariner_ant1	23-303	Sste_4	1032850-1033725	-	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_4/Sste_4.seq	Sste_4	23	303	1033725	1032850	22.3	35.5	250	100			0	Minus	1959802	4e-24
+
+#Chain	hAT	92-173	Sste_4	1079835-1080095	-	18.6
+hAT		749	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_4/Sste_4.seq	Sste_4	92	173	1080095	1079835	22.7	39.8	109	46.4			0	Minus	1959802	4e-06
+
+#Chain	gypsy	1178-1381	Sste_4	1959127-1959774	-	39.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_4/Sste_4.seq	Sste_4	1178	1381	1959774	1959127	19.3	37.2	237	95.7			0	Minus	1959802	1e-20
+
+#Chain	mariner	7-119	Sste_40	261616-261972	+	18.6
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_40/Sste_40.seq	Sste_40	7	119	261616	261972	16.5	37.0	118	49.8			0	Plus	272778	1e-08
+
+#Chain	TY1_Copia	246-476	Sste_41	7904-8608	+	30.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_41/Sste_41.seq	Sste_41	246	476	7904	8608	13.2	34.4	123	51.9			0	Plus	266236	3e-08
+
+#Chain	mariner_ant1	23-303	Sste_42	353-1228	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_42/Sste_42.seq	Sste_42	23	303	353	1228	22.6	36.2	249	100			0	Plus	263424	5e-25
+
+#Chain	gypsy	349-726	Sste_42	1382-2563	-	55.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_42/Sste_42.seq	Sste_42	349	726	2563	1382	14.6	33.9	248	99			0	Minus	263424	7e-23
+
+#Chain	hAT	78-172	Sste_42	126568-126855	+	20.1
+hAT		749	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_42/Sste_42.seq	Sste_42	78	172	126568	126855	21.2	36.4	103	44.1			0	Plus	263424	3e-06
+
+#Chain	mariner_ant1	23-303	Sste_42	190010-190885	-	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_42/Sste_42.seq	Sste_42	23	303	190885	190010	22.3	35.5	250	100			0	Minus	263424	4e-25
+
+#Chain	gypsy	374-1341	Sste_43	1879-4611	+	170.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_43/Sste_43.seq	Sste_43	374	1341	1879	4611	17.6	37.2	621	243			0	Plus	257350	6e-67
+
+#Chain	mariner_ant1	23-303	Sste_43	32130-33005	-	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_43/Sste_43.seq	Sste_43	23	303	33005	32130	22.3	35.9	230	92.9			0	Minus	257350	1e-22
+
+#Chain	TY1_Copia	306-426	Sste_43	147903-148301	+	20.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_43/Sste_43.seq	Sste_43	306	426	147903	148301	16.5	36.1	102	43.9			0	Plus	257350	8e-06
+
+#Chain	helitronORF	206-634	Sste_434	2-1339	-	161.7
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_434/Sste_434.seq	Sste_434	206	634	1339	2	37.7	55.1	929	362			0	Minus	1841	1e-114
+
+#Chain	LINE	492-798	Sste_44	1297-2178	-	47.3
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_44/Sste_44.seq	Sste_44	492	798	2178	1297	15.4	32.7	181	74.2			0	Minus	256190	3e-15
+
+#Chain	helitronORF	441-1302	Sste_44	89910-92776	+	247.3
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_44/Sste_44.seq	Sste_44	441	828	89910	91211	28.4	46.3	653	255			0	Plus	256190	1e-70
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_44/Sste_44.seq	Sste_44	813	953	91214	91642	29.7	48.6	169	69.3			0	Plus	256190	1e-13
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_44/Sste_44.seq	Sste_44	973	1075	91714	92037	38.9	58.3	232	93.6			0	Plus	256190	5e-21
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_44/Sste_44.seq	Sste_44	1166	1302	92357	92776	40.3	58.3	328	130			0	Plus	256190	3e-32
+
+#Chain	helitronORF	144-808	Sste_44	96803-99004	+	206.8
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_44/Sste_44.seq	Sste_44	144	808	96803	99004	31.1	48.0	1183	459			0	Plus	256190	1e-136
+
+#Chain	mariner	212-342	Sste_44	103433-103822	+	25.4
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_44/Sste_44.seq	Sste_44	212	342	103433	103822	19.4	38.8	129	54.0			0	Plus	256190	6e-10
+
+#Chain	gypsy	408-1373	Sste_44	142316-145006	+	171.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_44/Sste_44.seq	Sste_44	408	1373	142316	145006	17.8	34.9	668	261			0	Plus	256190	3e-72
+
+#Chain	gypsy	364-1396	Sste_44	149285-152236	+	214.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_44/Sste_44.seq	Sste_44	364	1396	149285	152236	20.8	38.0	1029	400			0	Plus	256190	1e-115
+
+#Chain	gypsy	110-1381	Sste_44	231061-234516	-	262.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_44/Sste_44.seq	Sste_44	110	1381	234516	231061	20.6	35.1	1106	430			0	Minus	256190	1e-125
+
+#Chain	mariner_ant1	23-303	Sste_46	253610-254485	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_46/Sste_46.seq	Sste_46	23	303	253610	254485	22.6	36.2	248	99.9			0	Plus	254838	1e-24
+
+#Chain	mariner_ant1	23-303	Sste_461	578-1453	+	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_461/Sste_461.seq	Sste_461	23	303	578	1453	22.3	35.5	251	101			0	Plus	1700	8e-28
+
+#Chain	mariner_ant1	23-303	Sste_465	564-1439	+	61.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_465/Sste_465.seq	Sste_465	23	303	564	1439	21.9	35.2	246	99.1			0	Plus	1680	3e-27
+
+#Chain	gypsy	656-1388	Sste_47	3712-5409	-	71.5
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	1289	1388	4008	3712	20.4	39.8	110	46.8			0	Minus	248773	9e-07
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	948	1056	4697	4380	24.1	40.2	131	54.9			0	Minus	248773	3e-09
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	656	787	5409	5014	18.8	39.8	152	63.0			0	Minus	248773	1e-11
+
+#Chain	gypsy	1188-1267	Sste_47	8548-8799	-	13.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	1188	1267	8799	8548	17.4	39.5	103	44.1			0	Minus	248773	6e-06
+
+#Chain	TY1_Copia	615-685	Sste_47	9597-9806	-	18.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	615	685	9806	9597	25.4	43.7	102	43.9			0	Minus	248773	8e-06
+
+#Chain	gypsy	405-1444	Sste_47	157365-159959	-	120.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	1017	1444	158531	157365	18.7	34.6	385	152			0	Minus	248773	7e-39
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	405	658	159959	159192	16.1	37.8	136	56.8			0	Minus	248773	8e-10
+
+#Chain	hAT	146-709	Sste_47	162278-163813	+	92.5
+hAT		749	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	146	709	162278	163813	16.4	34.3	188	76.9			0	Plus	248773	3e-16
+
+#Chain	gypsy	359-1454	Sste_47	173459-176585	+	209.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	359	758	173459	174616	18.7	36.6	343	136			0	Plus	248773	5e-34
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	765	1454	174651	176585	19.5	36.2	547	215			0	Plus	248773	6e-58
+
+#Chain	mariner	8-342	Sste_47	182982-183983	-	62.3
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	8	342	183983	182982	18.6	40.1	269	107			0	Minus	248773	3e-27
+
+#Chain	gypsy	447-1455	Sste_47	184764-188044	-	198.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	1118	1455	185858	184764	18.8	35.5	259	104			0	Minus	248773	4e-24
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	447	1057	188044	186212	22.1	40.7	720	281			0	Minus	248773	2e-78
+
+#Chain	piggybac	291-389	Sste_47	192132-192407	-	21.0
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	291	389	192407	192132	21.2	37.4	117	49.3			0	Minus	248773	2e-08
+
+#Chain	piggybac	70-353	Sste_47	193675-194505	+	88.6
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	70	353	193675	194505	31.2	51.7	513	201			0	Plus	248773	5e-58
+
+#Chain	mariner	49-325	Sste_47	207081-207905	+	52.1
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	49	325	207081	207905	18.8	35.3	219	88.7			0	Plus	248773	4e-21
+
+#Chain	LINE	290-778	Sste_47	231722-233257	+	72.9
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	290	778	231722	233257	14.9	32.0	349	138			0	Plus	248773	7e-35
+
+#Chain	LINE	283-778	Sste_47	235272-236804	+	73.9
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	283	778	235272	236804	14.9	34.1	369	146			0	Plus	248773	3e-37
+
+#Chain	LINE	497-688	Sste_47	238079-238720	+	31.3
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	497	688	238079	238720	16.3	36.7	182	74.6			0	Plus	248773	3e-15
+
+#Chain	LINE	466-688	Sste_47	242438-243166	+	38.1
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_47/Sste_47.seq	Sste_47	466	688	242438	243166	17.1	39.6	251	101			0	Plus	248773	2e-23
+
+#Chain	mariner_ant1	23-318	Sste_471	393-1265	+	66.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_471/Sste_471.seq	Sste_471	23	318	393	1265	22.3	41.6	353	140			0	Plus	1637	2e-41
+
+#Chain	mariner_ant1	23-303	Sste_49	159041-159916	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_49/Sste_49.seq	Sste_49	23	303	159916	159041	22.6	36.2	249	100			0	Minus	239682	7e-25
+
+#Chain	gypsy	359-1442	Sste_5	751622-755116	+	202.7
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_5/Sste_5.seq	Sste_5	359	1442	751622	755116	18.7	36.7	1118	435			0	Plus	1700868	1e-126
+
+#Chain	mariner_ant1	23-303	Sste_5	1423143-1424018	+	61.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_5/Sste_5.seq	Sste_5	23	303	1423143	1424018	21.9	35.2	244	98.3			0	Plus	1700868	2e-23
+
+#Chain	mariner_ant1	23-303	Sste_5	1645483-1646358	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_5/Sste_5.seq	Sste_5	23	303	1646358	1645483	22.6	36.2	249	100			0	Minus	1700868	5e-24
+
+#Chain	gypsy	1256-1428	Sste_5	1700300-1700830	+	35.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_5/Sste_5.seq	Sste_5	1256	1428	1700300	1700830	20.3	38.5	124	52.2			0	Plus	1700868	1e-07
+
+#Chain	mariner_ant1	23-303	Sste_50	77893-78768	-	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_50/Sste_50.seq	Sste_50	23	303	78768	77893	22.3	35.2	250	100			0	Minus	238188	5e-25
+
+#Chain	mariner_ant1	23-303	Sste_50	178969-179844	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_50/Sste_50.seq	Sste_50	23	303	178969	179844	22.6	36.2	250	100			0	Plus	238188	5e-25
+
+#Chain	TY1_Copia	335-482	Sste_53	97828-98301	+	21.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_53/Sste_53.seq	Sste_53	335	482	97828	98301	14.6	34.1	106	45.4			0	Plus	226773	2e-06
+
+#Chain	mariner	212-340	Sste_53	165461-165847	+	36.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_53/Sste_53.seq	Sste_53	212	340	165461	165847	28.5	46.0	191	77.9			0	Plus	226773	1e-17
+
+#Chain	cacta	753-784	Sste_54	52650-52745	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_54/Sste_54.seq	Sste_54	753	784	52650	52745	78.1	81.2	110	46.8			0	Plus	218946	7e-07
+
+#Chain	cacta	753-780	Sste_54	52746-52829	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_54/Sste_54.seq	Sste_54	753	780	52746	52829	85.7	85.7	109	46.4			0	Plus	218946	9e-07
+
+#Chain	cacta	754-787	Sste_54	53319-53420	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_54/Sste_54.seq	Sste_54	754	787	53319	53420	67.6	70.6	101	43.3			0	Plus	218946	7e-06
+
+#Chain	gypsy	1177-1286	Sste_544	994-1347	+	20.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_544/Sste_544.seq	Sste_544	1177	1286	994	1347	18.3	37.5	130	54.5			0	Plus	1369	1e-11
+
+#Chain	mariner	2-94	Sste_55	166173-166433	+	21.0
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_55/Sste_55.seq	Sste_55	2	94	166173	166433	22.6	37.6	104	44.4			0	Plus	212838	5e-07
+
+#Chain	mariner_ant1	76-303	Sste_551	615-1331	-	52.2
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_551/Sste_551.seq	Sste_551	76	303	1331	615	22.9	37.6	194	79.1			0	Minus	1343	9e-21
+
+#Chain	ISC1316	213-258	Sste_556	1186-1323	+	6.0
+ISC1316		393	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_556/Sste_556.seq	Sste_556	213	258	1186	1323	13.0	37.0	77	34.0			0	Plus	1332	5e-06
+
+#Chain	gypsy	447-1460	Sste_56	47081-49906	+	215.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_56/Sste_56.seq	Sste_56	447	1460	47081	49906	21.2	38.0	1182	459			0	Plus	212770	1e-135
+
+#Chain	gypsy	255-423	Sste_579	240-749	+	25.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_579/Sste_579.seq	Sste_579	255	423	240	749	15.3	32.2	88	38.3			0	Plus	1254	1e-06
+
+#Chain	mariner_ant1	23-303	Sste_59	201362-202237	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_59/Sste_59.seq	Sste_59	23	303	202237	201362	22.6	36.2	249	100			0	Minus	202781	4e-25
+
+#Chain	mariner	2-56	Sste_6	338657-338821	+	16.0
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_6/Sste_6.seq	Sste_6	2	56	338657	338821	29.1	43.6	109	46.3			0	Plus	1350914	9e-07
+
+#Chain	mariner_ant1	23-303	Sste_6	350309-351184	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_6/Sste_6.seq	Sste_6	23	303	350309	351184	22.6	35.9	249	100			0	Plus	1350914	4e-24
+
+#Chain	mariner_ant1	23-303	Sste_6	1019842-1020717	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_6/Sste_6.seq	Sste_6	23	303	1020717	1019842	22.6	36.2	249	100			0	Minus	1350914	4e-24
+
+#Chain	gypsy	447-1454	Sste_6	1323930-1326176	-	85.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_6/Sste_6.seq	Sste_6	1161	1454	1324907	1323930	20.5	35.2	335	133			0	Minus	1350914	2e-32
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_6/Sste_6.seq	Sste_6	447	552	1326176	1325829	23.7	43.2	109	46.4			0	Minus	1350914	6e-06
+
+#Chain	TY1_Copia	255-303	Sste_607	1021-1167	+	7.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_607/Sste_607.seq	Sste_607	255	303	1021	1167	14.3	40.8	87	38.1			0	Plus	1182	1e-06
+
+#Chain	mariner	51-343	Sste_61	36964-37815	+	52.4
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_61/Sste_61.seq	Sste_61	51	343	36964	37815	17.9	39.1	203	82.5			0	Plus	189368	3e-19
+
+#Chain	gypsy	440-1391	Sste_64	3591-6266	+	179.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	440	1391	3591	6266	18.9	37.3	1017	396			0	Plus	164853	1e-114
+
+#Chain	gypsy	451-1383	Sste_64	19888-22313	-	186.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	1100	1383	20799	19888	18.6	33.3	247	99.6			0	Minus	164853	6e-23
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	699	1155	21669	20344	21.2	42.0	477	188			0	Minus	164853	7e-50
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	451	682	22313	21717	15.8	33.3	135	56.4			0	Minus	164853	7e-10
+
+#Chain	gypsy	446-1371	Sste_64	26161-28728	-	175.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	446	1371	28728	26161	19.0	34.3	493	194			0	Minus	164853	9e-52
+
+#Chain	gypsy	357-1442	Sste_64	37597-40815	-	203.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	357	1442	40815	37597	18.7	36.5	1049	408			0	Minus	164853	1e-118
+
+#Chain	mariner	212-340	Sste_64	45218-45604	-	36.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	212	340	45604	45218	28.5	46.0	191	77.9			0	Minus	164853	8e-18
+
+#Chain	gypsy	1259-1384	Sste_64	52827-53201	-	26.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	1259	1384	53201	52827	21.3	38.6	148	61.4			0	Minus	164853	2e-11
+
+#Chain	piggybac	3-389	Sste_64	54192-55337	-	106.8
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	3	389	55337	54192	27.6	44.7	800	312			0	Minus	164853	4e-96
+
+#Chain	gypsy	384-1457	Sste_64	57069-60356	-	192.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	384	1457	60356	57069	17.9	38.0	1058	411			0	Minus	164853	1e-119
+
+#Chain	gypsy	783-1440	Sste_64	68105-69949	-	161.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	783	1440	69949	68105	24.6	41.7	937	365			0	Minus	164853	1e-104
+
+#Chain	gypsy	567-1368	Sste_64	78433-80646	+	179.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	567	1368	78433	80646	22.4	40.0	1139	443			0	Plus	164853	1e-129
+
+#Chain	piggybac	60-390	Sste_64	92985-94020	+	74.3
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	60	227	92985	93479	24.7	46.0	231	93.2			0	Plus	164853	1e-22
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	227	390	93481	94020	20.0	38.3	242	97.4			0	Plus	164853	6e-24
+
+#Chain	LINE	413-574	Sste_64	96102-96584	-	24.6
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	413	574	96584	96102	15.2	35.2	143	59.5			0	Minus	164853	6e-11
+
+#Chain	gypsy	380-1381	Sste_64	113771-116929	+	179.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	380	1381	113771	116929	17.9	34.5	768	300			0	Plus	164853	2e-84
+
+#Chain	TY1_Copia	540-1624	Sste_64	120113-122827	-	164.2
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	1198	1624	121363	120113	23.7	43.9	462	182			0	Minus	164853	5e-48
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	540	928	122827	121763	16.2	33.4	285	114			0	Minus	164853	2e-27
+
+#Chain	gypsy	441-1463	Sste_64	133632-136884	-	228.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	694	1463	135767	133632	22.7	41.5	1129	439			0	Minus	164853	1e-128
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	556	701	136170	135745	22.8	40.3	216	87.6			0	Minus	164853	2e-19
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	441	548	136884	136546	19.0	39.7	115	48.7			0	Minus	164853	1e-07
+
+#Chain	helitronORF	4-922	Sste_64	140805-143659	-	328.2
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	678	922	141566	140805	27.0	47.7	382	151			0	Minus	164853	8e-39
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	524	690	142060	141527	41.3	55.3	441	174			0	Minus	164853	1e-45
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	416	523	142395	142060	44.9	56.8	339	134			0	Minus	164853	9e-34
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	4	421	143659	142379	34.6	53.8	879	342			0	Minus	164853	4e-98
+
+#Chain	gypsy	629-1294	Sste_64	149582-151332	-	143.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	782	1294	150898	149582	18.3	36.5	443	175			0	Minus	164853	7e-46
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	629	781	151332	150898	32.7	55.6	383	151			0	Minus	164853	7e-39
+
+#Chain	gypsy	365-1463	Sste_64	154455-158129	-	197.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_64/Sste_64.seq	Sste_64	365	1463	158129	154455	18.0	35.3	984	383			0	Minus	164853	1e-110
+
+#Chain	mariner_ant1	192-279	Sste_655	13-294	+	24.4
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_655/Sste_655.seq	Sste_655	192	279	13	294	27.7	45.7	141	58.7			0	Plus	1045	3e-14
+
+#Chain	gypsy	978-1369	Sste_667	9-1016	-	64.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_667/Sste_667.seq	Sste_667	1168	1369	635	9	18.3	37.6	348	138			0	Minus	1019	3e-39
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_667/Sste_667.seq	Sste_667	978	1041	1016	828	42.2	60.9	189	77.2			0	Minus	1019	3e-19
+
+#Chain	P_element	676-763	Sste_669	113-328	+	22.0
+P_element		766	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_669/Sste_669.seq	Sste_669	676	763	113	328	25.0	45.5	80	35.1			0	Plus	1014	4e-06
+
+#Chain	TY1_Copia	297-471	Sste_687	365-937	-	26.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_687/Sste_687.seq	Sste_687	297	471	937	365	15.4	35.9	95	41.2			0	Minus	964	1e-07
+
+#Chain	gypsy	569-725	Sste_69	93830-94291	-	29.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_69/Sste_69.seq	Sste_69	569	725	94291	93830	18.5	36.9	145	60.3			0	Minus	151723	4e-11
+
+#Chain	mariner_ant1	23-303	Sste_7	229355-230230	-	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_7/Sste_7.seq	Sste_7	23	303	230230	229355	22.3	35.5	250	100			0	Minus	1267461	3e-24
+
+#Chain	helitronORF	450-1302	Sste_7	367940-371028	+	256.9
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_7/Sste_7.seq	Sste_7	450	669	367940	368671	32.1	49.2	450	177			0	Plus	1267461	7e-46
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_7/Sste_7.seq	Sste_7	653	953	368894	369895	28.8	47.4	404	159			0	Plus	1267461	2e-40
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_7/Sste_7.seq	Sste_7	970	1302	369958	371028	29.9	49.0	532	209			0	Plus	1267461	2e-55
+
+#Chain	mariner	35-342	Sste_7	1131416-1132345	-	66.5
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_7/Sste_7.seq	Sste_7	35	342	1132345	1131416	21.6	37.4	209	84.8			0	Minus	1267461	3e-19
+
+#Chain	mariner	249-337	Sste_7	1149699-1149983	+	24.6
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_7/Sste_7.seq	Sste_7	249	337	1149699	1149983	27.6	44.9	119	50.1			0	Plus	1267461	5e-08
+
+#Chain	mariner	237-342	Sste_7	1151065-1151406	+	24.9
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_7/Sste_7.seq	Sste_7	237	342	1151065	1151406	23.5	34.8	139	57.8			0	Plus	1267461	2e-10
+
+#Chain	mariner_ant1	23-303	Sste_70	601-1476	+	64.3
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_70/Sste_70.seq	Sste_70	23	303	601	1476	22.9	36.5	253	101			0	Plus	150492	1e-25
+
+#Chain	mariner	3-113	Sste_70	71041-71388	-	24.9
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_70/Sste_70.seq	Sste_70	3	113	71388	71041	22.4	36.2	118	49.8			0	Minus	150492	8e-09
+
+#Chain	mariner_ant1	23-124	Sste_70	150084-150371	+	27.2
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_70/Sste_70.seq	Sste_70	23	124	150084	150371	26.7	37.1	114	48.3			0	Plus	150492	2e-08
+
+#Chain	gypsy	726-1004	Sste_717	94-888	-	56.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_717/Sste_717.seq	Sste_717	726	1004	888	94	20.4	41.9	310	123			0	Minus	888	1e-34
+
+#Chain	LINE	918-1041	Sste_730	121-543	-	26.2
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_730/Sste_730.seq	Sste_730	918	1041	543	121	21.1	35.9	138	57.6			0	Minus	868	3e-13
+
+#Chain	hAT	119-172	Sste_74	122853-123089	-	11.0
+hAT		749	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_74/Sste_74.seq	Sste_74	119	172	123089	122853	20.3	29.1	105	44.9			0	Minus	138839	8e-07
+
+#Chain	mariner_ant1	23-303	Sste_75	39040-39914	+	59.2
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_75/Sste_75.seq	Sste_75	23	115	39040	39300	26.0	37.5	105	44.8			0	Plus	137011	2e-07
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_75/Sste_75.seq	Sste_75	144	303	39408	39914	21.9	38.5	162	66.7			0	Plus	137011	2e-14
+
+#Chain	TY1_Copia	296-490	Sste_75	66032-66553	-	35.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_75/Sste_75.seq	Sste_75	296	490	66553	66032	18.2	35.4	109	46.6			0	Minus	137011	6e-07
+
+#Chain	LINE	224-798	Sste_76	65508-67226	-	92.0
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_76/Sste_76.seq	Sste_76	224	798	67226	65508	16.0	33.6	358	142			0	Minus	133004	3e-36
+
+#Chain	mariner_ant1	23-303	Sste_77	19744-20619	-	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_77/Sste_77.seq	Sste_77	23	303	20619	19744	22.3	35.5	250	100			0	Minus	131695	3e-25
+
+#Chain	piggybac	3-390	Sste_77	124825-125971	-	90.3
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_77/Sste_77.seq	Sste_77	337	390	124983	124825	16.7	51.9	125	52.4			0	Minus	131695	1e-09
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_77/Sste_77.seq	Sste_77	3	345	125971	124958	23.7	45.1	663	259			0	Minus	131695	3e-78
+
+#Chain	ISC1316	38-238	Sste_78	41739-42236	-	30.6
+ISC1316		393	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_78/Sste_78.seq	Sste_78	38	238	42236	41739	15.2	30.9	93	40.2			0	Minus	118773	8e-06
+
+#Chain	gypsy	732-1383	Sste_79	105463-107119	-	94.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_79/Sste_79.seq	Sste_79	1232	1383	105936	105463	14.5	32.7	231	93.4			0	Minus	117748	3e-21
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_79/Sste_79.seq	Sste_79	900	995	106650	106357	33.7	50.5	149	61.8			0	Minus	117748	1e-11
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_79/Sste_79.seq	Sste_79	732	900	107119	106649	23.5	44.7	261	104			0	Minus	117748	9e-25
+
+#Chain	gypsy	573-1368	Sste_79	110426-112560	+	189.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_79/Sste_79.seq	Sste_79	573	981	110426	111586	29.7	48.9	803	313			0	Plus	117748	6e-89
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_79/Sste_79.seq	Sste_79	980	1368	111577	112560	17.4	32.8	448	176			0	Plus	117748	1e-46
+
+#Chain	mariner	8-342	Sste_79	115865-116866	+	62.3
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_79/Sste_79.seq	Sste_79	8	342	115865	116866	18.6	40.1	274	109			0	Plus	117748	4e-28
+
+#Chain	mariner	11-342	Sste_8	175841-176830	-	70.4
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	11	342	176830	175841	21.2	39.4	366	145			0	Minus	935562	8e-39
+
+#Chain	gypsy	1234-1438	Sste_8	189749-190447	-	32.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	1234	1438	190447	189749	15.7	31.0	166	68.4			0	Minus	935562	1e-12
+
+#Chain	gypsy	923-1039	Sste_8	196467-196838	+	26.7
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	923	1039	196467	196838	22.8	39.4	131	54.9			0	Plus	935562	1e-08
+
+#Chain	gypsy	670-1057	Sste_8	202030-203227	+	86.3
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	670	967	202030	202947	22.6	42.5	286	114			0	Plus	935562	9e-27
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	972	1057	202961	203227	22.0	48.4	146	60.7			0	Plus	935562	2e-10
+
+#Chain	piggybac	5-388	Sste_8	204897-206041	-	127.1
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	272	388	205229	204897	24.6	50.0	224	90.5			0	Minus	935562	6e-21
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	125	272	205683	205228	40.1	57.9	365	144			0	Minus	935562	3e-38
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	5	115	206041	205709	35.1	59.5	288	115			0	Minus	935562	1e-28
+
+#Chain	gypsy	1129-1358	Sste_8	206642-207308	+	43.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	1129	1242	206642	206959	14.0	32.5	116	49.1			0	Plus	935562	7e-07
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	1251	1358	206988	207308	25.9	40.7	190	77.6			0	Plus	935562	2e-15
+
+#Chain	mariner	212-289	Sste_8	234213-234449	+	20.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	212	289	234213	234449	26.7	41.9	111	47.1			0	Plus	935562	3e-07
+
+#Chain	mariner_ant1	23-303	Sste_8	468071-468946	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	23	303	468071	468946	22.6	36.2	244	98.3			0	Plus	935562	1e-23
+
+#Chain	mariner	3-114	Sste_8	484753-485106	-	22.4
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	3	114	485106	484753	20.0	35.8	117	49.4			0	Minus	935562	6e-08
+
+#Chain	mariner	191-336	Sste_8	787765-788229	-	29.5
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	191	336	788229	787765	20.2	36.8	151	62.5			0	Minus	935562	5e-12
+
+#Chain	mariner_ant1	23-198	Sste_8	934979-935515	+	38.4
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_8/Sste_8.seq	Sste_8	23	198	934979	935515	21.8	33.0	119	50.2			0	Plus	935562	3e-08
+
+#Chain	gypsy	613-1343	Sste_83	86141-88192	+	136.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_83/Sste_83.seq	Sste_83	613	1343	86141	88192	18.6	37.9	570	223			0	Plus	114850	6e-61
+
+#Chain	LINE	917-1042	Sste_83	88814-89245	+	27.2
+LINE		1189	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_83/Sste_83.seq	Sste_83	917	1042	88814	89245	21.6	37.2	119	50.3			0	Plus	114850	3e-08
+
+#Chain	gypsy	580-1376	Sste_83	105450-107660	+	131.5
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_83/Sste_83.seq	Sste_83	580	1376	105450	107660	16.5	35.9	667	261			0	Plus	114850	2e-72
+
+#Chain	mariner_ant1	23-303	Sste_84	561-1436	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_84/Sste_84.seq	Sste_84	23	303	561	1436	22.6	36.2	252	101			0	Plus	110407	1e-25
+
+#Chain	mariner_ant1	23-303	Sste_84	10002-10877	+	62.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_84/Sste_84.seq	Sste_84	23	303	10002	10877	22.3	35.9	254	102			0	Plus	110407	8e-26
+
+#Chain	gypsy	1234-1341	Sste_84	23790-24116	+	23.5
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_84/Sste_84.seq	Sste_84	1234	1341	23790	24116	21.8	37.3	129	54.1			0	Plus	110407	2e-09
+
+#Chain	gypsy	1204-1338	Sste_84	30961-31356	+	32.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_84/Sste_84.seq	Sste_84	1204	1338	30961	31356	23.7	39.3	145	60.3			0	Plus	110407	3e-11
+
+#Chain	mariner_ant1	23-303	Sste_84	32269-33144	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_84/Sste_84.seq	Sste_84	23	303	32269	33144	22.6	36.2	249	100			0	Plus	110407	3e-25
+
+#Chain	gypsy	372-1463	Sste_84	37644-40712	+	216.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_84/Sste_84.seq	Sste_84	372	1463	37644	40712	19.8	38.1	1132	440			0	Plus	110407	1e-129
+
+#Chain	gypsy	784-1345	Sste_84	45817-47213	-	114.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_84/Sste_84.seq	Sste_84	843	1345	47037	45817	19.6	32.0	573	225			0	Minus	110407	2e-61
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_84/Sste_84.seq	Sste_84	784	843	47213	47034	26.7	43.3	111	47.2			0	Minus	110407	3e-07
+
+#Chain	gypsy	399-1397	Sste_84	50849-53719	+	211.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_84/Sste_84.seq	Sste_84	399	1397	50849	53719	21.2	39.8	1143	444			0	Plus	110407	1e-130
+
+#Chain	TY1_Copia	366-1625	Sste_85	42515-46252	-	294.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_85/Sste_85.seq	Sste_85	366	1625	46252	42515	23.4	40.9	1448	562			0	Minus	110122	1e-167
+
+#Chain	piggybac	77-389	Sste_87	3686-4624	+	67.3
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	77	389	3686	4624	21.5	44.5	540	212			0	Plus	103852	6e-62
+
+#Chain	gypsy	657-1342	Sste_87	17460-19307	+	118.0
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	657	1342	17460	19307	17.2	33.0	397	157			0	Plus	103852	1e-40
+
+#Chain	gypsy	831-1308	Sste_87	29679-30869	+	72.1
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	831	1041	29679	30260	22.3	42.7	283	113			0	Plus	103852	2e-27
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	1150	1216	30413	30613	20.9	37.3	101	43.3			0	Plus	103852	4e-06
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	1241	1308	30666	30869	16.2	36.8	109	46.4			0	Plus	103852	5e-07
+
+#Chain	piggybac	3-386	Sste_87	58008-59188	+	123.2
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	3	304	58008	58946	33.5	52.2	635	248			0	Plus	103852	2e-74
+piggybac		390	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	302	386	58934	59188	25.9	52.9	186	75.9			0	Plus	103852	4e-17
+
+#Chain	hAT	119-706	Sste_87	60929-62656	+	92.3
+hAT		749	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	119	706	60929	62656	15.7	28.5	148	61.4			0	Plus	103852	5e-12
+
+#Chain	mariner	195-340	Sste_87	63444-63899	+	33.6
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	195	340	63444	63899	23.0	41.0	198	80.6			0	Plus	103852	6e-19
+
+#Chain	TY1_Copia	612-1205	Sste_87	88748-90671	-	123.3
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	1078	1205	89095	88748	20.3	45.3	136	57.0			0	Minus	103852	3e-10
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	946	1026	89429	89193	24.7	48.1	99	42.7			0	Minus	103852	7e-06
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	612	924	90671	89766	24.7	41.8	401	159			0	Minus	103852	4e-41
+
+#Chain	helitronORF	940-1209	Sste_87	92346-93138	-	86.8
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	1020	1209	92903	92346	29.4	50.8	311	124			0	Minus	103852	1e-30
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	940	1018	93138	92905	39.2	59.5	186	75.9			0	Minus	103852	5e-16
+
+#Chain	gypsy	1226-1463	Sste_87	103057-103830	-	45.2
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_87/Sste_87.seq	Sste_87	1226	1463	103830	103057	19.0	33.0	267	107			0	Minus	103852	2e-25
+
+#Chain	mariner_ant1	23-303	Sste_9	328382-329257	+	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_9/Sste_9.seq	Sste_9	23	303	328382	329257	22.6	36.2	249	100			0	Plus	912598	3e-24
+
+#Chain	gypsy	299-428	Sste_9	516456-516866	-	20.4
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_9/Sste_9.seq	Sste_9	299	428	516866	516456	15.7	31.4	106	45.2			0	Minus	912598	9e-06
+
+#Chain	mariner_ant1	23-303	Sste_9	712790-713665	-	63.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_9/Sste_9.seq	Sste_9	23	303	713665	712790	22.6	36.2	249	100			0	Minus	912598	3e-24
+
+#Chain	gypsy	621-1098	Sste_93	62743-64412	-	96.8
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_93/Sste_93.seq	Sste_93	741	1098	63876	62743	18.4	37.7	220	89.2			0	Minus	83356	4e-20
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_93/Sste_93.seq	Sste_93	621	766	64412	63975	21.2	42.9	151	62.6			0	Minus	83356	5e-12
+
+#Chain	mariner	242-308	Sste_95	10210-10434	+	16.8
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_95/Sste_95.seq	Sste_95	242	308	10210	10434	25.0	40.8	103	44.0			0	Plus	73723	2e-07
+
+#Chain	MuDR_A_B	642-735	Sste_95	17851-18078	+	17.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_95/Sste_95.seq	Sste_95	642	735	17851	18078	18.1	37.2	97	41.9			0	Plus	73723	5e-06
+
+#Chain	helitronORF	209-1321	Sste_95	26370-29930	+	337.2
+helitronORF		1321	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_95/Sste_95.seq	Sste_95	209	1321	26370	29930	30.3	49.3	1832	709			0	Plus	73723	0.0
+
+#Chain	gypsy	1213-1381	Sste_96	59-577	+	44.6
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_96/Sste_96.seq	Sste_96	1213	1381	59	577	26.4	41.0	267	107			0	Plus	71995	1e-25
+
+#Chain	gypsy	1183-1363	Sste_96	6757-7308	+	31.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_96/Sste_96.seq	Sste_96	1183	1363	6757	7308	17.6	33.0	192	78.4			0	Plus	71995	7e-17
+
+#Chain	mariner	8-344	Sste_96	9296-10303	-	63.0
+mariner		345	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_96/Sste_96.seq	Sste_96	8	344	10303	9296	18.7	37.3	236	95.2			0	Minus	71995	9e-24
+
+#Chain	gypsy	1204-1384	Sste_96	31035-31587	-	43.7
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_96/Sste_96.seq	Sste_96	1309	1384	31277	31035	28.4	39.5	124	52.2			0	Minus	71995	6e-09
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_96/Sste_96.seq	Sste_96	1204	1302	31587	31294	22.3	37.9	125	52.6			0	Minus	71995	4e-09
+
+#Chain	gypsy	674-1367	Sste_96	40618-42470	-	92.5
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_96/Sste_96.seq	Sste_96	1277	1367	40887	40618	18.7	42.9	144	59.9			0	Minus	71995	3e-11
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_96/Sste_96.seq	Sste_96	674	1041	42470	41349	20.5	41.3	421	166			0	Minus	71995	1e-43
+
+#Chain	gypsy	331-1463	Sste_96	60096-63362	+	203.9
+gypsy		1463	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_96/Sste_96.seq	Sste_96	331	1463	60096	63362	18.0	35.3	855	333			0	Plus	71995	3e-95
+
+#Chain	TY1_Copia	701-962	Sste_97	70921-71697	-	52.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.6748.Amirs-PC.tmp/Sste_97/Sste_97.seq	Sste_97	701	962	71697	70921	20.2	34.5	159	65.8			0	Minus	71699	5e-13
+

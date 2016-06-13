@@ -1,0 +1,481 @@
+#Chain	ISC1316	208-258	Eela_1218	5556-5723	+	10.0
+ISC1316		393	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1218/Eela_1218.seq	Eela_1218	208	258	5556	5723	19.6	35.7	88	38.2			0	Plus	19774	5e-06
+
+#Chain	ltr_Roo	664-1725	Eela_1258	7434-9348	-	142.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1258/Eela_1258.seq	Eela_1258	1669	1725	7622	7434	27.0	44.4	131	54.8			0	Minus	19290	4e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1258/Eela_1258.seq	Eela_1258	1156	1249	8041	7760	27.4	52.6	182	74.5			0	Minus	19290	5e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1258/Eela_1258.seq	Eela_1258	905	1157	8769	8032	19.2	37.0	261	104			0	Minus	19290	3e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1258/Eela_1258.seq	Eela_1258	808	856	8893	8747	36.7	63.3	140	58.3			0	Minus	19290	4e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1258/Eela_1258.seq	Eela_1258	664	806	9348	8896	24.3	46.7	222	89.9			0	Minus	19290	1e-20
+
+#Chain	ltr_Roo	1380-1500	Eela_128	7-357	+	30.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_128/Eela_128.seq	Eela_128	1380	1500	7	357	25.2	44.7	164	67.5			0	Plus	66569	2e-13
+
+#Chain	ltr_Roo	1483-1518	Eela_1292	13733-13840	+	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1292/Eela_1292.seq	Eela_1292	1483	1518	13733	13840	36.1	61.1	127	53.3			0	Plus	18843	1e-09
+
+#Chain	ltr_Roo	230-339	Eela_1292	15800-16072	+	26.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1292/Eela_1292.seq	Eela_1292	230	339	15800	16072	23.6	36.4	146	60.6			0	Plus	18843	7e-12
+
+#Chain	ltr_Roo	762-1170	Eela_1292	17596-18841	+	100.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1292/Eela_1292.seq	Eela_1292	762	1015	17596	18372	21.1	46.4	498	196			0	Plus	18843	7e-53
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1292/Eela_1292.seq	Eela_1292	1013	1170	18374	18841	29.8	46.6	224	90.6			0	Plus	18843	6e-21
+
+#Chain	ltr_Roo	1402-1474	Eela_1322	15315-15560	-	19.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1322/Eela_1322.seq	Eela_1322	1402	1474	15560	15315	26.5	37.3	125	52.5			0	Minus	18439	2e-09
+
+#Chain	ltr_Roo	762-889	Eela_1356	1535-1957	-	26.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1356/Eela_1356.seq	Eela_1356	762	889	1957	1535	20.6	39.0	205	83.3			0	Minus	18037	9e-19
+
+#Chain	ltr_Roo	1400-1548	Eela_1474	2075-2516	+	40.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1474/Eela_1474.seq	Eela_1474	1400	1439	2075	2194	25.0	52.5	111	47.1			0	Plus	16564	7e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1474/Eela_1474.seq	Eela_1474	1441	1548	2202	2516	28.4	48.6	218	88.3			0	Plus	16564	2e-20
+
+#Chain	cacta	752-777	Eela_1589	2717-2794	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1589/Eela_1589.seq	Eela_1589	752	777	2717	2794	76.9	76.9	91	39.4			0	Plus	15375	7e-06
+
+#Chain	ltr_Roo	234-307	Eela_1688	11270-11482	-	16.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1688/Eela_1688.seq	Eela_1688	234	307	11482	11270	21.6	37.8	102	43.6			0	Minus	14456	7e-07
+
+#Chain	ltr_Roo	987-1053	Eela_1775	13055-13276	+	13.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1775/Eela_1775.seq	Eela_1775	987	1053	13055	13276	20.3	41.9	112	47.5			0	Plus	13780	5e-08
+
+#Chain	ltr_Roo	1585-1733	Eela_1825	11317-11808	-	35.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1825/Eela_1825.seq	Eela_1825	1585	1733	11808	11317	24.1	42.8	186	76.0			0	Minus	13403	9e-17
+
+#Chain	ltr_Roo	227-311	Eela_1852	10540-10782	-	22.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1852/Eela_1852.seq	Eela_1852	227	311	10782	10540	25.9	43.5	107	45.6			0	Minus	13106	2e-07
+
+#Chain	ltr_Roo	1018-1064	Eela_1852	12614-12754	+	15.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1852/Eela_1852.seq	Eela_1852	1018	1064	12614	12754	31.9	53.2	114	48.3			0	Plus	13106	3e-08
+
+#Chain	mariner	3-53	Eela_1871	7417-7569	-	12.0
+mariner		345	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_1871/Eela_1871.seq	Eela_1871	3	53	7569	7417	23.5	35.3	91	39.4			0	Minus	13000	1e-06
+
+#Chain	ltr_Roo	718-1736	Eela_2	2169-5276	-	200.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2/Eela_2.seq	Eela_2	1672	1736	2372	2169	29.4	55.9	123	51.7			0	Minus	193607	4e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2/Eela_2.seq	Eela_2	1580	1677	2676	2374	25.2	41.7	104	44.4			0	Minus	193607	6e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2/Eela_2.seq	Eela_2	1324	1577	3455	2685	20.5	41.8	243	98.0			0	Minus	193607	4e-22
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2/Eela_2.seq	Eela_2	1088	1249	4161	3694	27.3	47.9	201	81.8			0	Minus	193607	3e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2/Eela_2.seq	Eela_2	876	1044	4774	4283	17.0	42.1	242	97.6			0	Minus	193607	5e-22
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2/Eela_2.seq	Eela_2	718	871	5276	4806	20.7	44.4	140	58.3			0	Minus	193607	4e-10
+
+#Chain	ltr_Roo	722-1238	Eela_2147	4161-5525	-	82.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2147/Eela_2147.seq	Eela_2147	1019	1238	4811	4161	19.8	37.5	148	61.4			0	Minus	10992	2e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2147/Eela_2147.seq	Eela_2147	722	840	5525	5154	32.3	49.2	208	84.5			0	Minus	10992	2e-19
+
+#Chain	cacta	753-775	Eela_2185	10724-10792	-	20.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2185/Eela_2185.seq	Eela_2185	753	775	10792	10724	87.0	87.0	95	41.0			0	Minus	10792	2e-06
+
+#Chain	ltr_Roo	936-1143	Eela_2231	2266-2849	+	47.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2231/Eela_2231.seq	Eela_2231	936	977	2266	2391	16.7	45.2	98	42.1			0	Plus	10414	1e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2231/Eela_2231.seq	Eela_2231	1013	1143	2475	2849	30.5	47.3	182	74.5			0	Plus	10414	2e-16
+
+#Chain	ISC1316	99-308	Eela_2322	6277-6777	+	35.9
+ISC1316		393	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2322/Eela_2322.seq	Eela_2322	99	308	6277	6777	17.1	28.6	92	39.8			0	Plus	9713	8e-07
+
+#Chain	cacta	753-786	Eela_2359	7044-7145	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2359/Eela_2359.seq	Eela_2359	753	786	7044	7145	67.6	67.6	100	42.9			0	Plus	9515	4e-07
+
+#Chain	cacta	753-780	Eela_2359	7158-7250	+	20.8
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2359/Eela_2359.seq	Eela_2359	753	780	7158	7250	74.2	74.2	99	42.5			0	Plus	9515	5e-07
+
+#Chain	cacta	753-784	Eela_2359	7269-7364	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2359/Eela_2359.seq	Eela_2359	753	784	7269	7364	71.9	71.9	96	41.4			0	Plus	9515	1e-06
+
+#Chain	cacta	753-779	Eela_2359	7368-7466	+	19.6
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2359/Eela_2359.seq	Eela_2359	753	779	7368	7466	72.7	72.7	94	40.6			0	Plus	9515	2e-06
+
+#Chain	ltr_Roo	774-1408	Eela_2400	7122-9114	+	120.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2400/Eela_2400.seq	Eela_2400	774	917	7122	7613	22.0	43.9	299	119			0	Plus	9250	5e-30
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2400/Eela_2400.seq	Eela_2400	919	976	7613	7771	13.8	41.4	112	47.5			0	Plus	9250	3e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2400/Eela_2400.seq	Eela_2400	988	1065	7786	8040	32.6	50.0	141	58.7			0	Plus	9250	1e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2400/Eela_2400.seq	Eela_2400	1094	1298	8118	8762	19.3	35.2	153	63.3			0	Plus	9250	5e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2400/Eela_2400.seq	Eela_2400	1353	1408	8944	9114	28.1	49.1	107	45.6			0	Plus	9250	1e-07
+
+#Chain	gypsy	229-373	Eela_2519	4868-5350	-	31.5
+gypsy		1463	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2519/Eela_2519.seq	Eela_2519	229	373	5350	4868	21.7	29.2	110	46.8			0	Minus	8696	3e-08
+
+#Chain	ltr_Roo	755-839	Eela_2564	8041-8310	-	25.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2564/Eela_2564.seq	Eela_2564	755	839	8310	8041	29.7	49.5	170	69.8			0	Minus	8425	5e-15
+
+#Chain	ltr_Roo	1451-1692	Eela_26	4007-4719	-	54.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_26/Eela_26.seq	Eela_26	1515	1692	4540	4007	21.6	37.1	143	59.4			0	Minus	108050	9e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_26/Eela_26.seq	Eela_26	1451	1514	4719	4540	25.0	43.8	121	51.0			0	Minus	108050	3e-08
+
+#Chain	TY1_Copia	282-588	Eela_2611	8077-8256	+	32.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2611/Eela_2611.seq	Eela_2611	282	345	8077	8256	29.2	46.2	119	50.4			0	Plus	8279	2e-09
+TY1_Copia		1643	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2611/Eela_2611.seq	Eela_2611	548	588	8080	8202	34.1	41.5	92	40.0			0	Plus	8279	4e-06
+
+#Chain	ltr_Roo	1328-1427	Eela_2620	3449-3739	-	25.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2620/Eela_2620.seq	Eela_2620	1328	1427	3739	3449	25.7	47.5	132	55.2			0	Minus	8223	1e-10
+
+#Chain	ltr_Roo	704-861	Eela_2620	5063-5523	-	29.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2620/Eela_2620.seq	Eela_2620	816	861	5200	5063	23.9	54.3	99	42.5			0	Minus	8223	9e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2620/Eela_2620.seq	Eela_2620	704	779	5523	5299	24.7	44.2	112	47.5			0	Minus	8223	3e-08
+
+#Chain	ltr_Roo	631-1092	Eela_2640	6611-7923	+	74.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2640/Eela_2640.seq	Eela_2640	631	946	6611	7519	14.5	31.4	118	49.8			0	Plus	8133	5e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2640/Eela_2640.seq	Eela_2640	962	1092	7555	7923	22.1	42.7	166	68.3			0	Plus	8133	1e-14
+
+#Chain	ltr_Roo	887-1757	Eela_2662	774-2835	-	68.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2662/Eela_2662.seq	Eela_2662	1688	1757	986	774	32.4	50.7	102	43.6			0	Minus	8054	4e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2662/Eela_2662.seq	Eela_2662	1478	1525	1659	1516	30.6	53.1	104	44.4			0	Minus	8054	2e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2662/Eela_2662.seq	Eela_2662	887	1045	2835	2365	19.5	42.1	197	80.2			0	Minus	8054	3e-18
+
+#Chain	ltr_Roo	773-817	Eela_2672	7640-7789	-	14.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2672/Eela_2672.seq	Eela_2672	773	817	7789	7640	32.0	46.0	108	46.0			0	Minus	8012	8e-08
+
+#Chain	gypsy	1114-1376	Eela_2776	3208-4014	+	51.0
+gypsy		1463	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2776/Eela_2776.seq	Eela_2776	1114	1376	3208	4014	19.4	34.1	222	89.9			0	Plus	7573	2e-21
+
+#Chain	ltr_Roo	730-840	Eela_2786	6514-6849	-	25.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2786/Eela_2786.seq	Eela_2786	730	840	6849	6514	22.8	40.4	127	53.3			0	Minus	7543	4e-10
+
+#Chain	ltr_Roo	738-832	Eela_2800	4100-4354	+	19.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_2800/Eela_2800.seq	Eela_2800	738	832	4100	4354	21.0	38.0	126	52.9			0	Plus	7434	6e-10
+
+#Chain	hAT	638-687	Eela_300	15370-15519	+	16.0
+hAT		749	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_300/Eela_300.seq	Eela_300	638	687	15370	15519	32.0	52.0	118	49.9			0	Plus	47171	8e-09
+
+#Chain	ltr_Roo	208-314	Eela_3052	63-395	+	26.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3052/Eela_3052.seq	Eela_3052	208	314	63	395	24.8	42.5	176	72.1			0	Plus	6559	7e-16
+
+#Chain	ltr_Roo	1390-1535	Eela_309	14503-14922	-	38.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_309/Eela_309.seq	Eela_309	1390	1535	14922	14503	26.5	44.2	254	102			0	Minus	46785	5e-24
+
+#Chain	ltr_Roo	720-1730	Eela_3118	900-3419	-	130.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3118/Eela_3118.seq	Eela_3118	1629	1730	1253	900	23.7	42.4	132	55.2			0	Minus	6327	9e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3118/Eela_3118.seq	Eela_3118	1413	1627	1864	1253	27.3	43.5	313	124			0	Minus	6327	6e-32
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3118/Eela_3118.seq	Eela_3118	937	1012	2835	2623	15.8	36.8	108	46.0			0	Minus	6327	6e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3118/Eela_3118.seq	Eela_3118	720	943	3419	2814	16.1	40.0	219	88.7			0	Minus	6327	6e-21
+
+#Chain	cacta	749-785	Eela_3158	2764-2877	+	19.4
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3158/Eela_3158.seq	Eela_3158	749	785	2764	2877	52.5	57.5	88	38.3			0	Plus	6205	6e-06
+
+#Chain	gypsy	296-432	Eela_3174	5221-5676	+	18.1
+gypsy		1463	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3174/Eela_3174.seq	Eela_3174	296	432	5221	5676	13.2	30.3	111	47.2			0	Plus	6155	2e-08
+
+#Chain	ltr_Roo	853-1464	Eela_3282	421-1945	+	72.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3282/Eela_3282.seq	Eela_3282	853	1182	421	1266	17.8	33.5	202	82.2			0	Plus	5882	5e-19
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3282/Eela_3282.seq	Eela_3282	1408	1464	1772	1945	24.1	44.8	93	40.2			0	Plus	5882	3e-06
+
+#Chain	ltr_Roo	230-1692	Eela_3288	838-5385	+	248.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3288/Eela_3288.seq	Eela_3288	230	398	838	1314	19.3	40.9	167	68.7			0	Plus	5853	7e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3288/Eela_3288.seq	Eela_3288	485	639	1666	2214	21.0	34.9	91	39.4			0	Plus	5853	5e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3288/Eela_3288.seq	Eela_3288	690	862	2420	2965	25.7	47.5	312	124			0	Plus	5853	8e-32
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3288/Eela_3288.seq	Eela_3288	865	1005	2971	3438	15.3	34.4	116	49.0			0	Plus	5853	6e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3288/Eela_3288.seq	Eela_3288	1029	1219	3501	4067	29.5	49.2	312	124			0	Plus	5853	8e-32
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3288/Eela_3288.seq	Eela_3288	1422	1692	4663	5385	22.6	38.2	380	150			0	Plus	5853	9e-40
+
+#Chain	ltr_Roo	785-854	Eela_3311	118-327	-	26.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3311/Eela_3311.seq	Eela_3311	785	854	327	118	37.1	60.0	193	78.7			0	Minus	5781	6e-18
+
+#Chain	ltr_Roo	1271-1516	Eela_3311	1369-2105	-	59.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3311/Eela_3311.seq	Eela_3311	1421	1516	1647	1369	29.9	47.4	196	79.9			0	Minus	5781	3e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3311/Eela_3311.seq	Eela_3311	1271	1426	2105	1629	20.0	38.3	161	66.4			0	Minus	5781	4e-14
+
+#Chain	ISC1316	86-163	Eela_332	17180-17431	-	14.8
+ISC1316		393	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_332/Eela_332.seq	Eela_332	86	163	17431	17180	19.0	34.5	91	39.4			0	Minus	45807	5e-06
+
+#Chain	ltr_Roo	1141-1736	Eela_3365	3545-5354	+	74.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3365/Eela_3365.seq	Eela_3365	1141	1220	3545	3787	20.5	48.2	104	44.4			0	Plus	5614	2e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3365/Eela_3365.seq	Eela_3365	1383	1581	4294	4857	17.9	38.6	190	77.5			0	Plus	5614	1e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3365/Eela_3365.seq	Eela_3365	1669	1736	5133	5354	32.4	51.4	160	66.0			0	Plus	5614	4e-14
+
+#Chain	ISC1316	221-301	Eela_358	34489-34743	-	13.4
+ISC1316		393	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_358/Eela_358.seq	Eela_358	221	301	34743	34489	16.5	32.9	92	39.8			0	Minus	43864	4e-06
+
+#Chain	ltr_Roo	689-1621	Eela_36	73648-76100	-	170.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_36/Eela_36.seq	Eela_36	1461	1621	74106	73648	28.5	41.8	273	109			0	Minus	100527	6e-26
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_36/Eela_36.seq	Eela_36	1355	1423	74431	74222	25.7	44.3	114	48.3			0	Minus	100527	2e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_36/Eela_36.seq	Eela_36	689	1140	76100	74787	23.7	40.9	542	213			0	Minus	100527	3e-57
+
+#Chain	ltr_Roo	235-291	Eela_3634	1165-1332	-	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3634/Eela_3634.seq	Eela_3634	235	291	1332	1165	31.6	52.6	137	57.1			0	Minus	4891	2e-11
+
+#Chain	ltr_Roo	721-1298	Eela_3667	372-2057	-	68.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3667/Eela_3667.seq	Eela_3667	1081	1298	1031	372	19.2	40.6	175	71.8			0	Minus	4826	7e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3667/Eela_3667.seq	Eela_3667	935	992	1405	1247	20.7	39.7	97	41.7			0	Minus	4826	9e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3667/Eela_3667.seq	Eela_3667	721	780	2057	1875	24.6	44.3	109	46.3			0	Minus	4826	3e-08
+
+#Chain	ltr_Roo	763-1065	Eela_3674	314-1177	-	51.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3674/Eela_3674.seq	Eela_3674	763	1065	1177	314	17.0	34.3	175	71.8			0	Minus	4812	7e-16
+
+#Chain	ltr_Roo	918-1620	Eela_3698	1068-2667	+	81.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3698/Eela_3698.seq	Eela_3698	918	1042	1068	1409	17.6	37.6	110	46.7			0	Plus	4762	2e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3698/Eela_3698.seq	Eela_3698	1385	1620	2017	2667	25.2	42.4	343	136			0	Plus	4762	1e-35
+
+#Chain	ltr_Roo	1391-1450	Eela_3745	1421-1609	-	15.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3745/Eela_3745.seq	Eela_3745	1391	1450	1609	1421	25.4	50.8	110	46.7			0	Minus	4653	3e-08
+
+#Chain	ltr_Roo	713-1143	Eela_3863	2765-3969	+	82.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3863/Eela_3863.seq	Eela_3863	713	902	2765	3349	20.2	37.9	191	77.9			0	Plus	4408	8e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3863/Eela_3863.seq	Eela_3863	917	1143	3391	3969	19.6	38.3	197	80.2			0	Plus	4408	2e-18
+
+#Chain	ltr_Roo	234-280	Eela_3877	3761-3898	+	16.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3877/Eela_3877.seq	Eela_3877	234	280	3761	3898	34.0	46.8	97	41.7			0	Plus	4382	8e-07
+
+#Chain	ltr_Roo	1483-1535	Eela_3888	2800-2949	+	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3888/Eela_3888.seq	Eela_3888	1483	1535	2800	2949	34.0	54.7	109	46.3			0	Plus	4362	3e-08
+
+#Chain	gypsy	313-392	Eela_3950	644-859	-	18.0
+gypsy		1463	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_3950/Eela_3950.seq	Eela_3950	313	392	859	644	22.5	36.2	88	38.3			0	Minus	4236	5e-06
+
+#Chain	MuDR_A_B	655-709	Eela_4041	1043-1222	+	9.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4041/Eela_4041.seq	Eela_4041	655	709	1043	1222	18.0	37.7	90	39.2			0	Plus	4071	2e-06
+
+#Chain	MuDR_A_B	621-813	Eela_4043	3098-3706	+	27.4
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4043/Eela_4043.seq	Eela_4043	621	813	3098	3706	14.2	27.8	88	38.4			0	Plus	4066	3e-06
+
+#Chain	cacta	753-784	Eela_4045	168-263	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4045/Eela_4045.seq	Eela_4045	753	784	168	263	78.1	81.2	115	48.7			0	Plus	4050	3e-09
+
+#Chain	ltr_Roo	1501-1775	Eela_41	60582-61385	-	55.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_41/Eela_41.seq	Eela_41	1501	1775	61385	60582	20.3	35.5	174	71.4			0	Minus	97852	2e-14
+
+#Chain	ltr_Roo	710-1220	Eela_41	62172-63760	-	93.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_41/Eela_41.seq	Eela_41	1119	1220	62465	62172	23.8	45.7	125	52.5			0	Minus	97852	1e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_41/Eela_41.seq	Eela_41	710	1111	63760	62486	17.2	36.1	298	119			0	Minus	97852	8e-29
+
+#Chain	ltr_Roo	852-1120	Eela_4107	154-869	+	37.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4107/Eela_4107.seq	Eela_4107	852	954	154	465	13.0	35.2	130	54.4			0	Plus	3933	9e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4107/Eela_4107.seq	Eela_4107	1018	1120	603	869	23.1	39.8	98	42.1			0	Plus	3933	5e-07
+
+#Chain	ltr_Roo	917-1369	Eela_4154	1-1343	-	104.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4154/Eela_4154.seq	Eela_4154	1088	1369	852	1	25.2	45.7	363	144			0	Minus	3839	4e-38
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4154/Eela_4154.seq	Eela_4154	917	1075	1343	861	21.1	40.4	214	86.8			0	Minus	3839	1e-20
+
+#Chain	ltr_Roo	900-1005	Eela_4191	375-677	-	20.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4191/Eela_4191.seq	Eela_4191	900	1005	677	375	18.9	41.5	141	58.7			0	Minus	3772	5e-12
+
+#Chain	cacta	753-775	Eela_4196	3-71	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4196/Eela_4196.seq	Eela_4196	753	775	3	71	87.0	87.0	92	39.8			0	Plus	3763	1e-06
+
+#Chain	ltr_Roo	1119-1286	Eela_4360	2552-3052	+	39.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4360/Eela_4360.seq	Eela_4360	1119	1286	2552	3052	23.3	39.2	130	54.4			0	Plus	3465	8e-11
+
+#Chain	ltr_Roo	1059-1124	Eela_4479	1966-2136	-	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4479/Eela_4479.seq	Eela_4479	1059	1124	2136	1966	25.8	39.4	92	39.8			0	Minus	3271	2e-06
+
+#Chain	gypsy	296-407	Eela_456	31145-31477	+	16.8
+gypsy		1463	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_456/Eela_456.seq	Eela_456	296	407	31145	31477	15.0	31.7	117	49.5			0	Plus	38785	2e-08
+
+#Chain	ltr_Roo	246-870	Eela_4607	299-2336	+	121.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4607/Eela_4607.seq	Eela_4607	246	803	299	2125	18.0	34.5	253	101			0	Plus	3112	2e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4607/Eela_4607.seq	Eela_4607	808	870	2148	2336	33.3	55.6	180	73.7			0	Plus	3112	1e-16
+
+#Chain	LINE	266-357	Eela_4798	110-385	-	15.0
+LINE		1189	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4798/Eela_4798.seq	Eela_4798	266	357	385	110	16.3	29.3	103	44.1			0	Minus	2873	4e-08
+
+#Chain	ISC1316	213-296	Eela_4909	326-556	+	13.5
+ISC1316		393	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4909/Eela_4909.seq	Eela_4909	213	296	326	556	16.1	35.6	80	35.2			0	Plus	2708	5e-06
+
+#Chain	ltr_Roo	1023-1212	Eela_4987	364-740	+	30.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4987/Eela_4987.seq	Eela_4987	1023	1088	364	576	25.4	42.3	101	43.3			0	Plus	2618	1e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_4987/Eela_4987.seq	Eela_4987	1165	1212	606	740	29.2	54.2	107	45.6			0	Plus	2618	3e-08
+
+#Chain	cacta	756-778	Eela_5026	2496-2564	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5026/Eela_5026.seq	Eela_5026	756	778	2496	2564	87.0	87.0	104	44.5			0	Plus	2565	3e-08
+
+#Chain	cacta	753-786	Eela_504	25145-25246	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_504/Eela_504.seq	Eela_504	753	786	25145	25246	67.6	70.6	106	45.2			0	Plus	36644	3e-07
+
+#Chain	cacta	753-786	Eela_504	25400-25504	+	23.3
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_504/Eela_504.seq	Eela_504	753	786	25400	25504	68.6	68.6	108	46.0			0	Plus	36644	2e-07
+
+#Chain	cacta	753-784	Eela_5076	12-119	-	21.3
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5076/Eela_5076.seq	Eela_5076	753	784	119	12	66.7	66.7	95	41.0			0	Minus	2502	3e-07
+
+#Chain	ISC1316	198-255	Eela_5143	1713-1883	+	15.0
+ISC1316		393	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5143/Eela_5143.seq	Eela_5143	198	255	1713	1883	25.9	44.8	80	35.2			0	Plus	2416	5e-06
+
+#Chain	ltr_Roo	230-370	Eela_5205	1918-2310	+	24.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5205/Eela_5205.seq	Eela_5205	230	370	1918	2310	17.5	37.8	158	65.2			0	Plus	2330	2e-14
+
+#Chain	hAT	123-172	Eela_5232	164-307	-	16.0
+hAT		749	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5232/Eela_5232.seq	Eela_5232	123	172	307	164	32.0	56.0	115	48.7			0	Minus	2293	7e-10
+
+#Chain	hAT	87-172	Eela_5232	724-975	-	22.0
+hAT		749	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5232/Eela_5232.seq	Eela_5232	87	172	975	724	25.6	44.2	136	56.8			0	Minus	2293	2e-12
+
+#Chain	ltr_Roo	1463-1543	Eela_5315	1716-1979	+	19.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5315/Eela_5315.seq	Eela_5315	1463	1543	1716	1979	24.4	42.2	106	45.2			0	Plus	2176	3e-08
+
+#Chain	ltr_Roo	735-1298	Eela_5443	160-1848	-	92.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5443/Eela_5443.seq	Eela_5443	987	1298	1104	160	19.8	35.1	218	88.3			0	Minus	2037	1e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5443/Eela_5443.seq	Eela_5443	832	894	1556	1353	17.6	54.4	113	47.9			0	Minus	2037	4e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5443/Eela_5443.seq	Eela_5443	735	810	1848	1615	25.9	45.7	138	57.5			0	Minus	2037	5e-12
+
+#Chain	ltr_Roo	755-1062	Eela_5572	954-1880	+	57.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5572/Eela_5572.seq	Eela_5572	755	1062	954	1880	18.8	39.5	377	149			0	Plus	1932	5e-41
+
+#Chain	ltr_Roo	1639-1780	Eela_570	11037-11510	-	28.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_570/Eela_570.seq	Eela_570	1639	1780	11510	11037	20.1	34.8	113	47.9			0	Minus	34017	9e-08
+
+#Chain	ltr_Roo	806-901	Eela_570	15999-16271	-	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_570/Eela_570.seq	Eela_570	806	901	16271	15999	18.8	35.6	96	41.3			0	Minus	34017	9e-06
+
+#Chain	cacta	697-780	Eela_5714	1557-1790	+	27.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5714/Eela_5714.seq	Eela_5714	697	780	1557	1790	32.2	42.2	115	48.7			0	Plus	1791	1e-09
+
+#Chain	ltr_Roo	896-997	Eela_5748	1107-1415	-	14.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5748/Eela_5748.seq	Eela_5748	896	997	1415	1107	13.8	38.5	88	38.2			0	Minus	1762	3e-06
+
+#Chain	LINE	984-1037	Eela_582	3707-3868	+	15.0
+LINE		1189	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_582/Eela_582.seq	Eela_582	984	1037	3707	3868	27.8	40.7	98	42.2			0	Plus	33321	2e-06
+
+#Chain	ltr_Roo	1483-1566	Eela_5825	156-386	+	20.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5825/Eela_5825.seq	Eela_5825	1483	1566	156	386	24.7	44.7	116	49.0			0	Plus	1689	1e-09
+
+#Chain	ltr_Roo	265-324	Eela_5971	373-549	-	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_5971/Eela_5971.seq	Eela_5971	265	324	549	373	21.7	40.0	92	39.8			0	Minus	1573	9e-07
+
+#Chain	ltr_Roo	771-826	Eela_6070	1314-1481	+	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6070/Eela_6070.seq	Eela_6070	771	826	1314	1481	32.1	51.8	105	44.8			0	Plus	1487	2e-08
+
+#Chain	ltr_Roo	1513-1764	Eela_6099	664-1384	-	49.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6099/Eela_6099.seq	Eela_6099	1717	1764	810	664	30.6	57.1	95	40.9			0	Minus	1470	3e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6099/Eela_6099.seq	Eela_6099	1513	1699	1384	872	18.5	34.4	149	61.7			0	Minus	1470	1e-13
+
+#Chain	ltr_Roo	230-277	Eela_6152	965-1105	-	16.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6152/Eela_6152.seq	Eela_6152	230	277	1105	965	33.3	50.0	101	43.3			0	Minus	1429	6e-08
+
+#Chain	ISC1316	216-257	Eela_6207	1089-1214	+	8.0
+ISC1316		393	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6207/Eela_6207.seq	Eela_6207	216	257	1089	1214	19.0	33.3	88	38.2			0	Plus	1381	3e-07
+
+#Chain	gypsy	1215-1382	Eela_6209	744-1280	+	25.4
+gypsy		1463	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6209/Eela_6209.seq	Eela_6209	1215	1382	744	1280	15.1	27.6	126	53.0			0	Plus	1380	4e-11
+
+#Chain	gypsy	285-422	Eela_6214	873-1262	-	19.5
+gypsy		1463	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6214/Eela_6214.seq	Eela_6214	285	422	1262	873	14.1	25.4	87	37.9			0	Minus	1376	2e-06
+
+#Chain	TY1_Copia	182-326	Eela_626	7302-7718	-	29.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_626/Eela_626.seq	Eela_626	182	326	7718	7302	20.1	34.9	101	43.5			0	Minus	31787	1e-06
+
+#Chain	ltr_Roo	749-1031	Eela_6313	140-949	-	43.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6313/Eela_6313.seq	Eela_6313	749	1031	949	140	15.5	36.5	190	77.5			0	Minus	1302	1e-18
+
+#Chain	ltr_Roo	753-1109	Eela_6381	175-1252	-	80.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6381/Eela_6381.seq	Eela_6381	1040	1109	378	175	24.7	39.5	83	36.3			0	Minus	1254	7e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6381/Eela_6381.seq	Eela_6381	882	1043	839	366	19.4	45.5	228	92.2			0	Minus	1254	2e-23
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6381/Eela_6381.seq	Eela_6381	753	874	1252	866	26.4	50.4	279	111			0	Minus	1254	8e-30
+
+#Chain	ltr_Roo	1485-1533	Eela_6489	667-816	+	17.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6489/Eela_6489.seq	Eela_6489	1485	1533	667	816	36.0	56.0	93	40.2			0	Plus	1184	4e-07
+
+#Chain	ltr_Roo	1119-1491	Eela_6524	3-1026	-	38.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6524/Eela_6524.seq	Eela_6524	1412	1491	233	3	27.2	44.4	169	69.4			0	Minus	1162	3e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6524/Eela_6524.seq	Eela_6524	1119	1181	1026	838	26.6	48.4	113	47.9			0	Minus	1162	2e-09
+
+#Chain	ltr_Roo	1360-1689	Eela_6570	3-994	+	89.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6570/Eela_6570.seq	Eela_6570	1360	1597	3	689	27.1	45.8	482	190			0	Plus	1129	6e-56
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6570/Eela_6570.seq	Eela_6570	1584	1689	647	994	23.1	41.0	99	42.5			0	Plus	1129	8e-08
+
+#Chain	ltr_Roo	230-272	Eela_6580	956-1081	+	12.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6580/Eela_6580.seq	Eela_6580	230	272	956	1081	27.9	46.5	99	42.5			0	Plus	1124	7e-08
+
+#Chain	mariner	2-44	Eela_6584	757-885	-	14.0
+mariner		345	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6584/Eela_6584.seq	Eela_6584	2	44	885	757	32.6	46.5	96	41.3			0	Minus	1120	2e-08
+
+#Chain	ltr_Roo	230-289	Eela_6630	420-617	-	18.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6630/Eela_6630.seq	Eela_6630	230	289	617	420	30.3	43.9	91	39.4			0	Minus	1084	6e-07
+
+#Chain	ltr_Roo	249-399	Eela_6633	110-532	+	29.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6633/Eela_6633.seq	Eela_6633	249	399	110	532	19.6	39.2	140	58.3			0	Plus	1084	8e-13
+
+#Chain	ltr_Roo	1454-1516	Eela_6675	71-253	-	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6675/Eela_6675.seq	Eela_6675	1454	1516	253	71	27.0	47.6	116	49.0			0	Minus	1058	6e-10
+
+#Chain	cacta	753-784	Eela_6833	242-337	-	20.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6833/Eela_6833.seq	Eela_6833	753	784	337	242	62.5	65.6	78	34.4			0	Minus	961	1e-05
+
+#Chain	ltr_Roo	696-1599	Eela_688	12440-14944	+	107.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_688/Eela_688.seq	Eela_688	696	1065	12440	13504	18.9	39.1	374	148			0	Plus	29990	3e-38
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_688/Eela_688.seq	Eela_688	1386	1599	14339	14944	17.7	32.3	140	58.3			0	Plus	29990	6e-11
+
+#Chain	hAT	53-172	Eela_6945	170-505	-	23.0
+hAT		749	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_6945/Eela_6945.seq	Eela_6945	53	172	505	170	19.2	38.4	116	49.1			0	Minus	894	1e-10
+
+#Chain	ltr_Roo	216-329	Eela_703	24934-25284	+	21.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_703/Eela_703.seq	Eela_703	216	329	24934	25284	19.2	32.5	113	47.9			0	Plus	29648	8e-08
+
+#Chain	ltr_Roo	852-1689	Eela_703	26820-29281	+	158.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_703/Eela_703.seq	Eela_703	852	1005	26820	27260	16.4	36.5	157	64.8			0	Plus	29648	6e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_703/Eela_703.seq	Eela_703	1044	1140	27361	27642	33.0	46.4	156	64.4			0	Plus	29648	8e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_703/Eela_703.seq	Eela_703	1154	1245	27689	27961	31.2	55.9	176	72.1			0	Plus	29648	4e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_703/Eela_703.seq	Eela_703	1417	1590	28486	28965	27.3	44.9	317	126			0	Plus	29648	1e-31
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_703/Eela_703.seq	Eela_703	1593	1689	28967	29281	25.9	45.4	111	47.1			0	Plus	29648	1e-07
+
+#Chain	LINE	1011-1038	Eela_706	3047-3130	+	15.0
+LINE		1189	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_706/Eela_706.seq	Eela_706	1011	1038	3047	3130	53.6	64.3	104	44.5			0	Plus	29594	4e-07
+
+#Chain	ltr_Roo	992-1112	Eela_7109	162-518	-	29.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7109/Eela_7109.seq	Eela_7109	992	1112	518	162	24.6	42.3	111	47.1			0	Minus	818	1e-09
+
+#Chain	ltr_Roo	1375-1518	Eela_7134	104-517	-	32.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7134/Eela_7134.seq	Eela_7134	1375	1518	517	104	22.6	42.5	190	77.5			0	Minus	805	1e-19
+
+#Chain	ltr_Roo	685-763	Eela_7166	546-782	+	20.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7166/Eela_7166.seq	Eela_7166	685	763	546	782	26.2	51.2	86	37.5			0	Plus	787	1e-06
+
+#Chain	ltr_Roo	763-822	Eela_7268	59-214	-	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7268/Eela_7268.seq	Eela_7268	763	822	214	59	28.3	48.3	117	49.4			0	Minus	742	2e-10
+
+#Chain	cacta	751-782	Eela_7310	215-325	-	22.5
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7310/Eela_7310.seq	Eela_7310	751	782	325	215	70.3	70.3	90	39.1			0	Minus	722	2e-07
+
+#Chain	ltr_Roo	1480-1619	Eela_7338	1-398	+	43.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7338/Eela_7338.seq	Eela_7338	1480	1533	1	162	40.7	61.1	143	59.4			0	Plus	706	7e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7338/Eela_7338.seq	Eela_7338	1554	1619	201	398	31.8	47.0	150	62.1			0	Plus	706	9e-15
+
+#Chain	cacta	752-789	Eela_7557	204-314	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7557/Eela_7557.seq	Eela_7557	752	789	314	204	57.9	68.4	92	39.8			0	Minus	628	8e-08
+
+#Chain	cacta	754-804	Eela_7577	344-496	+	19.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7577/Eela_7577.seq	Eela_7577	754	804	344	496	37.3	45.1	76	33.7			0	Plus	619	8e-06
+
+#Chain	cacta	752-779	Eela_7591	176-259	-	17.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7591/Eela_7591.seq	Eela_7591	752	779	259	176	60.7	60.7	77	34.1			0	Minus	617	6e-06
+
+#Chain	cacta	743-783	Eela_7617	249-383	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7617/Eela_7617.seq	Eela_7617	743	783	249	383	48.9	57.8	80	35.2			0	Plus	607	2e-06
+
+#Chain	ltr_Roo	219-318	Eela_7680	13-294	+	17.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7680/Eela_7680.seq	Eela_7680	219	318	13	294	17.6	36.3	101	43.3			0	Plus	587	9e-09
+
+#Chain	ltr_Roo	1437-1519	Eela_7955	234-468	+	28.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7955/Eela_7955.seq	Eela_7955	1437	1464	234	317	39.3	50.0	81	35.6			0	Plus	525	2e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_7955/Eela_7955.seq	Eela_7955	1481	1519	352	468	43.6	74.4	101	43.3			0	Plus	525	6e-09
+
+#Chain	hAT	647-736	Eela_800	22389-22619	-	17.8
+hAT		749	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_800/Eela_800.seq	Eela_800	647	736	22619	22389	19.8	35.2	91	39.5			0	Minus	27026	7e-06
+
+#Chain	cacta	717-786	Eela_8010	198-419	-	22.8
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_8010/Eela_8010.seq	Eela_8010	717	786	419	198	32.5	41.6	81	35.6			0	Minus	513	1e-06
+
+#Chain	cacta	758-785	Eela_8020	129-212	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_8020/Eela_8020.seq	Eela_8020	758	785	212	129	67.9	67.9	84	36.8			0	Minus	512	5e-07
+
+#Chain	ltr_Roo	1088-1222	Eela_8029	42-445	+	40.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_8029/Eela_8029.seq	Eela_8029	1088	1130	42	170	37.2	55.8	123	51.7			0	Plus	510	8e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_8029/Eela_8029.seq	Eela_8029	1131	1222	167	445	26.3	47.4	144	59.8			0	Plus	510	2e-14
+
+#Chain	cacta	752-783	Eela_8046	233-328	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_8046/Eela_8046.seq	Eela_8046	752	783	233	328	62.5	65.6	94	40.6			0	Plus	505	2e-08
+
+#Chain	ltr_Roo	737-874	Eela_824	1380-1808	-	37.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_824/Eela_824.seq	Eela_824	737	874	1808	1380	27.3	51.7	348	138			0	Minus	26570	3e-35
+
+#Chain	ltr_Roo	215-279	Eela_824	3141-3332	-	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_824/Eela_824.seq	Eela_824	215	279	3332	3141	32.3	47.7	128	53.7			0	Minus	26570	1e-09
+
+#Chain	LINE	911-966	Eela_827	6174-6350	+	13.0
+LINE		1189	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_827/Eela_827.seq	Eela_827	911	966	6174	6350	23.3	41.7	96	41.4			0	Plus	26515	3e-06
+
+#Chain	ltr_Roo	720-988	Eela_880	18297-19103	+	40.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_880/Eela_880.seq	Eela_880	720	988	18297	19103	15.1	31.2	200	81.4			0	Plus	25358	5e-18
+
+#Chain	ltr_Roo	236-312	Eela_916	13039-13263	+	23.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.1810.Amirs-PC.tmp/Eela_916/Eela_916.seq	Eela_916	236	312	13039	13263	29.9	48.1	128	53.7			0	Plus	24673	1e-09
+

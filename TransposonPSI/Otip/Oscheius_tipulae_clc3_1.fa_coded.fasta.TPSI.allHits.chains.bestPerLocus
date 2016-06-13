@@ -1,0 +1,2232 @@
+#Chain	LINE	460-665	Otip_10018	1564-2184	+	39.1
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10018/Otip_10018.seq	Otip_10018	460	665	1564	2184	19.0	36.1	252	101			0	Plus	5795	3e-25
+
+#Chain	helitronORF	6-109	Otip_10038	5-421	-	31.4
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10038/Otip_10038.seq	Otip_10038	6	109	421	5	30.2	38.1	202	82.0			0	Minus	421	3e-22
+
+#Chain	mariner	212-311	Otip_10095	286-579	-	29.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10095/Otip_10095.seq	Otip_10095	212	311	579	286	29.8	47.1	237	95.6			0	Minus	1676	6e-26
+
+#Chain	LINE	558-619	Otip_10138	2-187	-	11.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10138/Otip_10138.seq	Otip_10138	558	619	187	2	18.2	33.3	82	36.0			0	Minus	1789	7e-06
+
+#Chain	LINE	611-768	Otip_10189	692-1150	+	36.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10189/Otip_10189.seq	Otip_10189	611	768	692	1150	23.0	37.3	173	71.1			0	Plus	2603	2e-16
+
+#Chain	ISC1316	210-258	Otip_10250	2532-2681	-	9.8
+ISC1316		393	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10250/Otip_10250.seq	Otip_10250	210	258	2681	2532	20.0	40.0	80	35.2			0	Minus	4465	9e-06
+
+#Chain	mariner	42-213	Otip_10385	486-998	-	34.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10385/Otip_10385.seq	Otip_10385	42	213	998	486	20.3	39.5	211	85.6			0	Minus	1005	2e-23
+
+#Chain	mariner	195-246	Otip_10444	3-146	+	13.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10444/Otip_10444.seq	Otip_10444	195	246	3	146	25.0	44.2	102	43.6			0	Plus	2585	1e-08
+
+#Chain	ISa	18-381	Otip_10491	109-1101	+	65.5
+ISa		473	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10491/Otip_10491.seq	Otip_10491	18	381	109	1101	18.0	37.3	235	94.8			0	Plus	1474	4e-25
+
+#Chain	helitronORF	1170-1321	Otip_10529	1092-1579	-	86.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10529/Otip_10529.seq	Otip_10529	1244	1321	1313	1092	57.7	73.1	273	109			0	Minus	1579	7e-29
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10529/Otip_10529.seq	Otip_10529	1170	1255	1579	1340	48.3	58.6	235	94.8			0	Minus	1579	4e-24
+
+#Chain	helitronORF	909-1316	Otip_10556	426-1573	-	152.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10556/Otip_10556.seq	Otip_10556	1243	1316	644	426	58.1	70.3	288	115			0	Minus	1576	9e-31
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10556/Otip_10556.seq	Otip_10556	1213	1241	774	688	44.8	62.1	85	37.0			0	Minus	1576	3e-06
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10556/Otip_10556.seq	Otip_10556	909	1193	1573	776	34.0	52.5	465	183			0	Minus	1576	9e-53
+
+#Chain	helitronORF	238-383	Otip_10602	3-421	+	60.1
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10602/Otip_10602.seq	Otip_10602	238	357	3	365	37.6	58.4	293	117			0	Plus	425	3e-34
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10602/Otip_10602.seq	Otip_10602	364	383	362	421	75.0	80.0	103	43.9			0	Plus	425	1e-09
+
+#Chain	mariner	266-325	Otip_10605	15-188	+	18.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10605/Otip_10605.seq	Otip_10605	266	325	15	188	30.0	48.3	162	66.7			0	Plus	840	4e-17
+
+#Chain	LINE	520-741	Otip_10612	249-881	+	42.2
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10612/Otip_10612.seq	Otip_10612	520	741	249	881	19.0	35.1	200	81.5			0	Plus	976	7e-21
+
+#Chain	LINE	742-785	Otip_10614	279-410	+	9.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10614/Otip_10614.seq	Otip_10614	742	785	279	410	20.5	29.5	85	37.2			0	Plus	2296	4e-06
+
+#Chain	LINE	161-544	Otip_10618	680-1795	+	53.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10618/Otip_10618.seq	Otip_10618	161	544	680	1795	13.8	32.6	356	141			0	Plus	1803	5e-39
+
+#Chain	gypsy	289-441	Otip_1062	1568-2020	-	27.4
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1062/Otip_1062.seq	Otip_1062	289	441	2020	1568	17.9	32.1	95	41.0			0	Minus	6251	1e-06
+
+#Chain	helitronORF	696-747	Otip_10631	145-300	+	20.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10631/Otip_10631.seq	Otip_10631	696	747	145	300	38.5	59.6	121	50.8			0	Plus	357	5e-12
+
+#Chain	mariner_ant1	224-278	Otip_10634	431-586	+	18.6
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10634/Otip_10634.seq	Otip_10634	224	278	431	586	33.9	46.4	111	47.1			0	Plus	586	4e-11
+
+#Chain	mariner	3-209	Otip_10636	93-717	-	51.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10636/Otip_10636.seq	Otip_10636	145	209	278	93	27.7	38.5	129	54.0			0	Minus	885	9e-13
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10636/Otip_10636.seq	Otip_10636	3	149	717	307	23.0	36.5	188	76.7			0	Minus	885	2e-20
+
+#Chain	helitronORF	581-694	Otip_10646	1-390	+	35.1
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10646/Otip_10646.seq	Otip_10646	581	694	1	390	30.8	45.9	256	102			0	Plus	468	4e-29
+
+#Chain	mariner	25-134	Otip_10648	2-310	+	26.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10648/Otip_10648.seq	Otip_10648	25	134	2	310	24.3	40.5	146	60.5			0	Plus	512	9e-16
+
+#Chain	helitronORF	1240-1316	Otip_10664	270-497	-	46.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10664/Otip_10664.seq	Otip_10664	1240	1316	497	270	59.7	76.6	304	121			0	Minus	614	7e-35
+
+#Chain	gypsy	255-415	Otip_10672	43-543	+	27.7
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10672/Otip_10672.seq	Otip_10672	255	415	43	543	17.2	32.2	87	37.9			0	Plus	1483	2e-06
+
+#Chain	LINE	464-592	Otip_10686	929-1309	+	28.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10686/Otip_10686.seq	Otip_10686	464	592	929	1309	22.1	33.6	184	75.3			0	Plus	1717	5e-18
+
+#Chain	LINE	379-476	Otip_10686	1441-1716	+	21.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10686/Otip_10686.seq	Otip_10686	379	476	1441	1716	21.4	33.0	95	41.1			0	Plus	1717	2e-07
+
+#Chain	helitronORF	798-878	Otip_10701	160-393	+	20.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10701/Otip_10701.seq	Otip_10701	798	878	160	393	25.6	38.4	76	33.5			0	Plus	401	3e-06
+
+#Chain	mariner	300-345	Otip_10715	1847-1981	-	16.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10715/Otip_10715.seq	Otip_10715	300	345	1981	1847	34.8	50.0	119	50.1			0	Minus	2219	7e-11
+
+#Chain	gypsy	1247-1328	Otip_10726	916-1197	-	19.2
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10726/Otip_10726.seq	Otip_10726	1247	1328	1197	916	23.4	41.5	129	54.1			0	Minus	1530	2e-11
+
+#Chain	mariner	213-343	Otip_10740	3-383	+	40.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10740/Otip_10740.seq	Otip_10740	213	343	3	383	30.8	42.1	323	128			0	Plus	640	1e-39
+
+#Chain	gypsy	908-1056	Otip_10747	313-774	+	31.6
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10747/Otip_10747.seq	Otip_10747	908	1056	313	774	21.2	38.8	85	37.2			0	Plus	967	2e-06
+
+#Chain	mariner	7-294	Otip_10749	98-760	-	44.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10749/Otip_10749.seq	Otip_10749	7	294	760	98	15.6	28.5	129	54.0			0	Minus	930	1e-12
+
+#Chain	LINE	551-769	Otip_10770	2-636	-	37.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10770/Otip_10770.seq	Otip_10770	619	769	445	2	16.2	36.4	181	74.2			0	Minus	638	5e-19
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10770/Otip_10770.seq	Otip_10770	551	617	636	445	19.4	40.3	108	46.1			0	Minus	638	7e-10
+
+#Chain	mariner	1-264	Otip_10821	141-890	+	46.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10821/Otip_10821.seq	Otip_10821	1	264	141	890	17.6	31.6	201	81.7			0	Plus	2277	4e-21
+
+#Chain	LINE	365-566	Otip_10856	13-579	+	43.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10856/Otip_10856.seq	Otip_10856	365	566	13	579	21.3	37.6	323	128			0	Plus	579	1e-37
+
+#Chain	mariner	92-312	Otip_10865	94-735	+	38.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10865/Otip_10865.seq	Otip_10865	92	312	94	735	17.4	36.9	118	49.8			0	Plus	7057	3e-10
+
+#Chain	helitronORF	1248-1300	Otip_10883	267-422	-	25.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10883/Otip_10883.seq	Otip_10883	1248	1300	422	267	47.2	66.0	151	62.4			0	Minus	1174	2e-14
+
+#Chain	LINE	447-600	Otip_10902	3-444	-	31.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10902/Otip_10902.seq	Otip_10902	545	600	167	3	17.9	39.3	96	41.4			0	Minus	448	7e-09
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10902/Otip_10902.seq	Otip_10902	447	521	444	226	28.0	40.0	147	61.1			0	Minus	448	3e-15
+
+#Chain	gypsy	277-354	Otip_10934	691-921	-	15.6
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10934/Otip_10934.seq	Otip_10934	277	354	921	691	20.0	33.8	82	36.0			0	Minus	1824	9e-06
+
+#Chain	LINE	465-500	Otip_10957	484-585	+	12.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10957/Otip_10957.seq	Otip_10957	465	500	484	585	33.3	44.4	87	38.0			0	Plus	952	7e-07
+
+#Chain	helitronORF	1134-1195	Otip_10958	2-187	-	25.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10958/Otip_10958.seq	Otip_10958	1134	1195	187	2	40.3	56.5	157	64.7			0	Minus	350	1e-16
+
+#Chain	gypsy	1250-1338	Otip_10970	23-274	-	18.8
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_10970/Otip_10970.seq	Otip_10970	1250	1338	274	23	21.1	33.3	144	59.9			0	Minus	4505	1e-12
+
+#Chain	LINE	268-352	Otip_1102	4722-4985	+	13.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1102/Otip_1102.seq	Otip_1102	268	352	4722	4985	15.9	28.4	91	39.5			0	Plus	6511	3e-06
+
+#Chain	gypsy	569-1441	Otip_11032	81-2711	+	236.6
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11032/Otip_11032.seq	Otip_11032	569	1441	81	2711	27.1	42.9	1624	629			0	Plus	2880	0.0
+
+#Chain	helitronORF	2-129	Otip_11046	339-746	+	40.8
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11046/Otip_11046.seq	Otip_11046	2	129	339	746	31.9	46.4	294	117			0	Plus	747	4e-33
+
+#Chain	helitronORF	1175-1300	Otip_1106	183-506	-	33.6
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1106/Otip_1106.seq	Otip_1106	1175	1300	506	183	26.7	39.7	112	47.4			0	Minus	734	4e-10
+
+#Chain	LINE	530-808	Otip_11090	1121-1904	-	59.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11090/Otip_11090.seq	Otip_11090	617	808	1645	1121	17.3	30.1	140	58.4			0	Minus	1906	1e-12
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11090/Otip_11090.seq	Otip_11090	530	623	1904	1623	27.7	47.9	181	74.2			0	Minus	1906	1e-17
+
+#Chain	DDE_1	4-218	Otip_11097	18-708	-	42.5
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11097/Otip_11097.seq	Otip_11097	103	218	344	18	21.4	37.6	120	50.6			0	Minus	921	2e-11
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11097/Otip_11097.seq	Otip_11097	4	86	708	430	21.3	31.9	86	37.5			0	Minus	921	4e-07
+
+#Chain	mariner	245-345	Otip_11100	72-376	-	37.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11100/Otip_11100.seq	Otip_11100	297	345	215	72	32.7	55.1	133	55.5			0	Minus	378	2e-14
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11100/Otip_11100.seq	Otip_11100	245	299	376	212	38.2	54.5	210	85.2			0	Minus	378	5e-25
+
+#Chain	DDE_1	49-230	Otip_11157	133-693	+	33.5
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11157/Otip_11157.seq	Otip_11157	49	230	133	693	18.4	34.2	163	67.2			0	Plus	807	5e-17
+
+#Chain	LINE	306-604	Otip_11159	1-867	+	61.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11159/Otip_11159.seq	Otip_11159	306	604	1	867	20.4	37.8	408	161			0	Plus	878	9e-48
+
+#Chain	mariner	304-342	Otip_11164	21-134	+	12.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11164/Otip_11164.seq	Otip_11164	304	342	21	134	30.8	56.4	88	38.2			0	Plus	1241	2e-07
+
+#Chain	ltr_Roo	254-320	Otip_11165	21-218	-	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11165/Otip_11165.seq	Otip_11165	254	320	218	21	31.3	47.8	112	47.5			0	Minus	218	4e-11
+
+#Chain	LINE	739-809	Otip_11176	1-204	+	13.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11176/Otip_11176.seq	Otip_11176	739	809	1	204	18.3	32.4	101	43.4			0	Plus	245	6e-10
+
+#Chain	DDE_1	305-343	Otip_11180	1-117	+	11.0
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11180/Otip_11180.seq	Otip_11180	305	343	1	117	28.2	46.2	80	35.2			0	Plus	221	8e-08
+
+#Chain	mariner	238-308	Otip_11194	3-227	+	22.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11194/Otip_11194.seq	Otip_11194	238	308	3	227	32.0	46.7	212	86.0			0	Plus	227	4e-26
+
+#Chain	mariner	148-208	Otip_11199	1-174	-	14.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11199/Otip_11199.seq	Otip_11199	148	208	174	1	23.8	36.5	125	52.4			0	Minus	208	6e-14
+
+#Chain	LINE	451-533	Otip_11209	3-239	+	20.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11209/Otip_11209.seq	Otip_11209	451	533	3	239	24.1	37.3	187	76.5			0	Plus	239	3e-21
+
+#Chain	mariner	94-159	Otip_11215	3-191	-	11.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11215/Otip_11215.seq	Otip_11215	94	159	191	3	16.7	34.8	86	37.4			0	Minus	203	8e-09
+
+#Chain	helitronORF	265-308	Otip_11216	123-251	-	21.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11216/Otip_11216.seq	Otip_11216	265	308	251	123	47.7	63.6	128	53.5			0	Minus	253	3e-13
+
+#Chain	mariner	58-103	Otip_11217	3-125	+	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11217/Otip_11217.seq	Otip_11217	58	103	3	125	21.7	50.0	72	32.0			0	Plus	235	6e-07
+
+#Chain	mariner	149-177	Otip_11228	17-103	-	8.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11228/Otip_11228.seq	Otip_11228	149	177	103	17	27.6	34.5	73	32.4			0	Minus	209	4e-07
+
+#Chain	mariner	292-341	Otip_11229	67-213	-	13.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11229/Otip_11229.seq	Otip_11229	292	341	213	67	26.0	46.0	130	54.4			0	Minus	214	1e-14
+
+#Chain	mariner	153-226	Otip_11230	3-215	-	23.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11230/Otip_11230.seq	Otip_11230	153	226	215	3	31.1	40.5	155	64.0			0	Minus	216	5e-18
+
+#Chain	LINE	711-781	Otip_11231	3-212	+	11.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11231/Otip_11231.seq	Otip_11231	711	781	3	212	15.5	32.4	99	42.6			0	Plus	240	1e-09
+
+#Chain	mariner	149-174	Otip_11232	164-241	+	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11232/Otip_11232.seq	Otip_11232	149	174	164	241	38.5	42.3	86	37.4			0	Plus	243	1e-08
+
+#Chain	mariner	219-299	Otip_11235	3-218	+	19.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11235/Otip_11235.seq	Otip_11235	219	299	3	218	23.5	37.0	157	64.8			0	Plus	227	3e-18
+
+#Chain	DDE_1	62-119	Otip_1124	784-951	-	16.0
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1124/Otip_1124.seq	Otip_1124	62	119	951	784	27.6	43.1	79	34.8			0	Minus	1883	7e-06
+
+#Chain	mariner	242-308	Otip_11267	6-212	+	22.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11267/Otip_11267.seq	Otip_11267	242	308	6	212	33.3	44.9	211	85.6			0	Plus	217	5e-26
+
+#Chain	LINE	571-632	Otip_11268	29-214	+	15.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11268/Otip_11268.seq	Otip_11268	571	632	29	214	24.2	40.3	90	39.1			0	Plus	215	1e-08
+
+#Chain	helitronORF	1252-1287	Otip_11278	3-110	+	23.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11278/Otip_11278.seq	Otip_11278	1252	1287	3	110	63.9	86.1	153	63.2			0	Plus	224	1e-16
+
+#Chain	cacta	750-807	Otip_11280	37-216	-	25.1
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11280/Otip_11280.seq	Otip_11280	750	807	216	37	43.3	46.7	78	34.4			0	Minus	222	4e-07
+
+#Chain	mariner	115-198	Otip_11287	1-243	-	16.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11287/Otip_11287.seq	Otip_11287	115	198	243	1	19.5	37.9	106	45.1			0	Minus	243	3e-11
+
+#Chain	mariner	326-345	Otip_11293	2-61	+	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11293/Otip_11293.seq	Otip_11293	326	345	2	61	50.0	55.0	79	34.7			0	Plus	205	6e-08
+
+#Chain	LINE	762-783	Otip_11300	5-70	+	9.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11300/Otip_11300.seq	Otip_11300	762	783	5	70	40.9	50.0	75	33.4			0	Plus	215	8e-07
+
+#Chain	helitronORF	731-801	Otip_11313	1-222	-	24.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11313/Otip_11313.seq	Otip_11313	731	801	222	1	35.1	52.7	161	66.2			0	Minus	224	1e-17
+
+#Chain	mariner	153-222	Otip_11317	6-206	-	21.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11317/Otip_11317.seq	Otip_11317	153	222	206	6	30.0	40.0	165	67.9			0	Minus	207	2e-19
+
+#Chain	mariner	258-326	Otip_11325	1-216	+	17.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11325/Otip_11325.seq	Otip_11325	258	326	1	216	24.7	47.9	156	64.4			0	Plus	218	4e-18
+
+#Chain	mariner	148-223	Otip_11333	35-253	+	26.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11333/Otip_11333.seq	Otip_11333	148	223	35	253	34.2	46.1	201	81.7			0	Plus	255	2e-24
+
+#Chain	DDE_1	294-320	Otip_11337	1-81	+	8.0
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11337/Otip_11337.seq	Otip_11337	294	320	1	81	29.6	59.3	78	34.5			0	Plus	227	2e-07
+
+#Chain	mariner	241-314	Otip_11338	3-225	+	23.6
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11338/Otip_11338.seq	Otip_11338	241	270	3	92	33.3	43.3	89	38.6			0	Plus	225	4e-09
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11338/Otip_11338.seq	Otip_11338	274	314	100	225	33.3	52.4	132	55.1			0	Plus	225	8e-15
+
+#Chain	mariner	222-301	Otip_11351	2-207	-	24.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11351/Otip_11351.seq	Otip_11351	266	301	112	2	32.4	56.8	94	40.5			0	Minus	208	8e-10
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11351/Otip_11351.seq	Otip_11351	222	272	207	61	24.5	39.6	109	46.3			0	Minus	208	8e-12
+
+#Chain	mariner_ant1	227-284	Otip_11371	55-231	-	18.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11371/Otip_11371.seq	Otip_11371	227	284	231	55	32.2	44.1	127	53.3			0	Minus	233	3e-14
+
+#Chain	mariner	286-345	Otip_11374	61-243	-	19.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11374/Otip_11374.seq	Otip_11374	286	345	243	61	32.3	50.0	148	61.3			0	Minus	243	6e-17
+
+#Chain	helitronORF	920-941	Otip_11375	174-239	+	12.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11375/Otip_11375.seq	Otip_11375	920	941	174	239	54.5	68.2	73	32.4			0	Plus	241	2e-06
+
+#Chain	mariner_ant1	228-256	Otip_11378	23-109	+	8.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11378/Otip_11378.seq	Otip_11378	228	256	23	109	27.6	44.8	66	29.8			0	Plus	213	3e-06
+
+#Chain	helitronORF	432-506	Otip_11382	3-218	+	38.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11382/Otip_11382.seq	Otip_11382	432	506	3	218	50.7	64.0	224	90.5			0	Plus	218	4e-26
+
+#Chain	LINE	665-748	Otip_11384	11-250	-	20.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11384/Otip_11384.seq	Otip_11384	665	748	250	11	23.8	42.9	113	48.0			0	Minus	256	2e-11
+
+#Chain	LINE	732-801	Otip_11385	1-201	-	16.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11385/Otip_11385.seq	Otip_11385	732	801	201	1	22.9	35.7	117	49.5			0	Minus	219	4e-12
+
+#Chain	mariner	212-274	Otip_11386	27-212	+	13.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11386/Otip_11386.seq	Otip_11386	212	274	27	212	21.2	40.9	137	57.1			0	Plus	213	1e-15
+
+#Chain	mariner	162-231	Otip_11390	4-204	+	18.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11390/Otip_11390.seq	Otip_11390	162	231	4	204	26.4	47.2	131	54.8			0	Plus	221	1e-14
+
+#Chain	mariner	23-89	Otip_11403	2-205	+	16.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11403/Otip_11403.seq	Otip_11403	23	89	2	205	25.0	47.1	156	64.4			0	Plus	231	4e-18
+
+#Chain	mariner	189-223	Otip_11406	98-202	+	14.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11406/Otip_11406.seq	Otip_11406	189	223	98	202	40.0	57.1	109	46.3			0	Plus	204	8e-12
+
+#Chain	helitronORF	434-510	Otip_11408	2-223	-	38.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11408/Otip_11408.seq	Otip_11408	434	510	223	2	49.4	62.3	222	89.7			0	Minus	224	8e-26
+
+#Chain	LINE	591-636	Otip_11410	1-138	+	9.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11410/Otip_11410.seq	Otip_11410	591	636	1	138	19.6	41.3	74	33.0			0	Plus	251	1e-06
+
+#Chain	helitronORF	169-197	Otip_11414	92-178	+	12.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11414/Otip_11414.seq	Otip_11414	169	197	92	178	41.4	51.7	73	32.4			0	Plus	216	2e-06
+
+#Chain	LINE	665-726	Otip_11421	26-196	-	14.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11421/Otip_11421.seq	Otip_11421	665	726	196	26	22.6	45.2	84	36.8			0	Minus	226	7e-08
+
+#Chain	mariner	147-228	Otip_11432	1-225	+	20.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11432/Otip_11432.seq	Otip_11432	147	228	1	225	25.0	41.7	143	59.4			0	Plus	226	2e-16
+
+#Chain	ltr_Roo	268-302	Otip_11435	3-104	+	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11435/Otip_11435.seq	Otip_11435	268	302	3	104	37.1	45.7	75	33.2			0	Plus	231	2e-06
+
+#Chain	LINE	752-809	Otip_11440	47-214	+	9.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11440/Otip_11440.seq	Otip_11440	752	809	47	214	15.5	29.3	86	37.6			0	Plus	238	4e-08
+
+#Chain	mariner	269-333	Otip_11441	1-198	+	27.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11441/Otip_11441.seq	Otip_11441	269	333	1	198	41.8	52.2	171	70.2			0	Plus	206	2e-20
+
+#Chain	helitronORF	10-75	Otip_11449	1-225	-	21.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11449/Otip_11449.seq	Otip_11449	10	75	225	1	32.9	46.1	177	72.4			0	Minus	233	9e-20
+
+#Chain	mariner	27-105	Otip_11450	3-224	-	15.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11450/Otip_11450.seq	Otip_11450	27	105	224	3	20.0	41.2	144	59.8			0	Minus	226	2e-16
+
+#Chain	mariner	285-341	Otip_11454	55-222	-	11.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11454/Otip_11454.seq	Otip_11454	285	341	222	55	19.3	43.9	154	63.6			0	Minus	229	8e-18
+
+#Chain	LINE	598-655	Otip_11478	15-194	+	18.4
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11478/Otip_11478.seq	Otip_11478	598	655	15	194	31.7	46.7	99	42.6			0	Plus	208	8e-10
+
+#Chain	mariner	202-270	Otip_11481	13-213	-	22.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11481/Otip_11481.seq	Otip_11481	202	270	213	13	32.4	45.1	167	68.6			0	Minus	218	1e-19
+
+#Chain	LINE	482-552	Otip_11484	3-215	+	13.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11484/Otip_11484.seq	Otip_11484	482	552	3	215	18.3	36.6	151	62.6			0	Plus	216	1e-16
+
+#Chain	mariner_ant1	111-153	Otip_11485	60-206	-	7.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11485/Otip_11485.seq	Otip_11485	111	153	206	60	16.3	42.9	73	32.5			0	Minus	212	3e-07
+
+#Chain	mariner	187-251	Otip_11489	68-256	-	22.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11489/Otip_11489.seq	Otip_11489	187	251	256	68	33.8	43.1	131	54.8			0	Minus	259	1e-14
+
+#Chain	ltr_Roo	206-289	Otip_11499	3-242	-	25.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11499/Otip_11499.seq	Otip_11499	206	289	242	3	29.8	50.0	167	68.7			0	Minus	245	4e-18
+
+#Chain	helitronORF	987-1023	Otip_11504	119-232	+	18.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11504/Otip_11504.seq	Otip_11504	987	1023	119	232	50.0	65.8	123	51.6			0	Plus	246	1e-12
+
+#Chain	mariner	213-284	Otip_11521	1-201	-	23.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11521/Otip_11521.seq	Otip_11521	213	284	201	1	31.9	41.7	193	78.6			0	Minus	206	2e-23
+
+#Chain	mariner_ant1	229-278	Otip_11529	70-219	-	17.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11529/Otip_11529.seq	Otip_11529	229	278	219	70	34.0	48.0	114	48.3			0	Minus	220	2e-12
+
+#Chain	mariner	269-305	Otip_11536	4-117	-	13.6
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11536/Otip_11536.seq	Otip_11536	269	305	117	4	36.8	55.3	145	60.2			0	Minus	245	2e-16
+
+#Chain	mariner	195-270	Otip_11542	2-226	+	20.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11542/Otip_11542.seq	Otip_11542	195	270	2	226	26.6	41.8	164	67.5			0	Plus	239	3e-19
+
+#Chain	mariner	258-332	Otip_11543	1-234	+	19.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11543/Otip_11543.seq	Otip_11543	258	332	1	234	26.6	50.6	191	77.9			0	Plus	236	5e-23
+
+#Chain	mariner	303-341	Otip_11556	2-115	+	11.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11556/Otip_11556.seq	Otip_11556	303	341	2	115	28.2	48.7	95	40.9			0	Plus	251	8e-10
+
+#Chain	mariner_ant1	257-318	Otip_11565	43-216	-	18.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11565/Otip_11565.seq	Otip_11565	257	318	216	43	30.2	42.9	87	37.9			0	Minus	228	6e-09
+
+#Chain	mariner_ant1	222-266	Otip_11576	84-218	-	14.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11576/Otip_11576.seq	Otip_11576	222	266	218	84	31.1	46.7	98	42.1			0	Minus	226	2e-10
+
+#Chain	LINE	677-771	Otip_11580	1-264	-	15.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11580/Otip_11580.seq	Otip_11580	677	771	264	1	15.8	35.8	122	51.5			0	Minus	264	1e-12
+
+#Chain	mariner	305-338	Otip_11584	118-216	-	13.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11584/Otip_11584.seq	Otip_11584	305	338	216	118	38.2	58.8	99	42.4			0	Minus	218	2e-10
+
+#Chain	LINE	711-785	Otip_11587	3-224	+	11.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11587/Otip_11587.seq	Otip_11587	711	785	3	224	14.7	32.0	92	39.9			0	Plus	250	8e-09
+
+#Chain	LINE	576-636	Otip_11596	4-183	+	12.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11596/Otip_11596.seq	Otip_11596	576	636	4	183	19.7	42.6	79	34.9			0	Plus	235	3e-07
+
+#Chain	mariner	206-284	Otip_11599	1-217	-	24.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11599/Otip_11599.seq	Otip_11599	251	284	108	1	38.9	44.4	113	47.8			0	Minus	222	3e-12
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11599/Otip_11599.seq	Otip_11599	206	229	217	146	45.8	66.7	69	30.9			0	Minus	222	1e-06
+
+#Chain	mariner	259-338	Otip_11621	3-245	+	26.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11621/Otip_11621.seq	Otip_11621	259	338	3	245	32.9	47.6	217	87.9			0	Plus	245	1e-26
+
+#Chain	helitronORF	1274-1316	Otip_11639	1-126	+	26.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11639/Otip_11639.seq	Otip_11639	1274	1316	1	126	60.5	74.4	147	60.9			0	Plus	236	8e-16
+
+#Chain	mariner	184-224	Otip_11642	81-203	-	16.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11642/Otip_11642.seq	Otip_11642	184	224	203	81	39.0	43.9	130	54.4			0	Minus	205	1e-14
+
+#Chain	DDE_1	231-280	Otip_11659	5-142	-	10.0
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11659/Otip_11659.seq	Otip_11659	231	280	142	5	20.0	36.0	109	46.4			0	Minus	212	2e-11
+
+#Chain	helitronORF	1110-1144	Otip_11665	118-222	-	16.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11665/Otip_11665.seq	Otip_11665	1110	1144	222	118	45.7	74.3	111	47.0			0	Minus	245	4e-11
+
+#Chain	mariner_ant1	196-264	Otip_11671	34-234	+	17.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11671/Otip_11671.seq	Otip_11671	196	264	34	234	24.6	39.1	85	37.1			0	Plus	234	1e-08
+
+#Chain	mariner	27-86	Otip_11677	17-199	+	12.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11677/Otip_11677.seq	Otip_11677	27	86	17	199	21.3	41.0	142	59.0			0	Plus	205	3e-16
+
+#Chain	MuDR_A_B	661-797	Otip_11680	155-547	-	26.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11680/Otip_11680.seq	Otip_11680	661	797	547	155	19.6	34.8	96	41.5			0	Minus	604	2e-08
+
+#Chain	mariner	150-308	Otip_1169	8506-8955	+	35.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1169/Otip_1169.seq	Otip_1169	150	308	8506	8955	22.6	35.8	240	96.7			0	Plus	9259	4e-25
+
+#Chain	mariner	244-308	Otip_11692	3-203	+	23.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11692/Otip_11692.seq	Otip_11692	244	308	3	203	35.8	49.3	191	77.9			0	Plus	211	3e-23
+
+#Chain	mariner	294-343	Otip_11693	3-149	+	13.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11693/Otip_11693.seq	Otip_11693	294	343	3	149	26.0	54.0	139	57.8			0	Plus	202	7e-16
+
+#Chain	mariner	152-218	Otip_11694	3-215	+	16.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11694/Otip_11694.seq	Otip_11694	152	218	3	215	23.9	38.0	104	44.4			0	Plus	228	4e-11
+
+#Chain	helitronORF	1127-1181	Otip_11696	3-215	-	23.3
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11696/Otip_11696.seq	Otip_11696	1127	1181	215	3	42.3	52.1	144	59.7			0	Minus	215	2e-15
+
+#Chain	mariner	294-342	Otip_11720	1-144	+	14.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11720/Otip_11720.seq	Otip_11720	294	342	1	144	28.6	49.0	121	50.9			0	Plus	236	3e-13
+
+#Chain	mariner	237-305	Otip_11726	1-219	-	20.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11726/Otip_11726.seq	Otip_11726	237	305	219	1	30.1	43.8	192	78.3			0	Minus	230	3e-23
+
+#Chain	helitronORF	1249-1293	Otip_11737	3-137	+	29.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11737/Otip_11737.seq	Otip_11737	1249	1293	3	137	64.4	86.7	208	84.4			0	Plus	230	6e-24
+
+#Chain	mariner	321-345	Otip_11764	144-218	-	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11764/Otip_11764.seq	Otip_11764	321	345	218	144	40.0	56.0	86	37.4			0	Minus	218	9e-09
+
+#Chain	mariner	235-307	Otip_11766	1-225	-	23.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11766/Otip_11766.seq	Otip_11766	235	307	225	1	32.0	42.7	181	74.0			0	Minus	239	1e-21
+
+#Chain	helitronORF	1170-1235	Otip_11769	1-193	+	35.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11769/Otip_11769.seq	Otip_11769	1170	1205	1	108	63.9	83.3	169	69.3			0	Plus	200	7e-19
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11769/Otip_11769.seq	Otip_11769	1208	1235	110	193	42.9	64.3	89	38.5			0	Plus	200	2e-08
+
+#Chain	LINE	400-457	Otip_11779	11-184	+	8.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11779/Otip_11779.seq	Otip_11779	400	457	11	184	13.8	31.0	101	43.4			0	Plus	216	5e-10
+
+#Chain	ISC1316	137-181	Otip_11807	64-192	-	9.0
+ISC1316		393	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11807/Otip_11807.seq	Otip_11807	137	181	192	64	20.0	33.3	82	35.9			0	Minus	201	3e-08
+
+#Chain	cacta	753-779	Otip_11814	89-169	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11814/Otip_11814.seq	Otip_11814	753	779	169	89	81.5	81.5	97	41.8			0	Minus	205	2e-09
+
+#Chain	mariner	148-307	Otip_11831	29-198	-	22.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11831/Otip_11831.seq	Otip_11831	271	307	145	29	33.3	48.7	79	34.7			0	Minus	240	8e-08
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11831/Otip_11831.seq	Otip_11831	148	172	198	124	40.0	48.0	77	34.0			0	Minus	240	1e-07
+
+#Chain	gypsy	734-797	Otip_11850	6-203	+	17.9
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11850/Otip_11850.seq	Otip_11850	734	797	6	203	27.9	48.5	91	39.5			0	Plus	215	1e-08
+
+#Chain	mariner_ant1	224-262	Otip_11862	110-226	-	9.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11862/Otip_11862.seq	Otip_11862	224	262	226	110	23.1	43.6	67	30.1			0	Minus	230	2e-06
+
+#Chain	mariner	191-259	Otip_11867	3-203	-	23.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11867/Otip_11867.seq	Otip_11867	191	259	203	3	33.8	50.7	176	72.1			0	Minus	210	5e-21
+
+#Chain	helitronORF	1044-1101	Otip_11909	13-186	+	18.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11909/Otip_11909.seq	Otip_11909	1044	1101	13	186	32.2	55.9	110	46.6			0	Plus	200	4e-11
+
+#Chain	mariner_ant1	247-266	Otip_11912	155-214	-	11.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11912/Otip_11912.seq	Otip_11912	247	266	214	155	55.0	60.0	65	29.4			0	Minus	222	4e-06
+
+#Chain	helitronORF	186-243	Otip_11924	2-220	-	17.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11924/Otip_11924.seq	Otip_11924	186	243	220	2	30.1	50.7	116	48.9			0	Minus	220	8e-12
+
+#Chain	mariner_ant1	222-266	Otip_11932	4-138	+	16.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11932/Otip_11932.seq	Otip_11932	222	266	4	138	35.6	53.3	111	47.1			0	Plus	219	4e-12
+
+#Chain	LINE	466-543	Otip_11934	5-226	+	20.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11934/Otip_11934.seq	Otip_11934	466	543	5	226	25.6	41.0	160	66.1			0	Plus	226	1e-17
+
+#Chain	helitronORF	989-1023	Otip_11959	15-113	-	19.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11959/Otip_11959.seq	Otip_11959	989	1023	113	15	54.3	71.4	121	50.8			0	Minus	244	2e-12
+
+#Chain	mariner	148-199	Otip_11961	65-211	+	16.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11961/Otip_11961.seq	Otip_11961	148	199	65	211	30.8	34.6	140	58.2			0	Plus	212	5e-16
+
+#Chain	LINE	541-578	Otip_11965	126-239	-	9.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_11965/Otip_11965.seq	Otip_11965	541	578	239	126	23.7	47.4	99	42.6			0	Minus	247	1e-09
+
+#Chain	mariner	105-170	Otip_12028	2-226	-	12.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12028/Otip_12028.seq	Otip_12028	105	170	226	2	19.2	30.8	82	35.9			0	Minus	229	3e-08
+
+#Chain	mariner	321-345	Otip_12080	3165-3239	-	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12080/Otip_12080.seq	Otip_12080	321	345	3239	3165	40.0	52.0	86	37.4			0	Minus	3301	1e-06
+
+#Chain	LINE	877-1041	Otip_12113	1657-2154	-	41.4
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12113/Otip_12113.seq	Otip_12113	877	1041	2154	1657	25.1	42.1	209	85.0			0	Minus	4258	2e-20
+
+#Chain	mariner	280-319	Otip_12143	1887-2009	-	4.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12143/Otip_12143.seq	Otip_12143	280	319	2009	1887	12.2	46.3	81	35.5			0	Minus	2009	2e-06
+
+#Chain	LINE	468-522	Otip_12207	1078-1275	+	11.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12207/Otip_12207.seq	Otip_12207	468	522	1078	1275	20.6	35.3	97	41.8			0	Plus	4990	4e-07
+
+#Chain	LINE	302-536	Otip_12294	1295-1900	-	38.1
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12294/Otip_12294.seq	Otip_12294	302	536	1900	1295	16.2	30.6	118	49.9			0	Minus	3728	1e-09
+
+#Chain	mariner	87-272	Otip_12308	821-1354	-	34.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12308/Otip_12308.seq	Otip_12308	87	272	1354	821	18.3	33.0	133	55.5			0	Minus	1651	9e-13
+
+#Chain	ISb	148-202	Otip_12320	265-423	+	13.0
+ISb		351	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12320/Otip_12320.seq	Otip_12320	148	202	265	423	23.6	36.4	79	34.8			0	Plus	1352	3e-06
+
+#Chain	cacta	752-781	Otip_12325	3509-3598	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12325/Otip_12325.seq	Otip_12325	752	781	3598	3509	76.7	80.0	112	47.5			0	Minus	4751	7e-09
+
+#Chain	helitronORF	1176-1321	Otip_12333	3224-3683	-	65.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12333/Otip_12333.seq	Otip_12333	1245	1321	3451	3224	61.0	76.6	299	119			0	Minus	3683	6e-31
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12333/Otip_12333.seq	Otip_12333	1176	1213	3683	3570	47.4	68.4	144	59.7			0	Minus	3683	1e-12
+
+#Chain	DDE_1	288-317	Otip_12367	1892-1981	-	10.0
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12367/Otip_12367.seq	Otip_12367	288	317	1981	1892	33.3	60.0	88	38.3			0	Minus	1995	6e-07
+
+#Chain	LINE	255-365	Otip_12408	394-726	+	22.6
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12408/Otip_12408.seq	Otip_12408	255	365	394	726	20.4	35.4	77	34.1			0	Plus	805	9e-06
+
+#Chain	LINE	735-798	Otip_12446	450-638	-	16.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12446/Otip_12446.seq	Otip_12446	735	798	638	450	25.0	45.3	104	44.5			0	Minus	670	3e-09
+
+#Chain	helitronORF	1146-1190	Otip_12491	73-216	-	21.6
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12491/Otip_12491.seq	Otip_12491	1146	1190	216	73	47.9	62.5	136	56.6			0	Minus	955	1e-12
+
+#Chain	mariner	26-132	Otip_12499	1253-1555	+	17.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12499/Otip_12499.seq	Otip_12499	26	132	1253	1555	16.7	38.9	125	52.4			0	Plus	1558	8e-12
+
+#Chain	gypsy	1301-1397	Otip_12521	551-841	+	22.0
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12521/Otip_12521.seq	Otip_12521	1301	1397	551	841	22.7	39.2	109	46.4			0	Plus	2162	7e-09
+
+#Chain	mariner	18-60	Otip_12521	2032-2160	+	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12521/Otip_12521.seq	Otip_12521	18	60	2032	2160	23.3	46.5	113	47.8			0	Plus	2162	4e-10
+
+#Chain	gypsy	642-1247	Otip_12552	749-2362	-	131.6
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12552/Otip_12552.seq	Otip_12552	1160	1247	1000	749	19.3	34.1	124	52.2			0	Minus	5052	4e-10
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12552/Otip_12552.seq	Otip_12552	929	1038	1628	1272	31.7	49.2	239	96.5			0	Minus	5052	1e-23
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12552/Otip_12552.seq	Otip_12552	642	906	2362	1625	30.1	50.8	547	215			0	Minus	5052	6e-60
+
+#Chain	TY1_Copia	258-303	Otip_12552	2997-3131	-	13.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12552/Otip_12552.seq	Otip_12552	258	303	3131	2997	28.3	47.8	91	39.6			0	Minus	5052	3e-06
+
+#Chain	TY1_Copia	854-963	Otip_12562	605-925	-	26.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12562/Otip_12562.seq	Otip_12562	854	963	925	605	24.3	35.7	94	40.8			0	Minus	1010	1e-07
+
+#Chain	helitronORF	415-756	Otip_12564	78-1250	+	98.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12564/Otip_12564.seq	Otip_12564	415	537	78	431	36.6	57.7	262	105			0	Plus	2638	8e-27
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12564/Otip_12564.seq	Otip_12564	540	601	487	675	46.2	63.1	160	65.9			0	Plus	2638	9e-15
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12564/Otip_12564.seq	Otip_12564	692	756	1056	1250	38.5	58.5	159	65.5			0	Plus	2638	1e-14
+
+#Chain	mariner	56-305	Otip_12568	844-1572	-	43.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12568/Otip_12568.seq	Otip_12568	56	305	1572	844	17.4	32.1	127	53.2			0	Minus	1755	5e-12
+
+#Chain	LINE	486-602	Otip_12591	1116-1454	+	25.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12591/Otip_12591.seq	Otip_12591	486	602	1116	1454	21.4	45.3	184	75.3			0	Plus	1680	4e-18
+
+#Chain	TY1_Copia	105-620	Otip_12606	420-1058	+	65.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12606/Otip_12606.seq	Otip_12606	105	303	420	920	18.9	33.3	98	42.3			0	Plus	2894	2e-07
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12606/Otip_12606.seq	Otip_12606	436	620	558	1058	15.1	26.6	96	41.5			0	Plus	2894	4e-07
+
+#Chain	gypsy	590-1058	Otip_12606	1400-2784	+	142.0
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12606/Otip_12606.seq	Otip_12606	590	851	1400	2170	30.6	50.9	562	220			0	Plus	2894	6e-63
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12606/Otip_12606.seq	Otip_12606	848	1058	2158	2784	29.3	47.7	392	155			0	Plus	2894	3e-42
+
+#Chain	LINE	735-809	Otip_12608	18-233	+	20.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12608/Otip_12608.seq	Otip_12608	735	809	18	233	26.7	41.3	110	46.8			0	Plus	2014	4e-09
+
+#Chain	ISb	49-79	Otip_12609	175-246	+	9.7
+ISb		351	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12609/Otip_12609.seq	Otip_12609	49	79	175	246	31.2	37.5	68	30.5			0	Plus	416	8e-06
+
+#Chain	ltr_Roo	1346-1456	Otip_12613	19-360	+	33.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12613/Otip_12613.seq	Otip_12613	1346	1456	19	360	29.8	51.8	244	98.3			0	Plus	362	9e-28
+
+#Chain	mariner	12-292	Otip_12614	24-779	-	47.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12614/Otip_12614.seq	Otip_12614	12	292	779	24	16.8	31.6	198	80.6			0	Minus	2681	1e-20
+
+#Chain	mariner	1-312	Otip_12683	222-914	+	37.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12683/Otip_12683.seq	Otip_12683	1	75	222	440	22.4	38.2	104	44.4			0	Plus	920	1e-09
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12683/Otip_12683.seq	Otip_12683	236	312	678	914	26.6	39.2	199	81.0			0	Plus	920	6e-22
+
+#Chain	LINE	690-753	Otip_12685	789-980	-	11.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12685/Otip_12685.seq	Otip_12685	690	753	980	789	17.2	39.1	91	39.5			0	Minus	1206	3e-07
+
+#Chain	helitronORF	909-1285	Otip_12696	294-720	-	48.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12696/Otip_12696.seq	Otip_12696	1245	1285	419	294	50.0	64.3	121	50.8			0	Minus	1654	2e-10
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12696/Otip_12696.seq	Otip_12696	909	997	720	457	31.5	48.3	155	63.9			0	Minus	1654	2e-14
+
+#Chain	LINE	484-591	Otip_12715	1582-1907	+	26.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12715/Otip_12715.seq	Otip_12715	484	548	1582	1770	26.2	41.5	151	62.6			0	Plus	1909	5e-14
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12715/Otip_12715.seq	Otip_12715	550	591	1782	1907	21.4	45.2	85	37.2			0	Plus	1909	3e-06
+
+#Chain	helitronORF	2-141	Otip_12735	883-1332	+	42.4
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12735/Otip_12735.seq	Otip_12735	2	141	883	1332	30.3	48.0	332	132			0	Plus	1340	2e-36
+
+#Chain	helitronORF	1189-1318	Otip_12750	9-523	-	50.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12750/Otip_12750.seq	Otip_12750	1252	1318	212	9	55.9	72.1	240	96.7			0	Minus	547	1e-26
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12750/Otip_12750.seq	Otip_12750	1189	1213	523	449	52.0	64.0	81	35.4			0	Minus	547	2e-06
+
+#Chain	LINE	728-841	Otip_12775	792-1136	-	19.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12775/Otip_12775.seq	Otip_12775	728	841	1136	792	16.9	32.2	130	54.5			0	Minus	1366	9e-12
+
+#Chain	cacta	742-782	Otip_12814	554-679	+	21.9
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12814/Otip_12814.seq	Otip_12814	742	782	554	679	53.5	53.5	87	37.9			0	Plus	679	4e-07
+
+#Chain	helitronORF	1188-1314	Otip_12853	640-1057	-	70.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12853/Otip_12853.seq	Otip_12853	1242	1314	855	640	63.0	78.1	268	107			0	Minus	1315	1e-28
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12853/Otip_12853.seq	Otip_12853	1188	1238	1057	905	47.1	64.7	168	68.9			0	Minus	1315	3e-16
+
+#Chain	mariner	40-140	Otip_12866	1-288	-	16.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12866/Otip_12866.seq	Otip_12866	40	140	288	1	16.5	40.8	105	44.7			0	Minus	1037	1e-09
+
+#Chain	helitronORF	131-545	Otip_12873	121-877	-	85.6
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12873/Otip_12873.seq	Otip_12873	494	545	288	121	39.3	60.7	154	63.6			0	Minus	879	4e-15
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12873/Otip_12873.seq	Otip_12873	131	314	877	287	35.4	57.6	396	156			0	Minus	879	5e-46
+
+#Chain	LINE	435-543	Otip_12894	346-666	+	24.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12894/Otip_12894.seq	Otip_12894	435	543	346	666	22.5	39.6	179	73.4			0	Plus	676	9e-19
+
+#Chain	ltr_Roo	1017-1130	Otip_12966	5-367	-	27.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_12966/Otip_12966.seq	Otip_12966	1017	1130	367	5	23.8	45.9	160	66.0			0	Minus	436	2e-16
+
+#Chain	mariner	162-246	Otip_13043	453-716	+	24.1
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13043/Otip_13043.seq	Otip_13043	162	246	453	716	28.4	40.9	122	51.3			0	Plus	769	5e-12
+
+#Chain	helitronORF	1157-1316	Otip_13046	115-597	+	58.1
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13046/Otip_13046.seq	Otip_13046	1157	1316	115	597	36.3	46.2	313	124			0	Plus	1018	1e-34
+
+#Chain	helitronORF	856-1011	Otip_1305	56-574	-	43.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1305/Otip_1305.seq	Otip_1305	856	1011	574	56	28.0	43.4	217	87.8			0	Minus	854	5e-23
+
+#Chain	mariner	11-87	Otip_13052	144-377	-	16.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13052/Otip_13052.seq	Otip_13052	11	87	377	144	21.8	38.5	140	58.2			0	Minus	1388	9e-14
+
+#Chain	ltr_Roo	429-496	Otip_13099	321-518	-	18.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13099/Otip_13099.seq	Otip_13099	429	496	518	321	27.5	36.2	111	47.1			0	Minus	587	4e-10
+
+#Chain	helitronORF	2-81	Otip_13117	841-1110	+	24.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13117/Otip_13117.seq	Otip_13117	2	81	841	1110	30.0	45.6	194	79.0			0	Plus	1141	1e-19
+
+#Chain	LINE	527-700	Otip_13125	91-615	-	33.6
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13125/Otip_13125.seq	Otip_13125	527	700	615	91	19.3	38.1	196	80.0			0	Minus	754	1e-20
+
+#Chain	mariner	288-345	Otip_13127	34-210	+	16.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13127/Otip_13127.seq	Otip_13127	288	345	34	210	28.3	46.7	111	47.1			0	Plus	456	2e-11
+
+#Chain	mariner	211-281	Otip_13130	43-243	-	15.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13130/Otip_13130.seq	Otip_13130	211	281	243	43	21.1	32.4	76	33.6			0	Minus	1258	6e-06
+
+#Chain	helitronORF	272-389	Otip_13133	2-370	-	43.3
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13133/Otip_13133.seq	Otip_13133	272	389	370	2	36.7	57.0	257	103			0	Minus	788	4e-28
+
+#Chain	mariner_ant1	152-250	Otip_13135	386-691	+	17.6
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13135/Otip_13135.seq	Otip_13135	152	250	386	691	17.8	29.9	76	33.6			0	Plus	696	2e-06
+
+#Chain	helitronORF	817-884	Otip_13147	35-214	+	20.1
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13147/Otip_13147.seq	Otip_13147	817	884	35	214	29.6	35.2	75	33.1			0	Plus	214	1e-06
+
+#Chain	LINE	502-659	Otip_13150	56-528	-	33.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13150/Otip_13150.seq	Otip_13150	564	659	349	56	22.4	43.9	134	56.1			0	Minus	710	4e-13
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13150/Otip_13150.seq	Otip_13150	502	562	528	352	19.7	39.3	92	39.9			0	Minus	710	1e-07
+
+#Chain	helitronORF	635-692	Otip_13151	3-218	+	16.1
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13151/Otip_13151.seq	Otip_13151	635	692	3	218	27.8	38.9	105	44.7			0	Plus	337	4e-10
+
+#Chain	LINE	445-618	Otip_13153	720-1229	+	33.1
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13153/Otip_13153.seq	Otip_13153	445	618	720	1229	19.0	36.8	277	111			0	Plus	1422	9e-30
+
+#Chain	Crypton	288-339	Otip_13156	130-288	+	16.7
+Crypton		457	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13156/Otip_13156.seq	Otip_13156	288	339	130	288	32.1	45.3	70	31.5			0	Plus	451	6e-06
+
+#Chain	helitronORF	227-1316	Otip_13162	465-1487	-	147.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13162/Otip_13162.seq	Otip_13162	1265	1316	617	465	63.5	78.8	182	74.3			0	Minus	1540	8e-18
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13162/Otip_13162.seq	Otip_13162	227	530	1487	624	37.5	54.6	614	240			0	Minus	1540	2e-72
+
+#Chain	LINE	360-451	Otip_13164	26-283	-	13.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13164/Otip_13164.seq	Otip_13164	360	451	283	26	14.7	36.8	96	41.4			0	Minus	288	3e-09
+
+#Chain	mariner	85-205	Otip_13172	2-364	-	23.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13172/Otip_13172.seq	Otip_13172	85	205	364	2	19.0	38.9	141	58.6			0	Minus	1540	8e-14
+
+#Chain	helitronORF	514-543	Otip_13177	1-102	+	10.6
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13177/Otip_13177.seq	Otip_13177	514	543	1	102	35.3	50.0	78	34.3			0	Plus	201	4e-07
+
+#Chain	helitronORF	532-561	Otip_13177	110-199	+	15.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13177/Otip_13177.seq	Otip_13177	532	561	110	199	50.0	63.3	98	42.0			0	Plus	201	1e-09
+
+#Chain	mariner	55-148	Otip_13178	36-296	-	28.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13178/Otip_13178.seq	Otip_13178	55	148	296	36	30.5	47.4	176	72.1			0	Minus	507	8e-20
+
+#Chain	helitronORF	1176-1193	Otip_13182	157-210	-	11.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13182/Otip_13182.seq	Otip_13182	1176	1193	210	157	61.1	72.2	75	33.1			0	Minus	286	2e-06
+
+#Chain	mariner	87-174	Otip_13185	23-310	-	19.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13185/Otip_13185.seq	Otip_13185	87	174	310	23	21.8	34.7	126	52.8			0	Minus	439	2e-13
+
+#Chain	mariner	222-345	Otip_13187	13-382	-	38.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13187/Otip_13187.seq	Otip_13187	287	345	192	13	31.1	52.5	125	52.4			0	Minus	459	3e-13
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13187/Otip_13187.seq	Otip_13187	222	287	382	191	30.3	45.5	172	70.6			0	Minus	459	2e-19
+
+#Chain	mariner	199-341	Otip_13192	47-460	+	31.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13192/Otip_13192.seq	Otip_13192	199	341	47	460	21.8	35.4	212	86.0			0	Plus	766	4e-24
+
+#Chain	mariner	12-159	Otip_13206	6-332	-	20.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13206/Otip_13206.seq	Otip_13206	12	159	332	6	14.1	28.2	124	52.1			0	Minus	681	2e-12
+
+#Chain	DDE_1	134-267	Otip_13215	33-413	+	26.9
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13215/Otip_13215.seq	Otip_13215	134	267	33	413	20.1	37.3	161	66.4			0	Plus	465	2e-17
+
+#Chain	mariner	20-149	Otip_13217	46-402	-	31.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13217/Otip_13217.seq	Otip_13217	20	149	402	46	24.4	38.9	220	89.0			0	Minus	411	3e-26
+
+#Chain	ltr_Roo	256-295	Otip_13218	3-119	-	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13218/Otip_13218.seq	Otip_13218	256	295	119	3	35.0	45.0	93	40.2			0	Minus	732	2e-07
+
+#Chain	mariner	250-296	Otip_13226	49-201	+	12.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13226/Otip_13226.seq	Otip_13226	250	296	49	201	27.5	49.0	125	52.4			0	Plus	253	9e-14
+
+#Chain	mariner	20-133	Otip_13232	10-330	+	22.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13232/Otip_13232.seq	Otip_13232	20	133	10	330	20.0	37.4	126	52.8			0	Plus	331	1e-13
+
+#Chain	mariner	11-341	Otip_13233	454-1429	-	80.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13233/Otip_13233.seq	Otip_13233	77	341	1230	454	26.1	43.8	475	187			0	Minus	1859	1e-57
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13233/Otip_13233.seq	Otip_13233	11	77	1429	1226	16.2	36.8	110	46.7			0	Minus	1859	7e-10
+
+#Chain	LINE	313-462	Otip_13234	6-425	-	25.1
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13234/Otip_13234.seq	Otip_13234	313	462	425	6	16.7	36.0	168	69.2			0	Minus	430	6e-18
+
+#Chain	mariner	1-108	Otip_13237	99-398	+	29.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13237/Otip_13237.seq	Otip_13237	1	108	99	398	27.5	42.2	179	73.3			0	Plus	400	1e-20
+
+#Chain	helitronORF	1110-1205	Otip_13239	2-320	-	52.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13239/Otip_13239.seq	Otip_13239	1138	1205	199	2	54.4	72.1	221	89.4			0	Minus	320	3e-25
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13239/Otip_13239.seq	Otip_13239	1110	1140	320	228	48.4	67.7	100	42.8			0	Minus	320	2e-09
+
+#Chain	DDE_1	4-114	Otip_13243	245-658	+	20.0
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13243/Otip_13243.seq	Otip_13243	4	114	245	658	18.0	30.2	105	44.9			0	Plus	666	8e-10
+
+#Chain	mariner	236-345	Otip_13250	4-336	+	29.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13250/Otip_13250.seq	Otip_13250	236	345	4	336	26.8	46.4	312	124			0	Plus	615	4e-38
+
+#Chain	mariner	261-305	Otip_13258	3-149	+	12.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13258/Otip_13258.seq	Otip_13258	261	305	3	149	28.6	44.9	130	54.4			0	Plus	255	2e-14
+
+#Chain	mariner	7-121	Otip_13260	139-450	-	21.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13260/Otip_13260.seq	Otip_13260	7	121	450	139	19.0	32.8	114	48.2			0	Minus	450	9e-12
+
+#Chain	mariner	213-294	Otip_13272	111-338	-	24.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13272/Otip_13272.seq	Otip_13272	213	294	338	111	29.3	41.5	216	87.5			0	Minus	344	5e-26
+
+#Chain	LINE	560-667	Otip_13280	19-363	-	17.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13280/Otip_13280.seq	Otip_13280	560	667	363	19	16.2	35.0	137	57.2			0	Minus	1459	1e-12
+
+#Chain	DDE_1	218-318	Otip_13289	209-505	+	18.3
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13289/Otip_13289.seq	Otip_13289	218	318	209	505	18.1	36.2	131	54.9			0	Plus	769	6e-13
+
+#Chain	helitronORF	412-520	Otip_13292	2-310	-	50.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13292/Otip_13292.seq	Otip_13292	412	520	310	2	45.9	65.1	326	129			0	Minus	313	3e-39
+
+#Chain	mariner	193-276	Otip_13294	1-255	+	25.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13294/Otip_13294.seq	Otip_13294	193	276	1	255	30.3	42.7	205	83.3			0	Plus	256	6e-25
+
+#Chain	mariner	250-316	Otip_13295	1-211	+	22.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13295/Otip_13295.seq	Otip_13295	250	284	1	114	42.1	55.3	119	50.1			0	Plus	242	5e-13
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13295/Otip_13295.seq	Otip_13295	285	316	116	211	25.0	46.9	105	44.7			0	Plus	242	4e-11
+
+#Chain	mariner	233-315	Otip_13312	17-262	-	27.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13312/Otip_13312.seq	Otip_13312	233	315	262	17	32.9	50.6	189	77.1			0	Minus	321	2e-22
+
+#Chain	LINE	472-635	Otip_13322	3-476	+	30.8
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13322/Otip_13322.seq	Otip_13322	472	635	3	476	18.8	34.7	105	44.9			0	Plus	553	1e-09
+
+#Chain	LINE	406-536	Otip_13332	5-385	+	29.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13332/Otip_13332.seq	Otip_13332	406	536	5	385	22.1	40.5	239	96.5			0	Plus	387	2e-27
+
+#Chain	mariner_ant1	204-266	Otip_13337	102-296	+	18.4
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13337/Otip_13337.seq	Otip_13337	204	266	102	296	29.2	47.7	108	45.9			0	Plus	369	3e-11
+
+#Chain	mariner	13-130	Otip_13369	213-554	+	21.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13369/Otip_13369.seq	Otip_13369	13	130	213	554	18.2	42.1	173	70.9			0	Plus	555	3e-19
+
+#Chain	helitronORF	411-522	Otip_13381	1-330	-	49.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13381/Otip_13381.seq	Otip_13381	411	522	330	1	44.2	64.6	342	135			0	Minus	330	2e-41
+
+#Chain	LINE	412-591	Otip_13383	3-410	-	32.9
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13383/Otip_13383.seq	Otip_13383	412	591	410	3	18.3	31.1	240	96.9			0	Minus	411	2e-27
+
+#Chain	helitronORF	989-1029	Otip_13388	6-131	+	18.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13388/Otip_13388.seq	Otip_13388	989	1029	6	131	45.2	66.7	131	54.7			0	Plus	361	3e-13
+
+#Chain	helitronORF	1020-1090	Otip_13388	139-354	+	26.6
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13388/Otip_13388.seq	Otip_13388	1020	1090	139	354	37.5	61.1	153	63.2			0	Plus	361	4e-16
+
+#Chain	LINE	505-592	Otip_13393	118-378	-	19.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13393/Otip_13393.seq	Otip_13393	505	592	378	118	21.6	38.6	141	58.8			0	Minus	519	2e-14
+
+#Chain	mariner	162-303	Otip_13398	1-249	-	21.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13398/Otip_13398.seq	Otip_13398	162	303	249	1	15.4	26.6	119	50.1			0	Minus	250	5e-13
+
+#Chain	mariner	51-201	Otip_13400	1-435	-	33.1
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13400/Otip_13400.seq	Otip_13400	51	201	435	1	21.9	39.7	254	102			0	Minus	725	1e-29
+
+#Chain	mariner	11-53	Otip_13400	597-725	+	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13400/Otip_13400.seq	Otip_13400	11	53	597	725	23.3	41.9	100	42.8			0	Plus	725	2e-09
+
+#Chain	mariner	205-268	Otip_13401	17-196	+	9.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13401/Otip_13401.seq	Otip_13401	205	268	17	196	14.1	31.2	68	30.5			0	Plus	380	6e-06
+
+#Chain	mariner	148-216	Otip_13417	402-599	-	22.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13417/Otip_13417.seq	Otip_13417	148	216	599	402	31.9	40.6	164	67.5			0	Minus	785	2e-17
+
+#Chain	LINE	676-781	Otip_13428	7-306	+	21.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13428/Otip_13428.seq	Otip_13428	676	781	7	306	19.8	37.7	117	49.5			0	Plus	311	9e-12
+
+#Chain	mariner	254-343	Otip_13436	119-391	+	34.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13436/Otip_13436.seq	Otip_13436	254	343	119	391	38.0	48.9	244	98.3			0	Plus	522	4e-29
+
+#Chain	LINE	555-636	Otip_13439	2-243	+	19.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13439/Otip_13439.seq	Otip_13439	555	597	2	130	20.9	46.5	88	38.4			0	Plus	291	3e-08
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13439/Otip_13439.seq	Otip_13439	593	636	112	243	22.7	38.6	77	34.1			0	Plus	291	7e-07
+
+#Chain	mariner_ant1	222-266	Otip_13446	180-314	-	14.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13446/Otip_13446.seq	Otip_13446	222	266	314	180	31.1	46.7	86	37.5			0	Minus	330	2e-08
+
+#Chain	mariner	152-216	Otip_13448	180-365	+	18.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13448/Otip_13448.seq	Otip_13448	152	216	180	365	27.7	40.0	142	59.0			0	Plus	365	1e-15
+
+#Chain	helitronORF	1174-1205	Otip_13449	3-98	-	15.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13449/Otip_13449.seq	Otip_13449	1174	1205	98	3	46.9	75.0	98	42.0			0	Minus	216	2e-09
+
+#Chain	mariner	108-223	Otip_13450	61-429	+	25.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13450/Otip_13450.seq	Otip_13450	108	223	61	429	21.8	39.5	102	43.6			0	Plus	430	3e-10
+
+#Chain	mariner	191-276	Otip_13457	172-408	+	27.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13457/Otip_13457.seq	Otip_13457	191	276	172	408	31.4	40.7	217	87.9			0	Plus	409	7e-26
+
+#Chain	mariner	1-111	Otip_13464	182-493	+	26.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13464/Otip_13464.seq	Otip_13464	1	111	182	493	24.1	43.8	172	70.6			0	Plus	512	3e-19
+
+#Chain	LINE	459-624	Otip_13472	6-394	-	29.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13472/Otip_13472.seq	Otip_13472	557	624	209	6	20.6	41.2	125	52.6			0	Minus	395	1e-12
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13472/Otip_13472.seq	Otip_13472	459	520	394	215	24.2	40.3	131	54.9			0	Minus	395	2e-13
+
+#Chain	mariner	18-103	Otip_13482	485-727	+	19.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13482/Otip_13482.seq	Otip_13482	18	103	485	727	23.0	47.1	143	59.4			0	Plus	750	8e-15
+
+#Chain	mariner	202-257	Otip_13483	157-318	-	16.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13483/Otip_13483.seq	Otip_13483	202	257	318	157	29.3	41.4	113	47.8			0	Minus	319	6e-12
+
+#Chain	mariner	131-230	Otip_13491	13-318	-	21.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13491/Otip_13491.seq	Otip_13491	131	230	318	13	21.3	31.5	99	42.4			0	Minus	318	3e-10
+
+#Chain	mariner	1-51	Otip_13498	146-301	+	9.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13498/Otip_13498.seq	Otip_13498	1	51	146	301	19.2	36.5	78	34.3			0	Plus	306	2e-07
+
+#Chain	LINE	427-505	Otip_13505	6-233	+	20.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13505/Otip_13505.seq	Otip_13505	427	505	6	233	25.3	43.0	148	61.5			0	Plus	348	1e-15
+
+#Chain	mariner	29-112	Otip_13518	6-293	-	14.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13518/Otip_13518.seq	Otip_13518	29	112	293	6	16.7	38.5	143	59.4			0	Minus	297	5e-16
+
+#Chain	ISa	11-417	Otip_1352	820-1920	-	58.2
+ISa		473	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1352/Otip_1352.seq	Otip_1352	11	417	1920	820	14.3	34.3	133	55.5			0	Minus	2190	3e-12
+
+#Chain	mariner_ant1	222-263	Otip_13523	108-233	-	13.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13523/Otip_13523.seq	Otip_13523	222	263	233	108	31.0	52.4	88	38.2			0	Minus	331	8e-09
+
+#Chain	mariner	181-213	Otip_13542	12-110	-	9.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13542/Otip_13542.seq	Otip_13542	181	213	110	12	27.3	48.5	101	43.2			0	Minus	420	3e-10
+
+#Chain	mariner	163-318	Otip_13555	3-447	+	46.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13555/Otip_13555.seq	Otip_13555	163	203	3	116	31.7	36.6	101	43.2			0	Plus	451	4e-10
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13555/Otip_13555.seq	Otip_13555	208	318	127	447	30.1	45.1	294	117			0	Plus	451	3e-36
+
+#Chain	helitronORF	1-71	Otip_13566	160-366	+	20.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13566/Otip_13566.seq	Otip_13566	1	71	160	366	28.2	50.7	127	53.2			0	Plus	461	1e-12
+
+#Chain	mariner	168-223	Otip_13627	42-200	-	17.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13627/Otip_13627.seq	Otip_13627	168	223	200	42	30.4	39.3	120	50.5			0	Minus	201	3e-13
+
+#Chain	mariner	149-230	Otip_13635	72-305	+	26.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13635/Otip_13635.seq	Otip_13635	149	230	72	305	31.7	46.3	209	84.8			0	Plus	325	4e-25
+
+#Chain	mariner	218-262	Otip_13640	3-125	-	15.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13640/Otip_13640.seq	Otip_13640	218	262	125	3	33.3	48.9	115	48.6			0	Minus	360	4e-12
+
+#Chain	mariner	11-63	Otip_13644	24-182	-	12.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13644/Otip_13644.seq	Otip_13644	11	63	182	24	22.6	43.4	126	52.8			0	Minus	337	1e-13
+
+#Chain	mariner	128-273	Otip_13675	8-442	+	33.1
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13675/Otip_13675.seq	Otip_13675	128	273	8	442	22.7	36.4	249	100			0	Plus	442	4e-30
+
+#Chain	helitronORF	1010-1140	Otip_13682	1-393	+	43.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13682/Otip_13682.seq	Otip_13682	1010	1140	1	393	32.8	51.8	249	100			0	Plus	466	3e-28
+
+#Chain	mariner	11-71	Otip_13697	103-288	-	13.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13697/Otip_13697.seq	Otip_13697	11	71	288	103	22.6	35.5	121	50.9			0	Minus	288	4e-13
+
+#Chain	mariner	286-345	Otip_13704	158-340	-	19.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13704/Otip_13704.seq	Otip_13704	286	345	340	158	32.3	50.0	129	54.0			0	Minus	342	5e-14
+
+#Chain	mariner	258-334	Otip_13805	4-246	+	16.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13805/Otip_13805.seq	Otip_13805	258	334	4	246	22.0	45.1	152	62.8			0	Plus	247	2e-17
+
+#Chain	LINE	418-510	Otip_13869	54-326	-	28.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13869/Otip_13869.seq	Otip_13869	418	510	326	54	30.1	45.2	203	82.7			0	Minus	376	1e-22
+
+#Chain	mariner	11-113	Otip_13878	12-317	-	17.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13878/Otip_13878.seq	Otip_13878	11	113	317	12	17.3	35.6	155	64.0			0	Minus	322	1e-17
+
+#Chain	DDE_1	150-213	Otip_13880	38-277	-	12.0
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13880/Otip_13880.seq	Otip_13880	150	213	277	38	18.8	32.5	78	34.5			0	Minus	282	2e-07
+
+#Chain	gypsy	1266-1375	Otip_13882	109-456	-	21.7
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13882/Otip_13882.seq	Otip_13882	1266	1375	456	109	19.7	29.1	111	47.2			0	Minus	550	2e-10
+
+#Chain	mariner	228-261	Otip_13884	2-91	-	7.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13884/Otip_13884.seq	Otip_13884	228	261	91	2	20.6	41.2	84	36.7			0	Minus	276	2e-08
+
+#Chain	mariner	207-341	Otip_13886	79-465	+	40.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13886/Otip_13886.seq	Otip_13886	207	341	79	465	30.2	48.9	350	139			0	Plus	472	3e-44
+
+#Chain	mariner	31-103	Otip_13906	58-249	+	17.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13906/Otip_13906.seq	Otip_13906	31	103	58	249	23.3	32.9	91	39.4			0	Plus	251	2e-09
+
+#Chain	mariner	148-202	Otip_13927	3-158	-	17.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13927/Otip_13927.seq	Otip_13927	148	202	158	3	30.9	40.0	123	51.7			0	Minus	429	5e-13
+
+#Chain	helitronORF	301-388	Otip_13928	2-302	-	43.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13928/Otip_13928.seq	Otip_13928	351	388	115	2	60.5	76.3	165	67.8			0	Minus	312	8e-18
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_13928/Otip_13928.seq	Otip_13928	301	355	302	144	36.4	58.2	148	61.2			0	Minus	312	1e-15
+
+#Chain	ltr_Roo	1392-1441	Otip_14247	15-164	+	15.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14247/Otip_14247.seq	Otip_14247	1392	1441	15	164	30.0	50.0	132	55.2			0	Plus	206	1e-13
+
+#Chain	cacta	710-783	Otip_14403	1719-1919	-	25.9
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14403/Otip_14403.seq	Otip_14403	710	783	1919	1719	35.0	43.8	97	41.8			0	Minus	2138	2e-07
+
+#Chain	LINE	489-532	Otip_14436	2051-2176	+	8.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14436/Otip_14436.seq	Otip_14436	489	532	2051	2176	18.2	34.1	86	37.6			0	Plus	2176	3e-06
+
+#Chain	gypsy	1155-1340	Otip_14461	2-568	-	33.7
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14461/Otip_14461.seq	Otip_14461	1155	1340	568	2	18.1	35.8	220	89.2			0	Minus	1213	7e-23
+
+#Chain	helitronORF	594-874	Otip_14630	24-899	+	93.6
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14630/Otip_14630.seq	Otip_14630	594	874	24	899	33.3	49.3	539	211			0	Plus	901	5e-65
+
+#Chain	ltr_Roo	1478-1772	Otip_14638	1724-2683	-	74.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14638/Otip_14638.seq	Otip_14638	1478	1772	2683	1724	25.4	42.8	557	218			0	Minus	2691	5e-62
+
+#Chain	LINE	172-505	Otip_14640	793-1617	-	46.8
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14640/Otip_14640.seq	Otip_14640	172	505	1617	793	14.0	28.6	173	71.1			0	Minus	2443	2e-16
+
+#Chain	mariner_ant1	203-296	Otip_14642	753-1037	-	20.8
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14642/Otip_14642.seq	Otip_14642	203	296	1037	753	22.1	40.0	117	49.4			0	Minus	1084	3e-11
+
+#Chain	mariner	275-334	Otip_14679	707-880	+	19.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14679/Otip_14679.seq	Otip_14679	275	334	707	880	31.7	48.3	124	52.1			0	Plus	1786	1e-11
+
+#Chain	mariner	87-299	Otip_14700	175-819	+	55.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14700/Otip_14700.seq	Otip_14700	87	299	175	819	26.0	39.2	420	166			0	Plus	831	1e-52
+
+#Chain	mariner	61-117	Otip_14791	875-1030	-	15.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14791/Otip_14791.seq	Otip_14791	61	117	1030	875	26.3	42.1	81	35.5			0	Minus	1030	1e-06
+
+#Chain	gypsy	646-1079	Otip_14797	9-1316	-	83.8
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14797/Otip_14797.seq	Otip_14797	646	1079	1316	9	19.3	37.5	299	119			0	Minus	1342	2e-32
+
+#Chain	ISC1316	219-372	Otip_14819	101-601	-	47.0
+ISC1316		393	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14819/Otip_14819.seq	Otip_14819	219	372	601	101	30.5	49.7	504	198			0	Minus	603	1e-65
+
+#Chain	ltr_Roo	478-668	Otip_14930	71-427	-	35.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14930/Otip_14930.seq	Otip_14930	566	668	397	71	24.3	37.4	85	37.1			0	Minus	441	4e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14930/Otip_14930.seq	Otip_14930	478	525	427	284	20.8	29.2	77	34.0			0	Minus	441	5e-06
+
+#Chain	mariner	82-261	Otip_14979	796-1299	-	31.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_14979/Otip_14979.seq	Otip_14979	82	261	1299	796	17.6	31.9	138	57.5			0	Minus	1304	1e-13
+
+#Chain	gypsy	1228-1268	Otip_15014	303-428	+	12.7
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15014/Otip_15014.seq	Otip_15014	1228	1268	303	428	31.0	38.1	97	41.8			0	Plus	428	6e-09
+
+#Chain	TY1_Copia	225-587	Otip_15031	77-433	-	40.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15031/Otip_15031.seq	Otip_15031	458	587	415	77	16.2	34.6	105	45.0			0	Minus	2017	2e-08
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15031/Otip_15031.seq	Otip_15031	225	338	433	89	16.7	31.7	86	37.7			0	Minus	2017	4e-06
+
+#Chain	helitronORF	957-1018	Otip_15034	2-190	-	21.6
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15034/Otip_15034.seq	Otip_15034	957	1018	190	2	34.9	55.6	164	67.4			0	Minus	634	7e-17
+
+#Chain	helitronORF	131-587	Otip_15036	2-1172	-	160.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15036/Otip_15036.seq	Otip_15036	543	587	136	2	53.3	77.8	173	70.9			0	Minus	1174	5e-17
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15036/Otip_15036.seq	Otip_15036	276	544	968	171	45.3	65.7	841	328			0	Minus	1174	1e-105
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15036/Otip_15036.seq	Otip_15036	131	192	1172	960	23.9	45.1	80	35.0			0	Minus	1174	9e-06
+
+#Chain	ltr_Roo	298-1321	Otip_15040	41-3649	-	228.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15040/Otip_15040.seq	Otip_15040	535	1321	2554	41	24.9	47.2	1221	474			0	Minus	3652	1e-144
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15040/Otip_15040.seq	Otip_15040	298	509	3649	3017	15.2	35.9	204	82.9			0	Minus	3652	2e-19
+
+#Chain	helitronORF	2-85	Otip_15076	136-444	+	22.6
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15076/Otip_15076.seq	Otip_15076	2	85	136	444	26.9	40.4	173	70.9			0	Plus	446	2e-18
+
+#Chain	helitronORF	22-62	Otip_15084	2-133	-	10.2
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15084/Otip_15084.seq	Otip_15084	22	62	133	2	25.0	52.3	84	36.6			0	Minus	763	1e-06
+
+#Chain	helitronORF	640-726	Otip_15098	1-344	+	30.1
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15098/Otip_15098.seq	Otip_15098	640	692	1	201	28.4	38.8	96	41.2			0	Plus	344	5e-09
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15098/Otip_15098.seq	Otip_15098	692	726	240	344	42.9	60.0	107	45.4			0	Plus	344	2e-10
+
+#Chain	mariner	247-305	Otip_15113	114-296	+	15.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15113/Otip_15113.seq	Otip_15113	247	305	114	296	26.2	45.9	189	77.1			0	Plus	297	2e-22
+
+#Chain	ltr_Roo	1013-1085	Otip_15119	38-256	-	22.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15119/Otip_15119.seq	Otip_15119	1013	1085	256	38	31.1	52.7	152	62.9			0	Minus	291	6e-16
+
+#Chain	mariner	11-79	Otip_15133	28-213	-	18.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15133/Otip_15133.seq	Otip_15133	11	79	213	28	26.1	37.7	133	55.5			0	Minus	248	7e-15
+
+#Chain	mariner	285-332	Otip_15188	405-554	-	7.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15188/Otip_15188.seq	Otip_15188	285	332	554	405	16.0	48.0	123	51.7			0	Minus	555	1e-12
+
+#Chain	mariner	323-343	Otip_15226	4-66	+	7.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15226/Otip_15226.seq	Otip_15226	323	343	4	66	33.3	52.4	70	31.3			0	Plus	223	1e-06
+
+#Chain	LINE	518-582	Otip_15227	2-196	-	12.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15227/Otip_15227.seq	Otip_15227	518	582	196	2	18.5	38.5	140	58.4			0	Minus	216	4e-15
+
+#Chain	mariner_ant1	228-266	Otip_15401	24-140	-	12.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15401/Otip_15401.seq	Otip_15401	228	266	140	24	30.8	46.2	76	33.6			0	Minus	253	2e-07
+
+#Chain	mariner	196-248	Otip_15410	48-200	+	15.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_15410/Otip_15410.seq	Otip_15410	196	248	48	200	29.1	45.5	110	46.7			0	Plus	200	5e-12
+
+#Chain	gypsy	1266-1391	Otip_1665	456-860	+	25.6
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1665/Otip_1665.seq	Otip_1665	1266	1391	456	860	20.3	31.2	87	37.9			0	Plus	863	8e-07
+
+#Chain	mariner	6-44	Otip_1877	597-713	+	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1877/Otip_1877.seq	Otip_1877	6	44	597	713	25.6	46.2	84	36.7			0	Plus	946	4e-07
+
+#Chain	ltr_Roo	783-1321	Otip_1949	84-1795	+	132.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1949/Otip_1949.seq	Otip_1949	783	1149	84	1187	24.5	47.8	729	285			0	Plus	1845	1e-85
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_1949/Otip_1949.seq	Otip_1949	1151	1321	1193	1795	25.0	45.1	257	103			0	Plus	1845	2e-26
+
+#Chain	helitronORF	1248-1300	Otip_2114	231-389	-	30.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_2114/Otip_2114.seq	Otip_2114	1248	1300	389	231	56.6	67.9	185	75.5			0	Minus	1986	6e-18
+
+#Chain	LINE	54-206	Otip_214	683-1060	+	25.7
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_214/Otip_214.seq	Otip_214	54	206	683	1060	16.8	26.7	85	37.2			0	Plus	1733	3e-06
+
+#Chain	helitronORF	876-936	Otip_2193	223-393	+	15.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_2193/Otip_2193.seq	Otip_2193	876	936	223	393	24.6	49.2	82	35.8			0	Plus	523	1e-06
+
+#Chain	helitronORF	1182-1316	Otip_2309	3-447	+	74.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_2309/Otip_2309.seq	Otip_2309	1182	1241	3	185	49.2	63.9	197	80.1			0	Plus	1625	2e-19
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_2309/Otip_2309.seq	Otip_2309	1243	1316	229	447	60.8	74.3	308	122			0	Plus	1625	3e-33
+
+#Chain	helitronORF	1078-1298	Otip_2482	1034-1777	-	109.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_2482/Otip_2482.seq	Otip_2482	1244	1298	1198	1034	63.6	83.6	250	100			0	Minus	1784	8e-26
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_2482/Otip_2482.seq	Otip_2482	1140	1246	1557	1228	49.1	62.7	316	125			0	Minus	1784	6e-34
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_2482/Otip_2482.seq	Otip_2482	1078	1140	1777	1601	34.9	55.6	144	59.7			0	Minus	1784	4e-13
+
+#Chain	ltr_Roo	1140-1249	Otip_2614	153-499	-	34.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_2614/Otip_2614.seq	Otip_2614	1213	1249	257	153	37.8	54.1	104	44.4			0	Minus	501	2e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_2614/Otip_2614.seq	Otip_2614	1140	1213	499	254	28.0	52.4	116	49.0			0	Minus	501	6e-11
+
+#Chain	TY1_Copia	543-570	Otip_3409	308-391	-	9.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_3409/Otip_3409.seq	Otip_3409	543	570	391	308	32.1	42.9	88	38.5			0	Minus	572	2e-07
+
+#Chain	gypsy	911-1026	Otip_3418	2-376	+	31.1
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_3418/Otip_3418.seq	Otip_3418	911	1026	2	376	26.8	47.2	247	99.6			0	Plus	393	3e-28
+
+#Chain	TY1_Copia	524-668	Otip_3429	56-484	-	20.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_3429/Otip_3429.seq	Otip_3429	524	668	484	56	13.8	28.3	82	36.2			0	Minus	552	1e-06
+
+#Chain	helitronORF	180-243	Otip_3441	83-277	+	29.1
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_3441/Otip_3441.seq	Otip_3441	180	243	83	277	45.5	60.6	163	67.0			0	Plus	279	1e-17
+
+#Chain	helitronORF	680-743	Otip_3454	12-206	-	25.6
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_3454/Otip_3454.seq	Otip_3454	680	743	206	12	40.0	56.9	158	65.1			0	Minus	277	5e-17
+
+#Chain	helitronORF	1017-1242	Otip_3721	24-423	+	67.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_3721/Otip_3721.seq	Otip_3721	1017	1084	24	215	33.8	47.1	95	40.8			0	Plus	537	2e-08
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_3721/Otip_3721.seq	Otip_3721	1155	1242	160	423	50.0	68.2	296	118			0	Plus	537	4e-34
+
+#Chain	helitronORF	918-985	Otip_3814	138-338	-	21.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_3814/Otip_3814.seq	Otip_3814	918	985	338	138	30.9	51.5	128	53.5			0	Minus	342	6e-13
+
+#Chain	ISC1316	58-108	Otip_4034	71-226	+	11.8
+ISC1316		393	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4034/Otip_4034.seq	Otip_4034	58	108	71	226	23.1	40.4	67	30.2			0	Plus	273	4e-06
+
+#Chain	ISb	48-93	Otip_4036	90-251	-	10.0
+ISb		351	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4036/Otip_4036.seq	Otip_4036	48	93	251	90	21.8	34.5	67	30.1			0	Minus	281	4e-06
+
+#Chain	gypsy	609-685	Otip_4280	33-251	+	19.5
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4280/Otip_4280.seq	Otip_4280	609	685	33	251	25.3	44.3	148	61.4			0	Plus	253	7e-16
+
+#Chain	helitronORF	899-985	Otip_4284	2-259	+	35.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4284/Otip_4284.seq	Otip_4284	899	985	2	259	40.2	59.8	221	89.4			0	Plus	388	7e-25
+
+#Chain	helitronORF	1262-1289	Otip_4422	65307-65390	-	16.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4422/Otip_4422.seq	Otip_4422	1262	1289	65390	65307	57.1	71.4	116	48.9			0	Minus	65627	5e-08
+
+#Chain	LINE	561-808	Otip_4454	7726-8434	+	38.1
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4454/Otip_4454.seq	Otip_4454	561	657	7726	8046	18.7	41.1	137	57.2			0	Plus	12686	2e-11
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4454/Otip_4454.seq	Otip_4454	712	808	8162	8434	20.6	33.0	116	49.1			0	Plus	12686	6e-09
+
+#Chain	mariner	7-228	Otip_4459	5990-6650	-	41.1
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4459/Otip_4459.seq	Otip_4459	130	228	6298	5990	21.5	33.6	99	42.4			0	Minus	25183	3e-07
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4459/Otip_4459.seq	Otip_4459	7	119	6650	6333	17.5	37.7	119	50.1			0	Minus	25183	1e-09
+
+#Chain	mariner	1-345	Otip_4495	383-1265	-	64.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4495/Otip_4495.seq	Otip_4495	289	345	556	383	28.8	49.2	94	40.5			0	Minus	5152	2e-07
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4495/Otip_4495.seq	Otip_4495	1	229	1265	585	20.9	35.3	248	99.8			0	Minus	5152	2e-26
+
+#Chain	LINE	682-808	Otip_4529	440-805	+	19.8
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4529/Otip_4529.seq	Otip_4529	682	808	440	805	15.6	29.7	94	40.7			0	Plus	5624	1e-06
+
+#Chain	hAT	129-328	Otip_4549	12472-13056	+	34.6
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4549/Otip_4549.seq	Otip_4549	129	328	12472	13056	17.3	34.1	106	45.3			0	Plus	35610	2e-07
+
+#Chain	LINE	343-692	Otip_4624	1259-2265	-	60.9
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4624/Otip_4624.seq	Otip_4624	564	692	1651	1259	20.1	37.3	125	52.6			0	Minus	10808	5e-10
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4624/Otip_4624.seq	Otip_4624	343	562	2265	1654	15.9	32.3	227	91.9			0	Minus	10808	5e-22
+
+#Chain	mariner	7-338	Otip_4632	3964-4914	+	68.1
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4632/Otip_4632.seq	Otip_4632	7	338	3964	4914	20.5	38.3	478	188			0	Plus	51669	7e-55
+
+#Chain	gypsy	313-439	Otip_4635	17182-17544	-	11.0
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4635/Otip_4635.seq	Otip_4635	313	439	17544	17182	8.7	26.0	99	42.6			0	Minus	46385	3e-06
+
+#Chain	gypsy	1227-1343	Otip_4635	36315-36644	-	21.8
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4635/Otip_4635.seq	Otip_4635	1227	1343	36644	36315	18.6	32.2	193	78.8			0	Minus	46385	3e-17
+
+#Chain	ltr_Roo	421-483	Otip_4694	500-727	-	12.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4694/Otip_4694.seq	Otip_4694	421	483	727	500	19.7	36.8	91	39.4			0	Minus	4232	4e-06
+
+#Chain	mariner	11-343	Otip_4712	19665-20000	-	34.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4712/Otip_4712.seq	Otip_4712	287	343	19832	19665	26.3	47.4	138	57.5			0	Minus	21871	4e-12
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4712/Otip_4712.seq	Otip_4712	11	86	20000	19779	26.0	42.9	98	42.0			0	Minus	21871	3e-07
+
+#Chain	mariner	39-131	Otip_4713	7-267	-	15.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4713/Otip_4713.seq	Otip_4713	39	131	267	7	17.0	38.3	118	49.8			0	Minus	10966	5e-10
+
+#Chain	LINE	51-231	Otip_4729	17-637	-	36.9
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4729/Otip_4729.seq	Otip_4729	51	231	637	17	20.4	31.9	117	49.5			0	Minus	19372	8e-09
+
+#Chain	hAT	112-174	Otip_4736	23469-23639	+	14.0
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4736/Otip_4736.seq	Otip_4736	112	174	23469	23639	22.2	46.0	117	49.5			0	Plus	24630	6e-09
+
+#Chain	mariner	181-299	Otip_4746	15976-16280	+	37.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4746/Otip_4746.seq	Otip_4746	181	253	15976	16146	24.7	37.0	123	51.7			0	Plus	81356	1e-09
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4746/Otip_4746.seq	Otip_4746	257	299	16152	16280	44.2	55.8	148	61.3			0	Plus	81356	9e-13
+
+#Chain	LINE	468-566	Otip_4765	21600-21884	+	25.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4765/Otip_4765.seq	Otip_4765	468	566	21600	21884	25.3	41.4	175	71.9			0	Plus	37751	2e-15
+
+#Chain	helitronORF	233-288	Otip_4766	15855-16016	-	19.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4766/Otip_4766.seq	Otip_4766	233	288	16016	15855	33.9	48.2	104	44.3			0	Minus	40183	7e-07
+
+#Chain	LINE	383-555	Otip_4776	31455-31952	-	32.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4776/Otip_4776.seq	Otip_4776	383	555	31952	31455	18.5	34.7	184	75.3			0	Minus	35160	2e-16
+
+#Chain	mariner	103-301	Otip_4780	126-662	-	41.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4780/Otip_4780.seq	Otip_4780	103	301	662	126	20.6	37.3	258	103			0	Minus	18832	5e-27
+
+#Chain	ltr_Roo	1408-1474	Otip_4789	291-488	+	27.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4789/Otip_4789.seq	Otip_4789	1408	1474	291	488	40.3	53.7	147	61.0			0	Plus	13299	4e-12
+
+#Chain	cacta	73-191	Otip_4795	6270-6626	+	17.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4795/Otip_4795.seq	Otip_4795	73	191	6270	6626	14.3	28.6	96	41.4			0	Plus	8138	1e-06
+
+#Chain	mariner	203-341	Otip_4816	27489-27908	-	39.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4816/Otip_4816.seq	Otip_4816	203	341	27908	27489	28.4	43.9	277	110			0	Minus	32103	3e-29
+
+#Chain	mariner	212-343	Otip_4816	28477-28863	-	30.1
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4816/Otip_4816.seq	Otip_4816	212	343	28863	28477	22.8	42.6	212	86.0			0	Minus	32103	3e-21
+
+#Chain	hAT	79-173	Otip_4877	8771-9037	+	18.0
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4877/Otip_4877.seq	Otip_4877	79	173	8771	9037	18.9	38.9	108	46.0			0	Plus	39643	1e-07
+
+#Chain	LINE	454-500	Otip_4890	381-515	-	13.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4890/Otip_4890.seq	Otip_4890	454	500	515	381	27.7	40.4	98	42.2			0	Minus	22837	2e-06
+
+#Chain	gypsy	305-431	Otip_4890	2932-3315	+	20.7
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4890/Otip_4890.seq	Otip_4890	305	431	2932	3315	16.3	30.2	114	48.3			0	Plus	22837	2e-08
+
+#Chain	gypsy	296-427	Otip_4890	3367-3783	+	16.9
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4890/Otip_4890.seq	Otip_4890	296	427	3367	3783	12.8	19.9	101	43.3			0	Plus	22837	8e-07
+
+#Chain	cacta	753-784	Otip_4890	8647-8760	-	18.5
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4890/Otip_4890.seq	Otip_4890	753	784	8760	8647	57.9	60.5	93	40.2			0	Minus	22837	6e-06
+
+#Chain	cacta	753-780	Otip_4896	17832-17915	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4896/Otip_4896.seq	Otip_4896	753	780	17915	17832	82.1	82.1	100	42.9			0	Minus	18791	7e-07
+
+#Chain	mariner	25-149	Otip_4897	8482-8835	+	21.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4897/Otip_4897.seq	Otip_4897	25	149	8482	8835	17.5	33.3	89	38.6			0	Plus	21672	3e-06
+
+#Chain	mariner	52-181	Otip_4897	8881-9303	+	12.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4897/Otip_4897.seq	Otip_4897	52	181	8881	9303	9.9	25.5	86	37.4			0	Plus	21672	8e-06
+
+#Chain	gypsy	270-359	Otip_4923	10920-11195	-	18.2
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4923/Otip_4923.seq	Otip_4923	270	359	11195	10920	20.2	34.0	99	42.6			0	Minus	26399	2e-06
+
+#Chain	mariner	221-284	Otip_4937	27876-28064	+	18.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4937/Otip_4937.seq	Otip_4937	221	284	27876	28064	28.4	41.8	135	56.3			0	Plus	34986	2e-11
+
+#Chain	cacta	753-785	Otip_4967	9362-9487	+	19.6
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4967/Otip_4967.seq	Otip_4967	753	785	9362	9487	59.5	61.9	95	41.0			0	Plus	15077	2e-06
+
+#Chain	cacta	753-778	Otip_4982	26502-26579	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4982/Otip_4982.seq	Otip_4982	753	778	26579	26502	84.6	84.6	97	41.8			0	Minus	42921	4e-06
+
+#Chain	TY1_Copia	242-443	Otip_4984	13729-14322	+	32.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4984/Otip_4984.seq	Otip_4984	242	443	13729	14322	16.3	32.1	96	41.5			0	Plus	51027	8e-06
+
+#Chain	gypsy	304-441	Otip_4987	10517-10996	-	20.4
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_4987/Otip_4987.seq	Otip_4987	304	441	10996	10517	14.8	30.9	117	49.5			0	Minus	15620	8e-09
+
+#Chain	gypsy	1212-1390	Otip_5022	6794-7381	+	31.1
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5022/Otip_5022.seq	Otip_5022	1212	1390	6794	7381	17.4	33.8	113	47.9			0	Plus	20659	3e-08
+
+#Chain	gypsy	296-398	Otip_5046	4562-4837	-	15.9
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5046/Otip_5046.seq	Otip_5046	296	398	4837	4562	15.4	30.8	112	47.6			0	Minus	9553	2e-08
+
+#Chain	helitronORF	1279-1321	Otip_5048	2144-2287	+	21.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5048/Otip_5048.seq	Otip_5048	1279	1321	2144	2287	51.0	55.1	132	55.1			0	Plus	28083	2e-10
+
+#Chain	LINE	394-497	Otip_5079	26231-26521	+	29.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5079/Otip_5079.seq	Otip_5079	394	497	26231	26521	27.9	41.3	125	52.6			0	Plus	27890	1e-09
+
+#Chain	MuDR_A_B	660-822	Otip_5098	1395-1814	+	32.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5098/Otip_5098.seq	Otip_5098	660	822	1395	1814	20.2	35.6	94	40.7			0	Plus	7540	1e-06
+
+#Chain	ISC1316	5-36	Otip_510	1-96	-	4.0
+ISC1316		393	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_510/Otip_510.seq	Otip_510	5	36	96	1	12.5	31.2	81	35.5			0	Minus	341	9e-08
+
+#Chain	cacta	753-781	Otip_5117	16171-16257	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5117/Otip_5117.seq	Otip_5117	753	781	16257	16171	72.4	72.4	95	41.0			0	Minus	39379	7e-06
+
+#Chain	LINE	688-809	Otip_5139	4220-4573	+	20.6
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5139/Otip_5139.seq	Otip_5139	688	809	4220	4573	16.9	32.3	92	39.9			0	Plus	12383	4e-06
+
+#Chain	cacta	758-783	Otip_5144	34136-34213	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5144/Otip_5144.seq	Otip_5144	758	783	34213	34136	80.8	80.8	98	42.1			0	Minus	56451	4e-06
+
+#Chain	cacta	753-784	Otip_5144	40055-40150	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5144/Otip_5144.seq	Otip_5144	753	784	40150	40055	71.9	71.9	97	41.8			0	Minus	56451	5e-06
+
+#Chain	mariner	233-345	Otip_5163	3813-4154	+	34.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5163/Otip_5163.seq	Otip_5163	233	345	3813	4154	30.4	47.8	273	109			0	Plus	7749	3e-29
+
+#Chain	mariner	261-313	Otip_5165	31961-32125	+	15.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5165/Otip_5165.seq	Otip_5165	261	313	31961	32125	29.1	43.6	90	39.0			0	Plus	32141	4e-06
+
+#Chain	mariner_ant1	233-295	Otip_5181	33410-33595	+	18.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5181/Otip_5181.seq	Otip_5181	233	295	33410	33595	28.6	39.7	95	40.9			0	Plus	35732	1e-06
+
+#Chain	ltr_Roo	231-269	Otip_5182	11104-11220	+	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5182/Otip_5182.seq	Otip_5182	231	269	11104	11220	35.9	59.0	117	49.4			0	Plus	11554	1e-08
+
+#Chain	LINE	406-809	Otip_5216	14689-15831	-	74.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5216/Otip_5216.seq	Otip_5216	735	809	14904	14689	21.3	33.3	115	48.8			0	Minus	44132	3e-08
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5216/Otip_5216.seq	Otip_5216	542	692	15461	15003	21.2	37.2	176	72.3			0	Minus	44132	2e-15
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5216/Otip_5216.seq	Otip_5216	406	522	15831	15490	22.2	38.5	157	64.9			0	Minus	44132	4e-13
+
+#Chain	LINE	472-584	Otip_5219	1119-1451	+	27.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5219/Otip_5219.seq	Otip_5219	472	584	1119	1451	24.3	37.4	147	61.1			0	Plus	16389	2e-12
+
+#Chain	LINE	723-805	Otip_5233	3403-3666	-	15.7
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5233/Otip_5233.seq	Otip_5233	723	805	3666	3403	18.9	34.4	100	43.0			0	Minus	13742	5e-07
+
+#Chain	gypsy	297-384	Otip_5235	14681-14950	-	10.7
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5235/Otip_5235.seq	Otip_5235	297	384	14950	14681	12.2	22.2	102	43.7			0	Minus	34812	1e-06
+
+#Chain	gypsy	289-426	Otip_5235	15101-15574	-	18.6
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5235/Otip_5235.seq	Otip_5235	289	426	15574	15101	13.5	31.3	116	49.1			0	Minus	34812	2e-08
+
+#Chain	hAT	135-173	Otip_5235	19847-19963	+	10.0
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5235/Otip_5235.seq	Otip_5235	135	173	19847	19963	25.6	41.0	92	39.9			0	Plus	34812	7e-06
+
+#Chain	LINE	738-807	Otip_5242	69337-69534	+	15.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5242/Otip_5242.seq	Otip_5242	738	807	69337	69534	21.4	37.1	96	41.4			0	Plus	71768	8e-06
+
+#Chain	cacta	749-780	Otip_5247	3675-3782	+	20.4
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5247/Otip_5247.seq	Otip_5247	749	780	3675	3782	63.9	63.9	96	41.4			0	Plus	15315	2e-06
+
+#Chain	mariner	222-290	Otip_5256	26660-26866	-	19.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5256/Otip_5256.seq	Otip_5256	222	290	26866	26660	27.8	40.3	144	59.8			0	Minus	29797	1e-12
+
+#Chain	mariner	207-345	Otip_5265	33980-34368	+	33.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5265/Otip_5265.seq	Otip_5265	207	279	33980	34180	27.4	37.0	140	58.2			0	Plus	51419	6e-12
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5265/Otip_5265.seq	Otip_5265	300	345	34243	34368	28.3	43.5	91	39.4			0	Plus	51419	5e-06
+
+#Chain	mariner	11-213	Otip_5266	5-575	-	39.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5266/Otip_5266.seq	Otip_5266	162	213	145	5	25.0	38.5	112	47.4			0	Minus	26457	7e-09
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5266/Otip_5266.seq	Otip_5266	11	157	575	162	17.8	38.2	139	57.8			0	Minus	26457	4e-12
+
+#Chain	mariner	265-345	Otip_5283	1-246	-	30.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5283/Otip_5283.seq	Otip_5283	265	345	246	1	37.3	55.4	240	96.7			0	Minus	35393	1e-24
+
+#Chain	LINE	342-636	Otip_5302	9335-10153	+	44.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5302/Otip_5302.seq	Otip_5302	342	636	9335	10153	15.1	32.4	228	92.3			0	Plus	12861	5e-22
+
+#Chain	helitronORF	258-321	Otip_5314	1722-1937	-	18.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5314/Otip_5314.seq	Otip_5314	258	321	1937	1722	29.2	54.2	129	53.9			0	Minus	28012	6e-10
+
+#Chain	helitronORF	1019-1306	Otip_5371	6158-7152	-	98.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5371/Otip_5371.seq	Otip_5371	1140	1306	6664	6158	33.7	53.9	307	122			0	Minus	25581	8e-31
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5371/Otip_5371.seq	Otip_5371	1019	1160	7152	6751	29.4	44.8	183	74.7			0	Minus	25581	3e-16
+
+#Chain	mariner	262-285	Otip_5374	2709-2780	+	11.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5374/Otip_5374.seq	Otip_5374	262	285	2709	2780	45.8	50.0	97	41.7			0	Plus	7619	1e-07
+
+#Chain	LINE	691-803	Otip_5375	9655-10005	+	17.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5375/Otip_5375.seq	Otip_5375	691	803	9655	10005	15.3	33.9	104	44.5			0	Plus	14605	2e-07
+
+#Chain	TY1_Copia	211-547	Otip_5385	30114-31238	+	42.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5385/Otip_5385.seq	Otip_5385	211	547	30114	31238	12.5	33.0	112	47.7			0	Plus	32944	7e-08
+
+#Chain	MuDR_A_B	636-822	Otip_5396	4774-5322	+	30.7
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5396/Otip_5396.seq	Otip_5396	636	822	4774	5322	16.4	31.8	91	39.6			0	Plus	8761	3e-06
+
+#Chain	LINE	945-1040	Otip_5407	20113-20433	-	22.9
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5407/Otip_5407.seq	Otip_5407	945	1040	20433	20113	23.9	35.8	103	44.1			0	Minus	25638	4e-07
+
+#Chain	hAT	125-178	Otip_5415	15282-15437	-	15.0
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5415/Otip_5415.seq	Otip_5415	125	178	15437	15282	27.8	40.7	89	38.7			0	Minus	19832	8e-06
+
+#Chain	LINE	533-621	Otip_5417	241-492	-	14.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5417/Otip_5417.seq	Otip_5417	533	621	492	241	15.7	37.1	135	56.5			0	Minus	16739	5e-11
+
+#Chain	MuDR_A_B	656-735	Otip_5418	3603-3800	-	19.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5418/Otip_5418.seq	Otip_5418	656	735	3800	3603	23.8	36.2	106	45.3			0	Minus	8679	5e-08
+
+#Chain	mariner	118-170	Otip_5449	9988-10143	-	15.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5449/Otip_5449.seq	Otip_5449	118	170	10143	9988	28.3	45.3	102	43.6			0	Minus	19035	8e-08
+
+#Chain	TY1_Copia	250-306	Otip_5461	16883-17032	-	14.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5461/Otip_5461.seq	Otip_5461	250	306	17032	16883	24.6	33.3	92	40.0			0	Minus	17043	8e-06
+
+#Chain	helitronORF	4-1316	Otip_5473	13815-16449	-	289.3
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5473/Otip_5473.seq	Otip_5473	1159	1316	14294	13815	55.0	73.1	579	227			0	Minus	19414	4e-63
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5473/Otip_5473.seq	Otip_5473	1019	1164	14710	14282	31.3	57.8	273	109			0	Minus	19414	5e-27
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5473/Otip_5473.seq	Otip_5473	932	1020	15015	14752	43.8	58.4	249	100			0	Minus	19414	3e-24
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5473/Otip_5473.seq	Otip_5473	850	929	15248	15021	31.2	50.0	168	68.9			0	Minus	19414	1e-14
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5473/Otip_5473.seq	Otip_5473	4	308	16449	15379	30.4	48.0	640	250			0	Minus	19414	2e-70
+
+#Chain	mariner_ant1	222-278	Otip_5479	2-175	+	17.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5479/Otip_5479.seq	Otip_5479	222	278	2	175	31.0	44.8	109	46.3			0	Plus	23618	1e-08
+
+#Chain	mariner	213-345	Otip_5496	17797-18159	+	28.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5496/Otip_5496.seq	Otip_5496	213	345	17797	18159	21.2	35.8	184	75.2			0	Plus	38642	1e-17
+
+#Chain	mariner	212-256	Otip_5514	362-484	-	16.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5514/Otip_5514.seq	Otip_5514	212	256	484	362	35.6	48.9	102	43.6			0	Minus	19155	8e-08
+
+#Chain	cacta	752-783	Otip_5517	1284-1379	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5517/Otip_5517.seq	Otip_5517	752	783	1284	1379	71.9	71.9	103	44.1			0	Plus	13969	2e-07
+
+#Chain	cacta	753-798	Otip_5552	4820-4957	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5552/Otip_5552.seq	Otip_5552	753	798	4820	4957	52.2	60.9	91	39.4			0	Plus	15227	7e-06
+
+#Chain	cacta	739-780	Otip_5552	5122-5232	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5552/Otip_5552.seq	Otip_5552	739	780	5122	5232	59.5	59.5	101	43.3			0	Plus	15227	5e-07
+
+#Chain	mariner	262-293	Otip_5555	18724-18819	+	13.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5555/Otip_5555.seq	Otip_5555	262	293	18724	18819	40.6	46.9	116	49.0			0	Plus	18924	2e-09
+
+#Chain	mariner	11-159	Otip_5559	628-1062	-	25.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5559/Otip_5559.seq	Otip_5559	11	159	1062	628	17.0	37.9	207	84.0			0	Minus	19072	8e-21
+
+#Chain	LINE	727-809	Otip_5566	26747-26989	+	13.9
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5566/Otip_5566.seq	Otip_5566	727	809	26747	26989	16.7	28.6	94	40.7			0	Plus	32704	6e-06
+
+#Chain	ISC1316	205-253	Otip_5598	3835-3990	-	13.2
+ISC1316		393	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5598/Otip_5598.seq	Otip_5598	205	253	3990	3835	26.9	38.5	87	37.9			0	Minus	12412	4e-06
+
+#Chain	mariner	5-112	Otip_5599	8-304	-	22.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5599/Otip_5599.seq	Otip_5599	5	112	304	8	20.4	31.5	145	60.2			0	Minus	9231	2e-13
+
+#Chain	cacta	748-780	Otip_5600	11277-11375	-	26.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5600/Otip_5600.seq	Otip_5600	748	780	11375	11277	78.8	81.8	117	49.5			0	Minus	31588	1e-08
+
+#Chain	cacta	729-781	Otip_5630	4930-5070	-	24.6
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5630/Otip_5630.seq	Otip_5630	729	781	5070	4930	46.4	51.8	104	44.5			0	Minus	21724	3e-07
+
+#Chain	LINE	520-569	Otip_5630	17425-17574	-	15.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5630/Otip_5630.seq	Otip_5630	520	569	17574	17425	30.0	46.0	91	39.5			0	Minus	21724	9e-06
+
+#Chain	ltr_Roo	425-494	Otip_5635	4719-4922	+	17.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5635/Otip_5635.seq	Otip_5635	425	494	4719	4922	25.4	36.6	109	46.3			0	Plus	13619	1e-07
+
+#Chain	ltr_Roo	431-491	Otip_5660	5217-5429	-	12.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5660/Otip_5660.seq	Otip_5660	431	491	5429	5217	19.7	35.2	99	42.5			0	Minus	17268	2e-06
+
+#Chain	TY1_Copia	264-322	Otip_5660	5514-5702	-	16.9
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5660/Otip_5660.seq	Otip_5660	264	322	5702	5514	28.6	36.5	103	44.2			0	Minus	17268	4e-07
+
+#Chain	cacta	755-781	Otip_5686	35269-35349	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5686/Otip_5686.seq	Otip_5686	755	781	35269	35349	74.1	77.8	95	41.0			0	Plus	53312	9e-06
+
+#Chain	mariner	3-149	Otip_5722	17059-17469	+	33.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5722/Otip_5722.seq	Otip_5722	3	149	17059	17469	23.0	35.8	172	70.6			0	Plus	17479	2e-16
+
+#Chain	mariner	182-276	Otip_5727	5315-5545	+	20.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5727/Otip_5727.seq	Otip_5727	182	276	5315	5545	21.1	31.6	193	78.6			0	Plus	11071	3e-19
+
+#Chain	TY1_Copia	245-331	Otip_5729	4639-4908	-	17.4
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5729/Otip_5729.seq	Otip_5729	245	331	4908	4639	20.0	36.7	102	43.9			0	Minus	6732	2e-07
+
+#Chain	gypsy	299-383	Otip_5740	624-893	-	14.2
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5740/Otip_5740.seq	Otip_5740	299	383	893	624	16.7	33.3	89	38.7			0	Minus	8535	8e-06
+
+#Chain	TY1_Copia	229-322	Otip_5753	27527-27850	-	18.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5753/Otip_5753.seq	Otip_5753	229	322	27850	27527	19.8	29.7	105	45.0			0	Minus	49179	7e-07
+
+#Chain	gypsy	1188-1391	Otip_5761	11265-11792	-	34.5
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5761/Otip_5761.seq	Otip_5761	1188	1391	11792	11265	16.9	32.4	147	61.0			0	Minus	26630	4e-12
+
+#Chain	mariner	287-345	Otip_5781	1915-2088	+	16.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5781/Otip_5781.seq	Otip_5781	287	345	1915	2088	27.1	39.0	85	37.0			0	Plus	16038	7e-06
+
+#Chain	mariner	292-345	Otip_5781	7107-7271	-	15.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5781/Otip_5781.seq	Otip_5781	292	345	7271	7107	28.6	46.4	101	43.2			0	Minus	16038	8e-08
+
+#Chain	LINE	608-709	Otip_5805	11666-11968	-	16.8
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5805/Otip_5805.seq	Otip_5805	608	709	11968	11666	16.5	31.2	96	41.4			0	Minus	13949	1e-06
+
+#Chain	mariner	273-345	Otip_5841	11999-12220	+	18.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5841/Otip_5841.seq	Otip_5841	273	345	11999	12220	25.3	38.7	119	50.1			0	Plus	18352	7e-10
+
+#Chain	cacta	752-777	Otip_5853	38515-38604	+	19.9
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5853/Otip_5853.seq	Otip_5853	752	777	38515	38604	76.7	76.7	99	42.5			0	Plus	50996	3e-06
+
+#Chain	helitronORF	456-1148	Otip_5875	10511-11002	-	46.8
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5875/Otip_5875.seq	Otip_5875	1048	1148	10846	10511	25.6	48.7	134	55.8			0	Minus	19896	1e-10
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5875/Otip_5875.seq	Otip_5875	456	512	11002	10850	36.8	50.9	110	46.6			0	Minus	19896	7e-08
+
+#Chain	ISC1316	206-277	Otip_5876	17507-17686	-	14.0
+ISC1316		393	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5876/Otip_5876.seq	Otip_5876	206	277	17686	17507	19.4	37.5	92	39.8			0	Minus	18639	1e-06
+
+#Chain	LINE	403-592	Otip_5889	10353-10910	-	42.9
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5889/Otip_5889.seq	Otip_5889	403	592	10910	10353	22.6	38.9	393	155			0	Minus	12078	1e-41
+
+#Chain	LINE	451-722	Otip_5919	9976-10774	+	59.9
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5919/Otip_5919.seq	Otip_5919	451	562	9976	10299	25.0	42.0	224	90.7			0	Plus	13163	2e-21
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5919/Otip_5919.seq	Otip_5919	565	722	10304	10774	20.2	38.7	161	66.5			0	Plus	13163	4e-14
+
+#Chain	helitronORF	1248-1285	Otip_5944	14139-14249	+	20.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5944/Otip_5944.seq	Otip_5944	1248	1285	14139	14249	55.0	75.0	131	54.7			0	Plus	17497	2e-10
+
+#Chain	helitronORF	1248-1304	Otip_5953	2468-2638	+	31.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5953/Otip_5953.seq	Otip_5953	1248	1304	2468	2638	54.4	66.7	179	73.2			0	Plus	32519	8e-16
+
+#Chain	cacta	755-786	Otip_5976	19087-19206	-	17.6
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5976/Otip_5976.seq	Otip_5976	755	786	19206	19087	55.0	57.5	93	40.2			0	Minus	20558	5e-06
+
+#Chain	mariner_ant1	222-264	Otip_5982	8886-9014	-	15.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5982/Otip_5982.seq	Otip_5982	222	264	9014	8886	34.9	48.8	103	44.0			0	Minus	23185	7e-08
+
+#Chain	gypsy	294-429	Otip_5993	16116-16571	-	22.3
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_5993/Otip_5993.seq	Otip_5993	294	429	16571	16116	16.4	32.2	96	41.4			0	Minus	23175	3e-06
+
+#Chain	mariner	64-183	Otip_6001	5989-6306	+	22.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6001/Otip_6001.seq	Otip_6001	64	183	5989	6306	18.3	32.5	88	38.2			0	Plus	10093	2e-06
+
+#Chain	mariner	207-284	Otip_6054	8946-9173	+	24.1
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6054/Otip_6054.seq	Otip_6054	207	284	8946	9173	30.9	44.4	183	74.8			0	Plus	9945	4e-18
+
+#Chain	LINE	728-809	Otip_6076	13-234	-	14.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6076/Otip_6076.seq	Otip_6076	728	809	234	13	17.1	30.5	104	44.5			0	Minus	6555	8e-08
+
+#Chain	cacta	751-785	Otip_6088	4988-5122	+	19.5
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6088/Otip_6088.seq	Otip_6088	751	785	4988	5122	55.6	62.2	91	39.4			0	Plus	6928	3e-06
+
+#Chain	hAT	129-181	Otip_6090	179-328	-	14.0
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6090/Otip_6090.seq	Otip_6090	129	181	328	179	26.4	37.7	90	39.1			0	Minus	15142	5e-06
+
+#Chain	TY1_Copia	226-367	Otip_6101	716-1153	-	22.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6101/Otip_6101.seq	Otip_6101	226	367	1153	716	16.0	27.0	125	52.7			0	Minus	14845	9e-10
+
+#Chain	mariner	1-215	Otip_6107	16073-16717	-	41.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6107/Otip_6107.seq	Otip_6107	1	215	16717	16073	19.2	35.4	172	70.6			0	Minus	17013	2e-16
+
+#Chain	helitronORF	354-792	Otip_6143	6263-6812	-	65.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6143/Otip_6143.seq	Otip_6143	738	792	6427	6263	36.4	52.7	108	45.8			0	Minus	7484	4e-08
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6143/Otip_6143.seq	Otip_6143	457	522	6668	6471	48.5	63.6	213	86.3			0	Minus	7484	2e-20
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6143/Otip_6143.seq	Otip_6143	354	374	6812	6750	61.9	81.0	95	40.8			0	Minus	7484	1e-06
+
+#Chain	TY1_Copia	183-349	Otip_6151	16799-17269	+	27.2
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6151/Otip_6151.seq	Otip_6151	183	349	16799	17269	16.3	35.5	113	48.1			0	Plus	24312	4e-08
+
+#Chain	LINE	350-520	Otip_6155	32032-32523	-	32.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6155/Otip_6155.seq	Otip_6155	350	520	32523	32032	18.9	38.3	192	78.4			0	Minus	42456	3e-17
+
+#Chain	mariner_ant1	224-266	Otip_6185	16534-16662	+	15.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6185/Otip_6185.seq	Otip_6185	224	266	16534	16662	34.9	53.5	104	44.4			0	Plus	23228	5e-08
+
+#Chain	mariner	321-345	Otip_6185	22192-22266	+	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6185/Otip_6185.seq	Otip_6185	321	345	22192	22266	40.0	48.0	88	38.2			0	Plus	23228	5e-06
+
+#Chain	LINE	356-548	Otip_6193	9210-9752	-	35.1
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6193/Otip_6193.seq	Otip_6193	356	548	9752	9210	18.2	32.0	164	67.6			0	Minus	12467	1e-14
+
+#Chain	helitronORF	1116-1306	Otip_6196	582-975	+	46.4
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6196/Otip_6196.seq	Otip_6196	1116	1156	582	743	35.2	46.3	104	44.3			0	Plus	28571	4e-07
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6196/Otip_6196.seq	Otip_6196	1244	1266	824	892	60.9	82.6	100	42.8			0	Plus	28571	1e-06
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6196/Otip_6196.seq	Otip_6196	1278	1306	889	975	62.1	62.1	100	42.8			0	Plus	28571	1e-06
+
+#Chain	mariner	135-341	Otip_6203	5072-5651	-	46.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6203/Otip_6203.seq	Otip_6203	259	341	5311	5072	23.3	40.7	98	42.0			0	Minus	26649	4e-07
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6203/Otip_6203.seq	Otip_6203	135	256	5651	5316	22.2	37.3	147	60.9			0	Minus	26649	4e-13
+
+#Chain	gypsy	228-360	Otip_6232	16224-16595	+	23.9
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6232/Otip_6232.seq	Otip_6232	228	360	16224	16595	18.0	34.6	110	46.8			0	Plus	25517	9e-08
+
+#Chain	TY1_Copia	228-562	Otip_6261	10381-11367	+	47.6
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6261/Otip_6261.seq	Otip_6261	228	562	10381	11367	14.2	33.5	94	40.8			0	Plus	22295	6e-06
+
+#Chain	mariner	150-345	Otip_6287	9475-9938	-	43.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6287/Otip_6287.seq	Otip_6287	288	345	9651	9475	26.7	43.3	107	45.5			0	Minus	10412	1e-08
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6287/Otip_6287.seq	Otip_6287	150	255	9938	9648	26.4	34.9	183	74.8			0	Minus	10412	4e-18
+
+#Chain	mariner	290-341	Otip_6291	5355-5507	+	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6291/Otip_6291.seq	Otip_6291	290	341	5355	5507	19.2	40.4	128	53.6			0	Plus	13141	4e-11
+
+#Chain	mariner	15-66	Otip_6292	1016-1171	-	10.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6292/Otip_6292.seq	Otip_6292	15	66	1171	1016	19.2	36.5	107	45.5			0	Minus	12156	1e-08
+
+#Chain	mariner	148-264	Otip_6292	11824-12154	+	33.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6292/Otip_6292.seq	Otip_6292	148	211	11824	12006	31.2	39.1	146	60.5			0	Plus	12156	2e-13
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6292/Otip_6292.seq	Otip_6292	213	264	12014	12154	25.0	34.6	103	44.0			0	Plus	12156	4e-08
+
+#Chain	LINE	548-808	Otip_6293	2171-2881	-	53.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6293/Otip_6293.seq	Otip_6293	548	808	2881	2171	20.5	34.5	200	81.5			0	Minus	11313	8e-19
+
+#Chain	mariner	150-269	Otip_6306	8505-8885	+	20.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6306/Otip_6306.seq	Otip_6306	150	269	8505	8885	17.3	31.5	105	44.7			0	Plus	14427	3e-08
+
+#Chain	mariner	22-338	Otip_6309	8867-9584	-	43.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6309/Otip_6309.seq	Otip_6309	233	338	9187	8867	23.6	35.5	140	58.2			0	Minus	9782	1e-12
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6309/Otip_6309.seq	Otip_6309	22	120	9584	9309	19.0	39.0	144	59.8			0	Minus	9782	3e-13
+
+#Chain	mariner_ant1	232-263	Otip_6333	10482-10577	-	12.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6333/Otip_6333.seq	Otip_6333	232	263	10577	10482	37.5	53.1	84	36.7			0	Minus	10578	6e-06
+
+#Chain	mariner	190-332	Otip_6367	16701-17144	+	37.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6367/Otip_6367.seq	Otip_6367	190	332	16701	17144	26.1	42.5	241	97.1			0	Plus	21507	7e-25
+
+#Chain	mariner	197-279	Otip_6375	4967-5197	-	21.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6375/Otip_6375.seq	Otip_6375	197	279	5197	4967	25.3	38.6	168	69.0			0	Minus	14043	5e-16
+
+#Chain	LINE	678-799	Otip_6381	6713-7057	-	23.1
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6381/Otip_6381.seq	Otip_6381	678	799	7057	6713	18.9	36.9	157	64.9			0	Minus	7060	5e-14
+
+#Chain	gypsy	1257-1310	Otip_6396	15627-15821	+	10.8
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6396/Otip_6396.seq	Otip_6396	1257	1310	15627	15821	20.0	44.6	99	42.6			0	Plus	25512	2e-06
+
+#Chain	LINE	729-809	Otip_6422	3735-3968	-	14.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6422/Otip_6422.seq	Otip_6422	729	809	3968	3735	17.3	30.9	106	45.3			0	Minus	6564	5e-08
+
+#Chain	mariner	253-326	Otip_6432	77-301	+	17.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6432/Otip_6432.seq	Otip_6432	253	326	77	301	23.7	42.1	176	72.1			0	Plus	5290	2e-17
+
+#Chain	Crypton	192-278	Otip_6439	1405-1689	+	18.1
+Crypton		457	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6439/Otip_6439.seq	Otip_6439	192	278	1405	1689	20.8	38.5	82	36.2			0	Plus	6970	9e-06
+
+#Chain	MuDR_A_B	648-801	Otip_6448	2792-3190	-	27.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6448/Otip_6448.seq	Otip_6448	648	801	3190	2792	18.1	27.7	105	45.0			0	Minus	10712	9e-08
+
+#Chain	cacta	764-783	Otip_6448	9114-9173	+	18.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6448/Otip_6448.seq	Otip_6448	764	783	9114	9173	90.0	90.0	90	39.1			0	Plus	10712	7e-06
+
+#Chain	LINE	756-805	Otip_6457	4282-4425	-	10.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6457/Otip_6457.seq	Otip_6457	756	805	4425	4282	20.0	38.0	93	40.3			0	Minus	5216	1e-06
+
+#Chain	LINE	245-340	Otip_6460	168-458	-	19.8
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6460/Otip_6460.seq	Otip_6460	245	340	458	168	20.6	36.1	91	39.5			0	Minus	15554	7e-06
+
+#Chain	cacta	750-780	Otip_6480	2527-2619	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6480/Otip_6480.seq	Otip_6480	750	780	2619	2527	77.4	77.4	111	47.2			0	Minus	4160	8e-09
+
+#Chain	cacta	754-779	Otip_6480	2728-2805	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6480/Otip_6480.seq	Otip_6480	754	779	2805	2728	80.8	80.8	90	39.1			0	Minus	4160	2e-06
+
+#Chain	mariner_ant1	203-296	Otip_6515	209-502	+	21.1
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6515/Otip_6515.seq	Otip_6515	203	296	209	502	22.4	42.9	108	45.9			0	Plus	10106	7e-09
+
+#Chain	mariner_ant1	222-266	Otip_6518	1567-1701	+	18.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6518/Otip_6518.seq	Otip_6518	222	266	1567	1701	40.0	55.6	106	45.2			0	Plus	10314	1e-08
+
+#Chain	helitronORF	42-94	Otip_6536	4730-4876	+	18.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6536/Otip_6536.seq	Otip_6536	42	94	4730	4876	33.9	50.0	129	53.9			0	Plus	4877	9e-11
+
+#Chain	cacta	751-784	Otip_6539	1639-1740	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6539/Otip_6539.seq	Otip_6539	751	784	1740	1639	61.8	64.7	95	41.0			0	Minus	6015	9e-07
+
+#Chain	cacta	753-784	Otip_6554	3804-3899	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6554/Otip_6554.seq	Otip_6554	753	784	3899	3804	68.8	68.8	101	43.3			0	Minus	7894	2e-07
+
+#Chain	mariner	156-345	Otip_6577	6047-6575	-	54.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6577/Otip_6577.seq	Otip_6577	316	345	6136	6047	43.3	50.0	85	37.0			0	Minus	18529	9e-06
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6577/Otip_6577.seq	Otip_6577	156	313	6575	6141	26.2	38.1	236	95.2			0	Minus	18529	2e-24
+
+#Chain	mariner	3-87	Otip_6587	21202-21444	-	17.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6587/Otip_6587.seq	Otip_6587	3	87	21444	21202	20.0	38.8	123	51.7			0	Minus	21554	3e-10
+
+#Chain	hAT	125-180	Otip_6597	4565-4723	-	16.0
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6597/Otip_6597.seq	Otip_6597	125	180	4723	4565	28.6	42.9	111	47.2			0	Minus	8658	9e-09
+
+#Chain	LINE	257-452	Otip_6606	10361-10918	+	34.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6606/Otip_6606.seq	Otip_6606	257	452	10361	10918	17.5	31.0	139	58.0			0	Plus	10925	1e-11
+
+#Chain	mariner_ant1	247-294	Otip_6614	6528-6680	+	16.0
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6614/Otip_6614.seq	Otip_6614	247	294	6528	6680	33.3	47.1	84	36.7			0	Plus	9491	5e-06
+
+#Chain	LINE	530-808	Otip_6626	1692-2447	+	39.1
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6626/Otip_6626.seq	Otip_6626	530	808	1692	2447	14.0	29.7	149	61.9			0	Plus	6005	4e-13
+
+#Chain	mariner	259-344	Otip_6639	83-343	+	32.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6639/Otip_6639.seq	Otip_6639	259	344	83	343	37.5	50.0	204	82.9			0	Plus	16035	2e-20
+
+#Chain	cacta	749-800	Otip_6643	792-929	-	21.9
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6643/Otip_6643.seq	Otip_6643	749	800	929	792	42.1	43.9	87	37.9			0	Minus	4349	6e-06
+
+#Chain	LINE	1002-1066	Otip_6645	14028-14225	+	23.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6645/Otip_6645.seq	Otip_6645	1002	1066	14028	14225	35.8	47.8	107	45.7			0	Plus	17527	1e-07
+
+#Chain	cacta	759-782	Otip_6649	7151-7222	+	18.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6649/Otip_6649.seq	Otip_6649	759	782	7151	7222	75.0	79.2	90	39.1			0	Plus	15785	1e-05
+
+#Chain	mariner	201-341	Otip_6655	51-457	-	40.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6655/Otip_6655.seq	Otip_6655	275	341	248	51	30.9	48.5	121	50.9			0	Minus	4253	8e-11
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6655/Otip_6655.seq	Otip_6655	201	266	457	272	30.3	45.5	125	52.4			0	Minus	4253	3e-11
+
+#Chain	mariner	59-269	Otip_6668	11860-12303	+	20.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6668/Otip_6668.seq	Otip_6668	59	109	11860	11997	23.5	37.3	95	40.9			0	Plus	27027	8e-07
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6668/Otip_6668.seq	Otip_6668	238	269	12208	12303	25.0	31.2	94	40.5			0	Plus	27027	1e-06
+
+#Chain	cacta	753-784	Otip_6725	155-250	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6725/Otip_6725.seq	Otip_6725	753	784	155	250	62.5	65.6	89	38.7			0	Plus	4993	4e-06
+
+#Chain	mariner	254-327	Otip_6737	4963-5187	-	17.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6737/Otip_6737.seq	Otip_6737	254	327	5187	4963	23.7	44.7	96	41.3			0	Minus	5361	1e-07
+
+#Chain	cacta	752-793	Otip_6742	4119-4259	+	24.1
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6742/Otip_6742.seq	Otip_6742	752	793	4119	4259	57.4	61.7	105	44.8			0	Plus	9759	1e-07
+
+#Chain	gypsy	1322-1381	Otip_6756	10490-10651	+	13.0
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6756/Otip_6756.seq	Otip_6756	1322	1381	10490	10651	21.7	35.0	109	46.4			0	Plus	11283	5e-08
+
+#Chain	mariner	55-180	Otip_6775	2373-2825	-	21.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6775/Otip_6775.seq	Otip_6775	55	180	2825	2373	16.9	33.1	90	39.0			0	Minus	18967	2e-06
+
+#Chain	mariner	243-265	Otip_6785	6053-6121	+	9.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6785/Otip_6785.seq	Otip_6785	243	265	6053	6121	39.1	47.8	82	35.9			0	Plus	6125	7e-06
+
+#Chain	gypsy	1132-1339	Otip_6809	3015-3602	+	42.8
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6809/Otip_6809.seq	Otip_6809	1132	1339	3015	3602	20.6	37.3	275	110			0	Plus	9173	1e-27
+
+#Chain	cacta	746-775	Otip_6820	3-92	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6820/Otip_6820.seq	Otip_6820	746	775	92	3	70.0	73.3	110	46.8			0	Minus	29808	9e-08
+
+#Chain	mariner	161-300	Otip_6829	87-392	-	26.5
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6829/Otip_6829.seq	Otip_6829	161	300	392	87	18.9	32.9	158	65.2			0	Minus	10638	7e-15
+
+#Chain	TY1_Copia	227-325	Otip_6848	397-705	+	18.2
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6848/Otip_6848.seq	Otip_6848	227	325	397	705	18.4	35.9	109	46.6			0	Plus	10245	4e-08
+
+#Chain	mariner	176-226	Otip_6853	2516-2668	-	22.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6853/Otip_6853.seq	Otip_6853	176	226	2668	2516	43.1	52.9	139	57.8			0	Minus	5798	8e-13
+
+#Chain	mariner	25-191	Otip_6880	14962-15462	+	36.6
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6880/Otip_6880.seq	Otip_6880	25	191	14962	15462	21.9	33.7	219	88.7			0	Plus	15548	2e-22
+
+#Chain	helitronORF	112-510	Otip_6886	1980-2896	-	144.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6886/Otip_6886.seq	Otip_6886	248	510	2741	1980	47.3	66.3	782	305			0	Minus	2897	6e-91
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6886/Otip_6886.seq	Otip_6886	112	193	2896	2669	25.0	42.9	90	38.9			0	Minus	2897	2e-06
+
+#Chain	cacta	753-784	Otip_6909	4649-4744	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6909/Otip_6909.seq	Otip_6909	753	784	4649	4744	62.5	62.5	94	40.6			0	Plus	7577	2e-06
+
+#Chain	MuDR_A_B	735-800	Otip_6909	4769-4975	+	12.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6909/Otip_6909.seq	Otip_6909	735	800	4769	4975	18.3	32.4	87	38.0			0	Plus	7577	8e-06
+
+#Chain	LINE	285-526	Otip_6996	412-1104	+	40.4
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_6996/Otip_6996.seq	Otip_6996	285	526	412	1104	16.7	31.4	194	79.2			0	Plus	6738	2e-18
+
+#Chain	helitronORF	971-1307	Otip_7022	5571-6661	+	76.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7022/Otip_7022.seq	Otip_7022	971	1075	5571	5909	31.1	46.2	137	57.0			0	Plus	13874	3e-11
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7022/Otip_7022.seq	Otip_7022	1147	1212	6129	6311	31.8	50.0	100	42.8			0	Plus	13874	7e-07
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7022/Otip_7022.seq	Otip_7022	1249	1307	6449	6661	39.4	56.3	156	64.3			0	Plus	13874	2e-13
+
+#Chain	mariner	277-345	Otip_7026	2408-2589	-	22.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7026/Otip_7026.seq	Otip_7026	321	345	2482	2408	40.0	56.0	88	38.2			0	Minus	4894	1e-06
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7026/Otip_7026.seq	Otip_7026	277	297	2589	2527	57.1	66.7	83	36.3			0	Minus	4894	4e-06
+
+#Chain	cacta	752-785	Otip_7038	1706-1807	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7038/Otip_7038.seq	Otip_7038	752	785	1706	1807	58.8	61.8	92	39.8			0	Plus	9463	3e-06
+
+#Chain	helitronORF	1095-1316	Otip_7062	12088-12681	+	65.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7062/Otip_7062.seq	Otip_7062	1095	1316	12088	12681	29.5	44.0	242	97.5			0	Plus	14319	2e-23
+
+#Chain	mariner	208-293	Otip_7084	39-284	+	25.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7084/Otip_7084.seq	Otip_7084	208	293	39	284	30.0	37.8	141	58.6			0	Plus	10361	8e-13
+
+#Chain	helitronORF	950-1148	Otip_7088	6103-6585	-	42.8
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7088/Otip_7088.seq	Otip_7088	950	1148	6585	6103	21.5	39.5	161	66.2			0	Minus	8520	3e-14
+
+#Chain	helitronORF	156-1316	Otip_7088	7756-8513	-	66.3
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7088/Otip_7088.seq	Otip_7088	1253	1316	7944	7756	59.4	75.0	229	92.4			0	Minus	8520	3e-22
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7088/Otip_7088.seq	Otip_7088	156	278	8513	8178	23.0	38.9	135	56.2			0	Minus	8520	3e-11
+
+#Chain	LINE	679-741	Otip_7092	2-160	+	13.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7092/Otip_7092.seq	Otip_7092	679	741	2	160	20.6	41.3	86	37.6			0	Plus	4899	8e-06
+
+#Chain	ISC1316	21-157	Otip_7101	953-1327	+	26.9
+ISC1316		393	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7101/Otip_7101.seq	Otip_7101	21	157	953	1327	19.6	38.4	84	36.7			0	Plus	8165	6e-06
+
+#Chain	mariner_ant1	225-297	Otip_7114	1107-1316	+	20.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7114/Otip_7114.seq	Otip_7114	225	297	1107	1316	28.4	41.9	110	46.7			0	Plus	4524	2e-09
+
+#Chain	gypsy	924-1101	Otip_7121	8920-9469	+	33.2
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7121/Otip_7121.seq	Otip_7121	924	978	8920	9102	24.6	39.3	99	42.6			0	Plus	11466	7e-07
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7121/Otip_7121.seq	Otip_7121	987	1101	9098	9469	17.1	36.4	148	61.4			0	Plus	11466	1e-12
+
+#Chain	mariner_ant1	224-266	Otip_7121	9766-9897	-	13.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7121/Otip_7121.seq	Otip_7121	224	266	9897	9766	31.8	47.7	92	39.8			0	Minus	11466	6e-07
+
+#Chain	LINE	497-626	Otip_7196	14709-15092	-	22.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7196/Otip_7196.seq	Otip_7196	497	626	15092	14709	16.9	33.1	174	71.5			0	Minus	20014	2e-15
+
+#Chain	gypsy	186-458	Otip_7209	9319-10080	+	38.5
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7209/Otip_7209.seq	Otip_7209	186	458	9319	10080	14.1	29.0	110	46.8			0	Plus	14226	5e-08
+
+#Chain	helitronORF	483-538	Otip_7212	5126-5284	+	18.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7212/Otip_7212.seq	Otip_7212	483	538	5126	5284	32.1	51.8	132	55.1			0	Plus	6536	6e-11
+
+#Chain	helitronORF	623-1316	Otip_7217	321-1612	-	162.4
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7217/Otip_7217.seq	Otip_7217	999	1316	1319	321	44.5	64.1	903	352			0	Minus	5718	1e-103
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7217/Otip_7217.seq	Otip_7217	623	692	1612	1361	29.8	42.9	122	51.2			0	Minus	5718	7e-10
+
+#Chain	mariner	212-289	Otip_7224	18962-19180	-	24.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7224/Otip_7224.seq	Otip_7224	212	289	19180	18962	30.8	42.3	142	59.0			0	Minus	19741	1e-12
+
+#Chain	mariner	73-236	Otip_7255	3928-4338	-	27.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7255/Otip_7255.seq	Otip_7255	73	236	4338	3928	16.9	34.3	112	47.4			0	Minus	4975	1e-09
+
+#Chain	helitronORF	1249-1289	Otip_7283	1720-1842	-	22.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7283/Otip_7283.seq	Otip_7283	1249	1289	1842	1720	53.7	68.3	146	60.5			0	Minus	6225	1e-12
+
+#Chain	mariner	155-341	Otip_7322	5493-6017	-	41.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7322/Otip_7322.seq	Otip_7322	155	341	6017	5493	21.9	35.4	247	99.4			0	Minus	6093	3e-26
+
+#Chain	mariner	222-305	Otip_7440	170-433	-	21.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7440/Otip_7440.seq	Otip_7440	222	305	433	170	26.1	38.6	139	57.8			0	Minus	10522	1e-12
+
+#Chain	LINE	533-722	Otip_7440	3171-3725	-	37.6
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7440/Otip_7440.seq	Otip_7440	533	722	3725	3171	19.8	34.4	203	82.7			0	Minus	10522	3e-19
+
+#Chain	LINE	418-592	Otip_7446	2866-3397	-	31.4
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7446/Otip_7446.seq	Otip_7446	501	592	3153	2866	13.5	32.3	98	42.2			0	Minus	4330	3e-07
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7446/Otip_7446.seq	Otip_7446	418	501	3397	3152	22.6	38.1	122	51.5			0	Minus	4330	4e-10
+
+#Chain	ISC1316	330-360	Otip_745	146-241	-	13.6
+ISC1316		393	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_745/Otip_745.seq	Otip_745	330	360	241	146	43.8	53.1	80	35.2			0	Minus	853	1e-06
+
+#Chain	gypsy	303-386	Otip_7460	4092-4334	+	17.0
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7460/Otip_7460.seq	Otip_7460	303	386	4092	4334	20.2	36.9	91	39.5			0	Plus	6630	4e-06
+
+#Chain	Crypton	208-278	Otip_7474	1424-1636	-	18.5
+Crypton		457	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7474/Otip_7474.seq	Otip_7474	208	278	1636	1424	26.0	31.5	82	36.2			0	Minus	3279	4e-06
+
+#Chain	cacta	741-810	Otip_7481	6848-7069	-	28.4
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7481/Otip_7481.seq	Otip_7481	741	810	7069	6848	40.5	52.7	101	43.3			0	Minus	12067	4e-07
+
+#Chain	MuDR_A_B	723-805	Otip_7488	1548-1772	-	17.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7488/Otip_7488.seq	Otip_7488	723	805	1772	1548	20.5	30.1	82	36.1			0	Minus	1778	6e-06
+
+#Chain	helitronORF	1138-1318	Otip_7512	6219-6692	+	57.2
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7512/Otip_7512.seq	Otip_7512	1138	1318	6219	6692	31.6	47.6	228	92.1			0	Plus	8765	4e-22
+
+#Chain	LINE	69-219	Otip_7546	93-596	-	29.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7546/Otip_7546.seq	Otip_7546	69	219	596	93	19.4	32.4	129	54.2			0	Minus	3109	4e-11
+
+#Chain	mariner	212-309	Otip_7562	2782-3069	+	29.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7562/Otip_7562.seq	Otip_7562	212	309	2782	3069	30.0	43.0	165	67.9			0	Plus	5294	4e-16
+
+#Chain	mariner	251-341	Otip_7584	2344-2619	-	23.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7584/Otip_7584.seq	Otip_7584	251	341	2619	2344	26.3	42.1	173	70.9			0	Minus	5505	4e-17
+
+#Chain	LINE	611-806	Otip_7603	1602-2174	+	35.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7603/Otip_7603.seq	Otip_7603	611	806	1602	2174	18.0	34.6	192	78.4			0	Plus	5891	3e-18
+
+#Chain	LINE	538-609	Otip_7628	86-298	-	13.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7628/Otip_7628.seq	Otip_7628	538	609	298	86	18.1	38.9	108	46.1			0	Minus	3450	1e-08
+
+#Chain	helitronORF	1287-1316	Otip_7721	1600-1686	-	17.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7721/Otip_7721.seq	Otip_7721	1287	1316	1686	1600	56.7	70.0	87	37.7			0	Minus	1687	2e-06
+
+#Chain	mariner	240-344	Otip_7724	1472-1795	-	26.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7724/Otip_7724.seq	Otip_7724	240	344	1795	1472	24.8	43.1	210	85.2			0	Minus	3572	5e-22
+
+#Chain	helitronORF	156-694	Otip_7734	9-1877	+	221.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7734/Otip_7734.seq	Otip_7734	156	219	9	212	39.7	52.9	143	59.3			0	Plus	1952	6e-13
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7734/Otip_7734.seq	Otip_7734	227	455	274	1002	46.9	62.9	740	289			0	Plus	1952	5e-88
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7734/Otip_7734.seq	Otip_7734	441	530	1001	1279	35.1	52.6	167	68.6			0	Plus	1952	9e-16
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7734/Otip_7734.seq	Otip_7734	538	694	1353	1877	36.5	53.0	387	153			0	Plus	1952	2e-42
+
+#Chain	helitronORF	2-839	Otip_7737	502-4347	+	268.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7737/Otip_7737.seq	Otip_7737	2	252	502	1422	26.6	40.1	309	123			0	Plus	4460	6e-32
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7737/Otip_7737.seq	Otip_7737	259	383	2102	2479	31.8	54.3	243	97.8			0	Plus	4460	3e-24
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7737/Otip_7737.seq	Otip_7737	384	414	2517	2609	54.8	80.6	102	43.5			0	Plus	4460	1e-07
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7737/Otip_7737.seq	Otip_7737	417	487	2692	2925	40.0	51.2	178	72.8			0	Plus	4460	1e-16
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7737/Otip_7737.seq	Otip_7737	501	582	3015	3275	39.1	56.3	219	88.6			0	Plus	4460	2e-21
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7737/Otip_7737.seq	Otip_7737	599	753	3560	4039	33.5	52.2	331	131			0	Plus	4460	1e-34
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7737/Otip_7737.seq	Otip_7737	756	839	4087	4347	39.1	54.0	183	74.7			0	Plus	4460	4e-17
+
+#Chain	LINE	521-605	Otip_7818	5-256	-	17.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7818/Otip_7818.seq	Otip_7818	521	605	256	5	20.0	41.2	123	51.8			0	Minus	4780	3e-10
+
+#Chain	mariner	248-296	Otip_7825	5609-5758	-	12.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7825/Otip_7825.seq	Otip_7825	248	296	5758	5609	26.0	44.0	84	36.7			0	Minus	9218	6e-06
+
+#Chain	helitronORF	953-1061	Otip_7839	3653-3991	+	24.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7839/Otip_7839.seq	Otip_7839	953	1061	3653	3991	22.8	43.1	126	52.8			0	Plus	4410	2e-10
+
+#Chain	mariner	1-75	Otip_7849	2-220	-	13.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7849/Otip_7849.seq	Otip_7849	1	75	220	2	18.4	36.8	97	41.7			0	Minus	4179	7e-08
+
+#Chain	mariner	11-214	Otip_7879	3575-4069	+	28.6
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7879/Otip_7879.seq	Otip_7879	11	214	3575	4069	14.0	28.0	162	66.7			0	Plus	4243	8e-16
+
+#Chain	LINE	933-1046	Otip_788	59-415	+	21.7
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_788/Otip_788.seq	Otip_788	933	1046	59	415	19.0	36.5	147	61.1			0	Plus	507	4e-15
+
+#Chain	LINE	675-733	Otip_7964	169-336	+	11.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7964/Otip_7964.seq	Otip_7964	675	733	169	336	18.6	40.7	110	46.8			0	Plus	2617	6e-09
+
+#Chain	LINE	562-697	Otip_7981	4440-4853	+	23.4
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_7981/Otip_7981.seq	Otip_7981	562	697	4440	4853	17.2	33.1	121	51.1			0	Plus	4880	6e-10
+
+#Chain	helitronORF	1066-1171	Otip_8055	1860-2162	+	41.8
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8055/Otip_8055.seq	Otip_8055	1066	1171	1860	2162	39.4	61.5	200	81.3			0	Plus	3406	3e-19
+
+#Chain	helitronORF	568-734	Otip_8064	995-1560	-	46.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8064/Otip_8064.seq	Otip_8064	636	734	1360	995	27.2	41.6	158	65.1			0	Minus	5028	4e-14
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8064/Otip_8064.seq	Otip_8064	568	616	1560	1405	40.4	65.4	156	64.3			0	Minus	5028	6e-14
+
+#Chain	mariner	23-339	Otip_8079	164-1017	+	70.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8079/Otip_8079.seq	Otip_8079	23	163	164	562	19.9	40.4	236	95.2			0	Plus	4108	4e-25
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8079/Otip_8079.seq	Otip_8079	181	260	582	818	26.2	38.1	94	40.5			0	Plus	4108	2e-07
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8079/Otip_8079.seq	Otip_8079	274	339	820	1017	32.8	52.2	131	54.8			0	Plus	4108	5e-12
+
+#Chain	LINE	450-684	Otip_8090	1253-1817	+	48.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8090/Otip_8090.seq	Otip_8090	450	578	1253	1495	19.4	30.2	142	59.2			0	Plus	7264	3e-12
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8090/Otip_8090.seq	Otip_8090	580	684	1494	1817	22.2	39.8	111	47.2			0	Plus	7264	1e-08
+
+#Chain	hAT	643-696	Otip_8097	6296-6463	+	16.4
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8097/Otip_8097.seq	Otip_8097	643	696	6296	6463	30.4	50.0	94	40.6			0	Plus	6712	7e-07
+
+#Chain	DDE_1	268-402	Otip_8100	340-732	+	22.8
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8100/Otip_8100.seq	Otip_8100	268	402	340	732	16.9	29.6	80	35.2			0	Plus	1779	5e-06
+
+#Chain	LINE	529-580	Otip_8102	6301-6459	+	15.7
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8102/Otip_8102.seq	Otip_8102	529	580	6301	6459	30.2	45.3	94	40.7			0	Plus	8608	2e-06
+
+#Chain	mariner	11-222	Otip_8123	3-626	-	44.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8123/Otip_8123.seq	Otip_8123	11	222	626	3	21.1	41.3	337	134			0	Minus	3900	9e-38
+
+#Chain	TY1_Copia	302-388	Otip_8147	2942-3241	+	17.4
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8147/Otip_8147.seq	Otip_8147	302	388	2942	3241	20.0	37.0	97	41.9			0	Plus	3595	4e-07
+
+#Chain	mariner_ant1	227-296	Otip_8158	2610-2819	-	21.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8158/Otip_8158.seq	Otip_8158	227	296	2819	2610	31.0	45.1	86	37.5			0	Minus	2857	8e-07
+
+#Chain	ltr_Roo	1366-1788	Otip_8172	10-1413	+	132.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8172/Otip_8172.seq	Otip_8172	1366	1788	10	1413	31.2	47.4	932	363			0	Plus	5706	1e-105
+
+#Chain	ltr_Roo	232-531	Otip_8172	4416-5339	+	66.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8172/Otip_8172.seq	Otip_8172	232	531	4416	5339	22.0	40.1	357	141			0	Plus	5706	4e-37
+
+#Chain	mariner	5-71	Otip_8189	1253-1441	-	15.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8189/Otip_8189.seq	Otip_8189	5	71	1441	1253	22.4	34.3	105	44.7			0	Minus	4873	9e-09
+
+#Chain	gypsy	688-1463	Otip_8202	4-2241	+	194.8
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8202/Otip_8202.seq	Otip_8202	688	1463	4	2241	25.1	43.2	1309	508			0	Plus	2543	1e-164
+
+#Chain	DDE_1	103-185	Otip_8211	2851-3081	-	14.4
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8211/Otip_8211.seq	Otip_8211	103	185	3081	2851	17.4	34.9	98	42.2			0	Minus	3089	7e-08
+
+#Chain	helitronORF	1146-1321	Otip_8226	2-573	+	100.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8226/Otip_8226.seq	Otip_8226	1146	1254	2	313	48.6	59.5	273	109			0	Plus	1969	2e-28
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8226/Otip_8226.seq	Otip_8226	1244	1321	343	573	60.3	74.4	297	118			0	Plus	1969	2e-31
+
+#Chain	gypsy	1254-1366	Otip_8269	2663-2995	+	26.6
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8269/Otip_8269.seq	Otip_8269	1254	1366	2663	2995	23.5	40.0	191	78.0			0	Plus	3585	3e-18
+
+#Chain	DDE_1	62-343	Otip_8274	685-1619	+	43.2
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8274/Otip_8274.seq	Otip_8274	62	244	685	1287	12.8	30.0	132	55.3			0	Plus	2091	4e-12
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8274/Otip_8274.seq	Otip_8274	247	343	1338	1619	20.4	40.8	133	55.6			0	Plus	2091	3e-12
+
+#Chain	helitronORF	958-1046	Otip_8275	6350-6625	+	24.1
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8275/Otip_8275.seq	Otip_8275	958	1046	6350	6625	27.1	38.5	96	41.2			0	Plus	9865	1e-06
+
+#Chain	mariner	271-295	Otip_8290	349-423	+	12.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8290/Otip_8290.seq	Otip_8290	271	295	349	423	48.0	60.0	80	35.1			0	Plus	4669	8e-06
+
+#Chain	gypsy	1256-1341	Otip_8299	2824-3078	-	23.0
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8299/Otip_8299.seq	Otip_8299	1256	1341	3078	2824	26.7	46.5	124	52.2			0	Minus	4003	3e-10
+
+#Chain	mariner	88-137	Otip_8305	1722-1871	+	15.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8305/Otip_8305.seq	Otip_8305	88	137	1722	1871	30.0	40.0	78	34.3			0	Plus	1927	5e-06
+
+#Chain	mariner	270-304	Otip_8318	26-133	+	11.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8318/Otip_8318.seq	Otip_8318	270	304	26	133	33.3	50.0	100	42.8			0	Plus	8509	6e-08
+
+#Chain	helitronORF	771-839	Otip_8330	455-670	+	25.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8330/Otip_8330.seq	Otip_8330	771	839	455	670	37.5	52.8	123	51.6			0	Plus	3111	3e-10
+
+#Chain	helitronORF	1134-1318	Otip_8330	1224-1894	-	65.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8330/Otip_8330.seq	Otip_8330	1181	1318	1754	1224	33.3	46.3	253	101			0	Minus	3111	1e-25
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8330/Otip_8330.seq	Otip_8330	1134	1183	1894	1745	38.0	54.0	108	45.8			0	Minus	3111	2e-08
+
+#Chain	mariner	214-282	Otip_8334	5031-5234	+	28.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8334/Otip_8334.seq	Otip_8334	214	282	5031	5234	41.7	47.2	187	76.3			0	Plus	8419	1e-18
+
+#Chain	mariner	221-344	Otip_8367	1686-2057	-	25.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8367/Otip_8367.seq	Otip_8367	221	344	2057	1686	20.3	32.0	104	44.4			0	Minus	2076	4e-09
+
+#Chain	ISC1316	218-267	Otip_8384	2789-2935	-	11.0
+ISC1316		393	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8384/Otip_8384.seq	Otip_8384	218	267	2935	2789	22.0	30.0	80	35.2			0	Minus	3300	7e-06
+
+#Chain	DDE_1	99-306	Otip_8393	1844-2476	+	33.3
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8393/Otip_8393.seq	Otip_8393	99	306	1844	2476	16.0	30.7	175	71.8			0	Plus	3338	5e-17
+
+#Chain	mariner	122-248	Otip_8414	798-1172	-	24.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8414/Otip_8414.seq	Otip_8414	122	248	1172	798	18.9	31.1	108	45.9			0	Minus	10111	8e-09
+
+#Chain	mariner	192-341	Otip_8418	2956-3408	+	35.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8418/Otip_8418.seq	Otip_8418	192	341	2956	3408	23.5	43.1	231	93.3			0	Plus	3418	1e-24
+
+#Chain	LINE	314-636	Otip_8430	1558-2463	+	45.9
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8430/Otip_8430.seq	Otip_8430	314	636	1558	2463	14.2	33.4	291	116			0	Plus	4977	6e-30
+
+#Chain	ltr_Roo	445-494	Otip_8431	2428-2574	-	9.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8431/Otip_8431.seq	Otip_8431	445	494	2574	2428	19.6	35.3	94	40.6			0	Minus	4648	2e-06
+
+#Chain	helitronORF	401-604	Otip_8476	522-1247	+	46.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8476/Otip_8476.seq	Otip_8476	401	604	522	1247	23.0	35.8	166	68.2			0	Plus	1382	6e-16
+
+#Chain	mariner_ant1	144-263	Otip_8505	311-664	+	26.8
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8505/Otip_8505.seq	Otip_8505	144	263	311	664	22.3	36.4	106	45.2			0	Plus	3213	4e-09
+
+#Chain	LINE	735-809	Otip_8511	1239-1454	-	19.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8511/Otip_8511.seq	Otip_8511	735	809	1454	1239	25.3	42.7	125	52.6			0	Minus	1591	5e-11
+
+#Chain	LINE	536-619	Otip_8512	87-338	+	15.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8512/Otip_8512.seq	Otip_8512	536	619	87	338	17.9	34.5	140	58.4			0	Plus	7577	6e-12
+
+#Chain	helitronORF	1248-1267	Otip_8512	2428-2487	-	13.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8512/Otip_8512.seq	Otip_8512	1248	1267	2487	2428	65.0	90.0	97	41.6			0	Minus	7577	8e-07
+
+#Chain	mariner	34-144	Otip_8514	272-598	-	20.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8514/Otip_8514.seq	Otip_8514	34	144	598	272	18.3	40.9	87	37.8			0	Minus	7738	2e-06
+
+#Chain	mariner	108-343	Otip_8541	1218-1910	-	39.6
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8541/Otip_8541.seq	Otip_8541	108	343	1910	1218	16.8	35.2	241	97.1			0	Minus	2032	3e-26
+
+#Chain	LINE	521-783	Otip_8543	511-1301	+	43.4
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8543/Otip_8543.seq	Otip_8543	521	655	511	942	18.1	34.0	189	77.3			0	Plus	2590	3e-18
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8543/Otip_8543.seq	Otip_8543	681	783	1011	1301	18.4	39.8	109	46.4			0	Plus	2590	7e-09
+
+#Chain	gypsy	616-1323	Otip_8552	3217-4772	+	94.7
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8552/Otip_8552.seq	Otip_8552	616	731	3217	3552	22.0	42.4	184	75.3			0	Plus	6115	4e-17
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8552/Otip_8552.seq	Otip_8552	835	861	3543	3623	44.4	66.7	91	39.5			0	Plus	6115	3e-06
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8552/Otip_8552.seq	Otip_8552	914	981	3632	3850	34.2	50.7	137	57.2			0	Plus	6115	1e-11
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8552/Otip_8552.seq	Otip_8552	986	1038	3859	4032	22.4	44.8	104	44.5			0	Plus	6115	1e-07
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8552/Otip_8552.seq	Otip_8552	1209	1323	4455	4772	19.2	28.3	168	69.1			0	Plus	6115	3e-15
+
+#Chain	helitronORF	37-301	Otip_8554	2762-3657	-	76.4
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8554/Otip_8554.seq	Otip_8554	85	301	3472	2762	29.2	45.8	384	152			0	Minus	4259	4e-41
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8554/Otip_8554.seq	Otip_8554	37	75	3657	3532	33.3	50.0	90	38.9			0	Minus	4259	3e-06
+
+#Chain	mariner	252-284	Otip_8566	6682-6783	-	11.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8566/Otip_8566.seq	Otip_8566	252	284	6783	6682	36.1	47.2	108	45.9			0	Minus	6964	6e-09
+
+#Chain	mariner	265-303	Otip_8567	910-1032	+	13.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8567/Otip_8567.seq	Otip_8567	265	303	910	1032	34.1	56.1	84	36.7			0	Plus	1045	4e-07
+
+#Chain	LINE	393-808	Otip_8568	711-1703	+	55.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8568/Otip_8568.seq	Otip_8568	393	623	711	1400	20.5	37.2	385	152			0	Plus	2877	1e-41
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8568/Otip_8568.seq	Otip_8568	760	808	1563	1703	16.3	34.7	92	39.9			0	Plus	2877	8e-07
+
+#Chain	helitronORF	113-958	Otip_8591	1-2775	-	327.7
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8591/Otip_8591.seq	Otip_8591	695	958	789	1	33.8	57.0	532	209			0	Minus	2777	2e-59
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8591/Otip_8591.seq	Otip_8591	532	692	1372	839	40.4	56.2	450	177			0	Minus	2777	3e-49
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8591/Otip_8591.seq	Otip_8591	113	536	2775	1408	40.9	58.0	1102	428			0	Minus	2777	1e-134
+
+#Chain	mariner	237-316	Otip_8596	294-545	+	20.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8596/Otip_8596.seq	Otip_8596	237	316	294	545	25.0	44.0	203	82.5			0	Plus	3351	4e-21
+
+#Chain	LINE	490-651	Otip_8602	3925-4428	-	26.6
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8602/Otip_8602.seq	Otip_8602	490	651	4428	3925	16.4	33.9	180	73.8			0	Minus	5154	7e-17
+
+#Chain	hAT	630-684	Otip_8644	6768-6926	+	13.8
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8644/Otip_8644.seq	Otip_8644	630	684	6768	6926	25.0	39.3	96	41.4			0	Plus	11033	7e-07
+
+#Chain	mariner	240-324	Otip_8648	12125-12391	-	17.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8648/Otip_8648.seq	Otip_8648	240	324	12391	12125	20.2	39.3	105	44.7			0	Minus	12392	2e-08
+
+#Chain	cacta	753-780	Otip_8651	641-724	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8651/Otip_8651.seq	Otip_8651	753	780	724	641	67.9	67.9	89	38.7			0	Minus	8225	7e-06
+
+#Chain	mariner_ant1	203-262	Otip_8669	63-248	+	14.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8669/Otip_8669.seq	Otip_8669	203	262	63	248	24.2	46.8	102	43.6			0	Plus	8691	3e-08
+
+#Chain	LINE	551-636	Otip_8679	5244-5504	+	20.7
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8679/Otip_8679.seq	Otip_8679	551	636	5244	5504	24.1	41.4	156	64.6			0	Plus	5608	5e-14
+
+#Chain	TY1_Copia	547-606	Otip_8701	5920-6102	+	15.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8701/Otip_8701.seq	Otip_8701	547	606	5920	6102	26.2	34.4	89	38.8			0	Plus	9714	9e-06
+
+#Chain	gypsy	568-824	Otip_8701	6937-7695	+	82.2
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8701/Otip_8701.seq	Otip_8701	568	824	6937	7695	32.0	51.0	630	247			0	Plus	9714	3e-69
+
+#Chain	LINE	429-576	Otip_8701	8828-9264	-	35.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8701/Otip_8701.seq	Otip_8701	497	576	9067	8828	18.8	38.8	172	70.7			0	Minus	9714	1e-15
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8701/Otip_8701.seq	Otip_8701	429	502	9264	9049	27.0	44.6	174	71.5			0	Minus	9714	8e-16
+
+#Chain	mariner_ant1	180-278	Otip_8738	5622-5948	-	25.6
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8738/Otip_8738.seq	Otip_8738	180	278	5948	5622	25.9	39.3	107	45.6			0	Minus	6222	5e-09
+
+#Chain	cacta	753-784	Otip_8779	126-221	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8779/Otip_8779.seq	Otip_8779	753	784	221	126	65.6	68.8	97	41.8			0	Minus	7010	6e-07
+
+#Chain	cacta	752-779	Otip_8786	57-140	+	18.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8786/Otip_8786.seq	Otip_8786	752	779	57	140	64.3	64.3	83	36.4			0	Plus	2006	7e-06
+
+#Chain	mariner	240-341	Otip_8830	1779-2096	+	16.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8830/Otip_8830.seq	Otip_8830	240	341	1779	2096	16.5	36.7	140	58.2			0	Plus	3514	3e-13
+
+#Chain	mariner	18-181	Otip_8866	1068-1514	+	31.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8866/Otip_8866.seq	Otip_8866	18	181	1068	1514	19.3	33.7	180	73.6			0	Plus	8959	9e-18
+
+#Chain	helitronORF	864-1302	Otip_8884	1128-2422	-	132.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8884/Otip_8884.seq	Otip_8884	1158	1302	1499	1128	44.5	57.5	331	131			0	Minus	3437	9e-35
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8884/Otip_8884.seq	Otip_8884	1014	1147	1998	1576	30.1	47.3	220	89.0			0	Minus	3437	1e-21
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8884/Otip_8884.seq	Otip_8884	864	945	2422	2150	33.7	46.3	140	58.2			0	Minus	3437	3e-12
+
+#Chain	helitronORF	4-932	Otip_8889	2-3121	-	324.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8889/Otip_8889.seq	Otip_8889	689	932	724	2	29.9	47.6	424	167			0	Minus	4029	1e-45
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8889/Otip_8889.seq	Otip_8889	310	692	2003	756	44.2	61.3	1183	459			0	Minus	4029	1e-142
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8889/Otip_8889.seq	Otip_8889	4	309	3121	2042	27.0	43.2	502	197			0	Minus	4029	6e-55
+
+#Chain	mariner_ant1	227-284	Otip_8894	2-181	+	19.3
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8894/Otip_8894.seq	Otip_8894	227	284	2	181	33.3	48.3	108	45.9			0	Plus	3584	2e-09
+
+#Chain	mariner	91-163	Otip_8950	1098-1337	+	12.8
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8950/Otip_8950.seq	Otip_8950	91	163	1098	1337	17.5	40.0	75	33.2			0	Plus	1585	1e-05
+
+#Chain	mariner	7-328	Otip_8954	2161-3125	+	74.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8954/Otip_8954.seq	Otip_8954	7	152	2161	2580	19.0	38.1	157	64.8			0	Plus	3590	3e-15
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8954/Otip_8954.seq	Otip_8954	149	328	2574	3125	25.9	42.3	316	126			0	Plus	3590	4e-35
+
+#Chain	gypsy	372-1424	Otip_8962	437-3435	-	220.5
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8962/Otip_8962.seq	Otip_8962	1160	1424	1243	437	22.3	35.4	453	178			0	Minus	4273	5e-49
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8962/Otip_8962.seq	Otip_8962	372	1095	3435	1363	22.3	41.0	1001	390			0	Minus	4273	1e-116
+
+#Chain	mariner_ant1	210-315	Otip_8982	1935-2270	-	21.4
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8982/Otip_8982.seq	Otip_8982	210	315	2270	1935	20.2	38.7	84	36.7			0	Minus	2655	1e-06
+
+#Chain	DDE_1	2-94	Otip_8995	299-571	-	12.5
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_8995/Otip_8995.seq	Otip_8995	2	94	571	299	13.4	33.0	87	37.9			0	Minus	1106	4e-07
+
+#Chain	helitronORF	722-1208	Otip_9006	2-1610	-	182.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9006/Otip_9006.seq	Otip_9006	1020	1208	610	2	39.1	56.5	444	175			0	Minus	1610	5e-50
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9006/Otip_9006.seq	Otip_9006	920	1021	942	640	44.1	57.8	288	115			0	Minus	1610	1e-30
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9006/Otip_9006.seq	Otip_9006	850	919	1180	977	40.3	50.0	126	52.8			0	Minus	1610	5e-11
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9006/Otip_9006.seq	Otip_9006	722	815	1610	1320	38.1	54.6	215	87.1			0	Minus	1610	1e-21
+
+#Chain	mariner	250-345	Otip_9016	1472-1756	+	25.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9016/Otip_9016.seq	Otip_9016	250	345	1472	1756	26.0	38.5	186	75.9			0	Plus	1800	2e-19
+
+#Chain	mariner	109-345	Otip_9056	52-737	+	55.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9056/Otip_9056.seq	Otip_9056	109	229	52	444	22.2	36.3	147	60.9			0	Plus	2551	3e-14
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9056/Otip_9056.seq	Otip_9056	245	345	465	737	28.3	41.5	165	67.9			0	Plus	2551	2e-16
+
+#Chain	cacta	753-784	Otip_9083	349-444	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9083/Otip_9083.seq	Otip_9083	753	784	349	444	68.8	68.8	91	39.4			0	Plus	3335	1e-06
+
+#Chain	mariner	52-331	Otip_9264	7248-8063	-	51.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9264/Otip_9264.seq	Otip_9264	52	331	8063	7248	18.2	34.9	225	91.0			0	Minus	8414	2e-23
+
+#Chain	cacta	756-784	Otip_9271	4744-4863	-	16.7
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9271/Otip_9271.seq	Otip_9271	756	784	4863	4744	57.5	57.5	87	37.9			0	Minus	6578	9e-06
+
+#Chain	mariner	3-296	Otip_9313	37-650	+	52.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9313/Otip_9313.seq	Otip_9313	3	160	37	474	26.4	41.5	224	90.6			0	Plus	3190	8e-24
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9313/Otip_9313.seq	Otip_9313	261	296	543	650	30.6	52.8	87	37.8			0	Plus	3190	8e-07
+
+#Chain	cacta	692-788	Otip_9332	446-679	-	29.0
+cacta		1264	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9332/Otip_9332.seq	Otip_9332	692	788	679	446	29.9	46.4	102	43.7			0	Minus	7999	2e-07
+
+#Chain	mariner	244-341	Otip_9368	29-325	+	34.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9368/Otip_9368.seq	Otip_9368	244	341	29	325	35.0	49.0	249	100			0	Plus	12054	4e-26
+
+#Chain	mariner_ant1	222-284	Otip_9374	171-362	+	17.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9374/Otip_9374.seq	Otip_9374	222	284	171	362	28.1	40.6	100	42.9			0	Plus	2494	1e-08
+
+#Chain	DDE_1	223-302	Otip_9375	1369-1602	+	10.7
+DDE_1		535	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9375/Otip_9375.seq	Otip_9375	223	302	1369	1602	13.4	34.1	105	44.9			0	Plus	1603	4e-09
+
+#Chain	helitronORF	872-1051	Otip_9432	137-764	-	74.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9432/Otip_9432.seq	Otip_9432	923	1051	574	137	38.4	50.0	301	120			0	Minus	877	1e-33
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9432/Otip_9432.seq	Otip_9432	872	923	764	609	48.1	65.4	171	70.1			0	Minus	877	3e-17
+
+#Chain	LINE	751-807	Otip_9438	133-306	+	9.5
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9438/Otip_9438.seq	Otip_9438	751	807	133	306	16.7	35.0	97	41.8			0	Plus	1121	6e-08
+
+#Chain	mariner	295-343	Otip_9457	22-159	+	13.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9457/Otip_9457.seq	Otip_9457	295	343	22	159	26.5	36.7	94	40.5			0	Plus	3193	1e-07
+
+#Chain	LINE	583-730	Otip_9464	54-476	-	22.8
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9464/Otip_9464.seq	Otip_9464	583	730	476	54	15.4	32.9	128	53.8			0	Minus	2631	4e-11
+
+#Chain	LINE	705-783	Otip_9532	2916-3107	+	17.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9532/Otip_9532.seq	Otip_9532	705	783	2916	3107	21.5	36.7	102	43.8			0	Plus	6026	1e-07
+
+#Chain	helitronORF	457-580	Otip_9624	348-770	-	28.8
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9624/Otip_9624.seq	Otip_9624	457	580	770	348	23.2	38.7	97	41.6			0	Minus	784	4e-08
+
+#Chain	helitronORF	954-1285	Otip_9640	7-1151	+	143.4
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9640/Otip_9640.seq	Otip_9640	954	1029	7	237	33.8	57.1	194	79.0			0	Plus	1881	5e-19
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9640/Otip_9640.seq	Otip_9640	1020	1090	245	460	37.5	61.1	149	61.6			0	Plus	1881	1e-13
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9640/Otip_9640.seq	Otip_9640	1095	1142	510	644	35.4	70.8	117	49.3			0	Plus	1881	7e-10
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9640/Otip_9640.seq	Otip_9640	1162	1241	740	979	53.8	71.2	298	119			0	Plus	1881	1e-31
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9640/Otip_9640.seq	Otip_9640	1242	1285	1020	1151	70.5	86.4	206	83.6			0	Plus	1881	2e-20
+
+#Chain	mariner_ant1	159-264	Otip_9649	122-448	+	22.9
+mariner_ant1		325	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9649/Otip_9649.seq	Otip_9649	159	264	122	448	21.6	40.5	78	34.4			0	Plus	1454	3e-06
+
+#Chain	helitronORF	1230-1308	Otip_9666	1653-1910	-	31.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9666/Otip_9666.seq	Otip_9666	1230	1308	1910	1653	39.3	49.4	164	67.4			0	Minus	2460	3e-15
+
+#Chain	helitronORF	1036-1235	Otip_9672	85-684	-	90.2
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9672/Otip_9672.seq	Otip_9672	1036	1235	684	85	45.1	65.7	538	211			0	Minus	695	7e-66
+
+#Chain	mariner	18-276	Otip_9691	2-744	+	37.7
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9691/Otip_9691.seq	Otip_9691	18	59	2	124	23.8	50.0	95	40.9			0	Plus	1390	3e-08
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9691/Otip_9691.seq	Otip_9691	122	276	283	744	17.9	31.5	188	76.7			0	Plus	1390	8e-20
+
+#Chain	gypsy	1246-1335	Otip_9710	9-314	-	18.5
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9710/Otip_9710.seq	Otip_9710	1246	1335	314	9	20.6	41.2	141	58.7			0	Minus	974	2e-13
+
+#Chain	LINE	759-809	Otip_9714	8-154	+	11.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9714/Otip_9714.seq	Otip_9714	759	809	8	154	21.6	33.3	109	46.4			0	Plus	1705	4e-09
+
+#Chain	helitronORF	885-1101	Otip_9739	1-690	+	78.6
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9739/Otip_9739.seq	Otip_9739	885	1101	1	690	36.2	56.5	490	192			0	Plus	696	2e-59
+
+#Chain	mariner	11-338	Otip_9740	309-900	-	44.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9740/Otip_9740.seq	Otip_9740	273	338	497	309	26.9	46.3	162	66.7			0	Minus	1311	1e-16
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9740/Otip_9740.seq	Otip_9740	11	139	900	526	20.6	41.2	193	78.6			0	Minus	1311	2e-20
+
+#Chain	helitronORF	890-1321	Otip_9755	155-740	+	73.9
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9755/Otip_9755.seq	Otip_9755	890	1001	155	487	33.0	51.8	211	85.5			0	Plus	1040	5e-22
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9755/Otip_9755.seq	Otip_9755	1237	1321	492	740	43.5	60.0	195	79.3			0	Plus	1040	5e-20
+
+#Chain	LINE	442-509	Otip_9759	1-216	+	19.3
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9759/Otip_9759.seq	Otip_9759	442	509	1	216	28.4	43.2	115	48.8			0	Plus	575	6e-11
+
+#Chain	mariner	1-256	Otip_9795	4-715	-	58.2
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9795/Otip_9795.seq	Otip_9795	108	256	444	4	21.8	34.6	185	75.6			0	Minus	769	2e-20
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9795/Otip_9795.seq	Otip_9795	1	109	715	419	23.6	38.2	110	46.7			0	Minus	769	2e-10
+
+#Chain	mariner	265-319	Otip_9796	778-948	+	16.4
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9796/Otip_9796.seq	Otip_9796	265	319	778	948	29.8	54.4	104	44.4			0	Plus	1405	2e-09
+
+#Chain	hAT	157-737	Otip_9800	14-1453	+	65.2
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9800/Otip_9800.seq	Otip_9800	157	409	14	826	18.6	34.0	206	83.8			0	Plus	1745	5e-21
+hAT		749	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9800/Otip_9800.seq	Otip_9800	651	737	1166	1453	20.8	30.7	107	45.7			0	Plus	1745	4e-09
+
+#Chain	mariner	18-119	Otip_9801	21-296	-	17.9
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9801/Otip_9801.seq	Otip_9801	18	119	296	21	17.5	43.7	143	59.4			0	Minus	3204	1e-13
+
+#Chain	mariner	168-316	Otip_9802	688-1116	-	46.3
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9802/Otip_9802.seq	Otip_9802	168	316	1116	688	31.1	40.4	353	140			0	Minus	1128	4e-42
+
+#Chain	helitronORF	1241-1305	Otip_9822	101-299	+	35.0
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9822/Otip_9822.seq	Otip_9822	1241	1265	101	175	48.0	68.0	90	38.9			0	Plus	1176	6e-07
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9822/Otip_9822.seq	Otip_9822	1265	1305	177	299	56.1	73.2	149	61.6			0	Plus	1176	4e-14
+
+#Chain	LINE	555-611	Otip_9837	389-559	-	10.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9837/Otip_9837.seq	Otip_9837	555	611	559	389	17.5	43.9	104	44.5			0	Minus	1420	1e-08
+
+#Chain	LINE	573-734	Otip_9905	1414-1893	+	27.1
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9905/Otip_9905.seq	Otip_9905	573	734	1414	1893	16.7	34.5	182	74.6			0	Plus	5032	4e-17
+
+#Chain	mariner	182-262	Otip_9949	2-232	-	26.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9949/Otip_9949.seq	Otip_9949	182	262	232	2	32.1	42.9	161	66.3			0	Minus	852	6e-17
+
+#Chain	LINE	762-808	Otip_9960	3-137	+	14.0
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9960/Otip_9960.seq	Otip_9960	762	808	3	137	29.8	42.6	87	38.0			0	Plus	1232	1e-06
+
+#Chain	helitronORF	905-1316	Otip_9961	764-1513	-	98.4
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9961/Otip_9961.seq	Otip_9961	1239	1316	994	764	55.1	67.9	257	103			0	Minus	1991	2e-26
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9961/Otip_9961.seq	Otip_9961	1170	1204	1233	1126	61.1	72.2	131	54.7			0	Minus	1991	2e-11
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9961/Otip_9961.seq	Otip_9961	905	1002	1513	1226	34.7	52.0	213	86.3			0	Minus	1991	3e-21
+
+#Chain	mariner	156-223	Otip_9961	1792-1986	-	18.0
+mariner		345	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9961/Otip_9961.seq	Otip_9961	156	223	1986	1792	26.5	38.2	121	50.9			0	Minus	1991	3e-11
+
+#Chain	gypsy	1248-1382	Otip_9986	452-898	+	27.1
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9986/Otip_9986.seq	Otip_9986	1248	1382	452	898	20.1	36.9	201	81.8			0	Plus	1020	8e-21
+
+#Chain	gypsy	804-1026	Otip_9991	14-372	-	45.0
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9991/Otip_9991.seq	Otip_9991	920	1026	310	14	20.5	31.6	106	45.2			0	Minus	980	5e-09
+gypsy		1463	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9991/Otip_9991.seq	Otip_9991	804	859	372	205	41.1	64.3	167	68.7			0	Minus	980	1e-16
+
+#Chain	LINE	398-723	Otip_9992	116-1037	-	62.8
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9992/Otip_9992.seq	Otip_9992	584	723	517	116	18.4	32.7	114	48.4			0	Minus	1067	5e-10
+LINE		1189	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9992/Otip_9992.seq	Otip_9992	398	590	1037	480	19.2	34.2	278	111			0	Minus	1067	2e-30
+
+#Chain	helitronORF	342-520	Otip_9995	2-523	-	99.5
+helitronORF		1321	PSITBLASTN	transposonPSI.4180.Amirs-PC.tmp/Otip_9995/Otip_9995.seq	Otip_9995	342	520	523	2	55.6	71.1	649	254			0	Minus	524	6e-82
+

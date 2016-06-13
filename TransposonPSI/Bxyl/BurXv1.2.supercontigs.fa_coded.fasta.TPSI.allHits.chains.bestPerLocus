@@ -1,0 +1,1060 @@
+#Chain	mariner	243-286	Bxyl_1053	313-444	+	12.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1053/Bxyl_1053.seq	Bxyl_1053	243	286	313	444	27.3	36.4	73	32.4			0	Plus	515	3e-06
+
+#Chain	mariner	35-107	Bxyl_1263	281-484	+	17.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1263/Bxyl_1263.seq	Bxyl_1263	35	107	281	484	23.3	41.1	114	48.2			0	Plus	688	4e-11
+
+#Chain	helitronORF	1256-1320	Bxyl_1307	1-192	+	36.5
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1307/Bxyl_1307.seq	Bxyl_1307	1256	1320	1	192	56.1	68.2	197	80.1			0	Plus	583	5e-21
+
+#Chain	helitronORF	1130-1320	Bxyl_1354	3-599	+	77.9
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1354/Bxyl_1354.seq	Bxyl_1354	1130	1320	3	599	40.8	57.7	434	171			0	Plus	838	3e-51
+
+#Chain	hAT	472-541	Bxyl_1501	518-730	-	9.7
+hAT		749	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1501/Bxyl_1501.seq	Bxyl_1501	472	541	730	518	13.9	36.1	81	35.6			0	Minus	1941	6e-06
+
+#Chain	mariner	219-286	Bxyl_152	678-881	+	11.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_152/Bxyl_152.seq	Bxyl_152	219	286	678	881	16.2	27.9	80	35.1			0	Plus	1000	1e-06
+
+#Chain	cacta	753-779	Bxyl_1523	42-167	+	16.1
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1523/Bxyl_1523.seq	Bxyl_1523	753	779	42	167	59.5	59.5	82	36.0			0	Plus	1831	8e-06
+
+#Chain	cacta	753-784	Bxyl_1523	186-302	+	19.7
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1523/Bxyl_1523.seq	Bxyl_1523	753	784	186	302	61.5	64.1	99	42.5			0	Plus	1831	8e-08
+
+#Chain	cacta	752-786	Bxyl_1523	306-428	+	22.2
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1523/Bxyl_1523.seq	Bxyl_1523	752	786	306	428	63.4	63.4	107	45.6			0	Plus	1831	9e-09
+
+#Chain	mariner	245-303	Bxyl_1537	215-400	-	13.3
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1537/Bxyl_1537.seq	Bxyl_1537	245	303	400	215	22.6	38.7	90	39.0			0	Minus	703	4e-08
+
+#Chain	mariner	245-286	Bxyl_1592	241-375	-	11.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1592/Bxyl_1592.seq	Bxyl_1592	245	286	375	241	26.7	46.7	97	41.7			0	Minus	1777	2e-08
+
+#Chain	gypsy	289-361	Bxyl_160	973-1191	+	6.0
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_160/Bxyl_160.seq	Bxyl_160	289	361	973	1191	8.2	37.0	91	39.5			0	Plus	1193	4e-07
+
+#Chain	ltr_Roo	209-285	Bxyl_1647	5-217	-	20.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1647/Bxyl_1647.seq	Bxyl_1647	209	285	217	5	26.6	41.8	100	42.9			0	Minus	1968	1e-07
+
+#Chain	mariner	10-73	Bxyl_1683	551-742	+	14.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1683/Bxyl_1683.seq	Bxyl_1683	10	73	551	742	21.9	42.2	127	53.2			0	Plus	750	1e-12
+
+#Chain	LINE	704-804	Bxyl_1786	19-312	+	18.0
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1786/Bxyl_1786.seq	Bxyl_1786	704	804	19	312	17.8	33.7	138	57.6			0	Plus	1025	5e-13
+
+#Chain	ltr_Roo	1703-1799	Bxyl_1854	532-843	-	20.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1854/Bxyl_1854.seq	Bxyl_1854	1703	1799	843	532	20.8	36.8	112	47.5			0	Minus	844	1e-09
+
+#Chain	mariner	248-302	Bxyl_1901	144-317	+	14.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1901/Bxyl_1901.seq	Bxyl_1901	248	302	144	317	25.9	43.1	98	42.0			0	Plus	1712	2e-08
+
+#Chain	helitronORF	391-511	Bxyl_1905	64-435	+	42.2
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_1905/Bxyl_1905.seq	Bxyl_1905	391	511	64	435	34.9	51.9	273	109			0	Plus	1043	1e-29
+
+#Chain	mariner_ant1	242-303	Bxyl_197	155-343	+	17.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_197/Bxyl_197.seq	Bxyl_197	242	303	155	343	28.6	49.2	100	42.9			0	Plus	1414	7e-09
+
+#Chain	gypsy	407-539	Bxyl_2011	246-698	+	24.6
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2011/Bxyl_2011.seq	Bxyl_2011	407	539	246	698	18.5	39.1	85	37.2			0	Plus	915	1e-06
+
+#Chain	LINE	408-434	Bxyl_2013	3-95	-	10.4
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2013/Bxyl_2013.seq	Bxyl_2013	408	434	95	3	38.7	54.8	83	36.4			0	Minus	525	6e-07
+
+#Chain	mariner	35-107	Bxyl_2049	125-328	-	18.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2049/Bxyl_2049.seq	Bxyl_2049	35	107	328	125	24.7	42.5	115	48.6			0	Minus	869	5e-11
+
+#Chain	LINE	177-453	Bxyl_2143	1-897	+	48.5
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2143/Bxyl_2143.seq	Bxyl_2143	177	453	1	897	17.5	34.4	142	59.2			0	Plus	1265	3e-13
+
+#Chain	ltr_Roo	669-725	Bxyl_2178	1031-1231	+	11.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2178/Bxyl_2178.seq	Bxyl_2178	669	725	1031	1231	19.4	38.8	83	36.3			0	Plus	1233	7e-06
+
+#Chain	LINE	431-500	Bxyl_2179	2-205	-	13.0
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2179/Bxyl_2179.seq	Bxyl_2179	431	500	205	2	18.6	37.1	151	62.6			0	Minus	649	2e-15
+
+#Chain	helitronORF	1261-1320	Bxyl_2187	1-177	+	31.5
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2187/Bxyl_2187.seq	Bxyl_2187	1261	1320	1	177	52.5	67.2	172	70.5			0	Plus	665	8e-18
+
+#Chain	cacta	753-780	Bxyl_2261	716-799	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2261/Bxyl_2261.seq	Bxyl_2261	753	780	799	716	75.0	75.0	98	42.1			0	Minus	805	3e-08
+
+#Chain	TY1_Copia	267-335	Bxyl_2271	1011-1208	+	18.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2271/Bxyl_2271.seq	Bxyl_2271	267	335	1011	1208	26.1	40.6	87	38.1			0	Plus	1286	2e-06
+
+#Chain	mariner	240-292	Bxyl_2318	292-459	+	13.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2318/Bxyl_2318.seq	Bxyl_2318	240	292	292	459	25.0	44.6	102	43.6			0	Plus	639	1e-09
+
+#Chain	helitronORF	182-503	Bxyl_2328	3-1175	-	89.2
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2328/Bxyl_2328.seq	Bxyl_2328	254	503	773	3	28.0	43.3	352	139			0	Minus	1283	4e-39
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2328/Bxyl_2328.seq	Bxyl_2328	182	249	1175	963	28.2	46.5	89	38.5			0	Minus	1283	9e-07
+
+#Chain	ltr_Roo	411-513	Bxyl_2332	1064-1351	-	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2332/Bxyl_2332.seq	Bxyl_2332	411	513	1351	1064	20.4	39.8	92	39.8			0	Minus	1483	8e-07
+
+#Chain	gypsy	305-408	Bxyl_2396	320-685	+	15.2
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2396/Bxyl_2396.seq	Bxyl_2396	305	408	320	685	14.6	33.3	82	36.0			0	Plus	825	3e-06
+
+#Chain	helitronORF	960-1275	Bxyl_2405	15-1004	+	97.3
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2405/Bxyl_2405.seq	Bxyl_2405	960	1275	15	1004	30.8	49.4	490	192			0	Plus	1004	6e-58
+
+#Chain	mariner	264-302	Bxyl_2442	48-173	+	13.9
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2442/Bxyl_2442.seq	Bxyl_2442	264	302	48	173	35.7	57.1	94	40.5			0	Plus	1373	4e-08
+
+#Chain	ltr_Roo	1707-1799	Bxyl_2469	397-696	-	17.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2469/Bxyl_2469.seq	Bxyl_2469	1707	1799	696	397	18.6	35.3	96	41.3			0	Minus	696	7e-08
+
+#Chain	mariner	150-335	Bxyl_2480	406-981	-	30.9
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2480/Bxyl_2480.seq	Bxyl_2480	150	335	981	406	16.6	27.8	114	48.2			0	Minus	983	8e-11
+
+#Chain	mariner	118-341	Bxyl_2498	42-716	+	32.5
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2498/Bxyl_2498.seq	Bxyl_2498	118	341	42	716	14.5	31.5	104	44.4			0	Plus	933	1e-09
+
+#Chain	mariner	245-292	Bxyl_2507	11-163	+	11.3
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2507/Bxyl_2507.seq	Bxyl_2507	245	292	11	163	23.5	47.1	102	43.6			0	Plus	776	2e-09
+
+#Chain	mariner	162-229	Bxyl_2525	481-675	+	13.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2525/Bxyl_2525.seq	Bxyl_2525	162	229	481	675	19.1	33.8	84	36.7			0	Plus	945	4e-07
+
+#Chain	mariner	243-306	Bxyl_2582	256-450	+	11.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2582/Bxyl_2582.seq	Bxyl_2582	243	306	256	450	18.5	33.8	75	33.2			0	Plus	1133	6e-06
+
+#Chain	mariner	243-306	Bxyl_2582	817-1011	+	11.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2582/Bxyl_2582.seq	Bxyl_2582	243	306	817	1011	18.5	33.8	75	33.2			0	Plus	1133	6e-06
+
+#Chain	mariner	52-345	Bxyl_2597	153-1013	+	58.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2597/Bxyl_2597.seq	Bxyl_2597	52	345	153	1013	20.0	33.2	288	115			0	Plus	1369	5e-33
+
+#Chain	gypsy	407-539	Bxyl_2612	53-505	+	24.6
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2612/Bxyl_2612.seq	Bxyl_2612	407	539	53	505	18.5	39.1	87	37.9			0	Plus	643	4e-07
+
+#Chain	ltr_Roo	411-666	Bxyl_2618	14-886	-	43.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2618/Bxyl_2618.seq	Bxyl_2618	411	666	886	14	16.9	30.7	136	56.7			0	Minus	895	1e-12
+
+#Chain	mariner	260-345	Bxyl_2737	119-379	+	21.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2737/Bxyl_2737.seq	Bxyl_2737	260	345	119	379	24.7	38.2	102	43.6			0	Plus	517	5e-10
+
+#Chain	mariner	113-248	Bxyl_2839	1526-1951	+	21.5
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2839/Bxyl_2839.seq	Bxyl_2839	113	248	1526	1951	15.8	32.2	107	45.5			0	Plus	1953	2e-09
+
+#Chain	P_element	733-765	Bxyl_2877	841-957	-	12.7
+P_element		766	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2877/Bxyl_2877.seq	Bxyl_2877	733	765	957	841	38.5	53.8	82	35.9			0	Minus	1993	5e-06
+
+#Chain	mariner	35-107	Bxyl_2897	99-302	-	17.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2897/Bxyl_2897.seq	Bxyl_2897	35	107	302	99	23.3	41.1	111	47.1			0	Minus	1733	5e-10
+
+#Chain	gypsy	1160-1307	Bxyl_2949	1379-1816	+	31.8
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2949/Bxyl_2949.seq	Bxyl_2949	1160	1307	1379	1816	21.5	36.2	311	124			0	Plus	1817	3e-33
+
+#Chain	TY1_Copia	401-604	Bxyl_2983	920-1462	+	31.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2983/Bxyl_2983.seq	Bxyl_2983	401	604	920	1462	15.6	30.7	86	37.7			0	Plus	1630	3e-06
+
+#Chain	mariner	264-302	Bxyl_2996	51-176	+	13.9
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_2996/Bxyl_2996.seq	Bxyl_2996	264	302	51	176	35.7	57.1	94	40.5			0	Plus	1580	5e-08
+
+#Chain	mariner	10-342	Bxyl_3034	214-1206	+	89.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3034/Bxyl_3034.seq	Bxyl_3034	10	342	214	1206	26.9	47.4	623	244			0	Plus	1691	3e-79
+
+#Chain	cacta	755-795	Bxyl_3040	1454-1576	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3040/Bxyl_3040.seq	Bxyl_3040	755	795	1454	1576	51.2	56.1	87	37.9			0	Plus	1644	2e-06
+
+#Chain	MuDR_A_B	635-688	Bxyl_3077	966-1127	-	9.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3077/Bxyl_3077.seq	Bxyl_3077	635	688	1127	966	16.7	37.0	84	36.9			0	Minus	1352	2e-06
+
+#Chain	mariner	162-231	Bxyl_3084	29-229	+	13.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3084/Bxyl_3084.seq	Bxyl_3084	162	231	29	229	18.6	34.3	86	37.4			0	Plus	1345	4e-07
+
+#Chain	LINE	704-804	Bxyl_3088	1074-1367	+	17.0
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3088/Bxyl_3088.seq	Bxyl_3088	704	804	1074	1367	16.8	31.7	134	56.1			0	Plus	1955	5e-12
+
+#Chain	gypsy	234-362	Bxyl_3108	270-692	-	26.8
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3108/Bxyl_3108.seq	Bxyl_3108	234	362	692	270	20.8	34.7	89	38.7			0	Minus	1885	1e-06
+
+#Chain	ltr_Roo	260-1791	Bxyl_3113	20-671	+	40.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3113/Bxyl_3113.seq	Bxyl_3113	260	384	20	388	20.2	40.3	146	60.6			0	Plus	1742	4e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3113/Bxyl_3113.seq	Bxyl_3113	1731	1791	459	671	25.4	42.3	94	40.6			0	Plus	1742	6e-07
+
+#Chain	helitronORF	1051-1320	Bxyl_3131	636-1490	-	97.2
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3131/Bxyl_3131.seq	Bxyl_3131	1051	1320	1490	636	36.0	51.0	482	189			0	Minus	1552	5e-55
+
+#Chain	ltr_Roo	1699-1799	Bxyl_3157	1012-1335	-	20.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3157/Bxyl_3157.seq	Bxyl_3157	1699	1799	1335	1012	20.0	39.1	127	53.3			0	Minus	1356	5e-11
+
+#Chain	helitronORF	992-1320	Bxyl_3202	23-1048	+	111.2
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3202/Bxyl_3202.seq	Bxyl_3202	992	1320	23	1048	33.8	50.3	549	215			0	Plus	1644	2e-63
+
+#Chain	mariner	240-286	Bxyl_3209	798-947	+	13.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3209/Bxyl_3209.seq	Bxyl_3209	240	286	798	947	28.0	44.0	82	35.9			0	Plus	962	7e-07
+
+#Chain	mariner	118-266	Bxyl_3322	436-897	+	20.9
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3322/Bxyl_3322.seq	Bxyl_3322	118	266	436	897	14.0	31.1	114	48.2			0	Plus	1282	1e-10
+
+#Chain	mariner	118-210	Bxyl_3327	404-664	-	19.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3327/Bxyl_3327.seq	Bxyl_3327	118	210	664	404	20.4	41.9	90	39.0			0	Minus	1132	9e-08
+
+#Chain	mariner	260-341	Bxyl_3327	807-1052	+	15.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3327/Bxyl_3327.seq	Bxyl_3327	260	341	807	1052	19.3	37.5	75	33.2			0	Plus	1132	6e-06
+
+#Chain	ltr_Roo	231-556	Bxyl_3333	23-1171	-	53.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3333/Bxyl_3333.seq	Bxyl_3333	231	556	1171	23	16.5	33.5	292	116			0	Minus	1178	2e-31
+
+#Chain	gypsy	557-787	Bxyl_3347	516-1184	+	56.6
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3347/Bxyl_3347.seq	Bxyl_3347	557	787	516	1184	24.5	47.6	392	155			0	Plus	1186	2e-44
+
+#Chain	ltr_Roo	213-384	Bxyl_3381	441-950	+	35.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3381/Bxyl_3381.seq	Bxyl_3381	213	384	441	950	20.5	40.3	208	84.5			0	Plus	1004	2e-21
+
+#Chain	helitronORF	666-1112	Bxyl_3389	3-1412	+	118.9
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3389/Bxyl_3389.seq	Bxyl_3389	666	1112	3	1412	26.6	43.5	548	215			0	Plus	1414	4e-64
+
+#Chain	mariner_ant1	242-303	Bxyl_3452	763-951	+	17.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3452/Bxyl_3452.seq	Bxyl_3452	242	303	763	951	28.6	49.2	100	42.9			0	Plus	1018	4e-09
+
+#Chain	mariner	208-302	Bxyl_3492	111-416	-	24.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3492/Bxyl_3492.seq	Bxyl_3492	208	302	416	111	25.5	39.1	121	50.9			0	Minus	869	8e-12
+
+#Chain	mariner	118-209	Bxyl_3507	113-376	+	17.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3507/Bxyl_3507.seq	Bxyl_3507	118	209	113	376	19.1	34.0	89	38.6			0	Plus	652	5e-08
+
+#Chain	gypsy	681-1021	Bxyl_3508	50-1057	-	107.8
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3508/Bxyl_3508.seq	Bxyl_3508	681	1021	1057	50	31.6	53.8	844	329			0	Minus	1059	1e-105
+
+#Chain	cacta	754-784	Bxyl_3553	650-742	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3553/Bxyl_3553.seq	Bxyl_3553	754	784	650	742	64.5	64.5	85	37.1			0	Plus	1259	2e-06
+
+#Chain	DDE_1	96-205	Bxyl_3630	27-362	-	21.4
+DDE_1		535	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3630/Bxyl_3630.seq	Bxyl_3630	96	205	362	27	19.5	35.4	103	44.1			0	Minus	1089	4e-09
+
+#Chain	helitronORF	726-1025	Bxyl_3646	19-993	-	84.3
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3646/Bxyl_3646.seq	Bxyl_3646	726	1025	993	19	28.1	44.1	399	157			0	Minus	993	6e-46
+
+#Chain	mariner	74-182	Bxyl_3692	1002-1316	-	19.1
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3692/Bxyl_3692.seq	Bxyl_3692	74	182	1316	1002	17.5	36.0	81	35.5			0	Minus	1316	1e-06
+
+#Chain	mariner	120-265	Bxyl_3706	560-1012	-	22.9
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3706/Bxyl_3706.seq	Bxyl_3706	120	265	1012	560	15.7	30.7	99	42.4			0	Minus	1017	6e-09
+
+#Chain	TY1_Copia	874-1136	Bxyl_3708	3-962	+	37.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3708/Bxyl_3708.seq	Bxyl_3708	874	1136	3	962	14.1	26.9	89	38.8			0	Plus	1025	6e-07
+
+#Chain	mariner	26-182	Bxyl_3735	173-634	-	26.1
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3735/Bxyl_3735.seq	Bxyl_3735	26	182	634	173	16.6	35.0	124	52.1			0	Minus	1054	5e-12
+
+#Chain	DDE_1	158-341	Bxyl_3741	311-859	-	33.7
+DDE_1		535	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3741/Bxyl_3741.seq	Bxyl_3741	158	341	859	311	18.3	34.6	184	75.3			0	Minus	906	2e-19
+
+#Chain	DDE_1	267-341	Bxyl_3743	236-466	+	14.6
+DDE_1		535	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3743/Bxyl_3743.seq	Bxyl_3743	267	341	236	466	19.5	40.3	103	44.1			0	Plus	918	3e-09
+
+#Chain	ltr_Roo	249-491	Bxyl_3750	3-749	+	42.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3750/Bxyl_3750.seq	Bxyl_3750	249	491	3	749	17.5	36.6	252	101			0	Plus	964	7e-27
+
+#Chain	MuDR_A_B	651-852	Bxyl_3756	20-520	-	30.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3756/Bxyl_3756.seq	Bxyl_3756	651	852	520	20	15.3	27.7	108	46.1			0	Minus	774	1e-09
+
+#Chain	MuDR_A_B	738-800	Bxyl_3756	602-757	-	15.0
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3756/Bxyl_3756.seq	Bxyl_3756	738	800	757	602	23.8	36.5	82	36.1			0	Minus	774	2e-06
+
+#Chain	mariner	197-302	Bxyl_3777	170-520	-	22.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3777/Bxyl_3777.seq	Bxyl_3777	197	302	520	170	21.5	38.8	118	49.8			0	Minus	663	9e-12
+
+#Chain	mariner	197-302	Bxyl_3821	305-664	-	25.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3821/Bxyl_3821.seq	Bxyl_3821	197	302	664	305	23.6	36.2	125	52.4			0	Minus	790	2e-12
+
+#Chain	ltr_Roo	278-491	Bxyl_3842	2-661	+	37.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3842/Bxyl_3842.seq	Bxyl_3842	278	491	2	661	17.3	37.3	215	87.2			0	Plus	842	2e-22
+
+#Chain	mariner	38-107	Bxyl_3849	197-391	-	13.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_3849/Bxyl_3849.seq	Bxyl_3849	38	107	391	197	18.6	37.1	88	38.2			0	Minus	583	5e-08
+
+#Chain	mariner	118-210	Bxyl_4009	230-490	-	19.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4009/Bxyl_4009.seq	Bxyl_4009	118	210	490	230	20.4	38.7	95	40.9			0	Minus	604	7e-09
+
+#Chain	mariner	245-286	Bxyl_4028	5-139	+	11.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4028/Bxyl_4028.seq	Bxyl_4028	245	286	5	139	26.7	46.7	97	41.7			0	Plus	753	6e-09
+
+#Chain	mariner	118-175	Bxyl_4054	44-229	-	11.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4054/Bxyl_4054.seq	Bxyl_4054	118	175	229	44	19.0	39.7	70	31.3			0	Minus	511	7e-06
+
+#Chain	hAT	496-668	Bxyl_415	94-606	+	27.9
+hAT		749	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_415/Bxyl_415.seq	Bxyl_415	496	668	94	606	16.1	38.3	77	34.1			0	Plus	845	6e-06
+
+#Chain	mariner	264-290	Bxyl_4153	69-152	+	9.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4153/Bxyl_4153.seq	Bxyl_4153	264	290	69	152	35.7	57.1	74	32.8			0	Plus	1089	8e-06
+
+#Chain	mariner	264-290	Bxyl_4153	592-675	+	9.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4153/Bxyl_4153.seq	Bxyl_4153	264	290	592	675	35.7	57.1	74	32.8			0	Plus	1089	8e-06
+
+#Chain	mariner	35-88	Bxyl_4177	25-186	-	14.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4177/Bxyl_4177.seq	Bxyl_4177	35	88	186	25	25.9	40.7	89	38.6			0	Minus	530	3e-08
+
+#Chain	mariner	208-302	Bxyl_4191	366-683	-	22.4
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4191/Bxyl_4191.seq	Bxyl_4191	208	302	683	366	23.6	41.8	125	52.4			0	Minus	838	2e-12
+
+#Chain	mariner	35-107	Bxyl_4232	263-466	-	18.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4232/Bxyl_4232.seq	Bxyl_4232	35	107	466	263	24.7	38.4	105	44.7			0	Minus	812	7e-10
+
+#Chain	cacta	752-788	Bxyl_4303	3251-3361	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4303/Bxyl_4303.seq	Bxyl_4303	752	788	3251	3361	59.5	67.6	98	42.1			0	Plus	3689	2e-07
+
+#Chain	mariner	35-107	Bxyl_4310	1892-2095	+	17.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4310/Bxyl_4310.seq	Bxyl_4310	35	107	1892	2095	23.3	41.1	108	45.9			0	Plus	2252	2e-09
+
+#Chain	TY1_Copia	861-970	Bxyl_4322	26481-26804	+	29.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4322/Bxyl_4322.seq	Bxyl_4322	861	970	26481	26804	26.8	35.7	114	48.5			0	Plus	1127836	1e-06
+
+#Chain	gypsy	722-962	Bxyl_4322	33873-34628	-	69.6
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4322/Bxyl_4322.seq	Bxyl_4322	722	962	34628	33873	28.9	47.1	475	187			0	Minus	1127836	9e-49
+
+#Chain	mariner	34-342	Bxyl_4322	141511-142431	+	84.7
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4322/Bxyl_4322.seq	Bxyl_4322	34	342	141511	142431	27.4	46.1	630	246			0	Plus	1127836	2e-73
+
+#Chain	TY1_Copia	267-324	Bxyl_4322	813231-813398	-	18.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4322/Bxyl_4322.seq	Bxyl_4322	267	324	813398	813231	31.0	46.6	138	57.7			0	Minus	1127836	2e-09
+
+#Chain	ltr_Roo	214-1772	Bxyl_4322	897517-902331	-	375.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4322/Bxyl_4322.seq	Bxyl_4322	214	1772	902331	897517	24.1	41.8	2192	848			0	Minus	1127836	0.0
+
+#Chain	ltr_Roo	631-1767	Bxyl_4322	1003821-1007294	-	276.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4322/Bxyl_4322.seq	Bxyl_4322	631	1767	1007294	1003821	24.3	40.8	1698	658			0	Minus	1127836	0.0
+
+#Chain	ltr_Roo	415-494	Bxyl_4335	557449-557682	-	18.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4335/Bxyl_4335.seq	Bxyl_4335	415	494	557682	557449	23.5	39.5	110	46.7			0	Minus	1212395	7e-06
+
+#Chain	mariner	35-107	Bxyl_4335	876641-876844	-	17.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4335/Bxyl_4335.seq	Bxyl_4335	35	107	876844	876641	23.3	38.4	106	45.1			0	Minus	1212395	2e-06
+
+#Chain	mariner	269-342	Bxyl_4344	668-889	-	14.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4344/Bxyl_4344.seq	Bxyl_4344	269	342	889	668	20.0	44.0	97	41.7			0	Minus	3310	5e-08
+
+#Chain	ltr_Roo	229-513	Bxyl_4352	1064-1984	-	47.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4352/Bxyl_4352.seq	Bxyl_4352	229	513	1984	1064	16.6	34.4	132	55.2			0	Minus	2764	4e-11
+
+#Chain	helitronORF	2-1075	Bxyl_4353	344490-348305	+	279.2
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4353/Bxyl_4353.seq	Bxyl_4353	2	1075	344490	348305	26.0	40.3	1255	487			0	Plus	534463	1e-145
+
+#Chain	mariner	240-342	Bxyl_4368	650222-650536	-	23.3
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4368/Bxyl_4368.seq	Bxyl_4368	240	342	650536	650222	22.6	35.8	113	47.8			0	Minus	916714	2e-07
+
+#Chain	mariner_ant1	226-284	Bxyl_4368	782026-782205	+	15.8
+mariner_ant1		325	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4368/Bxyl_4368.seq	Bxyl_4368	226	284	782026	782205	26.7	46.7	108	45.9			0	Plus	916714	7e-07
+
+#Chain	helitronORF	743-930	Bxyl_4368	912747-913385	-	48.3
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4368/Bxyl_4368.seq	Bxyl_4368	743	930	913385	912747	25.7	39.4	227	91.7			0	Minus	916714	6e-20
+
+#Chain	gypsy	403-1463	Bxyl_4371	1929935-1933540	-	258.8
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4371/Bxyl_4371.seq	Bxyl_4371	560	1463	1932688	1929935	25.7	43.2	1524	591			0	Minus	3162861	1e-177
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4371/Bxyl_4371.seq	Bxyl_4371	403	543	1933540	1933100	18.8	37.0	120	50.6			0	Minus	3162861	8e-07
+
+#Chain	gypsy	348-1415	Bxyl_4371	2911170-2914262	-	240.3
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4371/Bxyl_4371.seq	Bxyl_4371	348	1415	2914262	2911170	22.5	38.9	1441	559			0	Minus	3162861	1e-166
+
+#Chain	mariner	10-167	Bxyl_4371	2983240-2983710	-	38.7
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4371/Bxyl_4371.seq	Bxyl_4371	10	167	2983710	2983240	24.5	44.8	233	94.1			0	Minus	3162861	9e-22
+
+#Chain	TY1_Copia	864-913	Bxyl_4372	268829-268978	-	21.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4372/Bxyl_4372.seq	Bxyl_4372	864	913	268978	268829	42.0	56.0	122	51.6			0	Minus	282919	4e-08
+
+#Chain	gypsy	1327-1390	Bxyl_4372	269817-270005	-	16.0
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4372/Bxyl_4372.seq	Bxyl_4372	1327	1390	270005	269817	25.0	40.6	153	63.4			0	Minus	282919	9e-12
+
+#Chain	gypsy	299-428	Bxyl_4373	285899-286300	+	19.2
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4373/Bxyl_4373.seq	Bxyl_4373	299	428	285899	286300	14.8	25.9	118	49.9			0	Plus	455600	2e-07
+
+#Chain	gypsy	299-407	Bxyl_4373	286430-286762	+	15.7
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4373/Bxyl_4373.seq	Bxyl_4373	299	407	286430	286762	14.4	28.8	105	44.9			0	Plus	455600	6e-06
+
+#Chain	gypsy	299-415	Bxyl_4373	287540-287893	+	25.2
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4373/Bxyl_4373.seq	Bxyl_4373	299	415	287540	287893	21.5	36.4	120	50.6			0	Plus	455600	1e-07
+
+#Chain	TY1_Copia	524-598	Bxyl_4431	104801-105019	+	14.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4431/Bxyl_4431.seq	Bxyl_4431	524	598	104801	105019	18.7	41.3	98	42.3			0	Plus	109113	1e-05
+
+#Chain	LINE	729-868	Bxyl_4454	78257-78628	-	26.5
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4454/Bxyl_4454.seq	Bxyl_4454	729	868	78628	78257	18.9	31.5	135	56.5			0	Minus	200098	6e-10
+
+#Chain	mariner	35-107	Bxyl_4463	81665-81868	+	17.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4463/Bxyl_4463.seq	Bxyl_4463	35	107	81665	81868	23.3	38.4	102	43.6			0	Plus	687266	3e-06
+
+#Chain	mariner	241-345	Bxyl_4463	142084-142401	-	23.5
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4463/Bxyl_4463.seq	Bxyl_4463	241	345	142401	142084	22.4	40.2	136	56.7			0	Minus	687266	2e-10
+
+#Chain	cacta	753-780	Bxyl_4463	214122-214205	-	27.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4463/Bxyl_4463.seq	Bxyl_4463	753	780	214205	214122	96.4	96.4	129	54.1			0	Minus	687266	1e-08
+
+#Chain	cacta	753-779	Bxyl_4463	216474-216554	-	27.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4463/Bxyl_4463.seq	Bxyl_4463	753	779	216554	216474	100.0	100.0	132	55.2			0	Minus	687266	6e-09
+
+#Chain	hAT	134-178	Bxyl_4486	1275-1403	-	15.0
+hAT		749	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4486/Bxyl_4486.seq	Bxyl_4486	134	178	1403	1275	33.3	40.0	86	37.6			0	Minus	2485	2e-06
+
+#Chain	mariner	26-182	Bxyl_4491	31074-31535	+	25.1
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4491/Bxyl_4491.seq	Bxyl_4491	26	182	31074	31535	16.0	36.4	147	60.9			0	Plus	413273	6e-12
+
+#Chain	mariner	269-345	Bxyl_4491	333087-333320	-	21.4
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4491/Bxyl_4491.seq	Bxyl_4491	269	345	333320	333087	27.8	44.3	98	42.0			0	Minus	413273	6e-06
+
+#Chain	mariner	9-152	Bxyl_4514	93905-94324	-	27.4
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4514/Bxyl_4514.seq	Bxyl_4514	9	152	94324	93905	19.0	32.7	115	48.6			0	Minus	764331	9e-08
+
+#Chain	mariner	176-325	Bxyl_4514	661718-662143	-	29.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4514/Bxyl_4514.seq	Bxyl_4514	176	325	662143	661718	19.7	37.5	113	47.8			0	Minus	764331	2e-07
+
+#Chain	gypsy	560-1394	Bxyl_4514	720405-722768	-	213.8
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4514/Bxyl_4514.seq	Bxyl_4514	560	1394	722768	720405	25.6	44.6	1569	608			0	Minus	764331	0.0
+
+#Chain	cacta	736-780	Bxyl_4529	169259-169456	+	21.1
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4529/Bxyl_4529.seq	Bxyl_4529	736	780	169259	169456	47.0	51.5	115	48.7			0	Plus	2253960	2e-06
+
+#Chain	ltr_Roo	406-510	Bxyl_4529	643335-643649	+	26.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4529/Bxyl_4529.seq	Bxyl_4529	406	510	643335	643649	25.0	35.2	127	53.3			0	Plus	2253960	1e-07
+
+#Chain	ltr_Roo	231-494	Bxyl_4529	1357157-1358014	+	54.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4529/Bxyl_4529.seq	Bxyl_4529	231	494	1357157	1358014	20.7	41.5	357	141			0	Plus	2253960	2e-34
+
+#Chain	ltr_Roo	209-1723	Bxyl_4529	1365895-1370342	+	268.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4529/Bxyl_4529.seq	Bxyl_4529	209	713	1365895	1367529	17.1	30.4	310	123			0	Plus	2253960	7e-29
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4529/Bxyl_4529.seq	Bxyl_4529	727	1187	1367675	1369072	27.4	43.7	874	341			0	Plus	2253960	1e-94
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4529/Bxyl_4529.seq	Bxyl_4529	1182	1239	1369056	1369235	26.7	40.0	144	59.8			0	Plus	2253960	2e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4529/Bxyl_4529.seq	Bxyl_4529	1573	1723	1369842	1370342	26.5	43.5	167	68.7			0	Plus	2253960	3e-12
+
+#Chain	mariner	26-186	Bxyl_4529	1533036-1533509	-	26.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4529/Bxyl_4529.seq	Bxyl_4529	26	186	1533509	1533036	16.3	36.7	153	63.2			0	Minus	2253960	6e-12
+
+#Chain	mariner	35-107	Bxyl_4529	1715318-1715521	+	17.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4529/Bxyl_4529.seq	Bxyl_4529	35	107	1715318	1715521	23.3	41.1	108	45.9			0	Plus	2253960	2e-06
+
+#Chain	mariner	35-107	Bxyl_4529	1716009-1716212	-	17.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4529/Bxyl_4529.seq	Bxyl_4529	35	107	1716212	1716009	23.3	41.1	108	45.9			0	Minus	2253960	2e-06
+
+#Chain	mariner	26-182	Bxyl_4538	294100-294561	+	26.1
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4538/Bxyl_4538.seq	Bxyl_4538	26	182	294100	294561	16.6	35.6	120	50.5			0	Plus	1353723	4e-08
+
+#Chain	mariner	149-342	Bxyl_4538	902204-902785	+	35.9
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4538/Bxyl_4538.seq	Bxyl_4538	149	342	902204	902785	18.5	34.5	153	63.2			0	Plus	1353723	4e-12
+
+#Chain	mariner	201-286	Bxyl_4566	527526-527756	-	20.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4566/Bxyl_4566.seq	Bxyl_4566	201	286	527756	527526	23.3	43.0	102	43.6			0	Minus	639311	3e-06
+
+#Chain	mariner	120-267	Bxyl_4588	847785-848231	-	20.9
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4588/Bxyl_4588.seq	Bxyl_4588	120	267	848231	847785	14.1	27.0	104	44.4			0	Minus	2194488	6e-06
+
+#Chain	mariner	54-137	Bxyl_4588	1034460-1034702	+	18.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4588/Bxyl_4588.seq	Bxyl_4588	54	137	1034460	1034702	22.1	41.9	111	47.1			0	Plus	2194488	8e-07
+
+#Chain	ltr_Roo	243-1729	Bxyl_4588	1999191-2003849	-	345.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4588/Bxyl_4588.seq	Bxyl_4588	243	1729	2003849	1999191	23.2	40.3	1958	758			0	Minus	2194488	0.0
+
+#Chain	mariner	35-107	Bxyl_4588	2069981-2070184	+	17.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4588/Bxyl_4588.seq	Bxyl_4588	35	107	2069981	2070184	23.3	43.8	103	44.0			0	Plus	2194488	7e-06
+
+#Chain	ltr_Roo	200-583	Bxyl_4588	2126465-2127784	-	69.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4588/Bxyl_4588.seq	Bxyl_4588	200	583	2127784	2126465	18.0	33.8	305	121			0	Minus	2194488	3e-28
+
+#Chain	ISC1316	62-123	Bxyl_4601	1004-1180	-	10.7
+ISC1316		393	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4601/Bxyl_4601.seq	Bxyl_4601	62	123	1180	1004	17.2	35.9	80	35.2			0	Minus	3629	8e-06
+
+#Chain	mariner	35-108	Bxyl_4607	624-830	+	16.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4607/Bxyl_4607.seq	Bxyl_4607	35	108	624	830	21.6	39.2	86	37.4			0	Plus	3420	1e-06
+
+#Chain	mariner	2-146	Bxyl_4615	555504-555914	-	27.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	2	146	555914	555504	19.2	36.3	103	44.0			0	Minus	2328556	8e-06
+
+#Chain	DDE_1	8-366	Bxyl_4615	579853-581019	-	58.2
+DDE_1		535	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	8	366	581019	579853	16.2	31.8	272	109			0	Minus	2328556	7e-26
+
+#Chain	gypsy	294-402	Bxyl_4615	778458-778784	+	19.8
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	294	402	778458	778784	18.2	32.7	116	49.1			0	Plus	2328556	2e-06
+
+#Chain	mariner	35-130	Bxyl_4615	880801-881145	+	20.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	35	130	880801	881145	20.8	30.8	110	46.7			0	Plus	2328556	1e-06
+
+#Chain	gypsy	1214-1449	Bxyl_4615	1066704-1067396	-	41.8
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	1214	1449	1067396	1066704	17.7	32.7	207	84.2			0	Minus	2328556	4e-17
+
+#Chain	ltr_Roo	1045-1774	Bxyl_4615	1132471-1134673	-	176.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	1131	1774	1134369	1132471	24.3	39.7	892	347			0	Minus	2328556	9e-97
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	1045	1112	1134673	1134476	29.4	41.2	113	47.9			0	Minus	2328556	6e-06
+
+#Chain	helitronORF	356-391	Bxyl_4615	1487938-1488030	+	15.0
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	356	391	1487938	1488030	41.7	58.3	121	50.8			0	Plus	2328556	4e-07
+
+#Chain	mariner	2-107	Bxyl_4615	1517297-1517626	+	20.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	2	107	1517297	1517626	19.1	35.7	119	50.1			0	Plus	2328556	9e-08
+
+#Chain	mariner	2-107	Bxyl_4615	1518183-1518512	-	20.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	2	107	1518512	1518183	19.1	35.7	119	50.1			0	Minus	2328556	9e-08
+
+#Chain	hAT	98-193	Bxyl_4615	1519028-1519303	+	18.0
+hAT		749	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	98	193	1519028	1519303	18.8	35.4	117	49.5			0	Plus	2328556	5e-07
+
+#Chain	MuDR_A_B	644-822	Bxyl_4615	1687961-1688506	+	28.3
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	644	822	1687961	1688506	15.8	35.0	127	53.4			0	Plus	2328556	5e-08
+
+#Chain	gypsy	1185-1455	Bxyl_4615	1974862-1975668	+	42.3
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4615/Bxyl_4615.seq	Bxyl_4615	1185	1455	1974862	1975668	15.6	33.3	204	83.0			0	Plus	2328556	9e-17
+
+#Chain	mariner_ant1	238-296	Bxyl_4618	192465-192635	+	15.8
+mariner_ant1		325	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4618/Bxyl_4618.seq	Bxyl_4618	238	296	192465	192635	26.7	53.3	103	44.0			0	Plus	231011	7e-07
+
+#Chain	mariner	241-324	Bxyl_4649	17514-17768	-	20.5
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4649/Bxyl_4649.seq	Bxyl_4649	241	324	17768	17514	24.4	43.0	108	45.9			0	Minus	479468	4e-07
+
+#Chain	TY1_Copia	210-589	Bxyl_4649	211110-212210	-	52.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4649/Bxyl_4649.seq	Bxyl_4649	210	589	212210	211110	13.7	31.2	140	58.5			0	Minus	479468	6e-10
+
+#Chain	cacta	753-790	Bxyl_4649	253462-253575	-	25.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4649/Bxyl_4649.seq	Bxyl_4649	753	790	253575	253462	65.8	65.8	108	46.0			0	Minus	479468	2e-06
+
+#Chain	mariner	118-257	Bxyl_4652	4699-5133	+	20.7
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4652/Bxyl_4652.seq	Bxyl_4652	118	257	4699	5133	14.8	29.7	97	41.7			0	Plus	6920	1e-07
+
+#Chain	mariner	240-286	Bxyl_4670	38339-38488	+	12.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4670/Bxyl_4670.seq	Bxyl_4670	240	286	38339	38488	26.0	44.0	100	42.8			0	Plus	166001	1e-06
+
+#Chain	ltr_Roo	1478-1587	Bxyl_4704	204806-205105	+	33.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4704/Bxyl_4704.seq	Bxyl_4704	1478	1587	204806	205105	30.6	46.8	258	103			0	Plus	2266839	8e-23
+
+#Chain	ISC1316	81-295	Bxyl_4704	270076-270684	+	32.7
+ISC1316		393	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4704/Bxyl_4704.seq	Bxyl_4704	81	295	270076	270684	15.2	30.0	110	46.7			0	Plus	2266839	1e-06
+
+#Chain	ltr_Roo	1565-1771	Bxyl_4704	500234-500896	+	48.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4704/Bxyl_4704.seq	Bxyl_4704	1565	1771	500234	500896	23.6	40.0	316	126			0	Plus	2266839	1e-29
+
+#Chain	ltr_Roo	235-1762	Bxyl_4704	1611025-1615830	+	333.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4704/Bxyl_4704.seq	Bxyl_4704	235	1762	1611025	1615830	21.8	40.0	2055	795			0	Plus	2266839	0.0
+
+#Chain	TY1_Copia	168-488	Bxyl_4720	35540-36490	+	47.8
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4720/Bxyl_4720.seq	Bxyl_4720	168	488	35540	36490	14.9	32.2	152	63.1			0	Plus	660500	3e-11
+
+#Chain	MuDR_A_B	653-840	Bxyl_4720	36750-37271	+	33.7
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4720/Bxyl_4720.seq	Bxyl_4720	653	840	36750	37271	17.9	34.4	114	48.4			0	Plus	660500	5e-07
+
+#Chain	MuDR_A_B	652-784	Bxyl_4720	38076-38450	+	23.9
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4720/Bxyl_4720.seq	Bxyl_4720	652	784	38076	38450	18.0	33.8	103	44.2			0	Plus	660500	9e-06
+
+#Chain	mariner_ant1	35-297	Bxyl_4720	242186-242968	+	53.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4720/Bxyl_4720.seq	Bxyl_4720	35	297	242186	242968	20.4	35.0	215	87.2			0	Plus	660500	2e-20
+
+#Chain	cacta	739-781	Bxyl_4720	461712-461834	+	28.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4720/Bxyl_4720.seq	Bxyl_4720	739	781	461712	461834	65.1	74.4	122	51.4			0	Plus	660500	8e-08
+
+#Chain	cacta	753-780	Bxyl_4720	462486-462569	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4720/Bxyl_4720.seq	Bxyl_4720	753	780	462486	462569	85.7	85.7	108	46.0			0	Plus	660500	3e-06
+
+#Chain	ltr_Roo	232-1362	Bxyl_4720	536800-537767	+	85.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4720/Bxyl_4720.seq	Bxyl_4720	232	322	536800	537063	31.9	50.5	171	70.2			0	Plus	660500	3e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4720/Bxyl_4720.seq	Bxyl_4720	1125	1362	537045	537767	23.9	42.2	256	102			0	Plus	660500	4e-23
+
+#Chain	mariner_ant1	214-299	Bxyl_4726	392894-393169	+	18.7
+mariner_ant1		325	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4726/Bxyl_4726.seq	Bxyl_4726	214	299	392894	393169	21.7	43.5	109	46.3			0	Plus	926749	5e-07
+
+#Chain	ltr_Roo	267-680	Bxyl_4726	538781-540130	-	69.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4726/Bxyl_4726.seq	Bxyl_4726	267	680	540130	538781	16.7	30.9	171	70.2			0	Minus	926749	5e-13
+
+#Chain	ltr_Roo	231-488	Bxyl_4726	540476-541270	-	50.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4726/Bxyl_4726.seq	Bxyl_4726	231	488	541270	540476	19.6	34.9	190	77.5			0	Minus	926749	3e-15
+
+#Chain	ltr_Roo	1417-1737	Bxyl_4735	840-1808	-	53.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4735/Bxyl_4735.seq	Bxyl_4735	1417	1737	1808	840	16.8	33.0	136	56.7			0	Minus	4757	2e-11
+
+#Chain	mariner	208-337	Bxyl_4740	2252-2665	+	29.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4740/Bxyl_4740.seq	Bxyl_4740	208	337	2252	2665	22.5	43.0	141	58.6			0	Plus	3850	3e-13
+
+#Chain	gypsy	747-874	Bxyl_4757	187902-188282	+	31.0
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4757/Bxyl_4757.seq	Bxyl_4757	747	874	187902	188282	24.2	49.2	207	84.2			0	Plus	1157927	2e-17
+
+#Chain	DDE_1	290-353	Bxyl_4757	446907-447098	-	15.0
+DDE_1		535	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4757/Bxyl_4757.seq	Bxyl_4757	290	353	447098	446907	23.4	37.5	108	46.0			0	Minus	1157927	2e-06
+
+#Chain	TY1_Copia	214-459	Bxyl_4757	915885-916631	+	28.5
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4757/Bxyl_4757.seq	Bxyl_4757	214	459	915885	916631	11.6	29.7	118	50.0			0	Plus	1157927	5e-07
+
+#Chain	LINE	429-814	Bxyl_4759	2025-3143	-	79.5
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4759/Bxyl_4759.seq	Bxyl_4759	429	814	3143	2025	20.6	41.5	558	219			0	Minus	408545	2e-59
+
+#Chain	LINE	11-268	Bxyl_4759	4260-5024	-	36.1
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4759/Bxyl_4759.seq	Bxyl_4759	11	268	5024	4260	14.0	33.6	160	66.1			0	Minus	408545	2e-12
+
+#Chain	ltr_Roo	1495-1582	Bxyl_4802	114060-114272	+	22.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4802/Bxyl_4802.seq	Bxyl_4802	1495	1582	114060	114272	25.0	36.4	142	59.0			0	Plus	472225	5e-10
+
+#Chain	gypsy	729-1007	Bxyl_4802	119531-119952	-	53.0
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4802/Bxyl_4802.seq	Bxyl_4802	948	1007	119704	119531	33.3	55.0	130	54.5			0	Minus	472225	8e-09
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4802/Bxyl_4802.seq	Bxyl_4802	729	825	119952	119665	34.0	59.8	226	91.5			0	Minus	472225	5e-20
+
+#Chain	ltr_Roo	199-263	Bxyl_4802	122517-122726	+	16.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4802/Bxyl_4802.seq	Bxyl_4802	199	263	122517	122726	25.7	40.0	119	50.2			0	Plus	472225	3e-07
+
+#Chain	ltr_Roo	168-376	Bxyl_4802	133822-134461	+	46.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4802/Bxyl_4802.seq	Bxyl_4802	168	267	133822	134124	26.0	38.5	134	56.0			0	Plus	472225	5e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4802/Bxyl_4802.seq	Bxyl_4802	268	376	134129	134461	19.0	37.9	139	57.9			0	Plus	472225	1e-09
+
+#Chain	MuDR_A_B	710-883	Bxyl_4807	1580266-1580754	-	33.6
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4807/Bxyl_4807.seq	Bxyl_4807	710	883	1580754	1580266	19.3	33.0	119	50.3			0	Minus	3612001	7e-07
+
+#Chain	gypsy	945-1421	Bxyl_4807	2963038-2964177	-	58.3
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4807/Bxyl_4807.seq	Bxyl_4807	1284	1421	2963478	2963038	20.3	32.9	213	86.5			0	Minus	3612001	1e-17
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4807/Bxyl_4807.seq	Bxyl_4807	945	1065	2964177	2963797	25.0	42.2	222	89.9			0	Minus	3612001	1e-18
+
+#Chain	hAT	541-706	Bxyl_4807	3211670-3212158	-	27.1
+hAT		749	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4807/Bxyl_4807.seq	Bxyl_4807	541	706	3212158	3211670	16.3	35.5	177	72.6			0	Minus	3612001	7e-14
+
+#Chain	helitronORF	2-1321	Bxyl_4807	3292874-3296962	-	528.0
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4807/Bxyl_4807.seq	Bxyl_4807	2	1321	3296962	3292874	40.0	59.0	3447	1332			0	Minus	3612001	0.0
+
+#Chain	helitronORF	2-1321	Bxyl_4807	3303455-3307540	-	525.4
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4807/Bxyl_4807.seq	Bxyl_4807	2	1321	3307540	3303455	39.8	59.1	3404	1315			0	Minus	3612001	0.0
+
+#Chain	gypsy	292-401	Bxyl_4807	3588470-3588772	-	21.0
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4807/Bxyl_4807.seq	Bxyl_4807	292	401	3588772	3588470	19.1	30.9	113	47.9			0	Minus	3612001	6e-06
+
+#Chain	ltr_Roo	418-515	Bxyl_4817	154856-155143	-	22.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4817/Bxyl_4817.seq	Bxyl_4817	418	515	155143	154856	22.4	39.8	132	55.2			0	Minus	172363	3e-09
+
+#Chain	gypsy	794-1047	Bxyl_4851	317773-318525	+	79.0
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4851/Bxyl_4851.seq	Bxyl_4851	794	1047	317773	318525	31.1	51.1	586	230			0	Plus	496854	3e-62
+
+#Chain	ltr_Roo	1566-1620	Bxyl_4853	77321-77485	-	15.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4853/Bxyl_4853.seq	Bxyl_4853	1566	1620	77485	77321	27.3	54.5	147	61.0			0	Minus	171735	5e-11
+
+#Chain	gypsy	1218-1421	Bxyl_4894	13724-14326	+	37.1
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4894/Bxyl_4894.seq	Bxyl_4894	1218	1421	13724	14326	18.2	37.4	155	64.1			0	Plus	15151	3e-13
+
+#Chain	ltr_Roo	291-494	Bxyl_4912	43714-44331	+	31.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4912/Bxyl_4912.seq	Bxyl_4912	291	494	43714	44331	15.6	35.3	146	60.6			0	Plus	183601	7e-11
+
+#Chain	gypsy	1314-1463	Bxyl_4916	4288-4863	+	29.6
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4916/Bxyl_4916.seq	Bxyl_4916	1314	1463	4288	4863	19.7	31.6	158	65.3			0	Plus	182900	1e-12
+
+#Chain	mariner	269-342	Bxyl_4923	83-283	+	15.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4923/Bxyl_4923.seq	Bxyl_4923	269	342	83	283	21.3	50.7	90	39.0			0	Plus	2812	3e-07
+
+#Chain	helitronORF	977-1303	Bxyl_4928	1594-2594	-	81.0
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4928/Bxyl_4928.seq	Bxyl_4928	1046	1303	2331	1594	24.8	40.5	159	65.5			0	Minus	10803	7e-14
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4928/Bxyl_4928.seq	Bxyl_4928	977	1023	2594	2454	36.2	51.1	110	46.6			0	Minus	10803	4e-08
+
+#Chain	helitronORF	416-580	Bxyl_4928	4696-5226	-	40.6
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4928/Bxyl_4928.seq	Bxyl_4928	416	580	5226	4696	24.6	43.7	148	61.2			0	Minus	10803	1e-12
+
+#Chain	mariner	266-342	Bxyl_4931	340-570	+	16.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4931/Bxyl_4931.seq	Bxyl_4931	266	342	340	570	21.8	42.3	104	44.4			0	Plus	6277	1e-08
+
+#Chain	gypsy	1218-1421	Bxyl_4958	4-597	+	37.3
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4958/Bxyl_4958.seq	Bxyl_4958	1218	1421	4	597	18.3	36.6	154	63.7			0	Plus	2050	3e-14
+
+#Chain	mariner	118-169	Bxyl_4976	460258-460422	-	10.4
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4976/Bxyl_4976.seq	Bxyl_4976	118	169	460422	460258	20.0	38.2	99	42.4			0	Minus	694957	7e-06
+
+#Chain	mariner	18-159	Bxyl_4979	45653-46081	-	25.1
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4979/Bxyl_4979.seq	Bxyl_4979	18	159	46081	45653	17.7	29.9	124	52.1			0	Minus	184573	2e-09
+
+#Chain	cacta	751-780	Bxyl_4979	176303-176392	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4979/Bxyl_4979.seq	Bxyl_4979	751	780	176303	176392	83.3	83.3	116	49.1			0	Plus	184573	1e-07
+
+#Chain	cacta	754-786	Bxyl_4979	176405-176503	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4979/Bxyl_4979.seq	Bxyl_4979	754	786	176405	176503	75.8	75.8	113	47.9			0	Plus	184573	2e-07
+
+#Chain	ltr_Roo	1289-1648	Bxyl_4991	6139-7193	+	90.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4991/Bxyl_4991.seq	Bxyl_4991	1289	1475	6139	6711	21.5	42.1	218	88.3			0	Plus	7264	1e-20
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_4991/Bxyl_4991.seq	Bxyl_4991	1477	1648	6693	7193	29.3	50.0	315	125			0	Plus	7264	5e-32
+
+#Chain	LINE	570-917	Bxyl_5010	3-1300	+	61.7
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5010/Bxyl_5010.seq	Bxyl_5010	570	741	3	503	18.1	36.2	172	70.7			0	Plus	5739	7e-16
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5010/Bxyl_5010.seq	Bxyl_5010	771	917	896	1300	20.8	28.6	97	41.8			0	Plus	5739	5e-07
+
+#Chain	TY1_Copia	100-323	Bxyl_5015	1539-2291	-	32.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5015/Bxyl_5015.seq	Bxyl_5015	100	323	2291	1539	14.3	29.1	86	37.7			0	Minus	3698	7e-06
+
+#Chain	gypsy	255-416	Bxyl_5028	180964-181464	+	26.2
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5028/Bxyl_5028.seq	Bxyl_5028	255	416	180964	181464	16.2	27.2	110	46.8			0	Plus	1192643	4e-06
+
+#Chain	mariner	52-345	Bxyl_5028	728971-729819	-	59.4
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5028/Bxyl_5028.seq	Bxyl_5028	52	345	729819	728971	20.2	35.5	269	107			0	Minus	1192643	2e-26
+
+#Chain	ltr_Roo	213-384	Bxyl_5028	734209-734718	+	35.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5028/Bxyl_5028.seq	Bxyl_5028	213	384	734209	734718	20.5	39.8	206	83.7			0	Plus	1192643	5e-17
+
+#Chain	gypsy	904-1442	Bxyl_5028	738943-740611	+	110.0
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5028/Bxyl_5028.seq	Bxyl_5028	904	1156	738943	739770	23.2	37.3	334	133			0	Plus	1192643	3e-32
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5028/Bxyl_5028.seq	Bxyl_5028	1161	1442	739616	740611	18.2	32.4	511	201			0	Plus	1192643	5e-53
+
+#Chain	TY1_Copia	200-351	Bxyl_5028	874579-875019	+	29.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5028/Bxyl_5028.seq	Bxyl_5028	200	351	874579	875019	19.1	35.5	116	49.2			0	Plus	1192643	9e-07
+
+#Chain	mariner	239-286	Bxyl_5028	1070302-1070454	+	12.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5028/Bxyl_5028.seq	Bxyl_5028	239	286	1070302	1070454	25.5	45.1	100	42.8			0	Plus	1192643	9e-06
+
+#Chain	mariner	208-302	Bxyl_5028	1092346-1092654	+	22.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5028/Bxyl_5028.seq	Bxyl_5028	208	302	1092346	1092654	23.4	43.0	112	47.4			0	Plus	1192643	3e-07
+
+#Chain	mariner	240-342	Bxyl_5045	1103-1417	+	23.3
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5045/Bxyl_5045.seq	Bxyl_5045	240	342	1103	1417	22.6	36.8	105	44.7			0	Plus	918837	2e-06
+
+#Chain	ltr_Roo	220-603	Bxyl_5045	305977-307422	-	57.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5045/Bxyl_5045.seq	Bxyl_5045	220	603	307422	305977	14.9	30.1	294	117			0	Minus	918837	2e-27
+
+#Chain	LINE	280-845	Bxyl_5052	2051-3622	+	89.4
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5052/Bxyl_5052.seq	Bxyl_5052	280	845	2051	3622	15.8	32.9	404	160			0	Plus	5382	3e-43
+
+#Chain	mariner_ant1	203-279	Bxyl_5063	203030-203260	-	20.5
+mariner_ant1		325	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5063/Bxyl_5063.seq	Bxyl_5063	203	279	203260	203030	26.6	51.9	110	46.7			0	Minus	1509961	6e-07
+
+#Chain	mariner	10-342	Bxyl_5063	284496-285404	-	54.9
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5063/Bxyl_5063.seq	Bxyl_5063	215	342	284879	284496	30.6	52.2	297	118			0	Minus	1509961	7e-30
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5063/Bxyl_5063.seq	Bxyl_5063	10	82	285404	285183	21.6	41.9	131	54.8			0	Minus	1509961	2e-09
+
+#Chain	ltr_Roo	211-663	Bxyl_5063	672255-673760	+	77.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5063/Bxyl_5063.seq	Bxyl_5063	211	663	672255	673760	17.0	32.4	326	129			0	Plus	1509961	7e-31
+
+#Chain	MuDR_A_B	656-757	Bxyl_5072	68783-69103	+	19.1
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5072/Bxyl_5072.seq	Bxyl_5072	656	757	68783	69103	18.7	32.7	101	43.4			0	Plus	251999	6e-06
+
+#Chain	ltr_Roo	231-510	Bxyl_5072	141026-141958	+	51.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5072/Bxyl_5072.seq	Bxyl_5072	231	510	141026	141958	18.4	32.9	226	91.4			0	Plus	251999	5e-20
+
+#Chain	ltr_Roo	232-1166	Bxyl_5077	2-2974	-	202.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5077/Bxyl_5077.seq	Bxyl_5077	232	1166	2974	2	21.6	39.0	1088	423			0	Minus	3043	1e-129
+
+#Chain	cacta	753-823	Bxyl_5078	1347447-1347689	+	28.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5078/Bxyl_5078.seq	Bxyl_5078	753	823	1347447	1347689	39.5	56.8	108	46.0			0	Plus	1905649	1e-05
+
+#Chain	mariner	58-229	Bxyl_5078	1593500-1594012	-	34.9
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5078/Bxyl_5078.seq	Bxyl_5078	58	229	1594012	1593500	20.3	32.2	117	49.4			0	Minus	1905649	1e-07
+
+#Chain	mariner	44-342	Bxyl_5078	1783990-1784838	+	57.4
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5078/Bxyl_5078.seq	Bxyl_5078	44	342	1783990	1784838	19.2	35.2	218	88.3			0	Plus	1905649	4e-20
+
+#Chain	gypsy	296-410	Bxyl_5103	1364-1723	-	20.0
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5103/Bxyl_5103.seq	Bxyl_5103	296	410	1723	1364	17.4	30.6	116	49.1			0	Minus	2443	1e-09
+
+#Chain	helitronORF	419-1295	Bxyl_5105	2564-5516	-	133.7
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5105/Bxyl_5105.seq	Bxyl_5105	1046	1295	3337	2564	22.4	38.4	141	58.5			0	Minus	16841	1e-11
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5105/Bxyl_5105.seq	Bxyl_5105	897	1019	3912	3511	24.8	44.5	107	45.4			0	Minus	16841	1e-07
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5105/Bxyl_5105.seq	Bxyl_5105	419	623	5516	4881	23.0	39.8	172	70.5			0	Minus	16841	3e-15
+
+#Chain	ltr_Roo	376-1772	Bxyl_5106	331993-336378	-	324.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5106/Bxyl_5106.seq	Bxyl_5106	376	1772	336378	331993	23.2	39.1	1867	723			0	Minus	336382	0.0
+
+#Chain	cacta	753-806	Bxyl_5108	1077293-1077463	+	24.6
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5108/Bxyl_5108.seq	Bxyl_5108	753	806	1077293	1077463	45.6	50.9	107	45.6			0	Plus	1176518	8e-06
+
+#Chain	gypsy	974-1421	Bxyl_5109	346737-348053	-	90.5
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5109/Bxyl_5109.seq	Bxyl_5109	974	1421	348053	346737	20.2	35.0	565	222			0	Minus	1318157	3e-59
+
+#Chain	gypsy	318-1341	Bxyl_5109	348384-351176	-	225.3
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5109/Bxyl_5109.seq	Bxyl_5109	318	1341	351176	348384	22.0	37.7	1363	529			0	Minus	1318157	1e-157
+
+#Chain	cacta	721-826	Bxyl_5109	839839-840219	-	34.2
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5109/Bxyl_5109.seq	Bxyl_5109	721	826	840219	839839	32.3	44.1	119	50.2			0	Minus	1318157	4e-07
+
+#Chain	hAT	112-194	Bxyl_5109	1178498-1178740	+	20.8
+hAT		749	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5109/Bxyl_5109.seq	Bxyl_5109	112	194	1178498	1178740	25.0	41.7	132	55.3			0	Plus	1318157	5e-09
+
+#Chain	LINE	534-718	Bxyl_5110	225905-226414	+	31.8
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5110/Bxyl_5110.seq	Bxyl_5110	534	718	225905	226414	17.2	38.2	223	90.4			0	Plus	605103	1e-19
+
+#Chain	mariner	218-291	Bxyl_5110	388267-388515	+	17.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5110/Bxyl_5110.seq	Bxyl_5110	218	291	388267	388515	24.1	41.4	112	47.4			0	Plus	605103	2e-07
+
+#Chain	mariner	118-231	Bxyl_5112	407761-408129	-	19.5
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5112/Bxyl_5112.seq	Bxyl_5112	118	231	408129	407761	17.1	34.1	103	44.0			0	Minus	1188159	4e-06
+
+#Chain	mariner	242-288	Bxyl_5112	936568-936708	+	11.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5112/Bxyl_5112.seq	Bxyl_5112	242	288	936568	936708	23.4	48.9	101	43.2			0	Plus	1188159	7e-06
+
+#Chain	ltr_Roo	451-1757	Bxyl_5114	314046-318272	-	311.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5114/Bxyl_5114.seq	Bxyl_5114	451	1757	318272	314046	23.8	40.1	1862	721			0	Minus	531196	0.0
+
+#Chain	LINE	470-520	Bxyl_5114	330314-330460	-	13.0
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5114/Bxyl_5114.seq	Bxyl_5114	470	520	330460	330314	25.5	47.1	120	50.7			0	Minus	531196	1e-07
+
+#Chain	ltr_Roo	770-1689	Bxyl_5115	183243-186110	-	226.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5115/Bxyl_5115.seq	Bxyl_5115	770	1689	186110	183243	24.6	41.4	1515	587			0	Minus	186651	1e-176
+
+#Chain	ltr_Roo	280-1754	Bxyl_5118	2-4660	+	320.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5118/Bxyl_5118.seq	Bxyl_5118	280	1754	2	4660	21.7	40.1	1862	721			0	Plus	6573	0.0
+
+#Chain	LINE	256-724	Bxyl_5119	2287-3714	-	78.8
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5119/Bxyl_5119.seq	Bxyl_5119	256	724	3714	2287	16.8	31.5	322	128			0	Minus	5809	2e-33
+
+#Chain	ltr_Roo	131-1765	Bxyl_5127	865-4545	+	258.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5127/Bxyl_5127.seq	Bxyl_5127	131	696	865	2739	19.1	33.2	421	166			0	Plus	141434	3e-43
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5127/Bxyl_5127.seq	Bxyl_5127	1137	1765	2728	4545	23.9	42.0	975	379			0	Plus	141434	1e-109
+
+#Chain	mariner	14-182	Bxyl_5134	119932-120429	+	27.2
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5134/Bxyl_5134.seq	Bxyl_5134	14	182	119932	120429	16.1	33.3	135	56.3			0	Plus	203833	9e-11
+
+#Chain	LINE	678-907	Bxyl_5134	133456-134052	-	35.6
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5134/Bxyl_5134.seq	Bxyl_5134	678	907	134052	133456	15.5	29.3	183	75.0			0	Minus	203833	2e-15
+
+#Chain	mariner	162-345	Bxyl_5135	695-1222	+	46.7
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5135/Bxyl_5135.seq	Bxyl_5135	162	345	695	1222	25.4	39.2	286	114			0	Plus	4245	3e-31
+
+#Chain	helitronORF	10-943	Bxyl_5141	206040-209453	+	238.9
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5141/Bxyl_5141.seq	Bxyl_5141	10	249	206040	206885	24.5	33.8	190	77.4			0	Plus	365061	6e-16
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5141/Bxyl_5141.seq	Bxyl_5141	246	943	207054	209453	25.8	41.7	893	348			0	Plus	365061	2e-99
+
+#Chain	mariner	239-292	Bxyl_5141	275319-275489	+	12.3
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5141/Bxyl_5141.seq	Bxyl_5141	239	292	275319	275489	22.8	45.6	96	41.3			0	Plus	365061	9e-06
+
+#Chain	ltr_Roo	231-506	Bxyl_5147	369195-370115	-	56.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5147/Bxyl_5147.seq	Bxyl_5147	231	506	370115	369195	20.4	34.8	235	94.9			0	Minus	949830	2e-20
+
+#Chain	helitronORF	10-730	Bxyl_5147	939205-941904	-	184.9
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5147/Bxyl_5147.seq	Bxyl_5147	246	730	940890	939205	26.6	42.6	654	256			0	Minus	949830	2e-70
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5147/Bxyl_5147.seq	Bxyl_5147	10	249	941904	941059	23.3	36.2	189	77.0			0	Minus	949830	2e-15
+
+#Chain	ltr_Roo	232-1754	Bxyl_5154	285-2488	+	196.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5154/Bxyl_5154.seq	Bxyl_5154	232	322	285	548	31.9	50.5	171	70.2			0	Plus	5382	2e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5154/Bxyl_5154.seq	Bxyl_5154	1125	1754	530	2488	26.5	43.1	1016	395			0	Plus	5382	1e-115
+
+#Chain	ISC1316	211-350	Bxyl_5158	76286-76708	-	23.7
+ISC1316		393	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5158/Bxyl_5158.seq	Bxyl_5158	211	350	76708	76286	16.9	31.1	101	43.3			0	Minus	230636	2e-06
+
+#Chain	mariner	88-345	Bxyl_5158	137238-138011	-	48.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5158/Bxyl_5158.seq	Bxyl_5158	88	345	138011	137238	18.6	35.7	151	62.5			0	Minus	230636	1e-12
+
+#Chain	LINE	197-724	Bxyl_5169	1979-3574	+	78.1
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5169/Bxyl_5169.seq	Bxyl_5169	197	724	1979	3574	14.8	32.1	338	134			0	Plus	528762	3e-33
+
+#Chain	LINE	275-723	Bxyl_5169	9305-10702	+	88.9
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5169/Bxyl_5169.seq	Bxyl_5169	275	723	9305	10702	19.8	34.7	403	159			0	Plus	528762	6e-41
+
+#Chain	LINE	282-723	Bxyl_5169	15775-17268	+	65.4
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5169/Bxyl_5169.seq	Bxyl_5169	282	723	15775	17268	14.8	30.9	346	137			0	Plus	528762	3e-34
+
+#Chain	LINE	177-438	Bxyl_5169	23488-24330	+	45.3
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5169/Bxyl_5169.seq	Bxyl_5169	177	438	23488	24330	17.3	34.5	140	58.4			0	Plus	528762	4e-10
+
+#Chain	LINE	177-723	Bxyl_5169	24925-26664	+	97.4
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5169/Bxyl_5169.seq	Bxyl_5169	177	723	24925	26664	17.8	34.1	404	160			0	Plus	528762	5e-41
+
+#Chain	LINE	415-691	Bxyl_5169	32854-33675	+	61.2
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5169/Bxyl_5169.seq	Bxyl_5169	415	691	32854	33675	22.1	42.5	339	135			0	Plus	528762	2e-33
+
+#Chain	mariner	113-335	Bxyl_5169	99031-99717	-	37.7
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5169/Bxyl_5169.seq	Bxyl_5169	113	335	99717	99031	16.9	30.9	176	72.1			0	Minus	528762	2e-15
+
+#Chain	helitronORF	314-375	Bxyl_5169	233043-233231	+	24.2
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5169/Bxyl_5169.seq	Bxyl_5169	314	375	233043	233231	39.1	56.2	154	63.6			0	Plus	528762	1e-11
+
+#Chain	ltr_Roo	270-1791	Bxyl_5169	298382-303079	+	368.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5169/Bxyl_5169.seq	Bxyl_5169	270	1791	298382	303079	24.2	42.5	2307	893			0	Plus	528762	0.0
+
+#Chain	ltr_Roo	416-759	Bxyl_5185	206-1357	-	64.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5185/Bxyl_5185.seq	Bxyl_5185	416	759	1357	206	18.6	37.0	251	101			0	Minus	3835	6e-25
+
+#Chain	TY1_Copia	798-892	Bxyl_5190	183871-184146	-	23.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5190/Bxyl_5190.seq	Bxyl_5190	798	892	184146	183871	24.2	45.3	119	50.4			0	Minus	1935193	6e-07
+
+#Chain	LINE	926-1038	Bxyl_5190	714677-715051	+	30.3
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5190/Bxyl_5190.seq	Bxyl_5190	926	1038	714677	715051	26.8	44.1	151	62.6			0	Plus	1935193	8e-11
+
+#Chain	mariner	176-345	Bxyl_5190	1129888-1130373	+	43.5
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5190/Bxyl_5190.seq	Bxyl_5190	176	345	1129888	1130373	25.6	44.2	261	104			0	Plus	1935193	2e-25
+
+#Chain	mariner	208-302	Bxyl_5190	1297141-1297458	-	24.4
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5190/Bxyl_5190.seq	Bxyl_5190	208	302	1297458	1297141	25.7	38.9	125	52.4			0	Minus	1935193	1e-08
+
+#Chain	mariner	118-264	Bxyl_5190	1395420-1395875	-	21.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5190/Bxyl_5190.seq	Bxyl_5190	118	264	1395875	1395420	14.8	33.3	109	46.3			0	Minus	1935193	1e-06
+
+#Chain	LINE	11-777	Bxyl_5191	393-2610	-	132.2
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5191/Bxyl_5191.seq	Bxyl_5191	624	777	857	393	15.8	34.2	119	50.3			0	Minus	3605	7e-10
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5191/Bxyl_5191.seq	Bxyl_5191	11	623	2610	856	17.6	32.2	509	200			0	Minus	3605	4e-56
+
+#Chain	cacta	721-786	Bxyl_5194	281216-281407	+	29.6
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5194/Bxyl_5194.seq	Bxyl_5194	721	786	281216	281407	44.9	47.8	104	44.5			0	Plus	578970	9e-06
+
+#Chain	mariner	26-133	Bxyl_5195	240-551	-	15.7
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5195/Bxyl_5195.seq	Bxyl_5195	26	133	551	240	14.5	38.2	89	38.6			0	Minus	4551	7e-07
+
+#Chain	mariner	197-302	Bxyl_5202	222028-222372	+	23.1
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5202/Bxyl_5202.seq	Bxyl_5202	197	302	222028	222372	21.8	34.7	100	42.8			0	Plus	408563	3e-06
+
+#Chain	TY1_Copia	781-994	Bxyl_5208	2335-2970	+	48.1
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5208/Bxyl_5208.seq	Bxyl_5208	781	994	2335	2970	22.5	38.3	173	71.2			0	Plus	3257	4e-16
+
+#Chain	cacta	753-780	Bxyl_5214	113462-113545	+	26.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5214/Bxyl_5214.seq	Bxyl_5214	753	780	113462	113545	92.9	92.9	122	51.4			0	Plus	2197026	3e-07
+
+#Chain	ltr_Roo	414-1765	Bxyl_5214	331737-335924	+	304.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5214/Bxyl_5214.seq	Bxyl_5214	414	1765	331737	335924	22.5	39.2	2011	778			0	Plus	2197026	0.0
+
+#Chain	mariner	35-107	Bxyl_5214	581351-581554	+	18.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5214/Bxyl_5214.seq	Bxyl_5214	35	107	581351	581554	24.7	38.4	103	44.0			0	Plus	2197026	7e-06
+
+#Chain	gypsy	1279-1388	Bxyl_5214	681518-681841	+	23.0
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5214/Bxyl_5214.seq	Bxyl_5214	1279	1388	681518	681841	20.9	40.0	163	67.2			0	Plus	2197026	5e-12
+
+#Chain	ltr_Roo	1013-1266	Bxyl_5214	1108663-1109448	-	68.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5214/Bxyl_5214.seq	Bxyl_5214	1013	1266	1109448	1108663	27.0	48.3	482	190			0	Minus	2197026	7e-49
+
+#Chain	mariner	10-313	Bxyl_5214	1150258-1151166	+	80.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5214/Bxyl_5214.seq	Bxyl_5214	10	313	1150258	1151166	26.5	46.7	587	230			0	Plus	2197026	2e-67
+
+#Chain	ltr_Roo	231-677	Bxyl_5214	1632441-1633886	-	81.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5214/Bxyl_5214.seq	Bxyl_5214	231	677	1633886	1632441	18.3	32.9	238	96.0			0	Minus	2197026	2e-20
+
+#Chain	ltr_Roo	249-1552	Bxyl_5257	84933-89057	-	284.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5257/Bxyl_5257.seq	Bxyl_5257	249	1552	89057	84933	21.8	38.9	1575	611			0	Minus	656260	1e-178
+
+#Chain	ltr_Roo	369-492	Bxyl_5257	190596-191006	-	24.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5257/Bxyl_5257.seq	Bxyl_5257	369	492	191006	190596	19.9	33.3	114	48.3			0	Minus	656260	1e-06
+
+#Chain	cacta	755-786	Bxyl_5257	286492-286587	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5257/Bxyl_5257.seq	Bxyl_5257	755	786	286587	286492	75.0	78.1	113	47.9			0	Minus	656260	9e-07
+
+#Chain	cacta	749-787	Bxyl_5257	286816-286932	-	29.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5257/Bxyl_5257.seq	Bxyl_5257	749	787	286932	286816	74.4	79.5	140	58.3			0	Minus	656260	6e-10
+
+#Chain	ltr_Roo	1506-1723	Bxyl_5257	364955-365644	-	54.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5257/Bxyl_5257.seq	Bxyl_5257	1506	1723	365644	364955	24.9	43.9	270	108			0	Minus	656260	1e-24
+
+#Chain	helitronORF	391-511	Bxyl_5257	433950-434321	+	42.2
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5257/Bxyl_5257.seq	Bxyl_5257	391	511	433950	434321	34.9	51.9	273	109			0	Plus	656260	2e-25
+
+#Chain	mariner	245-316	Bxyl_5281	4-228	+	15.3
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5281/Bxyl_5281.seq	Bxyl_5281	245	316	4	228	21.3	37.3	88	38.2			0	Plus	2869	5e-07
+
+#Chain	LINE	521-804	Bxyl_5282	132-976	-	65.1
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5282/Bxyl_5282.seq	Bxyl_5282	620	804	671	132	20.2	37.2	193	78.8			0	Minus	2963	1e-18
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5282/Bxyl_5282.seq	Bxyl_5282	521	628	976	650	25.7	39.4	212	86.1			0	Minus	2963	6e-21
+
+#Chain	mariner	240-342	Bxyl_5294	2254-2568	-	22.4
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5294/Bxyl_5294.seq	Bxyl_5294	240	342	2568	2254	21.7	39.6	84	36.7			0	Minus	2586	1e-06
+
+#Chain	ltr_Roo	71-492	Bxyl_5315	1398-2708	+	85.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5315/Bxyl_5315.seq	Bxyl_5315	71	492	1398	2708	20.2	37.6	345	137			0	Plus	7579	1e-35
+
+#Chain	ltr_Roo	379-494	Bxyl_5315	6401-6694	+	25.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5315/Bxyl_5315.seq	Bxyl_5315	379	494	6401	6694	21.6	31.9	143	59.4			0	Plus	7579	6e-12
+
+#Chain	mariner	197-296	Bxyl_532	962-1285	+	21.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_532/Bxyl_532.seq	Bxyl_532	197	296	962	1285	21.6	33.6	100	42.8			0	Plus	1308	7e-09
+
+#Chain	TY1_Copia	536-575	Bxyl_5322	4514-4633	-	10.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5322/Bxyl_5322.seq	Bxyl_5322	536	575	4633	4514	25.0	42.5	91	39.6			0	Minus	5061	3e-06
+
+#Chain	ltr_Roo	121-502	Bxyl_5375	216-1406	-	79.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5375/Bxyl_5375.seq	Bxyl_5375	121	502	1406	216	20.7	37.1	350	139			0	Minus	2683	6e-37
+
+#Chain	ltr_Roo	465-494	Bxyl_5387	28766-28855	-	11.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5387/Bxyl_5387.seq	Bxyl_5387	465	494	28855	28766	36.7	53.3	101	43.3			0	Minus	30415	2e-06
+
+#Chain	TY1_Copia	401-618	Bxyl_5395	834-1448	-	41.2
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5395/Bxyl_5395.seq	Bxyl_5395	401	618	1448	834	18.9	33.8	107	45.8			0	Minus	3036	2e-08
+
+#Chain	helitronORF	2-804	Bxyl_5399	6162-9098	+	207.2
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5399/Bxyl_5399.seq	Bxyl_5399	2	804	6162	9098	25.8	39.2	886	345			0	Plus	600667	3e-98
+
+#Chain	helitronORF	246-1320	Bxyl_5399	10065-13923	+	312.1
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5399/Bxyl_5399.seq	Bxyl_5399	246	589	10065	11144	28.7	45.5	523	205			0	Plus	600667	9e-55
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5399/Bxyl_5399.seq	Bxyl_5399	628	846	11416	12141	27.6	46.1	261	104			0	Plus	600667	5e-24
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5399/Bxyl_5399.seq	Bxyl_5399	879	1320	12541	13923	34.6	51.4	751	293			0	Plus	600667	4e-82
+
+#Chain	ltr_Roo	431-494	Bxyl_5399	359814-359999	+	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5399/Bxyl_5399.seq	Bxyl_5399	431	494	359814	359999	28.1	43.8	137	57.1			0	Plus	600667	3e-09
+
+#Chain	ltr_Roo	231-316	Bxyl_5399	360762-360995	+	25.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5399/Bxyl_5399.seq	Bxyl_5399	231	316	360762	360995	29.5	44.3	152	62.9			0	Plus	600667	5e-11
+
+#Chain	cacta	753-784	Bxyl_5399	452259-452354	-	26.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5399/Bxyl_5399.seq	Bxyl_5399	753	784	452354	452259	81.2	84.4	124	52.2			0	Minus	600667	4e-08
+
+#Chain	helitronORF	874-1317	Bxyl_5441	842-2230	-	151.8
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5441/Bxyl_5441.seq	Bxyl_5441	874	1317	2230	842	34.2	51.8	759	296			0	Minus	2314	2e-89
+
+#Chain	ltr_Roo	253-513	Bxyl_5474	1-906	+	37.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5474/Bxyl_5474.seq	Bxyl_5474	253	513	1	906	14.3	31.1	101	43.3			0	Plus	2048	1e-07
+
+#Chain	ltr_Roo	301-671	Bxyl_5482	3-1217	+	57.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5482/Bxyl_5482.seq	Bxyl_5482	301	671	3	1217	15.4	29.5	154	63.7			0	Plus	2832	9e-14
+
+#Chain	ltr_Roo	231-306	Bxyl_5482	2536-2763	+	24.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5482/Bxyl_5482.seq	Bxyl_5482	231	306	2536	2763	32.5	45.5	106	45.2			0	Plus	2832	4e-08
+
+#Chain	LINE	431-808	Bxyl_5484	136-1242	+	76.7
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5484/Bxyl_5484.seq	Bxyl_5484	431	808	136	1242	20.3	36.9	552	217			0	Plus	2613	3e-62
+
+#Chain	ltr_Roo	669-1434	Bxyl_5485	228-2576	+	190.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5485/Bxyl_5485.seq	Bxyl_5485	669	1434	228	2576	24.8	44.9	1546	599			0	Plus	2589	0.0
+
+#Chain	helitronORF	10-249	Bxyl_5493	191-1036	-	55.2
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5493/Bxyl_5493.seq	Bxyl_5493	10	249	1036	191	23.0	35.9	197	80.1			0	Minus	6078	1e-18
+
+#Chain	ltr_Roo	1108-1799	Bxyl_5511	199-2337	-	181.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5511/Bxyl_5511.seq	Bxyl_5511	1108	1799	2337	199	26.2	43.6	1297	503			0	Minus	2337	1e-159
+
+#Chain	gypsy	288-446	Bxyl_5519	679715-680233	-	27.8
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5519/Bxyl_5519.seq	Bxyl_5519	288	446	680233	679715	17.5	32.8	118	49.9			0	Minus	1843908	8e-07
+
+#Chain	cacta	741-789	Bxyl_5519	1305591-1305740	+	24.5
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5519/Bxyl_5519.seq	Bxyl_5519	741	789	1305591	1305740	50.0	60.0	109	46.4			0	Plus	1843908	7e-06
+
+#Chain	mariner_ant1	229-303	Bxyl_5519	1377189-1377416	+	18.8
+mariner_ant1		325	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5519/Bxyl_5519.seq	Bxyl_5519	229	303	1377189	1377416	25.0	40.8	106	45.2			0	Plus	1843908	2e-06
+
+#Chain	ltr_Roo	407-592	Bxyl_5519	1528399-1528965	-	38.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5519/Bxyl_5519.seq	Bxyl_5519	407	592	1528965	1528399	20.5	33.2	118	49.8			0	Minus	1843908	1e-06
+
+#Chain	ltr_Roo	162-285	Bxyl_5519	1580617-1581015	-	29.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5519/Bxyl_5519.seq	Bxyl_5519	162	285	1581015	1580617	24.1	41.4	185	75.6			0	Minus	1843908	2e-14
+
+#Chain	ltr_Roo	162-285	Bxyl_5519	1582548-1582946	-	29.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5519/Bxyl_5519.seq	Bxyl_5519	162	285	1582946	1582548	24.1	41.4	185	75.6			0	Minus	1843908	2e-14
+
+#Chain	ltr_Roo	205-1782	Bxyl_5519	1593961-1598919	-	325.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5519/Bxyl_5519.seq	Bxyl_5519	205	1782	1598919	1593961	20.6	37.4	1761	682			0	Minus	1843908	0.0
+
+#Chain	gypsy	1243-1400	Bxyl_5521	182430-182900	-	31.0
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5521/Bxyl_5521.seq	Bxyl_5521	1243	1400	182900	182430	19.6	38.0	192	78.4			0	Minus	526186	5e-16
+
+#Chain	mariner	245-309	Bxyl_5521	212919-213158	-	14.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5521/Bxyl_5521.seq	Bxyl_5521	245	309	213158	212919	22.5	41.2	138	57.5			0	Minus	526186	1e-10
+
+#Chain	gypsy	557-1430	Bxyl_5523	96-2312	-	145.6
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5523/Bxyl_5523.seq	Bxyl_5523	950	1430	1481	96	21.0	35.0	699	273			0	Minus	2497	1e-80
+gypsy		1463	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5523/Bxyl_5523.seq	Bxyl_5523	557	738	2312	1785	24.5	45.1	273	109			0	Minus	2497	4e-28
+
+#Chain	mariner	235-329	Bxyl_5525	91899-92189	+	18.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5525/Bxyl_5525.seq	Bxyl_5525	235	329	91899	92189	19.6	39.2	138	57.5			0	Plus	199709	4e-11
+
+#Chain	mariner	35-107	Bxyl_5526	92903-93106	-	17.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5526/Bxyl_5526.seq	Bxyl_5526	35	107	93106	92903	23.3	41.1	99	42.4			0	Minus	305924	3e-06
+
+#Chain	cacta	753-784	Bxyl_5526	112017-112121	-	23.8
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5526/Bxyl_5526.seq	Bxyl_5526	753	784	112121	112017	74.3	77.1	111	47.2			0	Minus	305924	7e-07
+
+#Chain	helitronORF	10-1317	Bxyl_5526	303085-305736	+	177.8
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5526/Bxyl_5526.seq	Bxyl_5526	10	100	303085	303390	30.5	39.0	139	57.8			0	Plus	305924	4e-10
+helitronORF		1321	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5526/Bxyl_5526.seq	Bxyl_5526	874	1317	304348	305736	33.8	51.4	764	298			0	Plus	305924	5e-84
+
+#Chain	TY1_Copia	279-341	Bxyl_5527	69091-69276	-	16.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5527/Bxyl_5527.seq	Bxyl_5527	279	341	69276	69091	25.4	44.4	106	45.4			0	Minus	493011	5e-06
+
+#Chain	mariner	26-158	Bxyl_5527	491297-491686	-	18.6
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_5527/Bxyl_5527.seq	Bxyl_5527	26	158	491686	491297	14.0	34.6	102	43.6			0	Minus	493011	2e-06
+
+#Chain	ISC1316	213-258	Bxyl_649	342-479	+	8.0
+ISC1316		393	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_649/Bxyl_649.seq	Bxyl_649	213	258	342	479	17.4	32.6	79	34.8			0	Plus	1195	3e-06
+
+#Chain	cacta	749-775	Bxyl_685	645-725	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_685/Bxyl_685.seq	Bxyl_685	749	775	725	645	70.4	70.4	89	38.7			0	Minus	1887	1e-06
+
+#Chain	mariner	114-210	Bxyl_762	67-342	-	20.8
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_762/Bxyl_762.seq	Bxyl_762	114	210	342	67	21.4	37.8	99	42.4			0	Minus	820	4e-09
+
+#Chain	LINE	590-756	Bxyl_807	3-497	+	34.4
+LINE		1189	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_807/Bxyl_807.seq	Bxyl_807	590	756	3	497	20.6	35.9	166	68.4			0	Plus	517	2e-17
+
+#Chain	mariner	269-345	Bxyl_831	449-673	+	20.5
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_831/Bxyl_831.seq	Bxyl_831	269	345	449	673	26.6	43.0	80	35.1			0	Plus	1220	2e-06
+
+#Chain	mariner	35-107	Bxyl_932	520-720	+	17.0
+mariner		345	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_932/Bxyl_932.seq	Bxyl_932	35	107	520	720	23.3	41.1	93	40.1			0	Plus	935	3e-08
+
+#Chain	ltr_Roo	424-488	Bxyl_988	108-293	-	12.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.16664.Amirs-PC.tmp/Bxyl_988/Bxyl_988.seq	Bxyl_988	424	488	293	108	19.4	31.3	83	36.3			0	Minus	1529	1e-05
+

@@ -1,0 +1,878 @@
+#Chain	ltr_Roo	918-973	Avit_101	53830-53997	-	10.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_101/Avit_101.seq	Avit_101	918	973	53997	53830	17.9	46.4	102	43.6			0	Minus	71587	4e-06
+
+#Chain	ltr_Roo	1380-1417	Avit_1013	1975-2088	+	12.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1013/Avit_1013.seq	Avit_1013	1380	1417	1975	2088	31.6	52.6	99	42.5			0	Plus	21821	2e-06
+
+#Chain	helitronORF	861-924	Avit_1018	10992-11171	+	21.0
+helitronORF		1321	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1018/Avit_1018.seq	Avit_1018	861	924	10992	11171	32.8	46.9	92	39.7			0	Plus	21705	9e-06
+
+#Chain	ltr_Roo	1124-1264	Avit_1055	5019-5431	-	44.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1055/Avit_1055.seq	Avit_1055	1215	1264	5171	5019	29.4	58.8	101	43.3			0	Minus	20970	1e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1055/Avit_1055.seq	Avit_1055	1124	1214	5431	5171	32.6	54.3	174	71.4			0	Minus	20970	4e-15
+
+#Chain	ltr_Roo	1479-1540	Avit_1063	36-221	-	28.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1063/Avit_1063.seq	Avit_1063	1479	1540	221	36	45.2	62.9	206	83.7			0	Minus	20908	8e-19
+
+#Chain	ltr_Roo	1117-1713	Avit_1082	1382-3941	+	106.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1082/Avit_1082.seq	Avit_1082	1117	1155	1382	1495	41.0	53.8	114	48.3			0	Plus	20685	4e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1082/Avit_1082.seq	Avit_1082	1213	1308	1695	2021	20.2	42.2	98	42.1			0	Plus	20685	3e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1082/Avit_1082.seq	Avit_1082	1376	1486	2646	2984	28.3	51.3	246	99.1			0	Plus	20685	1e-23
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1082/Avit_1082.seq	Avit_1082	1495	1550	2998	3165	33.9	57.1	132	55.2			0	Plus	20685	3e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1082/Avit_1082.seq	Avit_1082	1618	1713	3615	3941	21.4	35.7	109	46.3			0	Plus	20685	1e-07
+
+#Chain	gypsy	328-442	Avit_1109	9342-9674	-	17.0
+gypsy		1463	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1109/Avit_1109.seq	Avit_1109	328	442	9674	9342	14.8	41.7	105	44.9			0	Minus	20236	3e-07
+
+#Chain	ltr_Roo	705-1693	Avit_116	48621-51367	-	177.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_116/Avit_116.seq	Avit_116	1224	1693	49865	48621	17.8	36.7	336	133			0	Minus	67056	2e-33
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_116/Avit_116.seq	Avit_116	935	1220	50677	49871	19.9	37.5	270	108			0	Minus	67056	9e-26
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_116/Avit_116.seq	Avit_116	705	861	51367	50894	23.2	42.9	226	91.4			0	Minus	67056	1e-20
+
+#Chain	gypsy	299-407	Avit_1169	14687-15064	+	14.4
+gypsy		1463	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1169/Avit_1169.seq	Avit_1169	299	407	14687	15064	13.2	27.9	97	41.8			0	Plus	19330	2e-06
+
+#Chain	ltr_Roo	836-915	Avit_12	99826-100068	+	16.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_12/Avit_12.seq	Avit_12	836	915	99826	100068	21.0	49.4	107	45.6			0	Plus	131717	2e-06
+
+#Chain	cacta	752-784	Avit_1205	9264-9362	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1205/Avit_1205.seq	Avit_1205	752	784	9264	9362	69.7	69.7	102	43.7			0	Plus	18848	5e-07
+
+#Chain	cacta	752-784	Avit_1205	9501-9605	+	21.7
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1205/Avit_1205.seq	Avit_1205	752	784	9501	9605	65.7	65.7	96	41.4			0	Plus	18848	2e-06
+
+#Chain	ltr_Roo	162-309	Avit_121	15259-15693	-	35.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_121/Avit_121.seq	Avit_121	162	309	15693	15259	24.2	43.0	217	87.9			0	Minus	65960	1e-19
+
+#Chain	ltr_Roo	1410-1732	Avit_1273	13859-14783	-	41.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1273/Avit_1273.seq	Avit_1273	1672	1732	14059	13859	24.6	47.8	108	46.0			0	Minus	17884	2e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1273/Avit_1273.seq	Avit_1273	1410	1499	14783	14523	29.7	51.6	230	92.9			0	Minus	17884	8e-22
+
+#Chain	ltr_Roo	746-1138	Avit_1273	16169-17339	-	88.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1273/Avit_1273.seq	Avit_1273	1025	1138	16510	16169	26.0	33.9	106	45.2			0	Minus	17884	3e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1273/Avit_1273.seq	Avit_1273	746	1020	17339	16521	21.5	44.0	457	180			0	Minus	17884	1e-48
+
+#Chain	hAT	115-300	Avit_1282	5164-5742	-	30.3
+hAT		749	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1282/Avit_1282.seq	Avit_1282	115	300	5742	5164	16.3	29.6	109	46.4			0	Minus	17791	3e-08
+
+#Chain	ltr_Roo	242-387	Avit_1306	1-414	+	29.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1306/Avit_1306.seq	Avit_1306	242	387	1	414	20.1	32.7	104	44.4			0	Plus	17485	5e-07
+
+#Chain	cacta	753-804	Avit_1405	118-276	+	24.5
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1405/Avit_1405.seq	Avit_1405	753	804	118	276	47.2	54.7	94	40.6			0	Plus	16370	4e-06
+
+#Chain	mariner	3-78	Avit_141	58157-58360	-	14.0
+mariner		345	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_141/Avit_141.seq	Avit_141	3	78	58360	58157	18.4	32.9	93	40.1			0	Minus	63017	3e-06
+
+#Chain	ltr_Roo	1463-1533	Avit_1467	3665-3871	-	16.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1467/Avit_1467.seq	Avit_1467	1463	1533	3871	3665	22.7	42.7	101	43.3			0	Minus	15581	1e-06
+
+#Chain	ltr_Roo	762-897	Avit_1467	5176-5631	-	23.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1467/Avit_1467.seq	Avit_1467	762	897	5631	5176	17.0	40.9	142	59.0			0	Minus	15581	2e-11
+
+#Chain	ISC1316	213-269	Avit_1514	10643-10816	-	10.8
+ISC1316		393	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1514/Avit_1514.seq	Avit_1514	213	269	10816	10643	19.0	32.8	101	43.3			0	Minus	15176	1e-07
+
+#Chain	ltr_Roo	1398-1728	Avit_1578	13232-14219	-	73.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1578/Avit_1578.seq	Avit_1578	1649	1728	13489	13232	20.9	40.7	118	49.8			0	Minus	14620	1e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1578/Avit_1578.seq	Avit_1578	1398	1645	14219	13527	22.9	40.6	342	136			0	Minus	14620	8e-35
+
+#Chain	cacta	752-783	Avit_1586	4640-4792	-	16.3
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1586/Avit_1586.seq	Avit_1586	752	783	4792	4640	51.0	51.0	98	42.1			0	Minus	14537	1e-06
+
+#Chain	cacta	754-779	Avit_1612	7891-7968	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1612/Avit_1612.seq	Avit_1612	754	779	7891	7968	84.6	84.6	101	43.3			0	Plus	14319	5e-07
+
+#Chain	cacta	753-780	Avit_1612	8250-8333	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1612/Avit_1612.seq	Avit_1612	753	780	8250	8333	71.4	71.4	93	40.2			0	Plus	14319	4e-06
+
+#Chain	ltr_Roo	884-1796	Avit_1635	3379-6121	+	191.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1635/Avit_1635.seq	Avit_1635	884	1279	3379	4545	18.8	36.3	367	145			0	Plus	14083	8e-38
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1635/Avit_1635.seq	Avit_1635	1378	1425	4802	4939	27.1	47.9	99	42.5			0	Plus	14083	2e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1635/Avit_1635.seq	Avit_1635	1425	1645	4933	5544	31.7	47.8	437	172			0	Plus	14083	5e-46
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1635/Avit_1635.seq	Avit_1635	1662	1796	5627	6121	24.8	39.4	199	81.0			0	Plus	14083	3e-18
+
+#Chain	ltr_Roo	1015-1088	Avit_1668	912-1109	-	26.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1668/Avit_1668.seq	Avit_1668	1015	1088	1109	912	35.1	51.4	149	61.7			0	Minus	13816	2e-12
+
+#Chain	mariner	2-44	Avit_168	38010-38138	-	14.0
+mariner		345	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_168/Avit_168.seq	Avit_168	2	44	38138	38010	32.6	46.5	98	42.0			0	Minus	59018	8e-07
+
+#Chain	ltr_Roo	885-1181	Avit_1688	7969-8827	+	71.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1688/Avit_1688.seq	Avit_1688	885	976	7969	8241	17.4	43.5	142	59.0			0	Plus	13637	1e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1688/Avit_1688.seq	Avit_1688	987	1070	8256	8501	35.7	56.0	168	69.1			0	Plus	13637	1e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1688/Avit_1688.seq	Avit_1688	1101	1181	8573	8827	31.0	48.3	156	64.4			0	Plus	13637	3e-13
+
+#Chain	ltr_Roo	781-1601	Avit_1713	9389-11309	-	137.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1713/Avit_1713.seq	Avit_1713	1557	1601	9520	9389	31.1	42.2	95	40.9			0	Minus	13391	4e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1713/Avit_1713.seq	Avit_1713	1490	1555	9689	9516	39.4	51.5	136	56.7			0	Minus	13391	7e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1713/Avit_1713.seq	Avit_1713	1216	1245	10039	9950	36.7	53.3	102	43.6			0	Minus	13391	7e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1713/Avit_1713.seq	Avit_1713	781	1211	11309	10044	20.0	33.7	361	143			0	Minus	13391	4e-37
+
+#Chain	ltr_Roo	191-494	Avit_1713	12335-13219	-	47.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1713/Avit_1713.seq	Avit_1713	384	494	12655	12335	19.5	38.1	124	52.1			0	Minus	13391	2e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1713/Avit_1713.seq	Avit_1713	191	277	13219	12995	29.9	44.8	129	54.0			0	Minus	13391	5e-10
+
+#Chain	ltr_Roo	712-1060	Avit_18	297-1322	-	85.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_18/Avit_18.seq	Avit_18	1011	1060	446	297	42.0	66.0	140	58.3			0	Minus	123154	2e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_18/Avit_18.seq	Avit_18	864	945	847	593	20.7	39.1	158	65.2			0	Minus	123154	2e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_18/Avit_18.seq	Avit_18	712	869	1322	831	30.3	53.3	388	153			0	Minus	123154	3e-39
+
+#Chain	ltr_Roo	1392-1689	Avit_18	3385-4275	-	57.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_18/Avit_18.seq	Avit_18	1392	1689	4275	3385	19.2	36.5	329	131			0	Minus	123154	2e-32
+
+#Chain	cacta	753-781	Avit_1810	4032-4118	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1810/Avit_1810.seq	Avit_1810	753	781	4032	4118	75.9	79.3	106	45.2			0	Plus	12635	1e-07
+
+#Chain	ltr_Roo	738-1470	Avit_183	16827-18924	-	128.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_183/Avit_183.seq	Avit_183	1380	1470	17087	16827	31.9	46.2	146	60.6			0	Minus	57082	2e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_183/Avit_183.seq	Avit_183	941	1376	18289	17096	15.0	34.2	183	74.8			0	Minus	57082	1e-15
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_183/Avit_183.seq	Avit_183	738	920	18924	18355	18.7	36.8	117	49.4			0	Minus	57082	5e-08
+
+#Chain	ltr_Roo	230-304	Avit_183	20428-20646	-	27.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_183/Avit_183.seq	Avit_183	230	304	20646	20428	36.0	46.7	156	64.4			0	Minus	57082	2e-12
+
+#Chain	ltr_Roo	173-1648	Avit_1897	141-2310	+	138.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1897/Avit_1897.seq	Avit_1897	173	430	141	860	18.9	33.3	203	82.5			0	Plus	12035	1e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1897/Avit_1897.seq	Avit_1897	1353	1535	1490	2032	34.1	53.5	486	191			0	Plus	12035	1e-51
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1897/Avit_1897.seq	Avit_1897	1557	1648	2041	2310	29.3	50.0	203	82.5			0	Plus	12035	1e-18
+
+#Chain	cacta	760-781	Avit_1902	7220-7285	+	20.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1902/Avit_1902.seq	Avit_1902	760	781	7220	7285	90.9	90.9	102	43.7			0	Plus	11978	3e-07
+
+#Chain	ltr_Roo	1676-1773	Avit_1936	1173-1469	+	23.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1936/Avit_1936.seq	Avit_1936	1676	1773	1173	1469	24.2	45.5	171	70.2			0	Plus	11677	4e-15
+
+#Chain	cacta	752-780	Avit_1955	5583-5669	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1955/Avit_1955.seq	Avit_1955	752	780	5669	5583	72.4	72.4	99	42.5			0	Minus	11487	6e-07
+
+#Chain	gypsy	257-424	Avit_196	4358-4885	-	25.5
+gypsy		1463	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_196/Avit_196.seq	Avit_196	257	424	4885	4358	15.2	35.4	154	63.7			0	Minus	55210	1e-12
+
+#Chain	ltr_Roo	716-1525	Avit_1965	3-2399	-	188.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1965/Avit_1965.seq	Avit_1965	1405	1525	353	3	31.1	50.0	259	104			0	Minus	11409	3e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1965/Avit_1965.seq	Avit_1965	1014	1411	1519	332	25.2	44.3	548	215			0	Minus	11409	5e-59
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1965/Avit_1965.seq	Avit_1965	831	1006	2067	1543	20.4	48.1	361	143			0	Minus	11409	4e-37
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1965/Avit_1965.seq	Avit_1965	716	785	2399	2187	21.1	46.5	128	53.7			0	Minus	11409	5e-10
+
+#Chain	ltr_Roo	230-278	Avit_1974	11006-11149	+	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1974/Avit_1974.seq	Avit_1974	230	278	11006	11149	26.5	49.0	94	40.6			0	Plus	11345	5e-06
+
+#Chain	ltr_Roo	231-276	Avit_1985	9052-9168	-	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_1985/Avit_1985.seq	Avit_1985	231	276	9168	9052	37.0	45.7	98	42.1			0	Minus	11275	2e-06
+
+#Chain	ltr_Roo	461-1111	Avit_200	387-2440	-	144.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_200/Avit_200.seq	Avit_200	1044	1111	584	387	25.3	38.7	103	44.0			0	Minus	55033	2e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_200/Avit_200.seq	Avit_200	956	1040	822	586	28.2	52.9	144	59.8			0	Minus	55033	4e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_200/Avit_200.seq	Avit_200	810	951	1264	827	18.0	40.0	146	60.6			0	Minus	55033	2e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_200/Avit_200.seq	Avit_200	764	805	1415	1275	38.3	51.1	128	53.7			0	Minus	55033	3e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_200/Avit_200.seq	Avit_200	702	767	1599	1405	29.9	46.3	118	49.8			0	Minus	55033	4e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_200/Avit_200.seq	Avit_200	461	705	2440	1565	17.1	31.6	137	57.1			0	Minus	55033	2e-10
+
+#Chain	ltr_Roo	1666-1724	Avit_203	50343-50510	-	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_203/Avit_203.seq	Avit_203	1666	1724	50510	50343	30.5	57.6	114	48.3			0	Minus	54915	1e-07
+
+#Chain	ltr_Roo	1440-1685	Avit_2127	12-729	+	61.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2127/Avit_2127.seq	Avit_2127	1440	1507	12	203	36.8	52.9	201	81.8			0	Plus	10364	1e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2127/Avit_2127.seq	Avit_2127	1558	1685	319	729	28.1	38.8	243	98.0			0	Plus	10364	2e-23
+
+#Chain	cacta	753-784	Avit_2170	5347-5442	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2170/Avit_2170.seq	Avit_2170	753	784	5347	5442	68.8	71.9	95	41.0			0	Plus	10097	2e-06
+
+#Chain	cacta	753-780	Avit_2170	5452-5535	+	22.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2170/Avit_2170.seq	Avit_2170	753	780	5452	5535	78.6	78.6	94	40.6			0	Plus	10097	2e-06
+
+#Chain	cacta	753-784	Avit_2170	5575-5670	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2170/Avit_2170.seq	Avit_2170	753	784	5575	5670	71.9	75.0	100	42.9			0	Plus	10097	4e-07
+
+#Chain	cacta	753-784	Avit_2170	5728-5823	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2170/Avit_2170.seq	Avit_2170	753	784	5728	5823	78.1	78.1	114	48.3			0	Plus	10097	1e-08
+
+#Chain	ltr_Roo	1342-1459	Avit_2224	1843-2190	-	26.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2224/Avit_2224.seq	Avit_2224	1342	1459	2190	1843	22.5	41.7	104	44.4			0	Minus	9800	3e-07
+
+#Chain	gypsy	297-364	Avit_2224	5385-5582	+	12.0
+gypsy		1463	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2224/Avit_2224.seq	Avit_2224	297	364	5385	5582	17.6	36.8	102	43.7			0	Plus	9800	3e-07
+
+#Chain	ltr_Roo	1549-1695	Avit_2278	8092-8547	+	22.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2278/Avit_2278.seq	Avit_2278	1549	1592	8092	8223	27.3	47.7	100	42.9			0	Plus	9529	8e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2278/Avit_2278.seq	Avit_2278	1656	1695	8431	8547	25.0	52.5	95	40.9			0	Plus	9529	3e-06
+
+#Chain	ltr_Roo	237-353	Avit_2332	2399-2746	+	26.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2332/Avit_2332.seq	Avit_2332	237	353	2399	2746	22.5	36.7	138	57.5			0	Plus	9283	3e-11
+
+#Chain	ltr_Roo	209-298	Avit_234	10300-10563	-	25.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_234/Avit_234.seq	Avit_234	209	298	10563	10300	27.8	44.4	146	60.6			0	Minus	51261	2e-11
+
+#Chain	TY1_Copia	282-588	Avit_2340	2740-2898	+	29.7
+TY1_Copia		1643	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2340/Avit_2340.seq	Avit_2340	282	333	2740	2898	30.2	45.3	117	49.6			0	Plus	9249	5e-09
+TY1_Copia		1643	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2340/Avit_2340.seq	Avit_2340	548	588	2743	2865	34.1	41.5	92	40.0			0	Plus	9249	4e-06
+
+#Chain	cacta	758-807	Avit_2349	1106-1237	-	30.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2349/Avit_2349.seq	Avit_2349	758	807	1237	1106	60.0	68.0	130	54.5			0	Minus	9191	1e-10
+
+#Chain	ISC1316	24-186	Avit_2350	48-509	+	26.9
+ISC1316		393	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2350/Avit_2350.seq	Avit_2350	24	186	48	509	16.5	34.1	86	37.5			0	Plus	9190	4e-06
+
+#Chain	cacta	754-784	Avit_2356	9043-9135	+	23.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2356/Avit_2356.seq	Avit_2356	754	784	9043	9135	74.2	74.2	102	43.7			0	Plus	9143	2e-07
+
+#Chain	ltr_Roo	233-306	Avit_2383	949-1146	-	21.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2383/Avit_2383.seq	Avit_2383	233	306	1146	949	28.4	48.6	127	53.3			0	Minus	8972	5e-10
+
+#Chain	ltr_Roo	593-825	Avit_2407	6937-7694	+	54.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2407/Avit_2407.seq	Avit_2407	593	797	6937	7611	19.0	35.5	212	86.0			0	Plus	8848	6e-20
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2407/Avit_2407.seq	Avit_2407	795	825	7599	7694	50.0	75.0	92	39.8			0	Plus	8848	6e-06
+
+#Chain	ltr_Roo	1707-1749	Avit_2407	8695-8847	-	8.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2407/Avit_2407.seq	Avit_2407	1707	1749	8847	8695	19.6	37.3	93	40.2			0	Minus	8848	5e-06
+
+#Chain	ltr_Roo	230-278	Avit_2411	197-340	-	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2411/Avit_2411.seq	Avit_2411	230	278	340	197	26.5	49.0	94	40.6			0	Minus	8830	4e-06
+
+#Chain	ltr_Roo	794-1694	Avit_245	43056-45696	+	172.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_245/Avit_245.seq	Avit_245	794	836	43056	43175	30.2	58.1	100	42.9			0	Plus	50200	4e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_245/Avit_245.seq	Avit_245	840	917	43189	43437	21.7	45.8	152	62.9			0	Plus	50200	4e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_245/Avit_245.seq	Avit_245	922	1081	43449	43928	24.0	40.7	259	104			0	Plus	50200	1e-24
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_245/Avit_245.seq	Avit_245	1087	1193	43912	44235	29.4	47.7	207	84.1			0	Plus	50200	2e-18
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_245/Avit_245.seq	Avit_245	1385	1694	44791	45696	23.5	40.2	450	177			0	Plus	50200	8e-47
+
+#Chain	ltr_Roo	235-317	Avit_2467	5206-5445	-	14.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2467/Avit_2467.seq	Avit_2467	235	317	5445	5206	16.9	41.0	104	44.4			0	Minus	8547	2e-07
+
+#Chain	ltr_Roo	1405-1773	Avit_2467	7340-8476	-	81.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2467/Avit_2467.seq	Avit_2467	1405	1773	8476	7340	22.2	35.6	426	168			0	Minus	8547	6e-45
+
+#Chain	cacta	751-780	Avit_2596	2539-2658	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2596/Avit_2596.seq	Avit_2596	751	780	2658	2539	70.0	70.0	101	43.3			0	Minus	8067	3e-07
+
+#Chain	cacta	753-791	Avit_2596	2809-2931	-	22.8
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2596/Avit_2596.seq	Avit_2596	753	791	2931	2809	58.5	63.4	95	41.0			0	Minus	8067	1e-06
+
+#Chain	ltr_Roo	293-381	Avit_2633	7590-7841	-	16.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2633/Avit_2633.seq	Avit_2633	293	381	7841	7590	18.7	39.6	93	40.2			0	Minus	7889	4e-06
+
+#Chain	ltr_Roo	761-813	Avit_2717	4368-4541	-	12.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2717/Avit_2717.seq	Avit_2717	761	813	4541	4368	24.1	51.7	120	50.6			0	Minus	7505	3e-09
+
+#Chain	ltr_Roo	1424-1722	Avit_2726	2056-2925	-	58.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2726/Avit_2726.seq	Avit_2726	1424	1722	2925	2056	19.7	31.5	204	82.9			0	Minus	7475	5e-19
+
+#Chain	ltr_Roo	231-1767	Avit_2733	2731-7444	-	282.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2733/Avit_2733.seq	Avit_2733	1658	1767	3078	2731	29.1	53.0	180	73.7			0	Minus	7452	3e-16
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2733/Avit_2733.seq	Avit_2733	1128	1648	4672	3140	24.3	39.7	773	302			0	Minus	7452	1e-85
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2733/Avit_2733.seq	Avit_2733	774	931	5675	5178	29.3	52.1	447	176			0	Minus	7452	2e-47
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2733/Avit_2733.seq	Avit_2733	687	774	5928	5674	27.2	44.6	138	57.5			0	Minus	7452	2e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2733/Avit_2733.seq	Avit_2733	413	546	6825	6355	19.0	33.7	108	46.0			0	Minus	7452	7e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2733/Avit_2733.seq	Avit_2733	231	324	7444	7169	29.8	45.7	226	91.4			0	Minus	7452	1e-21
+
+#Chain	ltr_Roo	230-466	Avit_2756	5389-6132	+	45.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2756/Avit_2756.seq	Avit_2756	230	466	5389	6132	19.2	37.4	146	60.6			0	Plus	7349	3e-12
+
+#Chain	cacta	754-790	Avit_277	7204-7314	-	26.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_277/Avit_277.seq	Avit_277	754	790	7314	7204	70.3	73.0	112	47.5			0	Minus	47748	8e-08
+
+#Chain	ltr_Roo	230-1754	Avit_2797	801-4109	+	183.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2797/Avit_2797.seq	Avit_2797	230	312	801	1043	30.1	47.0	184	75.2			0	Plus	7120	9e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2797/Avit_2797.seq	Avit_2797	863	954	1539	1823	18.8	39.6	162	66.8			0	Plus	7120	3e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2797/Avit_2797.seq	Avit_2797	955	1063	1822	2130	32.1	51.4	192	78.3			0	Plus	7120	1e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2797/Avit_2797.seq	Avit_2797	1080	1183	2171	2509	27.8	44.3	151	62.5			0	Plus	7120	7e-13
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2797/Avit_2797.seq	Avit_2797	1388	1754	3087	4109	21.0	39.2	464	183			0	Plus	7120	2e-49
+
+#Chain	ltr_Roo	1230-1748	Avit_2797	5122-6667	+	115.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2797/Avit_2797.seq	Avit_2797	1230	1286	5122	5298	25.4	45.8	93	40.2			0	Plus	7120	4e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2797/Avit_2797.seq	Avit_2797	1358	1449	5496	5750	21.7	38.0	130	54.4			0	Plus	7120	2e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2797/Avit_2797.seq	Avit_2797	1438	1585	5723	6139	33.6	47.7	333	132			0	Plus	7120	4e-34
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2797/Avit_2797.seq	Avit_2797	1607	1677	6198	6395	20.0	33.3	94	40.6			0	Plus	7120	3e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2797/Avit_2797.seq	Avit_2797	1671	1748	6416	6667	21.4	45.2	99	42.5			0	Plus	7120	8e-07
+
+#Chain	cacta	757-789	Avit_2804	6967-7089	-	20.1
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2804/Avit_2804.seq	Avit_2804	757	789	7089	6967	61.0	68.3	103	44.1			0	Minus	7093	1e-07
+
+#Chain	ltr_Roo	726-1197	Avit_2809	2918-4248	+	109.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2809/Avit_2809.seq	Avit_2809	726	840	2918	3247	26.9	47.1	215	87.2			0	Plus	7079	2e-20
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2809/Avit_2809.seq	Avit_2809	844	1197	3241	4248	22.1	40.4	378	149			0	Plus	7079	2e-39
+
+#Chain	ltr_Roo	806-881	Avit_2876	6316-6531	-	16.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2876/Avit_2876.seq	Avit_2876	806	881	6531	6316	21.8	40.2	124	52.1			0	Minus	6835	9e-10
+
+#Chain	cacta	751-782	Avit_2912	5438-5533	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_2912/Avit_2912.seq	Avit_2912	751	782	5533	5438	68.8	68.8	93	40.2			0	Minus	6701	2e-06
+
+#Chain	hAT	638-687	Avit_3078	102-251	+	16.0
+hAT		749	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3078/Avit_3078.seq	Avit_3078	638	687	102	251	32.0	52.0	118	49.9			0	Plus	6129	1e-09
+
+#Chain	ltr_Roo	212-389	Avit_3078	5141-5665	+	33.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3078/Avit_3078.seq	Avit_3078	212	389	5141	5665	18.6	33.3	206	83.7			0	Plus	6129	2e-19
+
+#Chain	gypsy	283-361	Avit_3196	815-1051	+	10.0
+gypsy		1463	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3196/Avit_3196.seq	Avit_3196	283	361	815	1051	12.7	35.4	118	49.9			0	Plus	5782	2e-09
+
+#Chain	ltr_Roo	803-970	Avit_3200	3546-4091	-	37.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3200/Avit_3200.seq	Avit_3200	803	970	4091	3546	22.2	42.7	260	104			0	Minus	5775	8e-26
+
+#Chain	ltr_Roo	1358-1774	Avit_3213	498-1713	-	82.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3213/Avit_3213.seq	Avit_3213	1672	1774	812	498	20.0	36.4	97	41.7			0	Minus	5724	1e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3213/Avit_3213.seq	Avit_3213	1358	1621	1713	988	23.5	40.3	276	110			0	Minus	5724	1e-27
+
+#Chain	ltr_Roo	746-990	Avit_3213	2717-3472	-	59.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3213/Avit_3213.seq	Avit_3213	746	990	3472	2717	24.1	45.5	456	180			0	Minus	5724	1e-48
+
+#Chain	ltr_Roo	1279-1761	Avit_3213	4328-5721	-	107.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3213/Avit_3213.seq	Avit_3213	1681	1761	4594	4328	28.1	44.9	144	59.8			0	Minus	5724	3e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3213/Avit_3213.seq	Avit_3213	1279	1691	5721	4558	20.4	35.3	452	178			0	Minus	5724	3e-48
+
+#Chain	ltr_Roo	215-277	Avit_3293	2833-3027	+	23.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3293/Avit_3293.seq	Avit_3293	215	277	2833	3027	36.9	52.3	104	44.4			0	Plus	5472	2e-07
+
+#Chain	ltr_Roo	1430-1771	Avit_3293	4356-5382	+	75.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3293/Avit_3293.seq	Avit_3293	1430	1499	4356	4559	33.3	45.8	148	61.4			0	Plus	5472	1e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3293/Avit_3293.seq	Avit_3293	1515	1582	4600	4767	29.4	50.0	141	58.7			0	Plus	5472	7e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3293/Avit_3293.seq	Avit_3293	1584	1638	4770	4925	29.1	50.9	96	41.3			0	Plus	5472	1e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3293/Avit_3293.seq	Avit_3293	1685	1771	5119	5382	18.0	38.2	101	43.3			0	Plus	5472	3e-07
+
+#Chain	ltr_Roo	452-1760	Avit_3348	661-4728	-	278.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3348/Avit_3348.seq	Avit_3348	1719	1760	789	661	25.6	46.5	95	40.9			0	Minus	5294	2e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3348/Avit_3348.seq	Avit_3348	1629	1705	1087	803	23.2	42.1	124	52.1			0	Minus	5294	7e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3348/Avit_3348.seq	Avit_3348	876	1610	3284	1128	22.6	40.6	1029	400			0	Minus	5294	1e-117
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3348/Avit_3348.seq	Avit_3348	452	884	4728	3268	19.3	39.2	483	190			0	Minus	5294	6e-52
+
+#Chain	ltr_Roo	230-300	Avit_3352	1584-1790	+	20.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3352/Avit_3352.seq	Avit_3352	230	300	1584	1790	28.2	46.5	161	66.4			0	Plus	5287	3e-14
+
+#Chain	ltr_Roo	809-975	Avit_3352	3617-4126	+	21.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3352/Avit_3352.seq	Avit_3352	809	975	3617	4126	13.0	30.4	159	65.6			0	Plus	5287	5e-14
+
+#Chain	ltr_Roo	865-1788	Avit_3403	68-2805	+	210.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3403/Avit_3403.seq	Avit_3403	865	975	68	409	16.4	38.8	206	83.7			0	Plus	5125	2e-19
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3403/Avit_3403.seq	Avit_3403	1018	1354	484	1581	19.3	37.3	346	137			0	Plus	5125	7e-36
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3403/Avit_3403.seq	Avit_3403	1388	1655	1589	2356	33.3	53.3	630	247			0	Plus	5125	3e-69
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3403/Avit_3403.seq	Avit_3403	1659	1788	2380	2805	29.2	47.9	200	81.4			0	Plus	5125	8e-19
+
+#Chain	cacta	752-784	Avit_3437	2206-2304	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3437/Avit_3437.seq	Avit_3437	752	784	2206	2304	72.7	72.7	107	45.6			0	Plus	5032	3e-08
+
+#Chain	cacta	752-784	Avit_3437	2311-2409	+	26.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3437/Avit_3437.seq	Avit_3437	752	784	2311	2409	78.8	78.8	123	51.8			0	Plus	5032	4e-10
+
+#Chain	ltr_Roo	917-1050	Avit_3439	2782-3166	+	33.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3439/Avit_3439.seq	Avit_3439	917	1009	2782	3093	18.3	41.3	140	58.3			0	Plus	5030	9e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3439/Avit_3439.seq	Avit_3439	1002	1050	3017	3166	34.0	54.0	92	39.8			0	Plus	5030	3e-06
+
+#Chain	ltr_Roo	1380-1417	Avit_3439	4818-4931	+	12.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3439/Avit_3439.seq	Avit_3439	1380	1417	4818	4931	31.6	52.6	99	42.5			0	Plus	5030	5e-07
+
+#Chain	ltr_Roo	872-1788	Avit_345	742-1643	+	54.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_345/Avit_345.seq	Avit_345	872	1008	742	1131	17.3	38.1	221	89.5			0	Plus	43366	2e-20
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_345/Avit_345.seq	Avit_345	1667	1788	1242	1643	25.4	47.8	205	83.3			0	Plus	43366	2e-18
+
+#Chain	ltr_Roo	231-486	Avit_3493	2720-4083	-	41.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3493/Avit_3493.seq	Avit_3493	408	486	2950	2720	21.0	38.3	91	39.4			0	Minus	4903	4e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3493/Avit_3493.seq	Avit_3493	231	304	4083	3868	33.8	48.6	155	64.1			0	Minus	4903	1e-13
+
+#Chain	ltr_Roo	263-324	Avit_3568	3-185	-	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3568/Avit_3568.seq	Avit_3568	263	324	185	3	27.4	43.5	125	52.5			0	Minus	4705	4e-10
+
+#Chain	ltr_Roo	540-967	Avit_3573	3352-4689	+	106.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3573/Avit_3573.seq	Avit_3573	540	967	3352	4689	24.9	45.4	716	280			0	Plus	4692	1e-79
+
+#Chain	ISC1316	221-270	Avit_3624	3136-3303	+	10.7
+ISC1316		393	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3624/Avit_3624.seq	Avit_3624	221	270	3136	3303	21.4	37.5	80	35.2			0	Plus	4524	1e-05
+
+#Chain	ltr_Roo	209-287	Avit_3642	3773-4006	+	24.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3642/Avit_3642.seq	Avit_3642	209	287	3773	4006	30.4	46.8	149	61.7			0	Plus	4481	7e-13
+
+#Chain	ltr_Roo	1034-1750	Avit_3648	228-2302	+	99.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3648/Avit_3648.seq	Avit_3648	1034	1130	228	506	27.7	41.6	133	55.6			0	Plus	4461	5e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3648/Avit_3648.seq	Avit_3648	1184	1299	658	1026	25.6	48.1	108	46.0			0	Plus	4461	4e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3648/Avit_3648.seq	Avit_3648	1377	1425	1240	1386	22.4	51.0	107	45.6			0	Plus	4461	5e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3648/Avit_3648.seq	Avit_3648	1563	1621	1688	1876	28.6	44.4	129	54.0			0	Plus	4461	1e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3648/Avit_3648.seq	Avit_3648	1693	1750	2126	2302	25.4	49.2	120	50.6			0	Plus	4461	2e-09
+
+#Chain	ltr_Roo	833-1157	Avit_3658	1286-2176	-	54.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3658/Avit_3658.seq	Avit_3658	833	1157	2176	1286	16.7	34.9	133	55.6			0	Minus	4427	5e-11
+
+#Chain	ltr_Roo	806-897	Avit_3711	3733-3996	-	22.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3711/Avit_3711.seq	Avit_3711	806	897	3996	3733	24.3	41.7	171	70.2			0	Minus	4300	2e-15
+
+#Chain	cacta	754-787	Avit_3725	2788-2889	-	19.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3725/Avit_3725.seq	Avit_3725	754	787	2889	2788	55.9	58.8	86	37.5			0	Minus	4266	7e-06
+
+#Chain	DDE_1	2-41	Avit_3755	3212-3334	-	10.7
+DDE_1		535	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3755/Avit_3755.seq	Avit_3755	2	41	3334	3212	26.8	53.7	81	35.6			0	Minus	4196	1e-05
+
+#Chain	cacta	726-789	Avit_377	35668-35832	-	27.6
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_377/Avit_377.seq	Avit_377	726	789	35832	35668	43.1	49.2	107	45.6			0	Minus	41733	3e-07
+
+#Chain	ltr_Roo	212-1753	Avit_3830	573-3252	-	155.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3830/Avit_3830.seq	Avit_3830	1659	1753	887	573	23.6	44.3	137	57.1			0	Minus	4009	1e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3830/Avit_3830.seq	Avit_3830	1395	1638	1603	950	23.2	39.2	298	119			0	Minus	4009	2e-30
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3830/Avit_3830.seq	Avit_3830	416	640	2584	1856	19.6	36.0	187	76.4			0	Minus	4009	2e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3830/Avit_3830.seq	Avit_3830	212	329	3252	2908	27.1	39.0	212	86.0			0	Minus	4009	2e-20
+
+#Chain	cacta	753-786	Avit_385	36969-37076	-	24.5
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_385/Avit_385.seq	Avit_385	753	786	37076	36969	72.2	72.2	105	44.8			0	Minus	41294	4e-07
+
+#Chain	LINE	8-808	Avit_3850	937-3436	-	132.3
+LINE		1189	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3850/Avit_3850.seq	Avit_3850	660	808	1377	937	18.1	35.6	186	76.1			0	Minus	3971	1e-17
+LINE		1189	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3850/Avit_3850.seq	Avit_3850	8	630	3436	1496	16.9	33.9	659	258			0	Minus	3971	3e-74
+
+#Chain	ltr_Roo	232-283	Avit_3871	173-325	+	19.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3871/Avit_3871.seq	Avit_3871	232	283	173	325	36.5	50.0	134	56.0			0	Plus	3920	3e-11
+
+#Chain	ltr_Roo	232-283	Avit_3871	3310-3462	-	19.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3871/Avit_3871.seq	Avit_3871	232	283	3462	3310	36.5	50.0	134	56.0			0	Minus	3920	3e-11
+
+#Chain	ltr_Roo	800-975	Avit_3922	3312-3782	+	25.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3922/Avit_3922.seq	Avit_3922	800	975	3312	3782	14.4	39.2	295	117			0	Plus	3806	4e-30
+
+#Chain	gypsy	285-375	Avit_3930	576-803	+	15.0
+gypsy		1463	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3930/Avit_3930.seq	Avit_3930	285	375	576	803	16.5	35.2	94	40.6			0	Plus	3798	8e-07
+
+#Chain	ltr_Roo	865-912	Avit_3967	2-160	-	7.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_3967/Avit_3967.seq	Avit_3967	865	912	160	2	15.1	37.7	101	43.3			0	Minus	3729	2e-07
+
+#Chain	cacta	752-791	Avit_397	1750-1875	+	25.7
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_397/Avit_397.seq	Avit_397	752	791	1750	1875	64.3	66.7	100	42.9			0	Plus	40409	2e-06
+
+#Chain	cacta	752-785	Avit_397	1891-1995	+	25.3
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_397/Avit_397.seq	Avit_397	752	785	1891	1995	74.3	74.3	105	44.8			0	Plus	40409	4e-07
+
+#Chain	gypsy	608-1372	Avit_4076	1335-3476	-	192.8
+gypsy		1463	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4076/Avit_4076.seq	Avit_4076	608	1372	3476	1335	25.2	44.1	1347	523			0	Minus	3527	1e-166
+
+#Chain	ltr_Roo	1669-1693	Avit_4088	353-427	+	8.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4088/Avit_4088.seq	Avit_4088	1669	1693	353	427	32.0	44.0	89	38.6			0	Plus	3506	5e-06
+
+#Chain	ltr_Roo	106-797	Avit_4121	219-2466	+	99.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4121/Avit_4121.seq	Avit_4121	106	329	219	863	21.8	35.5	136	56.7			0	Plus	3449	2e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4121/Avit_4121.seq	Avit_4121	511	739	1502	2209	18.0	36.3	98	42.1			0	Plus	3449	5e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4121/Avit_4121.seq	Avit_4121	745	797	2296	2466	17.5	36.8	87	37.9			0	Plus	3449	9e-06
+
+#Chain	ltr_Roo	941-1050	Avit_4136	11-323	+	27.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4136/Avit_4136.seq	Avit_4136	941	1009	11	250	16.2	35.0	92	39.8			0	Plus	3429	2e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4136/Avit_4136.seq	Avit_4136	1002	1050	174	323	34.0	54.0	92	39.8			0	Plus	3429	2e-06
+
+#Chain	ltr_Roo	1380-1417	Avit_4136	1975-2088	+	12.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4136/Avit_4136.seq	Avit_4136	1380	1417	1975	2088	31.6	52.6	99	42.5			0	Plus	3429	3e-07
+
+#Chain	ltr_Roo	230-274	Avit_4136	2351-2473	+	15.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4136/Avit_4136.seq	Avit_4136	230	274	2351	2473	33.3	51.1	91	39.4			0	Plus	3429	3e-06
+
+#Chain	ltr_Roo	413-1283	Avit_4163	1484-3003	-	121.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4163/Avit_4163.seq	Avit_4163	1215	1283	1672	1484	23.6	38.9	99	42.5			0	Minus	3376	3e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4163/Avit_4163.seq	Avit_4163	954	1183	2441	1770	30.0	46.8	375	148			0	Minus	3376	1e-39
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4163/Avit_4163.seq	Avit_4163	413	570	3003	2470	23.2	39.2	200	81.4			0	Minus	3376	5e-19
+
+#Chain	cacta	757-784	Avit_417	14093-14176	-	21.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_417/Avit_417.seq	Avit_417	757	784	14176	14093	75.0	75.0	99	42.5			0	Minus	39608	2e-06
+
+#Chain	cacta	753-784	Avit_417	14330-14425	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_417/Avit_417.seq	Avit_417	753	784	14425	14330	71.9	71.9	102	43.7			0	Minus	39608	1e-06
+
+#Chain	TY1_Copia	356-559	Avit_417	29049-29696	+	32.4
+TY1_Copia		1643	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_417/Avit_417.seq	Avit_417	356	559	29049	29696	15.9	33.2	100	43.1			0	Plus	39608	2e-06
+
+#Chain	cacta	753-785	Avit_43	51500-51598	-	24.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_43/Avit_43.seq	Avit_43	753	785	51598	51500	72.7	78.8	112	47.5			0	Minus	89858	2e-07
+
+#Chain	cacta	753-780	Avit_43	51602-51685	-	22.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_43/Avit_43.seq	Avit_43	753	780	51685	51602	78.6	78.6	97	41.8			0	Minus	89858	9e-06
+
+#Chain	cacta	753-784	Avit_4311	3028-3132	-	19.2
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4311/Avit_4311.seq	Avit_4311	753	784	3132	3028	60.0	62.9	84	36.8			0	Minus	3133	9e-06
+
+#Chain	ltr_Roo	221-302	Avit_435	724-963	+	27.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_435/Avit_435.seq	Avit_435	221	302	724	963	32.9	48.8	172	70.6			0	Plus	38668	1e-14
+
+#Chain	ltr_Roo	1346-1522	Avit_4375	1089-1607	-	45.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4375/Avit_4375.seq	Avit_4375	1346	1522	1607	1089	25.4	44.9	287	114			0	Minus	3048	2e-29
+
+#Chain	cacta	751-777	Avit_438	27515-27595	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_438/Avit_438.seq	Avit_438	751	777	27515	27595	77.8	77.8	107	45.6			0	Plus	38463	3e-07
+
+#Chain	hAT	117-172	Avit_438	32954-33115	+	17.0
+hAT		749	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_438/Avit_438.seq	Avit_438	117	172	32954	33115	30.4	48.2	112	47.6			0	Plus	38463	3e-08
+
+#Chain	ltr_Roo	881-1697	Avit_4413	116-2189	+	144.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4413/Avit_4413.seq	Avit_4413	881	1050	116	598	23.5	47.1	299	119			0	Plus	2978	8e-31
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4413/Avit_4413.seq	Avit_4413	1104	1242	744	1175	21.4	40.3	99	42.5			0	Plus	2978	3e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4413/Avit_4413.seq	Avit_4413	1383	1483	1417	1710	30.4	49.0	219	88.7			0	Plus	2978	2e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4413/Avit_4413.seq	Avit_4413	1488	1697	1722	2189	21.0	33.2	224	90.6			0	Plus	2978	6e-22
+
+#Chain	ltr_Roo	1582-1643	Avit_4454	978-1157	-	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4454/Avit_4454.seq	Avit_4454	1582	1643	1157	978	27.4	48.4	129	54.0			0	Minus	2920	9e-11
+
+#Chain	ltr_Roo	812-993	Avit_4455	10-558	-	32.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4455/Avit_4455.seq	Avit_4455	812	993	558	10	17.9	38.3	230	92.9			0	Minus	2919	1e-22
+
+#Chain	ISC1316	209-259	Avit_4486	2406-2558	+	8.0
+ISC1316		393	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4486/Avit_4486.seq	Avit_4486	209	259	2406	2558	15.7	31.4	84	36.7			0	Plus	2877	2e-06
+
+#Chain	ltr_Roo	263-398	Avit_4501	2280-2645	-	24.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4501/Avit_4501.seq	Avit_4501	263	398	2645	2280	18.2	32.1	117	49.4			0	Minus	2859	2e-09
+
+#Chain	cacta	752-787	Avit_4503	1362-1478	+	23.1
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4503/Avit_4503.seq	Avit_4503	752	787	1362	1478	64.1	74.4	103	44.1			0	Plus	2859	5e-08
+
+#Chain	ltr_Roo	1024-1065	Avit_4512	2727-2846	+	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4512/Avit_4512.seq	Avit_4512	1024	1065	2727	2846	40.5	54.8	100	42.9			0	Plus	2846	2e-07
+
+#Chain	ltr_Roo	1271-1782	Avit_4520	840-2348	-	136.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4520/Avit_4520.seq	Avit_4520	1271	1782	2348	840	26.7	44.2	848	331			0	Minus	2830	4e-98
+
+#Chain	ltr_Roo	236-1177	Avit_4567	621-1278	+	57.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4567/Avit_4567.seq	Avit_4567	236	387	621	1019	16.4	32.1	101	43.3			0	Plus	2749	2e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4567/Avit_4567.seq	Avit_4567	1062	1177	922	1278	28.2	44.4	178	72.9			0	Plus	2749	1e-16
+
+#Chain	ltr_Roo	679-839	Avit_4582	923-1427	-	38.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4582/Avit_4582.seq	Avit_4582	785	839	1084	923	34.5	58.2	143	59.4			0	Minus	2731	2e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4582/Avit_4582.seq	Avit_4582	679	768	1427	1152	21.3	47.9	116	49.0			0	Minus	2731	3e-09
+
+#Chain	ltr_Roo	1453-1597	Avit_4594	521-922	+	43.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4594/Avit_4594.seq	Avit_4594	1453	1597	521	922	30.3	44.8	316	126			0	Plus	2717	7e-33
+
+#Chain	cacta	752-780	Avit_4611	2596-2682	-	20.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4611/Avit_4611.seq	Avit_4611	752	780	2682	2596	69.0	69.0	88	38.3			0	Minus	2699	3e-06
+
+#Chain	ltr_Roo	130-334	Avit_4638	366-979	+	44.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4638/Avit_4638.seq	Avit_4638	130	269	366	785	20.3	36.5	98	42.1			0	Plus	2672	3e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4638/Avit_4638.seq	Avit_4638	259	334	761	979	21.1	36.8	95	40.9			0	Plus	2672	8e-07
+
+#Chain	ltr_Roo	721-837	Avit_4638	2299-2670	+	29.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4638/Avit_4638.seq	Avit_4638	721	837	2299	2670	25.0	44.4	250	100			0	Plus	2672	4e-25
+
+#Chain	ltr_Roo	722-1714	Avit_4651	46-2166	-	168.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4651/Avit_4651.seq	Avit_4651	1644	1714	237	46	22.5	35.2	87	37.9			0	Minus	2644	6e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4651/Avit_4651.seq	Avit_4651	1126	1289	970	461	29.2	48.0	268	107			0	Minus	2644	3e-27
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4651/Avit_4651.seq	Avit_4651	878	1124	1673	963	23.4	42.1	377	149			0	Minus	2644	3e-40
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4651/Avit_4651.seq	Avit_4651	722	879	2166	1675	29.3	51.8	416	164			0	Minus	2644	7e-45
+
+#Chain	ltr_Roo	781-902	Avit_4677	152-520	-	31.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4677/Avit_4677.seq	Avit_4677	781	902	520	152	26.0	42.7	207	84.1			0	Minus	2602	5e-20
+
+#Chain	ltr_Roo	191-494	Avit_4677	1546-2430	-	47.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4677/Avit_4677.seq	Avit_4677	384	494	1866	1546	19.5	38.1	124	52.1			0	Minus	2602	3e-10
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4677/Avit_4677.seq	Avit_4677	191	277	2430	2206	29.9	44.8	129	54.0			0	Minus	2602	7e-11
+
+#Chain	ltr_Roo	785-870	Avit_469	20078-20293	+	18.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_469/Avit_469.seq	Avit_469	785	870	20078	20293	20.9	41.9	117	49.4			0	Plus	37225	3e-08
+
+#Chain	ltr_Roo	754-870	Avit_469	20921-21229	-	25.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_469/Avit_469.seq	Avit_469	754	870	21229	20921	21.4	40.2	149	61.7			0	Minus	37225	6e-12
+
+#Chain	LINE	8-675	Avit_4722	3-2069	-	119.6
+LINE		1189	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4722/Avit_4722.seq	Avit_4722	8	675	2069	3	17.9	36.6	661	259			0	Minus	2533	2e-76
+
+#Chain	ltr_Roo	821-908	Avit_4783	1634-1951	-	14.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4783/Avit_4783.seq	Avit_4783	821	908	1951	1634	16.8	40.2	114	48.3			0	Minus	2428	4e-09
+
+#Chain	ltr_Roo	544-1180	Avit_4800	179-2131	-	160.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4800/Avit_4800.seq	Avit_4800	544	1180	2131	179	25.2	46.3	1032	401			0	Minus	2410	1e-123
+
+#Chain	ltr_Roo	230-730	Avit_482	19256-20813	-	90.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_482/Avit_482.seq	Avit_482	298	730	20629	19256	16.7	33.6	152	62.9			0	Minus	36838	3e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_482/Avit_482.seq	Avit_482	230	287	20813	20655	31.0	43.1	111	47.1			0	Minus	36838	2e-07
+
+#Chain	hAT	647-742	Avit_483	12161-12409	-	19.8
+hAT		749	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_483/Avit_483.seq	Avit_483	647	742	12409	12161	20.6	37.1	95	41.0			0	Minus	36785	3e-06
+
+#Chain	ltr_Roo	264-436	Avit_4842	7-591	-	27.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4842/Avit_4842.seq	Avit_4842	264	436	591	7	15.8	34.0	122	51.3			0	Minus	2372	4e-10
+
+#Chain	gypsy	609-1383	Avit_4868	1-2322	+	196.6
+gypsy		1463	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4868/Avit_4868.seq	Avit_4868	609	779	1	504	29.5	50.6	376	149			0	Plus	2335	1e-40
+gypsy		1463	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4868/Avit_4868.seq	Avit_4868	747	998	563	1270	26.6	47.2	418	165			0	Plus	2335	8e-46
+gypsy		1463	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4868/Avit_4868.seq	Avit_4868	1002	1383	1294	2322	20.7	35.1	508	200			0	Plus	2335	7e-57
+
+#Chain	cacta	753-780	Avit_4897	661-744	-	23.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4897/Avit_4897.seq	Avit_4897	753	780	744	661	82.1	82.1	95	41.0			0	Minus	2295	3e-07
+
+#Chain	ltr_Roo	465-492	Avit_4910	1763-1852	+	7.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4910/Avit_4910.seq	Avit_4910	465	492	1763	1852	26.7	46.7	90	39.0			0	Plus	2285	2e-06
+
+#Chain	ltr_Roo	190-391	Avit_4921	182-766	-	45.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4921/Avit_4921.seq	Avit_4921	190	391	766	182	22.7	36.9	226	91.4			0	Minus	2275	2e-22
+
+#Chain	ltr_Roo	718-822	Avit_4982	980-1309	+	35.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4982/Avit_4982.seq	Avit_4982	718	822	980	1309	34.2	48.6	256	102			0	Plus	2213	5e-26
+
+#Chain	ltr_Roo	577-793	Avit_4982	1482-2189	-	44.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4982/Avit_4982.seq	Avit_4982	577	793	2189	1482	20.7	39.3	280	112			0	Minus	2213	7e-29
+
+#Chain	ltr_Roo	673-961	Avit_4993	274-1159	-	54.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4993/Avit_4993.seq	Avit_4993	906	961	438	274	17.9	39.3	111	47.1			0	Minus	2204	8e-09
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4993/Avit_4993.seq	Avit_4993	775	907	860	432	24.5	49.0	307	122			0	Minus	2204	4e-32
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_4993/Avit_4993.seq	Avit_4993	673	731	1159	974	20.6	52.4	97	41.7			0	Minus	2204	3e-07
+
+#Chain	ltr_Roo	261-306	Avit_5092	967-1101	-	15.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5092/Avit_5092.seq	Avit_5092	261	306	1101	967	32.6	50.0	116	49.0			0	Minus	2074	2e-09
+
+#Chain	ltr_Roo	1222-1772	Avit_5140	321-2009	-	142.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5140/Avit_5140.seq	Avit_5140	1222	1772	2009	321	25.9	43.7	960	374			0	Minus	2014	1e-115
+
+#Chain	LINE	293-854	Avit_5141	6-1829	+	99.5
+LINE		1189	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5141/Avit_5141.seq	Avit_5141	293	854	6	1829	17.7	34.2	507	199			0	Plus	2012	2e-57
+
+#Chain	ltr_Roo	1686-1795	Avit_5154	97-513	+	24.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5154/Avit_5154.seq	Avit_5154	1686	1795	97	513	22.3	41.0	151	62.5			0	Plus	1999	1e-13
+
+#Chain	ltr_Roo	1417-1518	Avit_5164	966-1259	+	28.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5164/Avit_5164.seq	Avit_5164	1417	1518	966	1259	27.5	49.0	177	72.5			0	Plus	1986	1e-16
+
+#Chain	ltr_Roo	671-1250	Avit_5247	98-1868	-	162.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5247/Avit_5247.seq	Avit_5247	1075	1250	652	98	26.2	46.5	335	133			0	Minus	1880	7e-36
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5247/Avit_5247.seq	Avit_5247	671	1071	1868	657	28.9	48.0	845	329			0	Minus	1880	1e-101
+
+#Chain	cacta	753-784	Avit_5380	14-109	+	25.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5380/Avit_5380.seq	Avit_5380	753	784	14	109	78.1	78.1	106	45.2			0	Plus	1730	1e-08
+
+#Chain	ltr_Roo	1423-1743	Avit_5414	3-974	+	92.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5414/Avit_5414.seq	Avit_5414	1423	1743	3	974	28.9	46.6	664	260			0	Plus	1696	9e-78
+
+#Chain	ltr_Roo	415-552	Avit_5420	922-1431	-	22.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5420/Avit_5420.seq	Avit_5420	415	552	1431	922	16.2	35.3	131	54.8			0	Minus	1688	2e-11
+
+#Chain	ltr_Roo	261-885	Avit_543	2726-4666	+	67.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_543/Avit_543.seq	Avit_543	261	494	2726	3478	15.7	32.5	150	62.1			0	Plus	34530	4e-12
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_543/Avit_543.seq	Avit_543	737	885	4190	4666	20.8	44.0	274	109			0	Plus	34530	1e-26
+
+#Chain	ltr_Roo	1271-1677	Avit_5439	546-1648	+	100.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5439/Avit_5439.seq	Avit_5439	1271	1439	546	1019	19.0	38.5	204	82.9			0	Plus	1661	4e-20
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5439/Avit_5439.seq	Avit_5439	1431	1677	995	1648	27.5	39.3	435	171			0	Plus	1661	2e-48
+
+#Chain	ltr_Roo	998-1743	Avit_5496	723-1583	-	79.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5496/Avit_5496.seq	Avit_5496	1467	1743	1571	723	24.7	41.4	416	164			0	Minus	1598	4e-46
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5496/Avit_5496.seq	Avit_5496	998	1034	1583	1470	28.9	44.7	89	38.6			0	Minus	1598	2e-06
+
+#Chain	ltr_Roo	1504-1580	Avit_5614	1281-1481	-	20.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5614/Avit_5614.seq	Avit_5614	1504	1580	1481	1281	26.0	40.3	104	44.4			0	Minus	1483	3e-08
+
+#Chain	ltr_Roo	658-793	Avit_5693	2-442	-	30.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5693/Avit_5693.seq	Avit_5693	658	793	442	2	22.3	42.6	255	102			0	Minus	1411	1e-26
+
+#Chain	ltr_Roo	1496-1599	Avit_5693	832-1110	-	27.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5693/Avit_5693.seq	Avit_5693	1496	1599	1110	832	26.0	42.3	194	79.1			0	Minus	1411	4e-19
+
+#Chain	ltr_Roo	1647-1743	Avit_5729	1063-1368	-	24.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5729/Avit_5729.seq	Avit_5729	1647	1743	1368	1063	25.2	48.5	189	77.2			0	Minus	1374	2e-18
+
+#Chain	ltr_Roo	1274-1696	Avit_5738	70-1306	+	101.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5738/Avit_5738.seq	Avit_5738	1274	1511	70	753	20.6	37.0	240	96.8			0	Plus	1365	8e-25
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5738/Avit_5738.seq	Avit_5738	1507	1535	738	824	41.4	51.7	85	37.1			0	Plus	1365	5e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5738/Avit_5738.seq	Avit_5738	1544	1696	827	1306	26.4	44.2	288	115			0	Plus	1365	8e-31
+
+#Chain	ltr_Roo	837-1099	Avit_5739	128-907	-	51.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5739/Avit_5739.seq	Avit_5739	837	1099	907	128	19.7	34.9	211	85.6			0	Minus	1365	3e-21
+
+#Chain	ltr_Roo	1216-1627	Avit_5769	7-1269	-	98.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5769/Avit_5769.seq	Avit_5769	1597	1627	99	7	38.7	64.5	86	37.5			0	Minus	1331	3e-06
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5769/Avit_5769.seq	Avit_5769	1487	1590	404	117	30.2	45.3	217	87.9			0	Minus	1331	5e-22
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5769/Avit_5769.seq	Avit_5769	1362	1466	814	494	33.6	53.3	282	112			0	Minus	1331	4e-30
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5769/Avit_5769.seq	Avit_5769	1216	1296	1269	994	25.0	42.4	132	55.2			0	Minus	1331	1e-11
+
+#Chain	ltr_Roo	988-1324	Avit_5803	71-1137	-	92.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5803/Avit_5803.seq	Avit_5803	1083	1324	862	71	27.3	46.8	444	175			0	Minus	1303	2e-50
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5803/Avit_5803.seq	Avit_5803	988	1067	1137	916	32.5	55.0	150	62.1			0	Minus	1303	7e-14
+
+#Chain	ltr_Roo	1222-1641	Avit_5868	4-1233	+	116.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5868/Avit_5868.seq	Avit_5868	1222	1641	4	1233	27.7	46.7	865	337			0	Plus	1241	1e-106
+
+#Chain	ltr_Roo	1417-1527	Avit_5902	23-307	-	21.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5902/Avit_5902.seq	Avit_5902	1417	1527	307	23	19.3	33.3	92	39.8			0	Minus	1218	6e-07
+
+#Chain	LINE	911-966	Avit_591	5737-5913	+	15.2
+LINE		1189	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_591/Avit_591.seq	Avit_591	911	966	5737	5913	27.1	45.8	98	42.2			0	Plus	32470	2e-06
+
+#Chain	ltr_Roo	230-278	Avit_5915	699-842	+	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5915/Avit_5915.seq	Avit_5915	230	278	699	842	26.5	49.0	94	40.6			0	Plus	1211	3e-07
+
+#Chain	ltr_Roo	216-494	Avit_5927	291-1190	-	52.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5927/Avit_5927.seq	Avit_5927	216	494	1190	291	18.9	35.6	254	102			0	Minus	1201	7e-27
+
+#Chain	ltr_Roo	700-782	Avit_5939	1-243	+	17.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5939/Avit_5939.seq	Avit_5939	700	782	1	243	21.4	41.7	132	55.2			0	Plus	1193	9e-12
+
+#Chain	ISa	379-466	Avit_5943	575-844	-	14.7
+ISa		473	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5943/Avit_5943.seq	Avit_5943	379	466	844	575	16.7	41.1	79	34.7			0	Minus	1191	3e-06
+
+#Chain	ltr_Roo	1350-1717	Avit_5958	82-1178	+	88.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5958/Avit_5958.seq	Avit_5958	1350	1470	82	450	26.8	47.2	287	114			0	Plus	1182	7e-31
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5958/Avit_5958.seq	Avit_5958	1511	1717	531	1178	26.9	40.1	356	141			0	Plus	1182	2e-39
+
+#Chain	ltr_Roo	1698-1771	Avit_5968	1-222	+	14.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5968/Avit_5968.seq	Avit_5968	1698	1771	1	222	20.0	40.0	96	41.3			0	Plus	1173	2e-07
+
+#Chain	ltr_Roo	1478-1725	Avit_5983	295-1053	-	59.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_5983/Avit_5983.seq	Avit_5983	1478	1725	1053	295	23.9	38.1	298	119			0	Minus	1157	3e-32
+
+#Chain	ltr_Roo	227-271	Avit_600	31353-31484	-	13.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_600/Avit_600.seq	Avit_600	227	271	31484	31353	28.9	46.7	99	42.5			0	Minus	32155	4e-06
+
+#Chain	ltr_Roo	917-1193	Avit_6023	235-1074	-	70.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6023/Avit_6023.seq	Avit_6023	917	1193	1074	235	25.4	42.3	473	186			0	Minus	1117	8e-55
+
+#Chain	ltr_Roo	416-494	Avit_6035	640-906	-	16.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6035/Avit_6035.seq	Avit_6035	416	494	906	640	20.7	35.9	111	47.1			0	Minus	1103	3e-09
+
+#Chain	ltr_Roo	233-325	Avit_6046	820-1092	+	29.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6046/Avit_6046.seq	Avit_6046	233	325	820	1092	31.2	43.0	213	86.4			0	Plus	1094	6e-22
+
+#Chain	ltr_Roo	1491-1780	Avit_6070	168-1073	-	87.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6070/Avit_6070.seq	Avit_6070	1491	1780	1073	168	30.3	43.9	568	223			0	Minus	1073	2e-67
+
+#Chain	cacta	755-792	Avit_609	7575-7688	+	24.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_609/Avit_609.seq	Avit_609	755	792	7575	7688	63.2	68.4	109	46.4			0	Plus	31860	1e-07
+
+#Chain	ltr_Roo	855-1178	Avit_6091	1-948	+	81.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6091/Avit_6091.seq	Avit_6091	855	1178	1	948	25.1	43.7	570	223			0	Plus	1052	7e-68
+
+#Chain	ltr_Roo	1131-1460	Avit_6127	3-1016	-	81.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6127/Avit_6127.seq	Avit_6127	1131	1460	1016	3	24.7	44.3	551	216			0	Minus	1019	2e-65
+
+#Chain	ltr_Roo	1281-1584	Avit_6156	3-851	-	83.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6156/Avit_6156.seq	Avit_6156	1281	1584	851	3	27.4	42.7	552	216			0	Minus	1003	1e-65
+
+#Chain	ltr_Roo	216-795	Avit_6181	12-980	+	66.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6181/Avit_6181.seq	Avit_6181	216	411	12	578	20.4	34.3	198	80.6			0	Plus	982	3e-20
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6181/Avit_6181.seq	Avit_6181	687	795	627	980	24.6	44.1	210	85.2			0	Plus	982	9e-22
+
+#Chain	ltr_Roo	216-494	Avit_6229	12-920	+	53.3
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6229/Avit_6229.seq	Avit_6229	216	494	12	920	19.1	32.9	312	124			0	Plus	944	2e-34
+
+#Chain	ltr_Roo	665-783	Avit_6249	212-586	+	27.1
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6249/Avit_6249.seq	Avit_6249	665	783	212	586	22.8	47.2	191	77.9			0	Plus	921	2e-19
+
+#Chain	ltr_Roo	1214-1296	Avit_6252	87-341	+	22.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6252/Avit_6252.seq	Avit_6252	1214	1296	87	341	26.7	45.6	137	57.1			0	Plus	920	1e-12
+
+#Chain	ltr_Roo	242-309	Avit_6252	738-920	-	23.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6252/Avit_6252.seq	Avit_6252	242	309	920	738	33.8	42.6	117	49.4			0	Minus	920	3e-10
+
+#Chain	ltr_Roo	1740-1780	Avit_6291	9-155	+	10.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6291/Avit_6291.seq	Avit_6291	1740	1780	9	155	26.5	46.9	80	35.2			0	Plus	891	1e-05
+
+#Chain	TY1_Copia	240-325	Avit_6297	507-788	-	17.2
+TY1_Copia		1643	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6297/Avit_6297.seq	Avit_6297	240	325	788	507	20.0	26.3	86	37.7			0	Minus	884	1e-06
+
+#Chain	ltr_Roo	823-1119	Avit_6311	2-874	+	74.2
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6311/Avit_6311.seq	Avit_6311	823	1119	2	874	25.0	46.1	551	216			0	Plus	874	4e-66
+
+#Chain	ltr_Roo	855-1157	Avit_6350	1-818	+	79.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6350/Avit_6350.seq	Avit_6350	855	890	1	123	22.0	41.5	98	42.1			0	Plus	829	6e-08
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6350/Avit_6350.seq	Avit_6350	918	1157	117	818	29.9	49.2	496	195			0	Plus	829	5e-59
+
+#Chain	ltr_Roo	1122-1296	Avit_6393	157-714	+	48.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6393/Avit_6393.seq	Avit_6393	1122	1296	157	714	27.7	49.5	299	119			0	Plus	797	3e-33
+
+#Chain	ltr_Roo	1049-1148	Avit_649	20931-21203	+	25.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_649/Avit_649.seq	Avit_649	1049	1148	20931	21203	25.7	42.6	166	68.3			0	Plus	30580	5e-14
+
+#Chain	ltr_Roo	876-1119	Avit_6503	2-712	+	62.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6503/Avit_6503.seq	Avit_6503	876	1119	2	712	25.6	46.7	482	190			0	Plus	712	1e-57
+
+#Chain	ltr_Roo	1160-1241	Avit_6510	108-323	-	26.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6510/Avit_6510.seq	Avit_6510	1160	1241	323	108	32.5	53.0	182	74.5			0	Minus	708	1e-18
+
+#Chain	ltr_Roo	1273-1373	Avit_6510	416-703	+	17.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6510/Avit_6510.seq	Avit_6510	1273	1373	416	703	17.3	40.0	82	35.9			0	Plus	708	4e-06
+
+#Chain	ltr_Roo	1101-1498	Avit_652	22593-23789	+	77.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_652/Avit_652.seq	Avit_652	1101	1498	22593	23789	19.5	34.3	268	107			0	Plus	30513	7e-26
+
+#Chain	ltr_Roo	171-260	Avit_6559	384-659	-	16.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6559/Avit_6559.seq	Avit_6559	171	260	659	384	18.5	28.3	94	40.6			0	Minus	683	1e-07
+
+#Chain	ltr_Roo	1693-1761	Avit_658	552-761	-	23.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_658/Avit_658.seq	Avit_658	1693	1761	761	552	34.3	47.1	153	63.3			0	Minus	30389	2e-12
+
+#Chain	ltr_Roo	633-795	Avit_6600	3-551	-	37.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6600/Avit_6600.seq	Avit_6600	633	795	551	3	23.1	42.5	215	87.2			0	Minus	655	7e-23
+
+#Chain	ltr_Roo	1091-1472	Avit_663	29016-30163	-	106.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_663/Avit_663.seq	Avit_663	1350	1472	29390	29016	32.0	48.8	286	114			0	Minus	30175	6e-28
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_663/Avit_663.seq	Avit_663	1229	1323	29740	29402	23.9	45.1	167	68.7			0	Minus	30175	4e-14
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_663/Avit_663.seq	Avit_663	1184	1223	29871	29755	35.0	65.0	112	47.5			0	Minus	30175	1e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_663/Avit_663.seq	Avit_663	1135	1181	30023	29880	25.0	45.8	105	44.8			0	Minus	30175	7e-07
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_663/Avit_663.seq	Avit_663	1091	1130	30163	30032	47.7	61.4	130	54.4			0	Minus	30175	8e-10
+
+#Chain	ltr_Roo	832-1042	Avit_6635	3-629	+	44.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6635/Avit_6635.seq	Avit_6635	832	1042	3	629	21.3	40.7	292	116			0	Plus	629	6e-33
+
+#Chain	ltr_Roo	261-391	Avit_6652	64-438	+	25.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6652/Avit_6652.seq	Avit_6652	261	391	64	438	19.7	37.1	129	54.0			0	Plus	619	3e-12
+
+#Chain	ltr_Roo	896-1167	Avit_6654	1-618	-	52.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6654/Avit_6654.seq	Avit_6654	896	1167	618	1	19.3	35.4	272	109			0	Minus	618	2e-30
+
+#Chain	ltr_Roo	231-307	Avit_6658	1-225	-	25.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6658/Avit_6658.seq	Avit_6658	231	307	225	1	32.5	46.8	198	80.6			0	Minus	614	8e-21
+
+#Chain	ltr_Roo	1715-1771	Avit_6682	4-189	+	15.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6682/Avit_6682.seq	Avit_6682	1715	1771	4	189	27.4	46.8	118	49.8			0	Plus	592	6e-11
+
+#Chain	ltr_Roo	1715-1753	Avit_6701	157-273	-	15.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6701/Avit_6701.seq	Avit_6701	1715	1753	273	157	38.5	51.3	109	46.3			0	Minus	582	8e-10
+
+#Chain	hAT	536-696	Avit_6714	1-495	-	31.7
+hAT		749	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6714/Avit_6714.seq	Avit_6714	536	696	495	1	19.7	31.5	133	55.7			0	Minus	572	2e-13
+
+#Chain	ltr_Roo	508-669	Avit_6746	36-521	-	33.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6746/Avit_6746.seq	Avit_6746	508	669	521	36	20.8	38.2	96	41.3			0	Minus	546	3e-08
+
+#Chain	ltr_Roo	358-494	Avit_6747	126-542	+	20.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6747/Avit_6747.seq	Avit_6747	358	494	126	542	14.6	36.8	130	54.4			0	Plus	546	1e-12
+
+#Chain	mariner	33-148	Avit_676	14181-14546	+	20.0
+mariner		345	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_676/Avit_676.seq	Avit_676	33	148	14181	14546	17.2	32.8	89	38.6			0	Plus	29776	5e-06
+
+#Chain	cacta	754-782	Avit_677	3690-3776	-	20.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_677/Avit_677.seq	Avit_677	754	782	3776	3690	69.0	72.4	96	41.4			0	Minus	29754	4e-06
+
+#Chain	ltr_Roo	1629-1755	Avit_6782	17-433	-	25.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6782/Avit_6782.seq	Avit_6782	1629	1755	433	17	20.1	39.6	190	77.5			0	Minus	515	4e-20
+
+#Chain	ltr_Roo	1009-1180	Avit_6786	8-511	+	53.7
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_6786/Avit_6786.seq	Avit_6786	1009	1180	8	511	31.2	43.4	279	111			0	Plus	511	1e-31
+
+#Chain	ltr_Roo	443-568	Avit_695	22036-22476	+	18.4
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_695/Avit_695.seq	Avit_695	443	568	22036	22476	14.6	31.8	106	45.2			0	Plus	29204	5e-07
+
+#Chain	ltr_Roo	683-781	Avit_695	22506-22808	-	19.8
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_695/Avit_695.seq	Avit_695	683	781	22808	22506	20.0	42.9	147	61.0			0	Minus	29204	9e-12
+
+#Chain	ltr_Roo	683-1125	Avit_695	23434-24768	+	97.9
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_695/Avit_695.seq	Avit_695	683	1125	23434	24768	22.1	43.1	769	300			0	Plus	29204	2e-84
+
+#Chain	cacta	753-787	Avit_698	25719-25814	-	31.0
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_698/Avit_698.seq	Avit_698	753	787	25814	25719	88.6	91.4	143	59.5			0	Minus	29134	1e-11
+
+#Chain	cacta	750-801	Avit_744	2864-3070	+	22.6
+cacta		1264	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_744/Avit_744.seq	Avit_744	750	801	2864	3070	43.5	49.3	120	50.6			0	Plus	27840	5e-09
+
+#Chain	ltr_Roo	869-1769	Avit_765	25260-27304	+	145.6
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_765/Avit_765.seq	Avit_765	869	943	25260	25496	21.2	40.0	144	59.8			0	Plus	27326	2e-11
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_765/Avit_765.seq	Avit_765	1162	1245	25574	25825	37.6	62.4	226	91.4			0	Plus	27326	5e-21
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_765/Avit_765.seq	Avit_765	1248	1696	25833	27065	17.0	34.1	376	149			0	Plus	27326	2e-38
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_765/Avit_765.seq	Avit_765	1686	1769	27050	27304	25.9	48.2	150	62.1			0	Plus	27326	4e-12
+
+#Chain	ltr_Roo	233-1699	Avit_781	24975-25645	+	42.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_781/Avit_781.seq	Avit_781	233	357	24975	25322	22.4	39.2	191	77.9			0	Plus	26748	6e-17
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_781/Avit_781.seq	Avit_781	1628	1699	25394	25645	20.2	40.5	98	42.1			0	Plus	26748	4e-06
+
+#Chain	ltr_Roo	1134-1639	Avit_852	23440-24832	+	125.5
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_852/Avit_852.seq	Avit_852	1134	1254	23440	23796	32.2	55.4	257	103			0	Plus	24955	1e-24
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_852/Avit_852.seq	Avit_852	1275	1639	23861	24832	23.7	40.6	347	138			0	Plus	24955	4e-35
+
+#Chain	hAT	196-244	Avit_858	4568-4714	-	11.8
+hAT		749	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_858/Avit_858.seq	Avit_858	196	244	4714	4568	24.0	42.0	90	39.1			0	Minus	24783	8e-06
+
+#Chain	ltr_Roo	230-310	Avit_886	17215-17448	+	24.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_886/Avit_886.seq	Avit_886	230	310	17215	17448	29.6	42.0	132	55.2			0	Plus	24167	4e-10
+
+#Chain	ltr_Roo	243-329	Avit_891	15758-15997	+	17.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_891/Avit_891.seq	Avit_891	243	329	15758	15997	19.5	34.5	113	47.9			0	Plus	24084	6e-08
+
+#Chain	TY1_Copia	324-411	Avit_929	15911-16186	+	23.0
+TY1_Copia		1643	PSITBLASTN	transposonPSI.32107.Amirs-PC.tmp/Avit_929/Avit_929.seq	Avit_929	324	411	15911	16186	26.1	43.5	93	40.4			0	Plus	23357	8e-06
+

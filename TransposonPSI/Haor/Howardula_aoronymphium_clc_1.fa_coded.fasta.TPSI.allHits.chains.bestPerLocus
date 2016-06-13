@@ -1,0 +1,48 @@
+#Chain	ltr_Roo	1487-1553	Haor_1206	30-209	+	31.0
+ltr_Roo		2312	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_1206/Haor_1206.seq	Haor_1206	1487	1553	30	209	46.3	64.2	169	69.4			0	Plus	219	2e-18
+
+#Chain	gypsy	573-671	Haor_122	6-302	+	59.0
+gypsy		1463	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_122/Haor_122.seq	Haor_122	573	671	6	302	59.6	75.8	276	110			0	Plus	304	1e-32
+
+#Chain	ISb	62-101	Haor_139	101-232	-	10.0
+ISb		351	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_139/Haor_139.seq	Haor_139	62	101	232	101	25.0	34.1	71	31.7			0	Minus	306	1e-06
+
+#Chain	LINE	1093-1184	Haor_1401	63-338	-	15.4
+LINE		1189	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_1401/Haor_1401.seq	Haor_1401	1093	1184	338	63	16.7	37.5	118	49.9			0	Minus	348	8e-12
+
+#Chain	LINE	478-561	Haor_1716	2-283	-	24.1
+LINE		1189	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_1716/Haor_1716.seq	Haor_1716	478	561	283	2	28.7	43.6	160	66.1			0	Minus	288	2e-17
+
+#Chain	LINE	412-481	Haor_1717	3-212	+	14.0
+LINE		1189	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_1717/Haor_1717.seq	Haor_1717	412	481	3	212	20.0	32.9	160	66.1			0	Plus	212	9e-18
+
+#Chain	mariner	101-156	Haor_287	3-167	+	11.0
+mariner		345	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_287/Haor_287.seq	Haor_287	101	156	3	167	19.6	42.9	95	40.9			0	Plus	292	1e-09
+
+#Chain	gypsy	289-422	Haor_41	32-424	+	17.4
+gypsy		1463	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_41/Haor_41.seq	Haor_41	289	422	32	424	13.0	21.7	78	34.5			0	Plus	556	4e-06
+
+#Chain	ISC1316	312-335	Haor_429	184-255	-	10.0
+ISC1316		393	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_429/Haor_429.seq	Haor_429	312	335	255	184	41.7	58.3	68	30.5			0	Minus	359	6e-06
+
+#Chain	LINE	72-217	Haor_449	42-458	-	40.1
+LINE		1189	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_449/Haor_449.seq	Haor_449	72	217	458	42	27.5	41.6	261	104			0	Minus	458	5e-30
+
+#Chain	gypsy	1313-1406	Haor_508	2-262	+	18.0
+gypsy		1463	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_508/Haor_508.seq	Haor_508	1313	1406	2	262	19.1	38.3	99	42.6			0	Plus	262	2e-09
+
+#Chain	hAT	140-180	Haor_610	99-206	-	9.0
+hAT		749	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_610/Haor_610.seq	Haor_610	140	180	206	99	22.0	39.0	77	34.1			0	Minus	430	1e-06
+
+#Chain	cacta	757-781	Haor_709	3-77	+	18.0
+cacta		1264	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_709/Haor_709.seq	Haor_709	757	781	3	77	72.0	72.0	76	33.7			0	Plus	286	1e-06
+
+#Chain	gypsy	602-634	Haor_805	81-182	+	9.7
+gypsy		1463	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_805/Haor_805.seq	Haor_805	602	634	81	182	29.4	55.9	92	39.9			0	Plus	228	9e-09
+
+#Chain	cacta	729-780	Haor_934	151-285	+	21.0
+cacta		1264	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_934/Haor_934.seq	Haor_934	729	780	151	285	40.4	50.0	90	39.1			0	Plus	347	2e-08
+
+#Chain	MuDR_A_B	652-720	Haor_975	512-715	+	12.5
+MuDR_A_B		1030	PSITBLASTN	transposonPSI.674.Amirs-PC.tmp/Haor_975/Haor_975.seq	Haor_975	652	720	512	715	18.1	30.6	85	37.3			0	Plus	715	6e-07
+
