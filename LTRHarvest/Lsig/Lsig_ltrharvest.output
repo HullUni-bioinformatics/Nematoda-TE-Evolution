@@ -1,0 +1,22 @@
+# args=-index /media/amir/DATA/work/RM_ANALYSIS/Lsig/Lsig_ltrharvest.index -mintsd 5 -maxtsd 100
+# predictions are reported in the following way
+# s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) s(rLTR) e(rLTR) l(rLTR) sim(LTRs) seq-nr 
+# where:
+# s = starting position
+# e = ending position
+# l = length
+# ret = LTR-retrotransposon
+# lLTR = left LTR
+# rLTR = right LTR
+# sim = similarity
+# seq-nr = sequence number
+128843  130083  1241  128843  128945  103  129978  130083  106  90.57  15
+73273  75149  1877  73273  73542  270  74894  75149  256  89.26  133
+9199  16560  7362  9199  9643  445  16143  16560  418  93.26  148
+47674  51012  3339  47674  48187  514  50502  51012  511  94.75  216
+14121  17975  3855  14121  14739  619  17365  17975  611  93.05  391
+8620  18971  10352  8620  9020  401  18567  18971  405  98.77  610
+17123  22229  5107  17123  17293  171  22057  22229  173  85.55  687
+9373  14967  5595  9373  9642  270  14680  14967  288  93.75  809
+15861  18327  2467  15861  16065  205  18107  18327  221  85.52  994
+13  4105  4093  13  759  747  3376  4105  730  94.51  2172

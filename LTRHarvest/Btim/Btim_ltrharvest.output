@@ -1,0 +1,19 @@
+# args=-index LTRHarvest/Btim/Btim_ltrharvest.index -mintsd 5 -maxtsd 100
+# predictions are reported in the following way
+# s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) s(rLTR) e(rLTR) l(rLTR) sim(LTRs) seq-nr 
+# where:
+# s = starting position
+# e = ending position
+# l = length
+# ret = LTR-retrotransposon
+# lLTR = left LTR
+# rLTR = right LTR
+# sim = similarity
+# seq-nr = sequence number
+13210  19917  6708  13210  13321  112  19815  19917  103  85.71  79
+5701  8088  2388  5701  5870  170  7899  8088  190  87.89  631
+585  3007  2423  585  716  132  2880  3007  128  87.12  682
+3814  5504  1691  3814  3945  132  5371  5504  134  96.27  1533
+260  2345  2086  260  473  214  2124  2345  222  85.59  7425
+638  2056  1419  638  830  193  1873  2056  184  87.05  8259
+130  1471  1342  130  455  326  1158  1471  314  91.10  8313

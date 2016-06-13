@@ -1,0 +1,21 @@
+# args=-index LTRHarvest/Eela/Eela_ltrharvest.index -mintsd 5 -maxtsd 100
+# predictions are reported in the following way
+# s(ret) e(ret) l(ret) s(lLTR) e(lLTR) l(lLTR) s(rLTR) e(rLTR) l(rLTR) sim(LTRs) seq-nr 
+# where:
+# s = starting position
+# e = ending position
+# l = length
+# ret = LTR-retrotransposon
+# lLTR = left LTR
+# rLTR = right LTR
+# sim = similarity
+# seq-nr = sequence number
+31515  36243  4729  31515  31631  117  36121  36243  123  92.68  221
+5130  12000  6871  5130  5502  373  11644  12000  357  92.76  373
+12507  16455  3949  12507  12761  255  16199  16455  257  90.66  391
+18411  26100  7690  18411  18614  204  25907  26100  194  92.16  599
+12926  14457  1532  12926  13244  319  14159  14457  299  85.89  724
+3590  5225  1636  3590  3704  115  5108  5225  118  86.44  1425
+3093  4380  1288  3093  3370  278  4101  4380  280  95.36  2628
+4321  6193  1873  4321  4477  157  6039  6193  155  86.62  2814
+456  1932  1477  456  718  263  1676  1932  257  97.34  3960
