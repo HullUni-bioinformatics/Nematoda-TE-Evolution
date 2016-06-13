@@ -7,6 +7,24 @@ Institute of Evolutionary biology, School of Biological Sciences, University of 
 
 Corresponding author: E-mail: szitenberg@gmail.com  
 
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="http://www.evohull.org/">
+    <span property="dct:title">EvoHull</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Nematoda TE analysis</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="GB" about="http://www.evohull.org/">
+  United Kingdom</span>.
+</p>
+  
 [preprint](http://biorxiv.org/content/early/2015/12/20/034884.abstract)  
 [S1 Table](https://dx.doi.org/10.6084/m9.figshare.2056107.v1)  
 [S2 Table](https://dx.doi.org/10.6084/m9.figshare.2056080.v1)  
