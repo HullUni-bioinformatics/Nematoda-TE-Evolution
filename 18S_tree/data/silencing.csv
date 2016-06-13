@@ -1,0 +1,79 @@
+code	species	high	clade	piwi
+Rcul	Romanomermis culicivorax	Mermithida	I	-
+Tspi	Trichinella spiralis	Trichinellida	I	-
+Tmur	Trichuris muris	Trichinellida	I	-
+Sbat	Soboliphyme baturini		I	-
+Ttri	Trichuris trichiura	Trichinellida	I	-
+Ebre	Enoplus brevis	Enoplida	II	-
+Smur	Syphacia muris		II	-
+Asuu	Ascaris suum	Ascaridomorpha	III	-
+Wban	Wuchereria bancrofti	Spiruromorpha	III	-
+Avit	Acanthocheilonema viteae	Spiruromorpha	III	-
+Bmal	Brugia malayi	Spiruromorpha	III	-
+Dimm	Dirofilaria immitis	Spiruromorpha	III	-
+Lsig	Litomosoides sigmodontis	Spiruromorpha	III	-
+Lloa	Loa loa	Spiruromorpha	III	-
+Ooch	Onchocerca ochengi	Spiruromorpha	III	-
+Ovol	Onchocerca volvulus	Spiruromorpha	III	-
+Asim	Anisakis simplex	Ascaridomorpha	III	-
+Alum	Ascaris lumbricoides	Ascaridomorpha	III	-
+Bpah	Brugia pahangi	Spiruromorpha	III	-
+Btim	Brugia timori	Spiruromorpha	III	-
+Dmed	Dracunculus medinensis		III	-
+Eela	Elaeophora elaphi		III	-
+Ever	Enterobius vermicularis		III	-
+Gpul	Gongylonema pulchrum		III	-
+Ofle	Onchocerca flexuosa	Spiruromorpha	III	-
+Pequ	Parascaris equorum	Ascaridomorpha	III	-
+Tcal	Thelazia callipaeda		III	-
+Tcan	Toxocara canis		III	-
+Bxyl	Bursaphelenchus xylophilus	Tylenchomorpha	IV	-
+Pred	Panagrellus redivivus	Panagrolaimomorpha	IV	-
+Srat	Strongyloides ratti	Panagrolaimomorpha	IV	-
+Gpal	Globodera pallida	Tylenchomorpha	IV	-
+Haor	Howardula aoronymphium	Tylenchomorpha	IV	-
+Mflo	Meloidogyne floridensis	Tylenchomorpha	IV	-
+Mhap	Meloidogyne hapla	Tylenchomorpha	IV	-
+Minc	Meloidogyne incognita	Tylenchomorpha	IV	-
+Mjav	Meloidogyne javanica	Tylenchomorpha	IV	-
+Gros	Globodera rostochiensis	Tylenchomorpha	IV	-
+Mchi	Meloidogyne chitwoodi	Tylenchomorpha	IV	-
+Rsim	Radopholus similis	Tylenchomorpha	IV	-
+Pcof	Pratylenchus coffeae	Tylenchomorpha	IV	-
+Ptri	Parastrongyloides trichosuri	Panagrolaimomorpha	IV	-
+Rsp1	Rhabditophanes sp.	Panagrolaimomorpha	IV	-
+Spap	Strongyloides papillosus	Panagrolaimomorpha	IV	-
+Sste	Strongyloides stercoralis	Panagrolaimomorpha	IV	-
+Sven	Strongyloides venezuelensis	Panagrolaimomorpha	IV	-
+Hduj	Hypsibius dujardini	Tardigrada	O	-
+Dpul	Daphnia pulex	Arthropoda	O	-
+Agam	Anopheles gambiae	Arthropoda	O	-
+Dsim	Drosophila simulans	Arthropoda	O	-
+Nvi	Nasonia vitripennis	Arthropoda	O	-
+Nve	Nematostella vectensis	Cnidaria	O	-
+Acal	Aplysia californica	Mollusca	O	-
+Lgi	Lottia gigantea	Mollusca	O	-
+Acas	Acanthamoeba castellanii	Amoebozoa	O	-
+Alyr	Arabidopsis lyrata	Plantae	O	-
+Ath	Arabidopsis thaliana	Plantae	O	-
+Vcar	Volvox carteri	Plantae	O	-
+Ppac	Pristionchus pacificus	Diplogasteromorpha	V	+
+Dviv	Dictyocaulus viviparus	Rhabditomorpha	V	+
+Cang	Caenorhabditis angaria	Rhabditomorpha	V	+
+Cbre	Caenorhabditis brenneri	Rhabditomorpha	V	+
+briC	Caenorhabditis briggsae	Rhabditomorpha	V	+
+Cele	Caenorhabditis elegans	Rhabditomorpha	V	+
+Cjap	Caenorhabditis japonica	Rhabditomorpha	V	+
+Crem	Caenorhabditis remanei	Rhabditomorpha	V	+
+C5sp	Caenorhabditis sp. 5	Rhabditomorpha	V	+
+C11sp	Caenorhabditis sp. 11	Rhabditomorpha	V	+
+Hbac	Heterorhabditis bacteriophora	Rhabditomorpha	V	+
+Otip	Oscheius tipulae	Rhabditomorpha	V	+
+Hcon	Haemonchus contortus	Rhabditomorpha	V	+
+Cgol	Cylicostephanus goldi		V	+
+Hpla	Haemonchus placei	Rhabditomorpha	V	+
+Hbak	Heligmosomoides bakeri		V	+
+Nbra	Nippostrongylus brasiliensis		V	+
+Acan	Angiostrongylus cantonensis		V	+
+Acos	Angiostrongylus costaricensis		V	+
+Svul	Strongylus vulgaris		V	+

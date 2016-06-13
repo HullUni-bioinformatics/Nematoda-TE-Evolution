@@ -1,0 +1,41 @@
+Sp,Mating,OutbreedingCode,Para,paraCodeA,paraCodeB,Species,gonochoristic,hermaphroditic,automict,apomict,AnimalParasite,PlantParasite,ObligateFreeLiving,Bacteriovore,Fungivore,Omnivore,GenomeSize,GeneModels,GeneDensity,MedianExon,MedianIntron,ExonPerGene,comment,ref
+Asuu,gonochoristic,A,animal,A,A,Ascaris suum,1,0,0,0,1,0,0,,,,250,18542,68,137,690,6.4,,"Ascaris suum draft genome, The genome and life-stage specific transcriptomes of Globodera pallida elucidate key aspects of plant"
+Avit,gonochoristic,A,animal,A,A,Acanthocheilonema viteae,1,0,0,0,1,0,,,,,,,,,,,,
+Bmal,gonochoristic,A,animal,A,A,Brugia malayi,1,0,0,0,1,0,0,,,,95,11515,162,140,219,7,,Ascaris suum draft genome
+briC,hermaphroditic,B,free,C,B,Caenorhabditis briggsae,0,1,0,0,0,0,1,1,1,1,,,,,,,,Genomic Insights into the Origin of Parasitism in the Emerging Plant Pathogen Bursaphelenchus xylophilus
+Bxyl,gonochoristic,A,plant,B,A,Bursaphelenchus xylophilus,1,0,0,0,1,1,0,1,1,0,75,18074,242.3,183,153,4.5,,Genomic Insights into the Origin of Parasitism in the Emerging Plant Pathogen Bursaphelenchus xylophilus
+C11sp,hermaphroditic,B,free,C,B,Caenorhabditis sp11,0,1,0,0,0,0,1,,,,,,,,,,,
+C5sp,gonochoristic,A,free,C,B,Caenorhabditis sp. 5,1,0,0,0,0,0,1,,,,,,,,,,,
+Cang,gonochoristic,A,free,C,B,Caenorhabditis angaria,1,0,0,0,0,0,1,,,,,,,,,,,
+Cbre,gonochoristic,A,free,C,B,Caenorhabditis brenneri,1,0,0,0,0,0,1,,,,,,,,,,,
+Cele,hermaphroditic,B,free,C,B,Caenorhabditis elegans,0,1,0,0,0,0,1,1,1,1,100,21193,235,147,68,6,,"Ascaris suum draft genome, The Pristionchus pacificus genome provides a unique perspective on nematode lifestyle and parasitism, Genomic Insights into the Origin of Parasitism in the Emerging Plant Pathogen Bursaphelenchus xylophilus"
+Cjap,gonochoristic,A,free,C,B,Caenorhabditis japonica,1,0,0,0,0,0,1,,,,,,,,,,,"A phylogeny and molecular barcodes for Caenorhabditis, with numerous new species from rotting fruits"
+Crem,gonochoristic,A,free,C,B,Caenorhabditis remanei,1,0,0,0,0,0,1,,,,,,,,,,,
+Dimm,gonochoristic,A,animal,A,A,Dirofilaria immitis,1,0,0,0,1,0,0,,,,,,,,,,,"wikipedia,Behaviour of filariae: morphological and anatomical signatures of"
+Dviv,gonochoristic,A,animal,A,A,Dictyocaulus viviparus,1,0,0,0,1,0,0,?,?,?,,,,,,,,"A transcriptomic analysis of the adult stage of the bovine lungworm, Dictyocaulus viviparus"
+Ebre,gonochoristic,A,free,C,B,Enoplus brevis,1,0,0,0,0,0,1,0,0,1,,,,,,,,
+Gpal,gonochoristic,A,plant,B,A,Globodera pallida,1,0,0,0,0,1,0,0,0,0,100,16419,132,116,91,8,,The genome and life-stage specific transcriptomes of Globodera pallida elucidate key aspects of plant
+Gros,gonochoristic,A,plant,B,A,Globodera rostochiensis,1,0,0,0,0,1,0,,,,,,,,,,,
+Haor,gonochoristic,A,animal,A,A,Howardula aoronymphium,1,0,0,0,1,0,0,0,1,0,,,,,,,,
+Hbac,gonochoristic,A,animal,A,A,Heterorhabditis bacteriophora,1,0,0,0,1,0,0,1,0,0,,,,,,,alternates between hermaphroditism and gonochorism,
+Hcon,gonochoristic,A,animal,A,A,Haemonchus contortus,1,0,0,0,1,0,0,,,,,,,,,,,
+Hduj,hermaphroditic,B,free,C,B,Hypsibius dujardini,0,1,0,0,0,0,1,,,,,,,,,,,
+Lloa,gonochoristic,A,animal,A,A,Loa loa,1,0,0,0,1,0,0,,,,,,,,,,,Behaviour of filariae: morphological and anatomical signatures of
+Lsig,gonochoristic,A,animal,A,A,Litomosoides sigmodontis,1,0,0,0,1,0,0,,,,,,,,,,,
+Mflo,amphimict,B,plant,B,A,Meloidogyne floridensis,0,0,1,0,0,1,0,,,,,,,,,,,
+Mhap,amphimict,B,plant,B,A,Meloidogyne hapla,0,0,1,0,0,1,0,0,1,0,54,14420,270,145,55,6,,"Opperman, Genomic Insights into the Origin of Parasitism in the Emerging Plant Pathogen Bursaphelenchus xylophilus"
+Minc,apomict,C,plant,B,A,Meloidogyne incognita,0,0,0,1,0,1,0,0,1,0,51,19212,223.4,136,82,6.6,,Genomic Insights into the Origin of Parasitism in the Emerging Plant Pathogen Bursaphelenchus xylophilus
+Mjav,apomict,C,plant,B,A,Meloidogyne javanica,0,0,0,1,0,1,0,,,,,,,,,,,
+Mchi,amphimict,B,plant,B,A,Meloidogyne chitwoodi,0,0,1,0,0,1,0,,,,,,,,,,,
+Ooch,gonochoristic,A,animal,A,A,Onchocerca ochengi,1,0,0,0,1,0,0,,,,,,,,,,,Behaviour of filariae: morphological and anatomical signatures of
+Otip,hermaphroditic,B,free,C,B,Oscheius tipulae,0,1,0,0,0,0,1,,,,,,,,,,,
+Ovol,gonochoristic,A,animal,A,A,Onchocerca volvulus,1,0,0,0,1,0,0,,,,,,,,,,,Behaviour of filariae: morphological and anatomical signatures of
+Ppac,hermaphroditic,B,free,C,B,Pristionchus pacificus,0,1,0,0,0,0,1,1,1,1,,21416,140.4,85,141,10.3,develop on dead beetles,"Ascaris suum draft genome, The Pristionchus pacificus genome provides a unique perspective on nematode lifestyle and parasitism, Genomic Insights into the Origin of Parasitism in the Emerging Plant Pathogen Bursaphelenchus xylophilus"
+Pred,gonochoristic,A,free,C,B,Panagrellus redivivus,1,0,0,0,0,0,1,,,,64.4,,,,,4,,
+Rcul,gonochoristic,A,animal,A,A,Romanomermis culicivorax,1,0,0,0,1,0,0,,,,270,,,161,405,,,The genome of Romanomermis culicivorax
+Srat,gonochoristic,A,animal,A,A,Strongyloides ratti,1,0,0,0,1,0,0,,,,,,,,,,,
+Tmur,gonochoristic,A,animal,A,A,Trichuris muris,1,0,0,0,1,0,0,,,,,,,,,,,
+Tspi,gonochoristic,A,animal,A,A,Trichinella spiralis,1,0,0,0,1,1,0,1,1,1,71,15808,246,129,83,5.78,,"wiki, Genomic Insights into the Origin of Parasitism in the Emerging Plant Pathogen Bursaphelenchus xylophilus, The genome and life-stage specific transcriptomes of Globodera pallida elucidate key aspects of plant"
+Wban,gonochoristic,A,animal,A,A,Wuchereria bancrofti,1,0,0,0,1,0,0,,,,,,,,,,,Behaviour of filariae: morphological and anatomical signatures of
+Pcof,gonochoristic,A,plant,B,A,,,,,,,,,,,,,,,,,,,
+Rsim,gonochoristic,A,plant,B,A,,,,,,,,,,,,,,,,,,,

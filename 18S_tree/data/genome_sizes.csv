@@ -1,0 +1,67 @@
+code	Class	Order	Family	Species	Common Name	C value	Ch. Num	Method	Cell Type	Std Sp.	Refs
+Ppac	Secernentea	Diplogasterida	Diplogastridae	Pristionchus pacificus	Nematode	0.17		CS	WB		687
+briC	Secernentea	Rhabditida	Rhabditidae	Caenorhabditis briggsae	Nematode	0.11		CS	WB	NS	662
+	Adenophorea	Dorylaimida	Longidoridae	Longidorus kuiperi	Plant-parasitic nematode	0.06		FCM	WB	CE	653
+	Adenophorea	Dorylaimida	Longidoridae	Xiphinema index	Nematode	0.11		FCM	WB	CE	593
+Tspi	Adenophorea	Trichocephalida	Trichinellidae	Trichinella spiralis	Trichinosis roundworm	0.26		BCA	WB	NS	459
+	Secernentea	Aphelenchida	Aphelenchidae	Aphelenchus avenae	Plant-parasitic nematode	0.04		FCM	WB	CE	653
+Alum	Secernentea	Ascaridida	Ascarididae	Ascaris lumbricoides	Intestinal roundworm	0.32		FD	TS	NS	339
+	Secernentea	Ascaridida	Ascarididae	Ascaris lumbricoides	Intestinal roundworm	0.68		FD	S	GD	384
+Asum	Secernentea	Ascaridida	Ascarididae	Ascaris suum	Pig roundworm	0.25		BCA	WB	NS	459
+	Secernentea	Ascaridida	Ascarididae	Parascaris univalens	Horse roundworm	1.20-2.10		FD	TS	NS	339
+	Secernentea	Ascaridida	Ascarididae	Parascaris univalens	Horse roundworm	2.5		BCA	WB	GD	348
+	Secernentea	Oxyurida	Oxyuridae	Aspiculuris tetraptera	Nematode	0.12		FCM	WB	CE	593
+	Secernentea	Oxyurida	Oxyuridae	Syphacia obvelata	Nematode	0.06		FCM	WB	CE	593
+	Secernentea	Oxyurida	Thelastomatidae	Hammerschmidtiella diesingi	Nematode	0.07		FCM	WB	CE	593
+	Secernentea	Rhabditida	Cephalobidae	Acrobeloides maximus	Nematode	0.26		SCF	S	CE	130
+	Secernentea	Rhabditida	Cephalobidae	Acrobeloides nanus	Nematode	0.14		SCF	S	CE	130
+Hbac	Secernentea	Rhabditida	Heterorhabditidae	Heterorhabditis bacteriophora	Nematode	0.04		BCA	WB	NS	192
+	Secernentea	Rhabditida	Heterorhabditidae	Heterorhabditis bacteriophora	Nematode	0.05		FCM	WB	CE	593
+Pred	Secernentea	Rhabditida	Panagrolaimidae	Panagrellus redividus	Nematode	0.08		BCA	WB	NS	459
+	Secernentea	Rhabditida	Panagrolaimidae	Panagrellus redividus	Nematode	0.16		SCF	S	CE	130
+	Secernentea	Rhabditida	Panagrolaimidae	Panagrellus silusiae	Nematode	0.43		FD	S	GD	467
+	Secernentea	Rhabditida	Panagrolaimidae	Panagrolaimus rigidus	Nematode	0.22		SCF	S	CE	130
+	Secernentea	Rhabditida	Rhabditidae	Caenorhabditis briggsae	Nematode	0.13		BCA	WB	NS	459
+Cele	Secernentea	Rhabditida	Rhabditidae	Caenorhabditis elegans	Nematode	0.08		BCA	WB	NS	482
+	Secernentea	Rhabditida	Rhabditidae	Caenorhabditis elegans	Nematode	0.1		SCF	S	NS	130
+	Secernentea	Rhabditida	Rhabditidae	Caenorhabditis elegans	Nematode	0.1		CS	WB	NS	68
+	Secernentea	Rhabditida	Rhabditidae	Caenorhabditis elegans	Nematode	0.1		FCM	WB	NS	43
+	Secernentea	Rhabditida	Rhabditidae	Oscheius dolichuroides	Nematode	0.1		SCF	S	CE	130
+	Secernentea	Rhabditida	Rhabditidae	Oscheius myriophila	Nematode	0.15		SCF	S	CE	130
+	Secernentea	Rhabditida	Rhabditidae	Oscheius sp.	Nematode	0.08		SCF	S	CE	130
+Otip	Secernentea	Rhabditida	Rhabditidae	Oscheius tipulae	Nematode	0.1		BCA	WB	CE	631
+	Secernentea	Rhabditida	Rhabditidae	Pellioditis sp.	Nematode	0.29		SCF	S	CE	130
+	Secernentea	Rhabditida	Rhabditidae	Pellioditis typica	Nematode	0.27		SCF	S	CE	130
+	Secernentea	Rhabditida	Rhabditidae	Rhabditella octopleura	Nematode	0.15		SCF	S	CE	130
+	Secernentea	Rhabditida	Rhabditidae	Rhabditoides regina	Nematode	0.17		SCF	S	CE	130
+	Secernentea	Rhabditida	Steinernematidae	Steinernema carpocapsae	Nematode	0.23		BCA	WB	NS	192
+Bmal	Secernentea	Spirurida	Filariidae	Brugia malayi	Parasitic nematode	0.11		NS	NS	NS	581
+Ovol	Secernentea	Spirurida	Onchocercidae	Onchocerca volvulus	Nematode	0.15		BCA	NS	NS	699
+Hcon	Secernentea	Strongylida	Trichostrongylidae	Haemonchus contortus	Nematode	0.06		FCM	WB	CE	593
+	Secernentea	Strongylida	Trichostrongylidae	Teladorsagia cricumcincta	Nematode	0.06		FCM	WB	CE	593
+	Secernentea	Tylenchida	Aphelenchoididae	Bursaphelenchus mucronatus	Nematode	0.03		FCM	WB	CE	593
+	Secernentea	Tylenchida	Hemicycliophoridae	Hemicycliophora conida	Plant-parasitic nematode	0.02		FCM	WB	CE	653
+	Secernentea	Tylenchida	Heteroderidae	Heterodera betulae	Root-knot nematode	0.1		FD	VHC	MI	265
+	Secernentea	Tylenchida	Heteroderidae	Heterodera glycines	Root-knot nematode	0.06		FD	VHC	MI	265
+	Secernentea	Tylenchida	Heteroderidae	Heterodera maritima	Plant-parasitic nematode	0.04		FCM	WB	CE	653
+	Secernentea	Tylenchida	Heteroderidae	Heterodera schachtii	Root-knot nematode	0.06		FD	VHC	MI	265
+	Secernentea	Tylenchida	Heteroderidae	Heterodera sp.	Root-knot nematode	0.08		FD	VHC	MI	265
+	Secernentea	Tylenchida	Heteroderidae	Heterodera trifolii	Root-knot nematode	0.1		FD	VHC	MI	265
+Mflo	Secernentea	Tylenchida	Heteroderidae	Meloidodera floridensis	Root-knot nematode	0.06		FD	VHC	MI	265
+	Secernentea	Tylenchida	Heteroderidae	Meloidogyne arenaria	Root-knot nematode	0.05		BCA	WB	NS	376
+	Secernentea	Tylenchida	Heteroderidae	Meloidogyne arenaria	Root-knot nematode	0.05		FD	VHC	MI	265
+	Secernentea	Tylenchida	Heteroderidae	Meloidogyne graminicola	Root-knot nematode	0.03		FD	VHC	MI	265
+	Secernentea	Tylenchida	Heteroderidae	Meloidogyne graminis	Root-knot nematode	0.03		FD	VHC	MI	265
+Mhap	Secernentea	Tylenchida	Heteroderidae	Meloidogyne hapla	Root-knot nematode	0.04		FD	VHC	MI	265
+	Secernentea	Tylenchida	Heteroderidae	Meloidogyne hapla	Root-knot nematode	0.05		BCA	WB	NS	376
+Minc	Secernentea	Tylenchida	Heteroderidae	Meloidogyne incognita	Root-knot nematode	0.05		BCA	WB	NS	376
+	Secernentea	Tylenchida	Heteroderidae	Meloidogyne incognita	Root-knot nematode	0.05		FCM	WB	CE	593
+Mjav	Secernentea	Tylenchida	Heteroderidae	Meloidogyne javanica	Root-knot nematode	0.05		BCA	WB	NS	376
+	Secernentea	Tylenchida	Heteroderidae	Meloidogyne javanica	Root-knot nematode	0.05		FD	VHC	MI	265
+	Secernentea	Tylenchida	Heteroderidae	Meloidogyne ottersoni	Root-knot nematode	0.03		FD	VHC	MI	265
+Pcof	Secernentea	Tylenchida	Pratylenchidae	Pratylenchus coffeae	Plant-parasitic nematode	0.02		FCM	WB	CE	653
+	Secernentea	Tylenchida	Telotylenchidae	Merlinius brevidens	Plant-parasitic nematode	0.03		FCM	WB	CE	653
+	Secernentea	Tylenchida	Telotylenchidae	Nagelus obscurus	Plant-parasitic nematode	0.09		FCM	WB	CE	653
+	Secernentea	Tylenchida	Telotylenchidae	Neodolichorhynchus lamelliferus	Plant-parasitic nematode	0.05		FCM	WB	CE	653
+	Secernentea	Tylenchida	Telotylenchidae	Tylenchorhynchus graciliformis	Plant-parasitic nematode	0.04		FCM	WB	CE	653
+	Secernentea	Tylenchida	Tylenchidae	Coslenchus rugosus	Plant-parasitic nematode	0.02		FCM	WB	CE	653

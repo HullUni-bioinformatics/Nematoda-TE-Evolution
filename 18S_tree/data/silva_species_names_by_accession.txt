@@ -1,0 +1,198 @@
+AJ920342.1.1737	Cylicocyclus insigne
+AJ966502.1.1749	Radopholus similis
+CACX01001817.29572.31281	Strongyloides ratti
+AB205054.1.1740	Strongyloides procyonis
+AY508018.1.1708	Bursaphelenchus hofmanni
+AY508014.1.1706	Bursaphelenchus fraudulentus
+JX154585.1.1711	Bursaphelenchus sp. JW-2012
+FJ501985.1.1706	Bursaphelenchus doui
+AF202165.1.1741	Turbatrix aceti
+AF036599.1.1759	Panagrellus redivivus
+AF083007.1.1737	Panagrellus redivivus
+AF519224.1.1727	Howardula aoronymphium
+AY942621.1.1655	Meloidogyne floridensis
+CABB01000393.6536.8311	Meloidogyne incognita
+CABB01000393.13387.15162	Meloidogyne incognita
+CABB01000393.21272.23049	Meloidogyne incognita
+JQ957897.1.1701	Globodera sp. 4 JH-2012
+AF036592.1.1766	Globodera pallida
+AY593874.1.1701	Globodera pallida
+EU855120.1.1756	Globodera rostochiensis
+FJ040399.1.1701	Globodera achilleae
+FJ040400.1.1701	Globodera artemisiae
+AY284677.1.1719	Chiloplacus propinquus
+AY284662.1.1717	Cephalobus persegnis
+AF036643.1.1744	Diplogaster lethieri
+AF082996.1.1723	Rhabditoides inermis
+U81583.1.1705	Cuticularia sp.
+AF036593.1.1718	Heterorhabditis bacteriophora
+AF083004.1.1734	Heterorhabditis hepialus
+AJ920368.1.1736	Heterorhabditis zealandica
+AY295805.1.1709	Crenosoma mephitidis
+AJ920355.1.1737	Heligmosomoides polygyrus
+AJ920354.1.1737	Filarinema flagrifer
+L04153.3.1750	Haemonchus contortus
+L04154.3.1750	Haemonchus placei
+AF082996.1.1723	Rhabditoides inermis
+U81583.1.1705	Cuticularia sp.
+AF036593.1.1718	Heterorhabditis bacteriophora
+AF083004.1.1734	Heterorhabditis hepialus
+AJ920368.1.1736	Heterorhabditis zealandica
+AY295805.1.1709	Crenosoma mephitidis
+AJ920355.1.1737	Heligmosomoides polygyrus
+AJ920354.1.1737	Filarinema flagrifer
+L04153.3.1750	Haemonchus contortus
+L04154.3.1750	Haemonchus placei
+L04152.3.1750	Haemonchus similis
+AJ920349.1.1760	Kalicephalus cristatus
+AJ920340.1.1737	Cyclodontostomum purvisi
+AJ920339.1.1757	Hypodontus macropi
+AJ920337.1.1757	Labiostrongylus bipapillosus
+AJ920341.1.1737	Chabertia ovina
+AJ920346.1.1737	Deletrocephalus dimidiatus
+JN636064.1.1725	Caenorhabditis sp. 7 KK-2011
+JN636074.1.1730	Caenorhabditis sp. 18 KK-2011
+JN636077.1.1729	Caenorhabditis sp. 15 KK-2011 	
+EU196001.1.1706	Caenorhabditis elegans
+ABEG02006517.3670.5412	Caenorhabditis brenneri
+JN636062.1.1727	Caenorhabditis sp. 10 KK-2011
+JN636061.214.1967	Caenorhabditis briggsae
+JN636060.1.1724	Caenorhabditis sp. 9 KK-2011
+AF083006.1.1701	Caenorhabditis angaria
+AY602181.1.1704	Caenorhabditis sp. DF5070
+AF083025.1.1710	Caenorhabditis drosophilae
+EU196003.1.1730	Diploscapter sp. JU359
+AF083024.1.1743	Protorhabditis sp. SB208
+EU196012.1.1715	Cruznema tripartitum
+EU196009.1.1677	Oscheius tipulae
+AF082998.1.1709	Oscheius dolichuroides
+AF082995.1.1717	Oscheius sp. DF5000
+U94376.1.1754	Hysterothylacium reliquens
+U94374.1.1753	Hysterothylacium fortalezae
+U94375.1.1754	Hysterothylacium pelagicum
+U94377.1.1754	heringascaris inquies
+U94372.1.1755	Goezia pelagia
+U94370.1.1754	Contracaecum multipapillatum
+AY702702.1.1730	Contracaecum microcephalum
+EF180072.1.1754	Contracaecum eudyptulae
+JN256991.1.1705	Baylisascaris ailuri
+JN256988.1.1705	Baylisascaris transfuga
+U94368.1.1754	Baylisascaris procyonis
+AF036587.1.1741	Ascaris suum
+JN256987.1.1705	Ascaris sp. 3 YL-2012
+JN256992.1.1703	Baylisascaris schroederi
+EF180081.1.1754	Dujardinascaris waltoni
+U94373.1.1753	Heterocheilus tunicatus
+U94371.1.1754	Cruzia americana
+AF083003.1.1779	Heterakis sp. 14690
+EF180070.1.1755	Aspidodera sp. SAN-2007
+DQ531723.1.1746	Dipetalonema sp. YQ-2006
+AY843438.1.1762	Wuchereria bancrofti
+AAQA01005177.63.1775	Brugia malayi
+AF227233.1.1676	Litomosoides sigmodontis
+AF036638.1.1732	Dirofilaria immitis
+AF036589.1.1756	Brumptaemilius justini
+AF036590.1.1779	Dentostomella sp.
+AY284713.1.1710	Chromadorid sp. JH-2004
+AF047891.1.1742	Chromadoropsis vivipara
+Y16919.1.1805	Laxus oneistus
+Y16918.1.1819	Laxus cosmopolitus
+Y16920.1.1848	Leptonemella sp.
+Y16917.1.1825	Eubostrichus topiarius
+Y16916.1.1836	Eubostrichus parasitiferus
+Y16915.1.1822	Eubostrichus dianae
+AY283163.1.1760	Longidorus ferrisi
+AY284816.1.1727	Longidorus cf. intermedius JH-2004
+AY687994.1.1753	Longidorus attenuatus
+AY284818.1.1729	Longidorus dunensis
+AY283165.1.1756	Longidorus grandis
+AY283158.1.1757	Longidorus crassus
+AF036587.1.1741	Ascaris suum
+JN256987.1.1705	Ascaris sp. 3 YL-2012
+JN256992.1.1703	Baylisascaris schroederi
+EF180081.1.1754	Dujardinascaris waltoni
+U94373.1.1753	Heterocheilus tunicatus
+U94371.1.1754	Cruzia americana
+AF083003.1.1779	Heterakis sp. 14690
+EF180070.1.1755	Aspidodera sp. SAN-2007
+DQ531723.1.1746	Dipetalonema sp. YQ-2006
+AY843438.1.1762	Wuchereria bancrofti
+AF036589.1.1756	Brumptaemilius justini
+Y16919.1.1805	Laxus oneistus
+Y16918.1.1819	Laxus cosmopolitus
+Y16920.1.1848	Leptonemella sp.
+Y16917.1.1825	Eubostrichus topiarius
+Y16916.1.1836	Eubostrichus parasitiferus
+Y16915.1.1822	Eubostrichus dianae
+AY283163.1.1760	Longidorus ferrisi
+AY284816.1.1727	Longidorus cf. intermedius JH-2004
+AY687994.1.1753	Longidorus attenuatus
+AY284818.1.1729	Longidorus dunensis
+AY283165.1.1756	Longidorus grandis
+AY283158.1.1757	Longidorus crassus
+AY283171.1.1761	Longidorus biformis
+AY283168.1.1754	Longidorus americanum
+AY687995.1.1754	Longidorus euonymus
+AY283172.1.1750	Longidorus fragilis
+EU503141.1.1754	Longidorus elongatus
+AY284784.1.1722	Ecumenicus monohystera 	
+AF036596.1.1760	Mylonchulus arenicolus
+AF036641.1.1749	Mermis nigrescens
+Y16914.1.1852	Enoplus meridionalis
+U88336.1.1797	Enoplus brevis
+AC006763.9285.11073	Saccharomyces_Caenorhabditis elegans
+AY593939.1.1717	Cylindrolaimus communis
+FJ969121.1.1758	Cylindrolaimus sp. CyliSp1
+AF202149.1.1763	Cylindrolaimus sp. 202149
+EU196018.1.1768	Brevibucca saprophaga
+AF036604.1.1722	Steinernema carpocapsae
+EU130798.1.855	Pratylenchus coffeae
+AF036591.1.1679	Oscheius tipulae
+AF082998.1.1709	Oscheius dolichuroides
+U13931.1.1685	caenorhabditis remanei
+JN636063.1.1724	Caenorhabditis sp. 11
+JN636065.1.1751	Caenorhabditis japonica
+AY268121.1.1756	Meloidogyne javanica
+ABLG01002648.6192.7987	Meloidogyne hapla
+AC167688.8242.9999	Daphnia pulex
+ADBU02009332.4271.6065	Loa loa
+ADBW01003330.1.1234	Onchocerca volvulus
+AF036637.1.1845	Trichuris muris
+AF083010.1.1711	Pristionchus pacificus
+AJ920361.1.1763	Dictyocaulus viviparus
+CAQS01000365.44889.46692	Romanomermis culicivorax
+DQ094171.1.1751	Acanthocheilonema viteae
+GU206792.1.1710	Bursaphelenchus xylophilus
+JN636065.1.1751	Caenorhabditis japonica
+KC006422.1.1827	Trichinella spiralis
+AY593888.1.1695	Meloidogyne chitwoodi
+Caenorhabditis	Caenorhabditis sp. 5
+JN256987.1.1705	Ascaris sp. 3 YL-2012
+Y16917.1.1825	Eubostrichus topiarius
+U94382.1.1754	Toxocara canis
+U94378.1.1754	Parascaris equorum
+U94366.1.1754	Ascaris lumbricoides
+M84229.1.1766	Strongyloides stercoralis
+EU496884.1.641	Brugia pahangi
+JX674037.1.1492	Rhabditophanes sp. AMS-2013
+KF770013.1.1821	Dracunculus medinensis
+JF934731.1.1825	Enterobius vermicularis
+DQ118536.1.1867	Trichuris trichiura
+DQ116748.1.1759	Angiostrongylus costaricensis
+EF464553.1.1262	Syphacia muris
+DQ094174.1.1774	Onchocerca cervicalis
+AY295804.1.1691	Angiostrongylus cantonensis
+AY277895.1.1743	Soboliphyme baturini
+ADBW01003330.1.1234	Onchocerca volvulus
+AF202151.1.1539	Rhabditophanes sp. KR3021
+AJ417024.1.1153	Parastrongyloides trichosuri
+AJ920356.1.1737	Nippostrongylus brasiliensis
+AB453323.1.1250	Strongyloides papillosus
+AB453330.1.1247	Strongyloides venezuelensis
+AB495389.1.1782	Gongylonema pulchrum
+AB538282.1.1532	Thelazia callipaeda
+CACX01001659.64.1775	Strongyloides ratti
+AB277822.1.1353	Anisakis simplex
+AF227234.1.1758	Wuchereria bancrofti
+AY589304.1.1684	Howardula aoronymphium
+

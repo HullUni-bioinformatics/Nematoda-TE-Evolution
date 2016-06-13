@@ -1,0 +1,36 @@
+
+phylobayes version 3.3f
+
+init seed : 794797
+
+Warning: only the topologies (.treelist) and the summary statistics (.trace) are saved
+to save the entire parameter configuration, use -s option
+
+data file : 822861429729532.25_18S@SINAR@gappyout.phylip
+number of taxa : 60
+number of sites: 1664
+
+2chains in parallel
+
+fast computation / high memory use 
+
+
+branch lengths ~ iid gamma of mean mu and variance epsilon*mu^2
+mu ~ exponential of mean 0.1
+epsilon ~ exponential of mean 1
+
+CAT model
+   Dirichlet process of equilibrium frequency profiles
+   flexible prior on profiles:
+   profile ~ iid from a Dirichlet of center pi0 and concentration delta
+   pi0 ~ uniform
+   delta ~ exponential of mean Nstate (=20 on amino-acid data, 4 on nucleotide data)
+
+relative exchange rates:
+gtr (relative rates ~ iid from an exponential of mean 1)
+
+rates ~ gamma of mean 1 and variance 1/alpha
+4 discrete categories (Yang 1994)
+alpha ~ exponential of mean 1
+
+
