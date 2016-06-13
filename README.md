@@ -25,6 +25,8 @@ This work is published from:
   United Kingdom</span>.
 </p>
   
+[![DOI](https://zenodo.org/badge/22650/HullUni-bioinformatics/Nematoda-TE-Evolution.svg)](https://zenodo.org/badge/latestdoi/22650/HullUni-bioinformatics/Nematoda-TE-Evolution)  
+   
 [preprint](http://biorxiv.org/content/early/2015/12/20/034884.abstract)  
 [S1 Table](https://dx.doi.org/10.6084/m9.figshare.2056107.v1)  
 [S2 Table](https://dx.doi.org/10.6084/m9.figshare.2056080.v1)  
