@@ -1,0 +1,142 @@
+# nhmmer :: search a DNA model or alignment against a DNA database
+# HMMER 3.1b1 (May 2013); http://hmmer.org/
+# Copyright (C) 2013 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query file:                      silencing/rrf3_ref.aln.fasta
+# target sequence database:        ../../Genomes/enterobius_vermicularis.PRJEB503.WBPS4.mRNA_transcripts.fa
+# output directed to file:         silencing/Ever.out
+# MSA of all hits saved to file:   silencing/Ever.aln.out
+# number of worker threads:        12
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       rrf3_ref.aln  [M=4754]
+Scores for complete hits:
+    E-value  score  bias  Sequence                start    end  Description
+    ------- ------ -----  --------                -----  -----  -----------
+   1.8e-109  365.1  31.7  EVEC_0000545101-mRNA-1   1513   2763  gene_id=EVEC_0000545101
+  ------ inclusion threshold ------
+        3.6    2.3   2.9  EVEC_0000545101-mRNA-1   1357   1495  gene_id=EVEC_0000545101
+
+
+Annotation for each hit  (and alignments):
+>> EVEC_0000545101-mRNA-1  gene_id=EVEC_0000545101
+    score  bias    Evalue   hmmfrom    hmm to     alifrom    ali to      envfrom    env to    sq len      acc
+   ------ ----- ---------   -------   -------    --------- ---------    --------- --------- ---------    ----
+ !  365.1  31.7  1.8e-109      1837      3057 ..      1513      2763 ..      1504      2783 ..      2832    0.80
+
+  Alignment:
+  score: 365.1 bits
+            rrf3_ref.aln 1837 cattaccagttccttgcatggtctaattcacagatgcgtgatcacggctgctacatgtactcagcagctaaggttattgatgagg 1921
+                              ca+t c   t cct gcat  tc+aattcacagatg g ga  acggctg+ta+ t t c                +tgatg gg
+  EVEC_0000545101-mRNA-1 1513 CACTTCGTCTACCTGGCATCTTCGAATTCACAGATGAGGGACAACGGCTGTTATTTCTTC---------------GATGATGGGG 1582
+                              5556666667799***************************************98654444...............4455556666 PP
+
+            rrf3_ref.aln 1922 tgagtggtgaggtacgtatctataagattgaagatatccgacgttggatgggcgatttcactgcatcgaaaagtgttccgaaatt 2006
+                              +  g gg ga+g +c +a    t   a  ga  at t+ gacgt           ttt ac       a +a t ttcc aaa+t
+  EVEC_0000545101-mRNA-1 1583 AAGGCGGAGAAGCGCAGAAAATT---AGGGATAATTTGGGACGT-----------TTTGACA----TTAGGAATATTCCAAAACT 1649
+                              66667788888877766654433...334666677777666665...........4555544....456688899********** PP
+
+            rrf3_ref.aln 2007 gatgtctcgaatggggcaatgcttcacacaagcgcagccaa.caa.....taatgctggaaagaaaagactggagtgtggaggaa 2085
+                              gatgtc cgaatggg+ca tg tt+ac ca gc+ agc +a ca+     t  t ctg    g+aaa a t  a t   g   a 
+  EVEC_0000545101-mRNA-1 1650 GATGTCACGAATGGGACAGTGTTTTACTCAGGCCGAGCGGAgCAGtgaggTGTTACTGC---GCAAAAAGTACAATAAAGCTCAC 1731
+                              ***********************************999887333311111445556655...55555566666777777888899 PP
+
+            rrf3_ref.aln 2086 gatatcgtgggtggtttatgacatccggaaacgggcgagctgttcaatttctctgatggagttgggaggatttctgcgaagtatg 2170
+                              gat t+gt gg gg+  a+    t c  aaa +gg ga+   t++a+tttctc ga gg+gttgg a + t+tc +  aa t +g
+  EVEC_0000545101-mRNA-1 1732 GATTTTGTTGGAGGCAAAGA---TGC--AAA-CGGAGAATCTTATACTTTCTCAGACGGTGTTGGAAAACTCTCCCTTAATTTCG 1810
+                              **************987664...333..444.567899*********************************************** PP
+
+            rrf3_ref.aln 2171 cagaacgcgttgctgaagtactggatttacgtcc...aacaccctcctgtttccaagttcgattcaaaggttttaagggtgttct 2252
+                              ca +  g  t gc g a++a tgg ttt+ g  c   + ++cc+  ctgttt+ca+ t+ gat c   gg  t+aaggg gtt+t
+  EVEC_0000545101-mRNA-1 1811 CATCTAGGATAGCAGGAAAAATGGGTTTGGGATCtttTGTGCCTAGCTGTTTTCAGATCAGATACCGTGGAATCAAGGGAGTTTT 1895
+                              ************************99998874441115789******************************************** PP
+
+            rrf3_ref.aln 2253 gtgcgttgatccatcgttggat....ata..........................gaggatagagcga................. 2290
+                              +t  gttgatcca cg t ga+    +t+                          gaggata+ag +a                 
+  EVEC_0000545101-mRNA-1 1896 ATCGGTTGATCCAGCGATAGACgaacGTCgtcattgggctgaaaggcactgtgtgGAGGATAAAGGAAaggaatacaataagact 1980
+                              *************999998887333333311111111111111111111111111223333333322211111111111111111 PP
+
+            rrf3_ref.aln 2291 ..........atgttgtcttccgtaagagtcagaagaaattcgaggaagatgaaggtgatgcggccgaat....tagaagtggtg 2361
+                                        atgt+ t tt cgt+    tcag a aa+tt+ga+       a+  +  + c g     +    t+ga  t gtg
+  EVEC_0000545101-mRNA-1 1981 ctcgatttagATGTCTTATTTCGTCCTTCTCAGGATAAGTTTGAT-------AGTCCTCGTCAGAA---AaataTCGATATTGTG 2055
+                              111111111134556667777887777778888888888887764.......22222233333333...23446*********** PP
+
+            rrf3_ref.aln 2362 aaatactcgatgccatcaccagtttgcctgagtcgaccgttgattatgatcttggatcaggtatgtgaaaagcagaatcgagagt 2446
+                              aaata+tc    cca+  cc gtt   ct a tcgacc +t at+a  atc tggatcaggt  gtga+a gca+ + c  g gt
+  EVEC_0000545101-mRNA-1 2056 AAATATTCTTCTCCAGTTCCTGTTGCGCTAAATCGACCACTTATCAATATCATGGATCAGGTTAGTGAGATGCAAGGACATGCGT 2140
+                              **********************99999********************************************************** PP
+
+            rrf3_ref.aln 2447 tgcataaaagtctttgttgtcgggttcattgtcttctagagcaggaactcaatatactagcagagatgttgttggatgaggag.g 2530
+                              t+cat  aag+ tttgt g cg gttca+t+t tt t ga c+  a++t+a      t gc ga atgtt  tg atgagga  g
+  EVEC_0000545101-mRNA-1 2141 TACATGCAAGGGTTTGTGGACGTGTTCACTCTTTTTTGGATCGTCAGTTGATGGAGATGGCTGAAATGTTTATGAATGAGGACaG 2225
+                              ********************************************************************************99623 PP
+
+            rrf3_ref.aln 2531 ctgcagcagaagagctttctt....cgcgtttatcacttcccatcgactttcgacagctgcatgacagtggtttcacttttacca 2611
+                              +tgc+   gaa +g+tt   t     gc  + a  a tt+c  tcga t tc   ag tg   g +ag gg ttc ct+t ac  
+  EVEC_0000545101-mRNA-1 2226 TTGCC--GGAAACGTTTGAATgaacTGCCAAAAAGAATTTCTGTCGAATATCTTAAGGTG---GTTAGAGGGTTCGCTCTAACTC 2305
+                              45554..47777777764433111133444445555667777788888888887777775...678999**************** PP
+
+            rrf3_ref.aln 2612 acgaacctttcttccgttctctgctcgtcgccgtccatcgttacaatataaaattacatctgagcaagttaaagattttcttacc 2696
+                              a gaacc+tt ttc g   +ct ct+  +gcc     t   t ca t taaa+ ++ca ct  + aa+  + agatt    t cc
+  EVEC_0000545101-mRNA-1 2306 AAGAACCCTTTTTCAGAAGCCTTCTTTATGCCAGTGCTAAATTCACTTTAAAGAAGCAACTTGCAAAAGAGCAGATTCAAGTGCC 2390
+                              ********************************98888999999999999999999998888656666666666666666679999 PP
+
+            rrf3_ref.aln 2697 cggctcaatgggtcgtacaatgtacggtgttgtcgatgatacaggcgtactacagtatggacaagtttttattcagtactcgccc 2781
+                                 +   +t gg cgtac atgt  gg gt gtcgatga  c+gg  tact ca tatgg+ca+gtttttat+cagtac c   c
+  EVEC_0000545101-mRNA-1 2391 TATTAAGCTTGGACGTACTATGTTTGGAGTAGTCGATGAGTCCGGTTTACTGCAATATGGTCAGGTTTTTATCCAGTACACCTGC 2475
+                              9999999999********************************************************************8765555 PP
+
+            rrf3_ref.aln 2782 agtgtg...............cgcaatgcttcggagaaagtcatcattcatataggtcctgtattggtaacaaagaatccatgtc 2851
+                              a t+t                 gcaa   t c+g  aaag  at++t    a agg   +gt ttg t ac+aa aatcc t t 
+  EVEC_0000545101-mRNA-1 2476 AATATAgaattgaaaaaacctGGCAAAAATGCAGCAAAAGAAATTCTA---AAAGGAAAAGTGTTGATTACGAAAAATCCCTCTG 2557
+                              555443111111111111111233444444555555566666655554...4589****************************** PP
+
+            rrf3_ref.aln 2852 ttgtggggggtgatgtacgtatgttcaaggcggtctatcagcctgctctttctcatcttcgtgatgttatcgtcttccctcgtta 2936
+                              ttgtgg++gg gatgta g  t tt+aa gc  t+ at   cctg  ct    ca  t   tga gtt+t gt tt+cctc  t 
+  EVEC_0000545101-mRNA-1 2558 TTGTGGCTGGCGATGTAAGGGTTTTTAATGCTATTGATATTCCTGAGCTAAACCACTTAGTTGACGTTGTAGTTTTTCCTCAGTC 2642
+                              **************************************99999999*********99999************************* PP
+
+            rrf3_ref.aln 2937 tggaccgcgaccgcatactgacgagatggctggtagtgatctggatggtgatgagtatatcgtgatattcgataaggaccttttc 3021
+                               gg cc cgaccgcat+c ga+gagatggc ggt +tga ct gatgg gatgagta+a + t at t  gat+++ga +t ttc
+  EVEC_0000545101-mRNA-1 2643 AGGTCCTCGACCGCATCCAGATGAGATGGCAGGTTCTGACCTTGATGGAGATGAGTACAGTATTATTTGGGATCCAGAATTATTC 2727
+                              ************************************************************************************* PP
+
+            rrf3_ref.aln 3022 ttggagcacaacgaggaggcgatgtttttcccaaag 3057
+                              tt ga ca+aa+ga+gag c  t  +ttt+ caaag
+  EVEC_0000545101-mRNA-1 2728 TTTGACCATAATGAAGAGCCATTAGATTTTACAAAG 2763
+                              *****************9999888899988888775 PP
+
+>> EVEC_0000545101-mRNA-1  gene_id=EVEC_0000545101
+    score  bias    Evalue   hmmfrom    hmm to     alifrom    ali to      envfrom    env to    sq len      acc
+   ------ ----- ---------   -------   -------    --------- ---------    --------- --------- ---------    ----
+ ?    2.3   2.9       3.6      1594      1726 ..      1357      1495 ..      1335      1510 ..      2832    0.84
+
+  Alignment:
+  score: 2.3 bits
+            rrf3_ref.aln 1594 attcgaaaggtgatggcaactccgctacgtcttatattgttgcctcccgaagtgatgatgacgaatcgtgttgtacgtcatttt. 1677
+                              +tt+g+aag t  t g++ac+cc   +cgt  t+t++t+ t   tcc gaa t  t atg  gaat g gt  t+cg  a t t 
+  EVEC_0000545101-mRNA-1 1357 GTTAGGAAGATAGTTGTCACACCAACGCGTACTCTCCTTGTTGTTCCTGAATTACTAATGGGGAATAGAGTGTTGCGCGAATATg 1441
+                              6788999999999999************************************************************998887662 PP
+
+            rrf3_ref.aln 1678 ........ggcgaagagtacgctttgcgatgtgtatttcgagatgataatggacaga 1726
+                                      gg ga g g   gct+t cga  t   tttcg gatgat a gga ++a
+  EVEC_0000545101-mRNA-1 1442 attcatcaGGTGATGGG---GCTCTACGAGTTCAGTTTCGCGATGATGACGGAAGCA 1495
+                              22222222688888765...8999999988888889**********99999876554 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (4754 nodes)
+Target sequences:                        12063  (23263032 residues searched)
+Residues passing SSV filter:            911952  (0.0392); expected (0.02)
+Residues passing bias filter:           773995  (0.0333); expected (0.02)
+Residues passing Vit filter:             40455  (0.00174); expected (0.003)
+Residues passing Fwd filter:              3915  (0.000168); expected (3e-05)
+Total number of hits:                        2  (5.98e-05)
+# CPU time: 21.85u 0.43s 00:00:22.28 Elapsed: 00:00:02.37
+# Mc/sec: 46663.48
+//
+# Alignment of 1 hits satisfying inclusion thresholds saved to: silencing/Ever.aln.out
+[ok]

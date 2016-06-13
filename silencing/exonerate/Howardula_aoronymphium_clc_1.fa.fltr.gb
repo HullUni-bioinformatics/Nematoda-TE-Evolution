@@ -1,0 +1,1191 @@
+LOCUS       Howa|1fa|2               552 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: sp|O76922| , target: contig_6931 , HSPID: 2
+ACCESSION   Howa|1fa|2
+VERSION     Howa|1fa|2
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..552
+                     /vulgar="M 28 84 G 0 3 M 155 465"
+                     /qid="sp|O76922|"
+                     /tstrand="+"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="572"
+                     /qtype="Protein"
+                     /tfull="AAGCGAACTTGTGTTGATCGGCCAGTTCCCTCACAAGTTGTAACCCTTCGA
+                     ACAATTGCTCCACGCCAGGAAAAAGGCGGTGGTTTCTTGCTTTCAGTAGCCACAAAAGT
+                     CTTGATCCAAATGAATGCCAAGTTGATGGGAGCACCTTGGATGATCGAAATGCCACTGC
+                     GAGGATTAATGACAGTTGGCTTTGACGTGTGCCACTCGTCGAAGAACAAAAACAAGTCT
+                     TACGGCGCTCTTGTGGCTACGATGGATATAAAGACATCCACACGTTATTATTCCTCGGT
+                     GACCGAGCACATGAAGGGCCAAGAACTATCAGATCAAATGTCGTTGAATATGACGTGTG
+                     CATTGAAGGCTTATCGCGAGCATCATGGAACATTGCCAGAGCGAATACTATTCTTCCGT
+                     GACGGAGTTGGCGAGGGACAACTATACCAGGTGTTCAACAGCGAGGTGAAATTCCTGAA
+                     AGACCAGTTGGACAAAGTCTATAAATCTGCCGGAATCGGGGAAGGTTGTAGATTGGCTT
+                     TCATAGTTGTTACCAAGCGAATAAACACG"
+                     /qfull="KRTCVDRPVPSQVVTLKVIAPRQQKPTGLMSIATKVVIQMNAKLMGAPWQV
+                     VIPLHGLMTVGFDVCHSPKNKNKSYGAFVATMDQKESFRYFSTVNEHIKGQELSEQMSV
+                     NMACALRSYQEQHRSLPERILFFRDGVGDGQLYQVVNSEVNTLKDRLDEIYKSAGKQEG
+                     CRMTFIIVSKRINS"
+                     /Etotal="183"
+                     /tend="552"
+                     /score="722"
+                     /Psim="88.52"
+                     /tid="contig_6931"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="755"
+                     /qstrand="."
+                     /Emis="45"
+                     /qlen="183"
+                     /Eident="138"
+                     /qcds
+                     /qname="PIWI_Dmel_aub"
+                     /Pident="75.41"
+                     /qdescription
+                     /tlen="552"
+                     /model="protein2genome:local"
+                     /tcds="AAGCGAACTTGTGTTGATCGGCCAGTTCCCTCACAAGTTGTAACCCTTCGAA
+                     CAATTGCTCCACGCCAGGAAAAAGGCGGTGGTTTCTTGCTTTCAGTAGCCACAAAAGTC
+                     TTGATCCAAATGAATGCCAAGTTGATGGGAGCACCTTGGATGATCGAAATGCCACTGCG
+                     AGGATTAATGACAGTTGGCTTTGACGTGTGCCACTCGTCGAAGAACAAAAACAAGTCTT
+                     ACGGCGCTCTTGTGGCTACGATGGATATAAAGACATCCACACGTTATTATTCCTCGGTG
+                     ACCGAGCACATGAAGGGCCAAGAACTATCAGATCAAATGTCGTTGAATATGACGTGTGC
+                     ATTGAAGGCTTATCGCGAGCATCATGGAACATTGCCAGAGCGAATACTATTCTTCCGTG
+                     ACGGAGTTGGCGAGGGACAACTATACCAGGTGTTCAACAGCGAGGTGAAATTCCTGAAA
+                     GACCAGTTGGACAAAGTCTATAAATCTGCCGGAATCGGGGAAGGTTGTAGATTGGCTTT
+                     CATAGTTGTTACCAAGCGAATAAACACG"
+                     /tbegin="0"
+                     /Esim="162"
+     M               1..84
+                     /gene="sp|O76922|"
+     G               85..87
+                     /gene="sp|O76922|"
+     M               88..552
+                     /gene="sp|O76922|"
+     CDS             join(1..84,85..87,88..552)
+                     /translation="KRTCVDRPVPSQVVTLRTIAPRQEKGGGFLLSVATKVLIQMNAKL
+                     MGAPWMIEMPLRGLMTVGFDVCHSSKNKNKSYGALVATMDIKTSTRYYSSVTEHMKGQE
+                     LSDQMSLNMTCALKAYREHHGTLPERILFFRDGVGEGQLYQVFNSEVKFLKDQLDKVYK
+                     SAGIGEGCRLAFIVVTKRINT"
+                     /gene="PIWI"
+ORIGIN
+        1 aagcgaactt gtgttgatcg gccagttccc tcacaagttg taacccttcg aacaattgct
+       61 ccacgccagg aaaaaggcgg tggtttcttg ctttcagtag ccacaaaagt cttgatccaa
+      121 atgaatgcca agttgatggg agcaccttgg atgatcgaaa tgccactgcg aggattaatg
+      181 acagttggct ttgacgtgtg ccactcgtcg aagaacaaaa acaagtctta cggcgctctt
+      241 gtggctacga tggatataaa gacatccaca cgttattatt cctcggtgac cgagcacatg
+      301 aagggccaag aactatcaga tcaaatgtcg ttgaatatga cgtgtgcatt gaaggcttat
+      361 cgcgagcatc atggaacatt gccagagcga atactattct tccgtgacgg agttggcgag
+      421 ggacaactat accaggtgtt caacagcgag gtgaaattcc tgaaagacca gttggacaaa
+      481 gtctataaat ctgccggaat cggggaaggt tgtagattgg ctttcatagt tgttaccaag
+      541 cgaataaaca cg
+//
+LOCUS       Howa|1fa|25              406 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: GPLIN_0010 , target: contig_30194 [revcomp], HSPID: 25
+ACCESSION   Howa|1fa|25
+VERSION     Howa|1fa|25
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..406
+                     /vulgar="M 57 171 5 0 2 I 0 42 3 0 2 M 27 81 G 0 6 M 34
+                     102"
+                     /qid="GPLIN_0010"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="1343"
+                     /qtype="Protein"
+                     /tfull="CTTGTAATAGATTTAAATGCACAATATGGCGGTCTTGGCAAAAAATTTATG
+                     GTTTTTTTAGAATTTCTTGCTTCTCGCCAATTTGAAACTACTTCTTATTTAAATTTTAT
+                     GGAGCCATCACTTGGTTATTCTAGCATGTTTTATCAGAAACAATGGATGGGTATACACA
+                     AAGTTTTAATTTTTTTTTAAATTTATAATATATTTAATACATTTCTAGGCCGCATTAGT
+                     TGCATTTCATCAAATAGCATTTACTTTTCGTTTTGATGCTTTACCTGCTACTAAAGAGC
+                     AACGAAAAAGTTTTTTAGATTATGCACCAATTCGTCAAATAAAAGAAGCAGATCCATTT
+                     GTTATTGAAGTACCGGCTTCTCATCAAAGTGCCGTTATTAATAATAAAGTTTTTTTTAA
+                     T"
+                     /qfull="VTVNLERQHGGIGKKFLRFLEFLSSRQFNLLPFVDFNEPAIGYTSVLQQNQ
+                     LLPLHKAALHCYHQIAFTFRFEGLPGTKEQRDKNTTPSQQVREGEPFIIEVPASRQSQV
+                     IHNQDLLN"
+                     /Etotal="118"
+                     /tend="54"
+                     /score="292"
+                     /Psim="75.42"
+                     /tid="contig_30194"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="1461"
+                     /qstrand="."
+                     /Emis="55"
+                     /qlen="118"
+                     /Eident="63"
+                     /qcds
+                     /qname="RDRP_Gpal_rdrp"
+                     /Pident="53.39"
+                     /qdescription
+                     /tlen="406"
+                     /model="protein2genome:local"
+                     /tcds="CTTGTAATAGATTTAAATGCACAATATGGCGGTCTTGGCAAAAAATTTATGG
+                     TTTTTTTAGAATTTCTTGCTTCTCGCCAATTTGAAACTACTTCTTATTTAAATTTTATG
+                     GAGCCATCACTTGGTTATTCTAGCATGTTTTATCAGAAACAATGGATGGGTATACACAA
+                     AGCCGCATTAGTTGCATTTCATCAAATAGCATTTACTTTTCGTTTTGATGCTTTACCTG
+                     CTACTAAAGAGCAACGAAAAAGTTTTTTAGATTATGCACCAATTCGTCAAATAAAAGAA
+                     GCAGATCCATTTGTTATTGAAGTACCGGCTTCTCATCAAAGTGCCGTTATTAATAATAA
+                     AGTTTTTTTTAAT"
+                     /tbegin="460"
+                     /Esim="89"
+     M               1..171
+                     /gene="GPLIN_0010"
+     5               172..173
+                     /gene="GPLIN_0010"
+     I               174..215
+                     /gene="GPLIN_0010"
+     3               216..217
+                     /gene="GPLIN_0010"
+     M               218..298
+                     /gene="GPLIN_0010"
+     G               299..304
+                     /gene="GPLIN_0010"
+     M               305..406
+                     /gene="GPLIN_0010"
+     CDS             join(1..171,218..298,299..304,305..406)
+                     /translation="LVIDLNAQYGGLGKKFMVFLEFLASRQFETTSYLNFMEPSLGYSS
+                     MFYQKQWMGIHKAALVAFHQIAFTFRFDALPATKEQRKSFLDYAPIRQIKEADPFVIEV
+                     PASHQSAVINNKVFFN"
+                     /gene="RDRP"
+ORIGIN
+        1 cttgtaatag atttaaatgc acaatatggc ggtcttggca aaaaatttat ggttttttta
+       61 gaatttcttg cttctcgcca atttgaaact acttcttatt taaattttat ggagccatca
+      121 cttggttatt ctagcatgtt ttatcagaaa caatggatgg gtatacacaa agttttaatt
+      181 tttttttaaa tttataatat atttaataca tttctaggcc gcattagttg catttcatca
+      241 aatagcattt acttttcgtt ttgatgcttt acctgctact aaagagcaac gaaaaagttt
+      301 tttagattat gcaccaattc gtcaaataaa agaagcagat ccatttgtta ttgaagtacc
+      361 ggcttctcat caaagtgccg ttattaataa taaagttttt tttaat
+//
+LOCUS       Howa|1fa|38              390 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: sp|O76922| , target: contig_44165 [revcomp], HSPID: 38
+ACCESSION   Howa|1fa|38
+VERSION     Howa|1fa|38
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..390
+                     /vulgar="M 130 390"
+                     /qid="sp|O76922|"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="398"
+                     /qtype="Protein"
+                     /tfull="CTTAGATTAATGAAAGCTATGGGGGAGCATACTAGAATGGCACCTGATCGT
+                     CGCATTGATCGCTTGCGCGTCTTCAATGATCGCTTGCAAAAATCGGCTGGTAGCGTCGA
+                     TATGTTGAAATCATGGAACTTGCAATTGGACTCGGCTCTTGTGGAGATTCCAGCTCGAG
+                     TTTTGCCACCAGAGAAGATTATATTTGGTAATCAAAGGCGTTATCTATGCGATGCACGC
+                     GCTGACTGGACATTCGAGTTTCACAAGAACTCGATGTTTACGCAGGTCGATATAAAGCG
+                     CTGGTACGTATTAACACCACGACGAAGCTTGCGAGAGGCTCAAGAGTTCGTAAAGCTCA
+                     TCATCCGGGCAGCGAACAATATGAGGATGCATGTCGCCGAACCA"
+                     /qfull="FRTLRAMSEHTRLNPDRRIERLRMFNKRLKSCKQSVETLKSWNIELDSALV
+                     EIPARVLPPEKILFGNQKIFVCDARADWTNEFRTCSMFKNVHINRWYVITPSRNLRETQ
+                     EFVQMCIRTASSMKMNICNP"
+                     /Etotal="130"
+                     /tend="33"
+                     /score="454"
+                     /Psim="80.77"
+                     /tid="contig_44165"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="528"
+                     /qstrand="."
+                     /Emis="47"
+                     /qlen="130"
+                     /Eident="83"
+                     /qcds
+                     /qname="PIWI_Dmel_aub"
+                     /Pident="63.85"
+                     /qdescription
+                     /tlen="390"
+                     /model="protein2genome:local"
+                     /tcds="CTTAGATTAATGAAAGCTATGGGGGAGCATACTAGAATGGCACCTGATCGTC
+                     GCATTGATCGCTTGCGCGTCTTCAATGATCGCTTGCAAAAATCGGCTGGTAGCGTCGAT
+                     ATGTTGAAATCATGGAACTTGCAATTGGACTCGGCTCTTGTGGAGATTCCAGCTCGAGT
+                     TTTGCCACCAGAGAAGATTATATTTGGTAATCAAAGGCGTTATCTATGCGATGCACGCG
+                     CTGACTGGACATTCGAGTTTCACAAGAACTCGATGTTTACGCAGGTCGATATAAAGCGC
+                     TGGTACGTATTAACACCACGACGAAGCTTGCGAGAGGCTCAAGAGTTCGTAAAGCTCAT
+                     CATCCGGGCAGCGAACAATATGAGGATGCATGTCGCCGAACCA"
+                     /tbegin="423"
+                     /Esim="105"
+     M               1..390
+                     /gene="sp|O76922|"
+     CDS             1..390
+                     /translation="LRLMKAMGEHTRMAPDRRIDRLRVFNDRLQKSAGSVDMLKSWNLQ
+                     LDSALVEIPARVLPPEKIIFGNQRRYLCDARADWTFEFHKNSMFTQVDIKRWYVLTPRR
+                     SLREAQEFVKLIIRAANNMRMHVAEP"
+                     /gene="PIWI"
+ORIGIN
+        1 cttagattaa tgaaagctat gggggagcat actagaatgg cacctgatcg tcgcattgat
+       61 cgcttgcgcg tcttcaatga tcgcttgcaa aaatcggctg gtagcgtcga tatgttgaaa
+      121 tcatggaact tgcaattgga ctcggctctt gtggagattc cagctcgagt tttgccacca
+      181 gagaagatta tatttggtaa tcaaaggcgt tatctatgcg atgcacgcgc tgactggaca
+      241 ttcgagtttc acaagaactc gatgtttacg caggtcgata taaagcgctg gtacgtatta
+      301 acaccacgac gaagcttgcg agaggctcaa gagttcgtaa agctcatcat ccgggcagcg
+      361 aacaatatga ggatgcatgt cgccgaacca
+//
+LOCUS       Howa|1fa|49              291 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: g7616.t1_g , target: contig_68217 [revcomp], HSPID: 49
+ACCESSION   Howa|1fa|49
+VERSION     Howa|1fa|49
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..291
+                     /vulgar="M 61 183 G 2 0 M 20 60 G 1 0 M 16 48"
+                     /qid="g7616.t1_g"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="151"
+                     /qtype="Protein"
+                     /tfull="CACTCTTTCCCTACACGACGCTCTTCCGATCTTGTGCACCACTACGATATC
+                     AATATTCAGCCGGATAAGTGTCCGCGCAAGGTGAATCGTGAGATTATTGAAACAATGGT
+                     GCATGCCTATAGCAAGATCTTTGGCGTACTCAAACCGGTATTCGATGGTCGCAACAATT
+                     TATATACTCGCGATCCCTTGCCCATTGGTAACGAGCGTCTGGAACTGGAGGTGACATTG
+                     CCCGGCGAGGGAAAGGATCGCATTTTTCGCGTAACGATCAAGTGGCAGGCACAAGTCTC
+                     ACTC"
+                     /qfull="NHFKVGMPSANVFHYMIEIQPDKCPRKVNRDIVNTMIDSFQNYFNGIRPVY
+                     DGKKSMYTKIMLPFPPNVSRVEVEVVMPGDASVDRRFKVAIKYVSVVSL"
+                     /Etotal="97"
+                     /tend="12"
+                     /score="202"
+                     /Psim="67.01"
+                     /tid="contig_68217"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="251"
+                     /qstrand="."
+                     /Emis="52"
+                     /qlen="100"
+                     /Eident="45"
+                     /qcds
+                     /qname="AGO_Pred"
+                     /Pident="46.39"
+                     /qdescription
+                     /tlen="291"
+                     /model="protein2genome:local"
+                     /tcds="CACTCTTTCCCTACACGACGCTCTTCCGATCTTGTGCACCACTACGATATCA
+                     ATATTCAGCCGGATAAGTGTCCGCGCAAGGTGAATCGTGAGATTATTGAAACAATGGTG
+                     CATGCCTATAGCAAGATCTTTGGCGTACTCAAACCGGTATTCGATGGTCGCAACAATTT
+                     ATATACTCGCGATCCCTTGCCCATTGGTAACGAGCGTCTGGAACTGGAGGTGACATTGC
+                     CCGGCGAGGGAAAGGATCGCATTTTTCGCGTAACGATCAAGTGGCAGGCACAAGTCTCA
+                     CTC"
+                     /tbegin="303"
+                     /Esim="65"
+     M               1..183
+                     /gene="g7616.t1_g"
+     G               183^184
+                     /gene="g7616.t1_g"
+     M               184..243
+                     /gene="g7616.t1_g"
+     G               243^244
+                     /gene="g7616.t1_g"
+     M               244..291
+                     /gene="g7616.t1_g"
+     CDS             join(1..183,184..243,244..291)
+                     /translation="HSFPTRRSSDLVHHYDINIQPDKCPRKVNREIIETMVHAYSKIFG
+                     VLKPVFDGRNNLYTRDPLPIGNERLELEVTLPGEGKDRIFRVTIKWQAQVSL"
+                     /gene="AGO"
+ORIGIN
+        1 cactctttcc ctacacgacg ctcttccgat cttgtgcacc actacgatat caatattcag
+       61 ccggataagt gtccgcgcaa ggtgaatcgt gagattattg aaacaatggt gcatgcctat
+      121 agcaagatct ttggcgtact caaaccggta ttcgatggtc gcaacaattt atatactcgc
+      181 gatcccttgc ccattggtaa cgagcgtctg gaactggagg tgacattgcc cggcgaggga
+      241 aaggatcgca tttttcgcgt aacgatcaag tggcaggcac aagtctcact c
+//
+LOCUS       Howa|1fa|82              321 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|Q7KY08| , target: contig_106665 [revcomp], HSPID: 82
+ACCESSION   Howa|1fa|82
+VERSION     Howa|1fa|82
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..321
+                     /vulgar="M 107 321"
+                     /qid="tr|Q7KY08|"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="798"
+                     /qtype="Protein"
+                     /tfull="CAGAGGCGATACCACGTGCGTCTGGTGGGCGCCGAGAGGAGGGGGCAAGGT
+                     GGCAAATCGGGTAACATTCCCGCCGGTACCACCGTTGACGTTGGCATCACCCATCCCAC
+                     GGAATTTGATTTCTATCTGTGCAGTCATCAGGGTATTCAGGGCACCAGTCGTCCCTCGC
+                     ATTATCATGTGCTCTGGGATGACAATCACTTTGATTCTGATGAGCTGCAATGTCTCACC
+                     TATCAACTATGCCACACCTATGTGAGATGCACCCGATCTGTCAGCATACCAGCGCCAGC
+                     TTATTATGCCCATTTGGTAGCTTTCCGTGCCAGG"
+                     /qfull="QKRHHTRLFCAEKKEQSGKSGNIPAGTTVDVGITHPTEFDFYLCSHQGIQG
+                     TSRPSHYHVLWDDNHFDSDELQCLTYQLCHTYVRCTRSVSIPAPAYYAHLVAFRAR"
+                     /Etotal="107"
+                     /tend="58"
+                     /score="547"
+                     /Psim="95.33"
+                     /tid="contig_106665"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="905"
+                     /qstrand="."
+                     /Emis="9"
+                     /qlen="107"
+                     /Eident="98"
+                     /qcds
+                     /qname="AGO_Dmel"
+                     /Pident="91.59"
+                     /qdescription
+                     /tlen="321"
+                     /model="protein2genome:local"
+                     /tcds="CAGAGGCGATACCACGTGCGTCTGGTGGGCGCCGAGAGGAGGGGGCAAGGTG
+                     GCAAATCGGGTAACATTCCCGCCGGTACCACCGTTGACGTTGGCATCACCCATCCCACG
+                     GAATTTGATTTCTATCTGTGCAGTCATCAGGGTATTCAGGGCACCAGTCGTCCCTCGCA
+                     TTATCATGTGCTCTGGGATGACAATCACTTTGATTCTGATGAGCTGCAATGTCTCACCT
+                     ATCAACTATGCCACACCTATGTGAGATGCACCCGATCTGTCAGCATACCAGCGCCAGCT
+                     TATTATGCCCATTTGGTAGCTTTCCGTGCCAGG"
+                     /tbegin="379"
+                     /Esim="102"
+     M               1..321
+                     /gene="tr|Q7KY08|"
+     CDS             1..321
+                     /translation="QRRYHVRLVGAERRGQGGKSGNIPAGTTVDVGITHPTEFDFYLCS
+                     HQGIQGTSRPSHYHVLWDDNHFDSDELQCLTYQLCHTYVRCTRSVSIPAPAYYAHLVAF
+                     RAR"
+                     /gene="AGO"
+ORIGIN
+        1 cagaggcgat accacgtgcg tctggtgggc gccgagagga gggggcaagg tggcaaatcg
+       61 ggtaacattc ccgccggtac caccgttgac gttggcatca cccatcccac ggaatttgat
+      121 ttctatctgt gcagtcatca gggtattcag ggcaccagtc gtccctcgca ttatcatgtg
+      181 ctctgggatg acaatcactt tgattctgat gagctgcaat gtctcaccta tcaactatgc
+      241 cacacctatg tgagatgcac ccgatctgtc agcataccag cgccagctta ttatgcccat
+      301 ttggtagctt tccgtgccag g
+//
+LOCUS       Howa|1fa|122             372 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: TMUE_s0141 , target: contig_138499 [revcomp], HSPID: 122
+ACCESSION   Howa|1fa|122
+VERSION     Howa|1fa|122
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..372
+                     /vulgar="M 124 372"
+                     /qid="TMUE_s0141"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="740"
+                     /qtype="Protein"
+                     /tfull="TTACAGCTGGGCATTAAACCCAAAATGTGCTGTGTGATTGTTGTGAAGCGT
+                     CATCACACACGCTTCTTTCCTACGACCCCACCAACTCCCAGAAATAAATTCAACAATGT
+                     TGACCCAGGCACTGTTGTCGATCGCACCATCGTGCATCCAAATGAGATGCAATTCTTTA
+                     TGGTTAGCCATCAGTCCATTCAGGGCACTGCCAAGCCCACACGCTACAATGTCATTGAG
+                     AATACTGGAAATTTGGATATTGATCTATTGCAACAATTGACGTATAATTTGTGCCACAT
+                     GTTTCCACGTTGCAATCGCTCCGTATCATATCCGGCACCAGCTTATTTGGCTCATTTGG
+                     CTGCAGCTCGCGGCCGTGTCTACATC"
+                     /qfull="LERGYQPGITFVAVQKRHHTRLFAVDKKDQVGKAFNIPPGTTVDVGITHPT
+                     EFDFFLCSHAGIQGTSRPSHYHVLWDDNNLSADELQQLTYQLCHTYVRCTRSVSIPAPA
+                     YYAHLVAFRARYHL"
+                     /Etotal="124"
+                     /tend="153"
+                     /score="324"
+                     /Psim="62.10"
+                     /tid="contig_138499"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="864"
+                     /qstrand="."
+                     /Emis="61"
+                     /qlen="124"
+                     /Eident="63"
+                     /qcds
+                     /qname="AGO_Tmur"
+                     /Pident="50.81"
+                     /qdescription
+                     /tlen="372"
+                     /model="protein2genome:local"
+                     /tcds="TTACAGCTGGGCATTAAACCCAAAATGTGCTGTGTGATTGTTGTGAAGCGTC
+                     ATCACACACGCTTCTTTCCTACGACCCCACCAACTCCCAGAAATAAATTCAACAATGTT
+                     GACCCAGGCACTGTTGTCGATCGCACCATCGTGCATCCAAATGAGATGCAATTCTTTAT
+                     GGTTAGCCATCAGTCCATTCAGGGCACTGCCAAGCCCACACGCTACAATGTCATTGAGA
+                     ATACTGGAAATTTGGATATTGATCTATTGCAACAATTGACGTATAATTTGTGCCACATG
+                     TTTCCACGTTGCAATCGCTCCGTATCATATCCGGCACCAGCTTATTTGGCTCATTTGGC
+                     TGCAGCTCGCGGCCGTGTCTACATC"
+                     /tbegin="525"
+                     /Esim="77"
+     M               1..372
+                     /gene="TMUE_s0141"
+     CDS             1..372
+                     /translation="LQLGIKPKMCCVIVVKRHHTRFFPTTPPTPRNKFNNVDPGTVVDR
+                     TIVHPNEMQFFMVSHQSIQGTAKPTRYNVIENTGNLDIDLLQQLTYNLCHMFPRCNRSV
+                     SYPAPAYLAHLAAARGRVYI"
+                     /gene="AGO"
+ORIGIN
+        1 ttacagctgg gcattaaacc caaaatgtgc tgtgtgattg ttgtgaagcg tcatcacaca
+       61 cgcttctttc ctacgacccc accaactccc agaaataaat tcaacaatgt tgacccaggc
+      121 actgttgtcg atcgcaccat cgtgcatcca aatgagatgc aattctttat ggttagccat
+      181 cagtccattc agggcactgc caagcccaca cgctacaatg tcattgagaa tactggaaat
+      241 ttggatattg atctattgca acaattgacg tataatttgt gccacatgtt tccacgttgc
+      301 aatcgctccg tatcatatcc ggcaccagct tatttggctc atttggctgc agctcgcggc
+      361 cgtgtctaca tc
+//
+LOCUS       Howa|1fa|137             488 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: GPLIN_0003 , target: contig_151207 [revcomp], HSPID: 137
+ACCESSION   Howa|1fa|137
+VERSION     Howa|1fa|137
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..488
+                     /vulgar="M 43 129 5 0 2 I 0 46 3 0 2 M 48 144 G 0 3 M 22 66
+                     G 4 0 M 32 96"
+                     /qid="GPLIN_0003"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="1192"
+                     /qtype="Protein"
+                     /tfull="GGTAAAAAAAGTATGTACACACGTGAATCATTACCAATTGGTCGGGAACGT
+                     ATTGAAGTTGAAGTTGTGATGCCTGGAGATTCATCAGTTGATCGAAAATTTAAAGTTTC
+                     TATTAAATTAATGAGTATGGTATGTTTAAAAAATAATAAAATTTAGAATATTTAATTTT
+                     TTTACTATAGGTCTCACTTTCAAAATTAGAAGATGCTATGCTTGGAAGGATTCGTACTG
+                     TGCCATTAGAATCTGTTCAAGCAATGGATGTTATTCTCAGACATTTACCTTCTATGAAT
+                     TATACTCCAGTAGGTAGATCGTTTTTTTCTTCTCCAGGAAGTGGAGGACCTGGTAGTCA
+                     TTACGCTGCAGTCAGTCGGAGTGGCGCTGGAGGTGCATATCATAACTCTGTAGATAGTA
+                     AATTAGGAGGTGGTCGTGAAGTTTGGTTTGGTTTTCATCAAAGTGTAAGACCTAGTCAA
+                     TGGAAAATGATGCTTAATATAGAT"
+                     /qfull="GKKSMYSKDPLPIGHDRIELEVVMPGDSAVDRKFKVAIKLVARVSLQALDD
+                     AMLGRIRQIPTESVQAMDVILRHLPSMKYTPVGRSFFSSPSSPIGSHHISTSGGGGFQA
+                     GDNKGFQAVDSKLGGGREVWFGFHQSVRPSQWKMMLNID"
+                     /Etotal="145"
+                     /tend="22"
+                     /score="508"
+                     /Psim="86.21"
+                     /tid="contig_151207"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="1341"
+                     /qstrand="."
+                     /Emis="34"
+                     /qlen="149"
+                     /Eident="111"
+                     /qcds
+                     /qname="AGO_GpalB"
+                     /Pident="76.55"
+                     /qdescription
+                     /tlen="488"
+                     /model="protein2genome:local"
+                     /tcds="GGTAAAAAAAGTATGTACACACGTGAATCATTACCAATTGGTCGGGAACGTA
+                     TTGAAGTTGAAGTTGTGATGCCTGGAGATTCATCAGTTGATCGAAAATTTAAAGTTTCT
+                     ATTAAATTAATGAGTATGGTCTCACTTTCAAAATTAGAAGATGCTATGCTTGGAAGGAT
+                     TCGTACTGTGCCATTAGAATCTGTTCAAGCAATGGATGTTATTCTCAGACATTTACCTT
+                     CTATGAATTATACTCCAGTAGGTAGATCGTTTTTTTCTTCTCCAGGAAGTGGAGGACCT
+                     GGTAGTCATTACGCTGCAGTCAGTCGGAGTGGCGCTGGAGGTGCATATCATAACTCTGT
+                     AGATAGTAAATTAGGAGGTGGTCGTGAAGTTTGGTTTGGTTTTCATCAAAGTGTAAGAC
+                     CTAGTCAATGGAAAATGATGCTTAATATAGAT"
+                     /tbegin="510"
+                     /Esim="125"
+     M               1..129
+                     /gene="GPLIN_0003"
+     5               130..131
+                     /gene="GPLIN_0003"
+     I               132..177
+                     /gene="GPLIN_0003"
+     3               178..179
+                     /gene="GPLIN_0003"
+     M               180..323
+                     /gene="GPLIN_0003"
+     G               324..326
+                     /gene="GPLIN_0003"
+     M               327..392
+                     /gene="GPLIN_0003"
+     G               392^393
+                     /gene="GPLIN_0003"
+     M               393..488
+                     /gene="GPLIN_0003"
+     CDS             join(1..129,180..323,324..326,327..392,393..488)
+                     /translation="GKKSMYTRESLPIGRERIEVEVVMPGDSSVDRKFKVSIKLMSMVS
+                     LSKLEDAMLGRIRTVPLESVQAMDVILRHLPSMNYTPVGRSFFSSPGSGGPGSHYAAVS
+                     RSGAGGAYHNSVDSKLGGGREVWFGFHQSVRPSQWKMMLNID"
+                     /gene="AGO"
+ORIGIN
+        1 ggtaaaaaaa gtatgtacac acgtgaatca ttaccaattg gtcgggaacg tattgaagtt
+       61 gaagttgtga tgcctggaga ttcatcagtt gatcgaaaat ttaaagtttc tattaaatta
+      121 atgagtatgg tatgtttaaa aaataataaa atttagaata tttaattttt ttactatagg
+      181 tctcactttc aaaattagaa gatgctatgc ttggaaggat tcgtactgtg ccattagaat
+      241 ctgttcaagc aatggatgtt attctcagac atttaccttc tatgaattat actccagtag
+      301 gtagatcgtt tttttcttct ccaggaagtg gaggacctgg tagtcattac gctgcagtca
+      361 gtcggagtgg cgctggaggt gcatatcata actctgtaga tagtaaatta ggaggtggtc
+      421 gtgaagtttg gtttggtttt catcaaagtg taagacctag tcaatggaaa atgatgctta
+      481 atatagat
+//
+LOCUS       Howa|1fa|154             488 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: g7616.t1_g , target: contig_152561 [revcomp], HSPID: 154
+ACCESSION   Howa|1fa|154
+VERSION     Howa|1fa|154
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..488
+                     /vulgar="M 75 225 S 0 2 5 0 2 I 0 43 3 0 2 S 1 1 M 71 213"
+                     /qid="g7616.t1_g"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="344"
+                     /qtype="Protein"
+                     /tfull="GTTTCTGCTACTGCATTTTATCGAAAAATGCCTGTAATTGACTTTGTTGCA
+                     GAAGTTTTAGAACTTCCAGTACAAGCACTAAGTGACAGACGTACATTGTCGGATGCCCA
+                     GCGAGTTAAGTTTACAAAAGAAATCCGAGGATTAAAAATTGAAATAACACACTGTGGAG
+                     CAATGCGTCGTAAATATCGTGTTTGTAATGTAACTCGTCGTCCTGCTCAAACACAAACG
+                     TAAATTTACCAATTTTTAACTTAATTATATAGCATATTTATTGTAGATTTCCTTTACAA
+                     TTAGAAAATGGTCAAACAATTGAATGTACTGTTGCTAAATACTTTTTAGATAAATATAG
+                     AATATCATTAAAGTATCCTCATTTACCTTGTCTTCAAGTTGGTCAAGAGCAAAAGCACA
+                     CTTATTTACCATTAGAAGTGTGTGAAATAGTATCAGGTCAACGATGTATTAAAAAACTT
+                     ACGGATGTACAAACATCAACTATG"
+                     /qfull="VSATAFYRKMPVIDFIAEVLELPVQALSDRRTLSDAQRVKFTKEIRGLKIE
+                     ITHCGAMRRKYRVCNVTRRPAQTQTFPLQLENGQTIESTVANYFKDKYNMQLKYPHLPC
+                     LQVGQEQKHTYLPPEVCEIVSGQRCIKKLTDTQTSTM"
+                     /Etotal="146"
+                     /tend="2"
+                     /score="699"
+                     /Psim="95.21"
+                     /tid="contig_152561"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="491"
+                     /qstrand="."
+                     /Emis="9"
+                     /qlen="147"
+                     /Eident="137"
+                     /qcds="T"
+                     /qname="AGO_Pred"
+                     /Pident="93.84"
+                     /qdescription
+                     /tlen="488"
+                     /model="protein2genome:local"
+                     /tcds="GTTTCTGCTACTGCATTTTATCGAAAAATGCCTGTAATTGACTTTGTTGCAG
+                     AAGTTTTAGAACTTCCAGTACAAGCACTAAGTGACAGACGTACATTGTCGGATGCCCAG
+                     CGAGTTAAGTTTACAAAAGAAATCCGAGGATTAAAAATTGAAATAACACACTGTGGAGC
+                     AATGCGTCGTAAATATCGTGTTTGTAATGTAACTCGTCGTCCTGCTCAAACACAAACAT
+                     TTCCTTTACAATTAGAAAATGGTCAAACAATTGAATGTACTGTTGCTAAATACTTTTTA
+                     GATAAATATAGAATATCATTAAAGTATCCTCATTTACCTTGTCTTCAAGTTGGTCAAGA
+                     GCAAAAGCACACTTATTTACCATTAGAAGTGTGTGAAATAGTATCAGGTCAACGATGTA
+                     TTAAAAAACTTACGGATGTACAAACATCAACTATG"
+                     /tbegin="490"
+                     /Esim="139"
+     M               1..225
+                     /gene="g7616.t1_g"
+     S               226..227
+                     /gene="g7616.t1_g"
+     5               228..229
+                     /gene="g7616.t1_g"
+     I               230..272
+                     /gene="g7616.t1_g"
+     3               273..274
+                     /gene="g7616.t1_g"
+     S               275
+                     /gene="g7616.t1_g"
+     M               276..488
+                     /gene="g7616.t1_g"
+     CDS             join(1..225,226..227,275,276..488)
+                     /translation="VSATAFYRKMPVIDFVAEVLELPVQALSDRRTLSDAQRVKFTKEI
+                     RGLKIEITHCGAMRRKYRVCNVTRRPAQTQTFPLQLENGQTIECTVAKYFLDKYRISLK
+                     YPHLPCLQVGQEQKHTYLPLEVCEIVSGQRCIKKLTDVQTSTM"
+                     /gene="AGO"
+ORIGIN
+        1 gtttctgcta ctgcatttta tcgaaaaatg cctgtaattg actttgttgc agaagtttta
+       61 gaacttccag tacaagcact aagtgacaga cgtacattgt cggatgccca gcgagttaag
+      121 tttacaaaag aaatccgagg attaaaaatt gaaataacac actgtggagc aatgcgtcgt
+      181 aaatatcgtg tttgtaatgt aactcgtcgt cctgctcaaa cacaaacgta aatttaccaa
+      241 tttttaactt aattatatag catatttatt gtagatttcc tttacaatta gaaaatggtc
+      301 aaacaattga atgtactgtt gctaaatact ttttagataa atatagaata tcattaaagt
+      361 atcctcattt accttgtctt caagttggtc aagagcaaaa gcacacttat ttaccattag
+      421 aagtgtgtga aatagtatca ggtcaacgat gtattaaaaa acttacggat gtacaaacat
+      481 caactatg
+//
+LOCUS       Howa|1fa|168             506 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: BUX.s01144 , target: contig_155291 [revcomp], HSPID: 168
+ACCESSION   Howa|1fa|168
+VERSION     Howa|1fa|168
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..506
+                     /vulgar="M 8 24 5 0 2 I 0 39 3 0 2 M 101 303 S 0 2 5 0 2 I
+                     0 42 3 0 2 S 1 1 M 29 87"
+                     /qid="BUX.s01144"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="554"
+                     /qtype="Protein"
+                     /tfull="GTACAAACATCAACTATGATTAAAGTATCAATAAAATTAATAAAATTATAA
+                     TTTTTTTTTGTTTAAGGCTACTGCTCGTTCGGCTCCTGAACGTGAATTAGAAATATCAA
+                     ATTTAGTACGTCGACCTGAGTTTACTAATGACCCATACGCGCATGAATTTGGAATATCA
+                     ATAACATCAAAAATGACAGAAGTTATTGGACGAGTTTTAAGTGCTCCAAAATTATTGTA
+                     TGGCGGTCGCACTAAAGCAACTGCTATACCCAGTCAAGGCGTTTGGGATATGCGCGGAA
+                     AGCAATTTCACACTGGTGTTGAAATTAAGGTATGGGCTATTGCTTGCTTTGCGCAGCAG
+                     CAACACGTAAAAGAAAACGATTTACGGTATTTTTATATTTGTTTACAGAAAAAATTATT
+                     TATTGTTTTTAAGGACTTTTACTGCTCAATTACAGCGCATATCTGCAGAGGCTGGAATG
+                     CCAATTGTGGGTCAGCCATGTTTTTGCAAATATGCTGTCGGT"
+                     /qfull="IQTSTMIKATARSAPEREREIASLVKRAEFTNDPYAQEFGISINSNMTEVK
+                     GRILSAPKLLYGGRNKMTALPNQGVWDMRGKQFHTGIEVKIWAIACFAQQQHVKENDLR
+                     NFTSQLQRISSDAGMPIIGQPCFCKYAVG"
+                     /Etotal="138"
+                     /tend="1"
+                     /score="598"
+                     /Psim="93.48"
+                     /tid="contig_155291"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="693"
+                     /qstrand="."
+                     /Emis="23"
+                     /qlen="139"
+                     /Eident="115"
+                     /qcds="R"
+                     /qname="AGO_Bxyl"
+                     /Pident="83.33"
+                     /qdescription
+                     /tlen="506"
+                     /model="protein2genome:local"
+                     /tcds="GTACAAACATCAACTATGATTAAAGCTACTGCTCGTTCGGCTCCTGAACGTG
+                     AATTAGAAATATCAAATTTAGTACGTCGACCTGAGTTTACTAATGACCCATACGCGCAT
+                     GAATTTGGAATATCAATAACATCAAAAATGACAGAAGTTATTGGACGAGTTTTAAGTGC
+                     TCCAAAATTATTGTATGGCGGTCGCACTAAAGCAACTGCTATACCCAGTCAAGGCGTTT
+                     GGGATATGCGCGGAAAGCAATTTCACACTGGTGTTGAAATTAAGGTATGGGCTATTGCT
+                     TGCTTTGCGCAGCAGCAACACGTAAAAGAAAACGATTTACGGACTTTTACTGCTCAATT
+                     ACAGCGCATATCTGCAGAGGCTGGAATGCCAATTGTGGGTCAGCCATGTTTTTGCAAAT
+                     ATGCTGTCGGT"
+                     /tbegin="507"
+                     /Esim="129"
+     M               1..24
+                     /gene="BUX.s01144"
+     5               25..26
+                     /gene="BUX.s01144"
+     I               27..65
+                     /gene="BUX.s01144"
+     3               66..67
+                     /gene="BUX.s01144"
+     M               68..370
+                     /gene="BUX.s01144"
+     S               371..372
+                     /gene="BUX.s01144"
+     5               373..374
+                     /gene="BUX.s01144"
+     I               375..416
+                     /gene="BUX.s01144"
+     3               417..418
+                     /gene="BUX.s01144"
+     S               419
+                     /gene="BUX.s01144"
+     M               420..506
+                     /gene="BUX.s01144"
+     CDS             join(1..24,68..370,371..372,419,420..506)
+                     /translation="VQTSTMIKATARSAPERELEISNLVRRPEFTNDPYAHEFGISITS
+                     KMTEVIGRVLSAPKLLYGGRTKATAIPSQGVWDMRGKQFHTGVEIKVWAIACFAQQQHV
+                     KENDLRTFTAQLQRISAEAGMPIVGQPCFCKYAVG"
+                     /gene="AGO"
+ORIGIN
+        1 gtacaaacat caactatgat taaagtatca ataaaattaa taaaattata attttttttt
+       61 gtttaaggct actgctcgtt cggctcctga acgtgaatta gaaatatcaa atttagtacg
+      121 tcgacctgag tttactaatg acccatacgc gcatgaattt ggaatatcaa taacatcaaa
+      181 aatgacagaa gttattggac gagttttaag tgctccaaaa ttattgtatg gcggtcgcac
+      241 taaagcaact gctataccca gtcaaggcgt ttgggatatg cgcggaaagc aatttcacac
+      301 tggtgttgaa attaaggtat gggctattgc ttgctttgcg cagcagcaac acgtaaaaga
+      361 aaacgattta cggtattttt atatttgttt acagaaaaaa ttatttattg tttttaagga
+      421 cttttactgc tcaattacag cgcatatctg cagaggctgg aatgccaatt gtgggtcagc
+      481 catgtttttg caaatatgct gtcggt
+//
+LOCUS       Howa|1fa|182             327 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: Bm3605 , target: contig_155364 , HSPID: 182
+ACCESSION   Howa|1fa|182
+VERSION     Howa|1fa|182
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..327
+                     /vulgar="M 109 327"
+                     /qid="Bm3605"
+                     /tstrand="+"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="870"
+                     /qtype="Protein"
+                     /tfull="TTATTTAAAGGTCCTGTTTTAATAACAAAAAATCCTTCGATTGTTGCGGGT
+                     GACATTCGTATGTTTGATGCTGTTGATATACCTAGTTTGCATCATCTTTGTGACGTTGT
+                     TGTTTTTCCAATGCACGGTCCACGACCACACACTGATGAAATGGCGGGATCTGATTTAG
+                     ATGGAGATGAATATACTGTAATTTGGGATGAACAGCTTTATTTAGATCGTAATGAAGAT
+                     GCATTTGATTATACTTCAAAATCAACAGAAACACAAACAATGAATGAAGAAGATCTTCG
+                     CATAAAAATGGCTGATTTTTTTGTAGATTATATTAAACAA"
+                     /qfull="ILKGKVMLTKNPCIVAGDVRVFEAVDIPELHHLVDVVVFPQHGPRPHPDEM
+                     AGSDLDGDEYSVIWDQELIFEHNEPPLDFTKSTSGNKIIDEAQVDLEMRKFFVNYIKQ"
+                     /Etotal="109"
+                     /tend="360"
+                     /score="379"
+                     /Psim="78.90"
+                     /tid="contig_155364"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="979"
+                     /qstrand="."
+                     /Emis="43"
+                     /qlen="109"
+                     /Eident="66"
+                     /qcds
+                     /qname="RDRP_Bmal_rdrp"
+                     /Pident="60.55"
+                     /qdescription
+                     /tlen="327"
+                     /model="protein2genome:local"
+                     /tcds="TTATTTAAAGGTCCTGTTTTAATAACAAAAAATCCTTCGATTGTTGCGGGTG
+                     ACATTCGTATGTTTGATGCTGTTGATATACCTAGTTTGCATCATCTTTGTGACGTTGTT
+                     GTTTTTCCAATGCACGGTCCACGACCACACACTGATGAAATGGCGGGATCTGATTTAGA
+                     TGGAGATGAATATACTGTAATTTGGGATGAACAGCTTTATTTAGATCGTAATGAAGATG
+                     CATTTGATTATACTTCAAAATCAACAGAAACACAAACAATGAATGAAGAAGATCTTCGC
+                     ATAAAAATGGCTGATTTTTTTGTAGATTATATTAAACAA"
+                     /tbegin="33"
+                     /Esim="86"
+     M               1..327
+                     /gene="Bm3605"
+     CDS             1..327
+                     /translation="LFKGPVLITKNPSIVAGDIRMFDAVDIPSLHHLCDVVVFPMHGPR
+                     PHTDEMAGSDLDGDEYTVIWDEQLYLDRNEDAFDYTSKSTETQTMNEEDLRIKMADFFV
+                     DYIKQ"
+                     /gene="RDRP"
+ORIGIN
+        1 ttatttaaag gtcctgtttt aataacaaaa aatccttcga ttgttgcggg tgacattcgt
+       61 atgtttgatg ctgttgatat acctagtttg catcatcttt gtgacgttgt tgtttttcca
+      121 atgcacggtc cacgaccaca cactgatgaa atggcgggat ctgatttaga tggagatgaa
+      181 tatactgtaa tttgggatga acagctttat ttagatcgta atgaagatgc atttgattat
+      241 acttcaaaat caacagaaac acaaacaatg aatgaagaag atcttcgcat aaaaatggct
+      301 gatttttttg tagattatat taaacaa
+//
+LOCUS       Howa|1fa|215            1296 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|Q7KY08| , target: contig_183994 , HSPID: 215
+ACCESSION   Howa|1fa|215
+VERSION     Howa|1fa|215
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..1296
+                     /vulgar="M 128 384 G 1 0 M 304 912"
+                     /qid="tr|Q7KY08|"
+                     /tstrand="+"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="372"
+                     /qtype="Protein"
+                     /tfull="TTGGAGAATGGACAGACAGTGGAATGCACTGTAGCAAAGTACTTTTTGGAT
+                     AAGTACCGCATGAAGCTGCGTTATCCACATCTGCCATGTCTACAGGTGGGTCAGGAGCA
+                     CAAGCACACGTATCTGCCTTTGGAGGTGTGCAATATTGTAGCCGGTCAGCGTTGCATTA
+                     AGAAGCTCACCGATATGCAAACCTCGACAATGATCAAGGCCACGGCACGCTCGGCACCA
+                     GATCGCGAGCGTGAGATTAACAATTTGGTGAAGCGTGCTGACTTCAATAATGATTCGTA
+                     TGTGCAGGAGTTCGGATTGACTATCTCGAACTCGATGATGGAGGTGCGGGGTCGAGTAT
+                     TGCCACCACCAAAGTTGCAGTATGGGGGACGTGTCTCGGGCATTGCCGGACAACAGTTG
+                     TTCCCGCCACAGAATAAGGTCAGTCTGGCCTCGCCTAATCAGGGTGTCTGGGATATGCG
+                     TGGCAAGCAGTTCTTCACCGGCGTAGAGATACGTATTTGGGCCATTGCATGCTTTGCCC
+                     CACAGCGAACAGTGCGTGAGGATGCATTGCGTAATTTCACACAGCAGCTGCAAAAGATC
+                     TCCAACGATGCTGGGATGCCGATAATCGGTCAACCATGTTTCTGCAAGTATGCCACCGG
+                     TCCGGATCAGGTGGAACCAATGTTTCGGTATCTGAAGATTACGTTCCCAGGACTGCAAT
+                     TGGTTGTGGTGGTCCTGCCGGGAAAGACGCCTGTTTATGCAGAGGTTAAGCGTGTGGGA
+                     GACACAGTGTTGGGCATGGCCACGCAATGTGTTCAGGCCAAGAATGTGAACAAAACTTC
+                     ACCGCAGACACTCTCGAATCTGTGCCTCAAAATCAATGTGAAACTAGGCGGCATTAACT
+                     CCATATTGGTGCCATCGATCCGACCAAAGGTCTTTAATGAACCCGTCATCTTTTTGGGC
+                     GCTGATGTTACACATCCGCCAGCTGGCGACAACAAAAAGCCATCAATAGCTGCGGTTGT
+                     CGGCTCAATGGATGCGCATCCATCACGTTATGCCGCAACTGTGCGTGTCCAGCAGCACC
+                     GCCAAGAGATCATTCAGGAGCTGAGTAGCATGGTGCGTGAGCTTCTCATTATGTTCTAC
+                     AAATCCACCGGCGGCTATAAGCCGCACCGTATCATACTCTATCGGGATGGTGTCTCCGA
+                     GGGTCAGTTTCCACATGTGCTGCAACATGAGTTGACCGCCATTCGTGAGGCATGCATCA
+                     AATTGGAGCCGGAATACCGGCCGGGTATTACGTTTATTGTGGAAATACGCATTCATCAC
+                     ACACGA"
+                     /qfull="LENGQTVECTVAKYFLDKYRMKLRYPHLPCLQVGQEHKHTYLPLEVCNIVA
+                     GQRCIKKLTDMQTSTMIKATARSAPDREREINNLVKRADFNNDSYVQEFGLTISNSMME
+                     VRGRVLPPPKLQYGGRVSTGLTGQQLFPPQNKVSLASPNQGVWDMRGKQFFTGVEIRIW
+                     AIACFAPQRTVREDALRNFTQQLQKISNDAGMPIIGQPCFCKYATGPDQVEPMFRYLKI
+                     TFPGLQLVVVVLPGKTPVYAEVKRVGDTVLGMATQCVQAKNVNKTSPQTLSNLCLKINV
+                     KLGGINSILVPSIRPKVFNEPVIFLGADVTHPPAGDNKKPSIAAVVGSMDAHPSRYAAT
+                     VRVQQHRQEIIQELSSMVRELLIMFYKSTGGYKPHRIILYRDGVSEGQFPHVLQHELTA
+                     IREACIKLEPEYRPGITFIVVQKRHHTR"
+                     /Etotal="432"
+                     /tend="1297"
+                     /score="2214"
+                     /Psim="99.07"
+                     /tid="contig_183994"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="805"
+                     /qstrand="."
+                     /Emis="6"
+                     /qlen="433"
+                     /Eident="426"
+                     /qcds
+                     /qname="AGO_Dmel"
+                     /Pident="98.61"
+                     /qdescription
+                     /tlen="1296"
+                     /model="protein2genome:local"
+                     /tcds="TTGGAGAATGGACAGACAGTGGAATGCACTGTAGCAAAGTACTTTTTGGATA
+                     AGTACCGCATGAAGCTGCGTTATCCACATCTGCCATGTCTACAGGTGGGTCAGGAGCAC
+                     AAGCACACGTATCTGCCTTTGGAGGTGTGCAATATTGTAGCCGGTCAGCGTTGCATTAA
+                     GAAGCTCACCGATATGCAAACCTCGACAATGATCAAGGCCACGGCACGCTCGGCACCAG
+                     ATCGCGAGCGTGAGATTAACAATTTGGTGAAGCGTGCTGACTTCAATAATGATTCGTAT
+                     GTGCAGGAGTTCGGATTGACTATCTCGAACTCGATGATGGAGGTGCGGGGTCGAGTATT
+                     GCCACCACCAAAGTTGCAGTATGGGGGACGTGTCTCGGGCATTGCCGGACAACAGTTGT
+                     TCCCGCCACAGAATAAGGTCAGTCTGGCCTCGCCTAATCAGGGTGTCTGGGATATGCGT
+                     GGCAAGCAGTTCTTCACCGGCGTAGAGATACGTATTTGGGCCATTGCATGCTTTGCCCC
+                     ACAGCGAACAGTGCGTGAGGATGCATTGCGTAATTTCACACAGCAGCTGCAAAAGATCT
+                     CCAACGATGCTGGGATGCCGATAATCGGTCAACCATGTTTCTGCAAGTATGCCACCGGT
+                     CCGGATCAGGTGGAACCAATGTTTCGGTATCTGAAGATTACGTTCCCAGGACTGCAATT
+                     GGTTGTGGTGGTCCTGCCGGGAAAGACGCCTGTTTATGCAGAGGTTAAGCGTGTGGGAG
+                     ACACAGTGTTGGGCATGGCCACGCAATGTGTTCAGGCCAAGAATGTGAACAAAACTTCA
+                     CCGCAGACACTCTCGAATCTGTGCCTCAAAATCAATGTGAAACTAGGCGGCATTAACTC
+                     CATATTGGTGCCATCGATCCGACCAAAGGTCTTTAATGAACCCGTCATCTTTTTGGGCG
+                     CTGATGTTACACATCCGCCAGCTGGCGACAACAAAAAGCCATCAATAGCTGCGGTTGTC
+                     GGCTCAATGGATGCGCATCCATCACGTTATGCCGCAACTGTGCGTGTCCAGCAGCACCG
+                     CCAAGAGATCATTCAGGAGCTGAGTAGCATGGTGCGTGAGCTTCTCATTATGTTCTACA
+                     AATCCACCGGCGGCTATAAGCCGCACCGTATCATACTCTATCGGGATGGTGTCTCCGAG
+                     GGTCAGTTTCCACATGTGCTGCAACATGAGTTGACCGCCATTCGTGAGGCATGCATCAA
+                     ATTGGAGCCGGAATACCGGCCGGGTATTACGTTTATTGTGGAAATACGCATTCATCACA
+                     CACGA"
+                     /tbegin="1"
+                     /Esim="428"
+     M               1..384
+                     /gene="tr|Q7KY08|"
+     G               384^385
+                     /gene="tr|Q7KY08|"
+     M               385..1296
+                     /gene="tr|Q7KY08|"
+     CDS             join(1..384,385..1296)
+                     /translation="LENGQTVECTVAKYFLDKYRMKLRYPHLPCLQVGQEHKHTYLPLE
+                     VCNIVAGQRCIKKLTDMQTSTMIKATARSAPDREREINNLVKRADFNNDSYVQEFGLTI
+                     SNSMMEVRGRVLPPPKLQYGGRVSGIAGQQLFPPQNKVSLASPNQGVWDMRGKQFFTGV
+                     EIRIWAIACFAPQRTVREDALRNFTQQLQKISNDAGMPIIGQPCFCKYATGPDQVEPMF
+                     RYLKITFPGLQLVVVVLPGKTPVYAEVKRVGDTVLGMATQCVQAKNVNKTSPQTLSNLC
+                     LKINVKLGGINSILVPSIRPKVFNEPVIFLGADVTHPPAGDNKKPSIAAVVGSMDAHPS
+                     RYAATVRVQQHRQEIIQELSSMVRELLIMFYKSTGGYKPHRIILYRDGVSEGQFPHVLQ
+                     HELTAIREACIKLEPEYRPGITFIVEIRIHHTR"
+                     /gene="AGO"
+ORIGIN
+        1 ttggagaatg gacagacagt ggaatgcact gtagcaaagt actttttgga taagtaccgc
+       61 atgaagctgc gttatccaca tctgccatgt ctacaggtgg gtcaggagca caagcacacg
+      121 tatctgcctt tggaggtgtg caatattgta gccggtcagc gttgcattaa gaagctcacc
+      181 gatatgcaaa cctcgacaat gatcaaggcc acggcacgct cggcaccaga tcgcgagcgt
+      241 gagattaaca atttggtgaa gcgtgctgac ttcaataatg attcgtatgt gcaggagttc
+      301 ggattgacta tctcgaactc gatgatggag gtgcggggtc gagtattgcc accaccaaag
+      361 ttgcagtatg ggggacgtgt ctcgggcatt gccggacaac agttgttccc gccacagaat
+      421 aaggtcagtc tggcctcgcc taatcagggt gtctgggata tgcgtggcaa gcagttcttc
+      481 accggcgtag agatacgtat ttgggccatt gcatgctttg ccccacagcg aacagtgcgt
+      541 gaggatgcat tgcgtaattt cacacagcag ctgcaaaaga tctccaacga tgctgggatg
+      601 ccgataatcg gtcaaccatg tttctgcaag tatgccaccg gtccggatca ggtggaacca
+      661 atgtttcggt atctgaagat tacgttccca ggactgcaat tggttgtggt ggtcctgccg
+      721 ggaaagacgc ctgtttatgc agaggttaag cgtgtgggag acacagtgtt gggcatggcc
+      781 acgcaatgtg ttcaggccaa gaatgtgaac aaaacttcac cgcagacact ctcgaatctg
+      841 tgcctcaaaa tcaatgtgaa actaggcggc attaactcca tattggtgcc atcgatccga
+      901 ccaaaggtct ttaatgaacc cgtcatcttt ttgggcgctg atgttacaca tccgccagct
+      961 ggcgacaaca aaaagccatc aatagctgcg gttgtcggct caatggatgc gcatccatca
+     1021 cgttatgccg caactgtgcg tgtccagcag caccgccaag agatcattca ggagctgagt
+     1081 agcatggtgc gtgagcttct cattatgttc tacaaatcca ccggcggcta taagccgcac
+     1141 cgtatcatac tctatcggga tggtgtctcc gagggtcagt ttccacatgt gctgcaacat
+     1201 gagttgaccg ccattcgtga ggcatgcatc aaattggagc cggaataccg gccgggtatt
+     1261 acgtttattg tggaaatacg cattcatcac acacga
+//
+LOCUS       Howa|1fa|232             345 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|Q7KY08| , target: contig_188624 [revcomp], HSPID: 232
+ACCESSION   Howa|1fa|232
+VERSION     Howa|1fa|232
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..345
+                     /vulgar="M 33 99 G 0 3 M 23 69 G 0 6 M 56 168"
+                     /qid="tr|Q7KY08|"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="29"
+                     /qtype="Protein"
+                     /tfull="CTTGCAGCACCACCAGCGCCCGGTTCTTCGGTAAATCCCACCGCTGTCACC
+                     AGCCCCAGTGCTCAGAATGTGGCTGCCGGCGGTGCCACAGTTGGCGGCGCTGCTGCTGC
+                     AGCTGCGGCACAGGTCGCCTCTGCTCTGGGCAGCTCCACCGGAAGTGTTTCGGCAGCAA
+                     TTGCTGCGGCAGCTGCATCGCCCACCACTCAACCGGACATGCCGGTTTTCACTTGCCCA
+                     CGACGACCGAATCTGGGACGCGAGGGCAGACCGATTGTATTGCGAGCGAATCACTTTCA
+                     AGTGACAATGCCACGAGGATTTGTGCACCACTACGATATTAATATTCAGCCGGATAAG"
+                     /qfull="LTSPPAPGSSVNPTAVTSPSAQNVAAGGATVAGAAATAAQVASALGATTGS
+                     VTPAIATATPATQPDMPVFTCPRRPNLGREGRPIVLRANHFQVTMPRGYVHHYDINIQP
+                     DK"
+                     /Etotal="112"
+                     /tend="0"
+                     /score="482"
+                     /Psim="94.64"
+                     /tid="contig_188624"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="141"
+                     /qstrand="."
+                     /Emis="12"
+                     /qlen="112"
+                     /Eident="100"
+                     /qcds
+                     /qname="AGO_Dmel"
+                     /Pident="89.29"
+                     /qdescription
+                     /tlen="345"
+                     /model="protein2genome:local"
+                     /tcds="CTTGCAGCACCACCAGCGCCCGGTTCTTCGGTAAATCCCACCGCTGTCACCA
+                     GCCCCAGTGCTCAGAATGTGGCTGCCGGCGGTGCCACAGTTGGCGGCGCTGCTGCTGCA
+                     GCTGCGGCACAGGTCGCCTCTGCTCTGGGCAGCTCCACCGGAAGTGTTTCGGCAGCAAT
+                     TGCTGCGGCAGCTGCATCGCCCACCACTCAACCGGACATGCCGGTTTTCACTTGCCCAC
+                     GACGACCGAATCTGGGACGCGAGGGCAGACCGATTGTATTGCGAGCGAATCACTTTCAA
+                     GTGACAATGCCACGAGGATTTGTGCACCACTACGATATTAATATTCAGCCGGATAAG"
+                     /tbegin="345"
+                     /Esim="106"
+     M               1..99
+                     /gene="tr|Q7KY08|"
+     G               100..102
+                     /gene="tr|Q7KY08|"
+     M               103..171
+                     /gene="tr|Q7KY08|"
+     G               172..177
+                     /gene="tr|Q7KY08|"
+     M               178..345
+                     /gene="tr|Q7KY08|"
+     CDS             join(1..99,100..102,103..171,172..177,178..345)
+                     /translation="LAAPPAPGSSVNPTAVTSPSAQNVAAGGATVGGAAAAAAAQVASA
+                     LGSSTGSVSAAIAAAAASPTTQPDMPVFTCPRRPNLGREGRPIVLRANHFQVTMPRGFV
+                     HHYDINIQPDK"
+                     /gene="AGO"
+ORIGIN
+        1 cttgcagcac caccagcgcc cggttcttcg gtaaatccca ccgctgtcac cagccccagt
+       61 gctcagaatg tggctgccgg cggtgccaca gttggcggcg ctgctgctgc agctgcggca
+      121 caggtcgcct ctgctctggg cagctccacc ggaagtgttt cggcagcaat tgctgcggca
+      181 gctgcatcgc ccaccactca accggacatg ccggttttca cttgcccacg acgaccgaat
+      241 ctgggacgcg agggcagacc gattgtattg cgagcgaatc actttcaagt gacaatgcca
+      301 cgaggatttg tgcaccacta cgatattaat attcagccgg ataag
+//
+LOCUS       Howa|1fa|250            1122 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: g7616.t1_g , target: contig_191885 [revcomp], HSPID: 250
+ACCESSION   Howa|1fa|250
+VERSION     Howa|1fa|250
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..1122
+                     /vulgar="M 107 321 5 0 2 I 0 39 3 0 2 M 149 447 S 0 2 5 0 2
+                     I 0 43 3 0 2 S 1 1 M 37 111 S 0 2 5 0 2 I 0 38 3 0 2 S 1 1
+                     M 35 105"
+                     /qid="g7616.t1_g"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="656"
+                     /qtype="Protein"
+                     /tfull="GCTGAAGTAAAACGTGTTGGCGATACTGTACTTGGGCTAGCTACGCAATGT
+                     GTTCAGGCGCGTAATGTAATAAAAACTACTCCACAAACGTTATCAAATTTATGCTTAAA
+                     AATGAATGTAAAACTTGGCGGAGTAAATTCTATTCTTAATACATCTAATCGGCCAAAAA
+                     TTTTTAATGAACCTGTAATTTTTCTTGGTGCCGATATTACTCACCCACCTGCTGGCGAC
+                     TCACGTAAACCATCAATTGCTGCTGTTGTTGGAAGTATGGATGCACATCCTTCAAGATA
+                     TGCAGCTACTGTTCGGGTTCAGCAGCATCGTTATGTAATTTAATATTTATTTTGCATTT
+                     TATAATTATTTTGTTTAGGAAATTATAAGCGATTTAACAGTTATGGTTCGCGAACTTTT
+                     AATTCAATTTTATCGTAATACACATTTTAAACCAACTCGAATTATTATTTATCGTGATG
+                     GCGTAAGTGAAGGTCAATTTGTAAACGTGCTTCAAAGCGAATTAAGATCATTACGTGAA
+                     GCTTGTATGATGTTAGAGCGTGGATATCAACCTGGAATAACTTTTATTGCAGTCCAAAA
+                     GCGCCACCATACTCGTTTATTTGCAGCTGAAAAAAAAGATCAAGTAGGAAAAGCATTCA
+                     ATATTCCACCTGGTACAACAGTTGATGTTGGCATAACTCATCCTACTGAATTTGATTTT
+                     TATTTATGTTCTCATGCTGGAATTCAGGGAACTTCTCGTCCTTCTCATTATCATGTATT
+                     ATGGGATGATAACAGTTTGGATGCTGATGAATTGCAACAATTAACTTATCAAATGTATA
+                     TATTTATTTTAATTATAAATTTAAATAATTACGATGCTTTAGGTGCCATACTTACGCTC
+                     GTTGTACACGCTCAGTTTCTATTCCAGCTCCTGCATATTACGCTCATTTAGTTGCTTTT
+                     CGTGCACGTTATCATTTAGTCGATCGTGAACACGACAGGTATAATTTTTTATTACTTTT
+                     AATATATAAAAATTATTTTAGCGGAGAAGGCAGCCAGCCATCAGGTACAAGTGAAGATA
+                     CTACATTAAGTAATATGGCTCGCGCTGTTCAAGTTCATCCAGATGCTAATAATGTCATG
+                     TATTTTGCT"
+                     /qfull="AEVKRVGDTVLGIATQCVQAKNVIKTTPQTLSNLCLKMNVKLGGVNSILLP
+                     TVRPRIFNEPVIFLGADITHPPAGDSRKPSIAAVVGSMDAHPSRYAATVRVQQHRNEII
+                     SDLTYMVRELLIQFYRNTRFKPTRIILYRDGVSEGQFLNVLQAELRSIREACMMLERGY
+                     QPGITFIAVQKRHHTRLFAMDKKDQVGKAFNIPPGTTVDVGITHPTEFDFYLCSHAGIQ
+                     GTSRPSHYHVLWDDNNLSADELQQLTYQMCHTYVRCTRSVSIPAPAYYAHLVAFRARYH
+                     LVDREHDSGEGSQPSGTSEDTTLSNMARAVQVHPDANSVMYFA"
+                     /Etotal="328"
+                     /tend="22"
+                     /score="1563"
+                     /Psim="97.26"
+                     /tid="contig_191885"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="986"
+                     /qstrand="."
+                     /Emis="20"
+                     /qlen="330"
+                     /Eident="308"
+                     /qcds="MS"
+                     /qname="AGO_Pred"
+                     /Pident="93.90"
+                     /qdescription
+                     /tlen="1122"
+                     /model="protein2genome:local"
+                     /tcds="GCTGAAGTAAAACGTGTTGGCGATACTGTACTTGGGCTAGCTACGCAATGTG
+                     TTCAGGCGCGTAATGTAATAAAAACTACTCCACAAACGTTATCAAATTTATGCTTAAAA
+                     ATGAATGTAAAACTTGGCGGAGTAAATTCTATTCTTAATACATCTAATCGGCCAAAAAT
+                     TTTTAATGAACCTGTAATTTTTCTTGGTGCCGATATTACTCACCCACCTGCTGGCGACT
+                     CACGTAAACCATCAATTGCTGCTGTTGTTGGAAGTATGGATGCACATCCTTCAAGATAT
+                     GCAGCTACTGTTCGGGTTCAGCAGCATCGTTATGAAATTATAAGCGATTTAACAGTTAT
+                     GGTTCGCGAACTTTTAATTCAATTTTATCGTAATACACATTTTAAACCAACTCGAATTA
+                     TTATTTATCGTGATGGCGTAAGTGAAGGTCAATTTGTAAACGTGCTTCAAAGCGAATTA
+                     AGATCATTACGTGAAGCTTGTATGATGTTAGAGCGTGGATATCAACCTGGAATAACTTT
+                     TATTGCAGTCCAAAAGCGCCACCATACTCGTTTATTTGCAGCTGAAAAAAAAGATCAAG
+                     TAGGAAAAGCATTCAATATTCCACCTGGTACAACAGTTGATGTTGGCATAACTCATCCT
+                     ACTGAATTTGATTTTTATTTATGTTCTCATGCTGGAATTCAGGGAACTTCTCGTCCTTC
+                     TCATTATCATGTATTATGGGATGATAACAGTTTGGATGCTGATGAATTGCAACAATTAA
+                     CTTATCAAATGTGCCATACTTACGCTCGTTGTACACGCTCAGTTTCTATTCCAGCTCCT
+                     GCATATTACGCTCATTTAGTTGCTTTTCGTGCACGTTATCATTTAGTCGATCGTGAACA
+                     CGACAGCGGAGAAGGCAGCCAGCCATCAGGTACAAGTGAAGATACTACATTAAGTAATA
+                     TGGCTCGCGCTGTTCAAGTTCATCCAGATGCTAATAATGTCATGTATTTTGCT"
+                     /tbegin="1144"
+                     /Esim="319"
+     M               1..321
+                     /gene="g7616.t1_g"
+     5               322..323
+                     /gene="g7616.t1_g"
+     I               324..362
+                     /gene="g7616.t1_g"
+     3               363..364
+                     /gene="g7616.t1_g"
+     M               365..811
+                     /gene="g7616.t1_g"
+     S               812..813
+                     /gene="g7616.t1_g"
+     5               814..815
+                     /gene="g7616.t1_g"
+     I               816..858
+                     /gene="g7616.t1_g"
+     3               859..860
+                     /gene="g7616.t1_g"
+     S               861
+                     /gene="g7616.t1_g"
+     M               862..972
+                     /gene="g7616.t1_g"
+     S               973..974
+                     /gene="g7616.t1_g"
+     5               975..976
+                     /gene="g7616.t1_g"
+     I               977..1014
+                     /gene="g7616.t1_g"
+     3               1015..1016
+                     /gene="g7616.t1_g"
+     S               1017
+                     /gene="g7616.t1_g"
+     M               1018..1122
+                     /gene="g7616.t1_g"
+     CDS             join(1..321,365..811,812..813,861,862..972,973..974,1017,
+                     1018..1122)
+                     /translation="AEVKRVGDTVLGLATQCVQARNVIKTTPQTLSNLCLKMNVKLGGV
+                     NSILNTSNRPKIFNEPVIFLGADITHPPAGDSRKPSIAAVVGSMDAHPSRYAATVRVQQ
+                     HRYEIISDLTVMVRELLIQFYRNTHFKPTRIIIYRDGVSEGQFVNVLQSELRSLREACM
+                     MLERGYQPGITFIAVQKRHHTRLFAAEKKDQVGKAFNIPPGTTVDVGITHPTEFDFYLC
+                     SHAGIQGTSRPSHYHVLWDDNSLDADELQQLTYQMCHTYARCTRSVSIPAPAYYAHLVA
+                     FRARYHLVDREHDSGEGSQPSGTSEDTTLSNMARAVQVHPDANNVMYFA"
+                     /gene="AGO"
+ORIGIN
+        1 gctgaagtaa aacgtgttgg cgatactgta cttgggctag ctacgcaatg tgttcaggcg
+       61 cgtaatgtaa taaaaactac tccacaaacg ttatcaaatt tatgcttaaa aatgaatgta
+      121 aaacttggcg gagtaaattc tattcttaat acatctaatc ggccaaaaat ttttaatgaa
+      181 cctgtaattt ttcttggtgc cgatattact cacccacctg ctggcgactc acgtaaacca
+      241 tcaattgctg ctgttgttgg aagtatggat gcacatcctt caagatatgc agctactgtt
+      301 cgggttcagc agcatcgtta tgtaatttaa tatttatttt gcattttata attattttgt
+      361 ttaggaaatt ataagcgatt taacagttat ggttcgcgaa cttttaattc aattttatcg
+      421 taatacacat tttaaaccaa ctcgaattat tatttatcgt gatggcgtaa gtgaaggtca
+      481 atttgtaaac gtgcttcaaa gcgaattaag atcattacgt gaagcttgta tgatgttaga
+      541 gcgtggatat caacctggaa taacttttat tgcagtccaa aagcgccacc atactcgttt
+      601 atttgcagct gaaaaaaaag atcaagtagg aaaagcattc aatattccac ctggtacaac
+      661 agttgatgtt ggcataactc atcctactga atttgatttt tatttatgtt ctcatgctgg
+      721 aattcaggga acttctcgtc cttctcatta tcatgtatta tgggatgata acagtttgga
+      781 tgctgatgaa ttgcaacaat taacttatca aatgtatata tttattttaa ttataaattt
+      841 aaataattac gatgctttag gtgccatact tacgctcgtt gtacacgctc agtttctatt
+      901 ccagctcctg catattacgc tcatttagtt gcttttcgtg cacgttatca tttagtcgat
+      961 cgtgaacacg acaggtataa ttttttatta cttttaatat ataaaaatta ttttagcgga
+     1021 gaaggcagcc agccatcagg tacaagtgaa gatactacat taagtaatat ggctcgcgct
+     1081 gttcaagttc atccagatgc taataatgtc atgtattttg ct
+//
+LOCUS       Howa|1fa|271             303 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: sp|O76922| , target: contig_202801 , HSPID: 271
+ACCESSION   Howa|1fa|271
+VERSION     Howa|1fa|271
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..303
+                     /vulgar="M 101 303"
+                     /qid="sp|O76922|"
+                     /tstrand="+"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="765"
+                     /qtype="Protein"
+                     /tfull="CCAGGAACAGTGGTGGATGATGTGATCACGTTGCCGGAGCACTACGATTTT
+                     TTCTTAGTTTCTCAATCAGTTAAGCAAGGAACTGTCTCACCCACAAATTACAATGTTAT
+                     TCACGACAACATGGGCTTAAACGCTGACAAGCTGCAATTATTGGCCTATAAGATGACGC
+                     ACTTCTACTATAATTGGTCAGGCACCCTCAGAGTACCAGCAGTGTGTCAATATGCCCAC
+                     AAGTTGGCTTTCTTAATCGCCGAAAGTATTCATCGCGCCCCCTCCTCCGGTTTGGAAAA
+                     CCAATTGTACTTTTTG"
+                     /qfull="PGTVVDDVITLPERYDFFLVSQAVRIGTVSPTSYNVISDNMGLNADKLQML
+                     SYKMTHMYYNYSGTIRVPAVCHYAHKLAFLVAESINRAPSAGLQNQLYFL"
+                     /Etotal="101"
+                     /tend="321"
+                     /score="459"
+                     /Psim="95.05"
+                     /tid="contig_202801"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="866"
+                     /qstrand="."
+                     /Emis="16"
+                     /qlen="101"
+                     /Eident="85"
+                     /qcds
+                     /qname="PIWI_Dmel_aub"
+                     /Pident="84.16"
+                     /qdescription
+                     /tlen="303"
+                     /model="protein2genome:local"
+                     /tcds="CCAGGAACAGTGGTGGATGATGTGATCACGTTGCCGGAGCACTACGATTTTT
+                     TCTTAGTTTCTCAATCAGTTAAGCAAGGAACTGTCTCACCCACAAATTACAATGTTATT
+                     CACGACAACATGGGCTTAAACGCTGACAAGCTGCAATTATTGGCCTATAAGATGACGCA
+                     CTTCTACTATAATTGGTCAGGCACCCTCAGAGTACCAGCAGTGTGTCAATATGCCCACA
+                     AGTTGGCTTTCTTAATCGCCGAAAGTATTCATCGCGCCCCCTCCTCCGGTTTGGAAAAC
+                     CAATTGTACTTTTTG"
+                     /tbegin="18"
+                     /Esim="96"
+     M               1..303
+                     /gene="sp|O76922|"
+     CDS             1..303
+                     /translation="PGTVVDDVITLPEHYDFFLVSQSVKQGTVSPTNYNVIHDNMGLNA
+                     DKLQLLAYKMTHFYYNWSGTLRVPAVCQYAHKLAFLIAESIHRAPSSGLENQLYFL"
+                     /gene="PIWI"
+ORIGIN
+        1 ccaggaacag tggtggatga tgtgatcacg ttgccggagc actacgattt tttcttagtt
+       61 tctcaatcag ttaagcaagg aactgtctca cccacaaatt acaatgttat tcacgacaac
+      121 atgggcttaa acgctgacaa gctgcaatta ttggcctata agatgacgca cttctactat
+      181 aattggtcag gcaccctcag agtaccagca gtgtgtcaat atgcccacaa gttggctttc
+      241 ttaatcgccg aaagtattca tcgcgccccc tcctccggtt tggaaaacca attgtacttt
+      301 ttg
+//

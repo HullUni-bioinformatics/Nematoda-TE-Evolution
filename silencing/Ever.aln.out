@@ -1,0 +1,39 @@
+# STOCKHOLM 1.0
+
+#=GS EVEC_0000545101-mRNA-1/1513-2763 DE [subseq from] gene_id=EVEC_0000545101
+
+EVEC_0000545101-mRNA-1/1513-2763         CACTTCGTCTACCTGGCATCTTCGAATTCACAGATGAGGGACAACGGCTGTTATTTCTTCGATGATGGGGAAGGCGGAGAAGCGCAGAAAATTAGGGATAATTTGGGACGTTTTGACATTAGGAATATTCCAAAACTGATGTCACGAATGGGACAGTGTTTTACTCAGGCCGAGCGGAgCAGtgaggTGTTACTGCGCAA
+#=GR EVEC_0000545101-mRNA-1/1513-2763 PP 5556666667799***************************************986544444455556666666677888888777666544333346666777776666654555544456688899*********************************************9998873333111114455566555555
+#=GC PP_cons                             5556666667799***************************************986544444455556666666677888888777666544333346666777776666654555544456688899*********************************************999887.333.....4455566555555
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxx.....xxxxxxxxxxxxx
+
+EVEC_0000545101-mRNA-1/1513-2763         AAAGTACAATAAAGCTCACGATTTTGTTGGAGGCAAAGATGCAAACGGAGAATCTTATACTTTCTCAGACGGTGTTGGAAAACTCTCCCTTAATTTCGCATCTAGGATAGCAGGAAAAATGGGTTTGGGATCtttTGTGCCTAGCTGTTTTCAGATCAGATACCGTGGAATCAAGGGAGTTTTATCGGTTGATCCAGCGA
+#=GR EVEC_0000545101-mRNA-1/1513-2763 PP 5566666777777888899**************987664333444567899***********************************************************************99998874441115789*********************************************************9999
+#=GC PP_cons                             5566666777777888899**************987664333444567899***********************************************************************9999887444...5789*********************************************************9999
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+EVEC_0000545101-mRNA-1/1513-2763         TAGACgaacGTCgtcattgggctgaaaggcactgtgtgGAGGATAAAGGAAaggaatacaataagactctcgatttagATGTCTTATTTCGTCCTTCTCAGGATAAGTTTGATAGTCCTCGTCAGAAAaataTCGATATTGTGAAATATTCTTCTCCAGTTCCTGTTGCGCTAAATCGACCACTTATCAATATCATGGAT
+#=GR EVEC_0000545101-mRNA-1/1513-2763 PP 988873333333111111111111111111111111112233333333222111111111111111111111111111345566677778877777788888888888877642222223333333323446*********************************99999******************************
+#=GC PP_cons                             98887....333..........................2233333333222...........................34556667777887777778888888888887764222222333333332....*********************************99999******************************
+#=GC RF                                  xxxxx....xxx..........................xxxxxxxxxxxxx...........................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+EVEC_0000545101-mRNA-1/1513-2763         CAGGTTAGTGAGATGCAAGGACATGCGTTACATGCAAGGGTTTGTGGACGTGTTCACTCTTTTTTGGATCGTCAGTTGATGGAGATGGCTGAAATGTTTATGAATGAGGACaGTTGCCGGAAACGTTTGAATgaacTGCCAAAAAGAATTTCTGTCGAATATCTTAAGGTGGTTAGAGGGTTCGCTCTAACTCAAGAACC
+#=GR EVEC_0000545101-mRNA-1/1513-2763 PP ************************************************************************************************************996234555447777777764433111133444445555667777788888888887777775678999***********************
+#=GC PP_cons                             ************************************************************************************************************996.34555447777777764433....33444445555667777788888888887777775678999***********************
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+EVEC_0000545101-mRNA-1/1513-2763         CTTTTTCAGAAGCCTTCTTTATGCCAGTGCTAAATTCACTTTAAAGAAGCAACTTGCAAAAGAGCAGATTCAAGTGCCTATTAAGCTTGGACGTACTATGTTTGGAGTAGTCGATGAGTCCGGTTTACTGCAATATGGTCAGGTTTTTATCCAGTACACCTGCAATATAgaattgaaaaaacctGGCAAAAATGCAGCAA
+#=GR EVEC_0000545101-mRNA-1/1513-2763 PP *************************988889999999999999999999988886566666666666666666799999999999999********************************************************************87655555554431111111111111112334444445555555
+#=GC PP_cons                             *************************988889999999999999999999988886566666666666666666799999999999999********************************************************************8765555555443...............2334444445555555
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...............xxxxxxxxxxxxxxxx
+
+EVEC_0000545101-mRNA-1/1513-2763         AAGAAATTCTAAAAGGAAAAGTGTTGATTACGAAAAATCCCTCTGTTGTGGCTGGCGATGTAAGGGTTTTTAATGCTATTGATATTCCTGAGCTAAACCACTTAGTTGACGTTGTAGTTTTTCCTCAGTCAGGTCCTCGACCGCATCCAGATGAGATGGCAGGTTCTGACCTTGATGGAGATGAGTACAGTATTATTTGG
+#=GR EVEC_0000545101-mRNA-1/1513-2763 PP 666666555544589********************************************************************99999999*********99999***********************************************************************************************
+#=GC PP_cons                             666666555544589********************************************************************99999999*********99999***********************************************************************************************
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+EVEC_0000545101-mRNA-1/1513-2763         GATCCAGAATTATTCTTTGACCATAATGAAGAGCCATTAGATTTTACAAAG
+#=GR EVEC_0000545101-mRNA-1/1513-2763 PP ********************************9999888899988888775
+#=GC PP_cons                             ********************************9999888899988888775
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

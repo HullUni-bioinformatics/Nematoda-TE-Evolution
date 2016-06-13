@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+#=GS Hba_03302/1231-1442 DE [subseq from] gene_id=Hba_03302
+#=GS Hba_03303/1543-1665 DE [subseq from] gene_id=Hba_03303
+
+Hba_03302/1231-1442         GACTTACTAAGTGTTCGAGCCGGATTTCAGTTGAGTGCAGAGCCATTCTTTCGATCATTAATCAAGGCatCTGTCAAATTTTCAATAACGAAACAATTacgaaaaGAGCAAATTCAAATTCCATTTGAAAAGGGAAGATCAATGCTAGGAGTGGTTGATGAAACGGGTCGACTACAATACGGACAAATTTTCGTTCAATA
+#=GR Hba_03302/1231-1442 PP 56666666666666665554699999999*****************************998887655422444456667788887655555667666644444448888888888876556666778899**********************************************************************
+Hba_03303/1543-1665         --------------------------------------------------------------------..----------------------------.......-----------------------------------------------------------------------------------------------
+#=GR Hba_03303/1543-1665 PP ........................................................................................................................................................................................................
+#=GC PP_cons                56666666666666665554699999999*****************************9988876554..4444566677888876555556676666.......8888888888876556666778899**********************************************************************
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Hba_03302/1231-1442         TACACGGAATAT-----------------------------------------------------------------------------...-------------------------------------------
+#=GR Hba_03302/1231-1442 PP 999887776665...........................................................................................................................
+Hba_03303/1543-1665         ------------GGGTCTGATTTGGATGGCGATGAATATAGTGTTATTTGGGATGAGGATCTGCTTCTAGAAAGAAATGAATCGATGAAaagATGCTCGGACTTATATGGAATAGACTCTGAGATTCCACCAGAG
+#=GR Hba_03303/1543-1665 PP ............567789*******************************************************99999876445555431112333344444444555566677888888888888888887554
+#=GC PP_cons                999887776665567789*******************************************************9999987644555543...2333344444444555566677888888888888888887554
+#=GC RF                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,1777 @@
+LOCUS       melo|tfa|2              1399 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: GPLIN_0010 , target:
+            NODE_3243_length_1369_cov_113.626007_1423_244.64_0.35 [revcomp],
+            HSPID: 2
+ACCESSION   melo|tfa|2
+VERSION     melo|tfa|2
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..1399
+                     /vulgar="M 57 171 5 0 2 I 0 41 3 0 2 M 43 129 S 0 1 5 0 2 I
+                     0 41 3 0 2 S 1 2 M 28 84 S 0 1 5 0 2 I 0 36 3 0 2 S 1 2 M
+                     58 174 5 0 2 I 0 38 3 0 2 M 67 201 S 0 1 5 0 2 I 0 31 3 0 2
+                     S 1 2 M 28 84 S 0 1 5 0 2 I 0 59 3 0 2 S 1 2 M 28 84 5 0 2
+                     I 0 39 3 0 2 M 49 147"
+                     /qid="GPLIN_0010"
+                     /tstrand="-"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="411"
+                     /qtype="Protein"
+                     /tfull="CTATCATTGGAAGTTATTGAGCAAGTACTGGCTGAAATTGATAAACGTTTA
+                     GATTGCATCCATCCAATGCAAATCTATAAATGGATTTACCACCGTTTAAGTCGTAATGT
+                     TGATGCAATGAAACAAATTCATGAGGATATGATGCGGGAGGGATATGTACGCGTTCGAA
+                     AAGTTTATATAATTTAATTTTTAGATTTACTTGTTTTTAATTTTTAGGTATTAATTACT
+                     CCAACACGAATGCTTTTTGTTGCTCCTGAATTGTTAATGGGAAATCGTGTGTTGCGATT
+                     GGATGCTGAAAAATATCCTCTCGAAAAATTTCTTCGTGTTGTTTTTCGTGATGATGATG
+                     GTAAAAATATTCGAAGTTGTATCTAATATTTTGTCCCTTAAACAGGGCAATCTGTCCAT
+                     GCTGTGAACATTGGGGCCGTTCTTATTGATCGTTTTATTGGATTACGCCTTAGAAATGG
+                     CATTGAAATTGCTTGTAATAAAATATTTTATTATATATATTTTCCTATATTTAGGCCGT
+                     AAATTTAACTACTTCGGTTCTTCTAATTCTCAAATGCGTGATAATGGTTGTTATTTCAT
+                     TAATGCGACTTTTGAAGAAATCGAGGATATCCGCAAGCAGTTGGGCTCGTTCAAAATAC
+                     AATCAGCGCCTAAAATGATGTCTCGGATTGCTCAATGTTTTACTCAGGCTCGGGTAATT
+                     GTTGTGGAAAACTGATTTATTAAAGATTTTTTTAAGGAAACAGGCTTAGAATTGGAACG
+                     TCGTCATTATGCAACAATTCATGACTATCTTGGAGGCAAAGATACTAATTCTGAGCCAT
+                     ATAATTTCTCTGATGGTGTGGGGCGAATCAGTTACGAAACTGCTAAGGAATTGAGTCGT
+                     GAGCTTAAATTGGATGGTTGCGTGCCTTCGTGCTTTCAAATACGTTTTCGCGGCTATAA
+                     AGGTGAAAAATTCTAGATATTCTTTCCTAAATTATAGGCGTTTTGTCTGTTGATAAATC
+                     TATGGATGAACTTCGTGAATGGGGAGTTCGCAATGGTGTGCAAGATACTACAAACTGGG
+                     AGAAACGTGATTGTTGGCTCGATTTACATATTCAATTTCGGCCTTCACAAAAGAAATTT
+                     AAAGCGCCCAGAGCTAATCAAAAGTTGGAAATTGTTAAATATTCTTCACCTGTTTCATT
+                     GTGTTTGAATCGTCCTGTTAACAACATTCTTGATCAAGTGAGTTATTTGTACTAGTTAA
+                     ACTTGTAAATTTTTCTTTTAGGTATCTGCACAACAAAGTAAGGCTTCTCACCAACGAAT
+                     TTGTAATCGCATTCATCATCTTATGGATTTACATCTTCATATGCTGACACGCTCCTTAA
+                     TTGACGAAACGAAAGCTCGAAACAGACTCGGTGAATTTCCTAAAGTGGTA"
+                     /qfull="VSLEVMEQVLAEIDKRLDSLHPALIYDWIFKRVSRSADAMRQIHEENTKEG
+                     YVRVRKVLITPSRMLFVAPELLMGNRVLRMDPMKYPLDTFLRVVFRDDDGRPVHATNVG
+                     AMLIDRFIGTKLRNCIIVAGRSFNYFGSSNSQMRDNGCYFINATVEQIREFRTKLGSFK
+                     IQSAPKMMSRLAQCFTQARETGIELERRFYSTSFDYQGGRDSKQEPYCFSDGVGKISYE
+                     TALELSRELKLEDCVPSCYQIRFRGFKGVLSVDKNLDSFREWGREHGIKDTTDPNKRDW
+                     QKLEIVKYSSPVPICLNRPVNNILDQVSALQSKASHQRICNRVHLLLDLHLHALTRALM
+                     DETKARNKLGEFPKVI"
+                     /Etotal="358"
+                     /tend="15"
+                     /score="1329"
+                     /Psim="88.27"
+                     /tid="NODE_3243_length_1369_cov_113.626007_1423_244.64_0.35
+                     "
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="773"
+                     /qstrand="."
+                     /Emis="84"
+                     /qlen="362"
+                     /Eident="274"
+                     /qcds="GGGR"
+                     /qname="RDRP_Gpal_rdrp"
+                     /Pident="76.54"
+                     /qdescription
+                     /tlen="1399"
+                     /model="protein2genome:local"
+                     /tcds="CTATCATTGGAAGTTATTGAGCAAGTACTGGCTGAAATTGATAAACGTTTAG
+                     ATTGCATCCATCCAATGCAAATCTATAAATGGATTTACCACCGTTTAAGTCGTAATGTT
+                     GATGCAATGAAACAAATTCATGAGGATATGATGCGGGAGGGATATGTACGCGTTCGAAA
+                     AGTATTAATTACTCCAACACGAATGCTTTTTGTTGCTCCTGAATTGTTAATGGGAAATC
+                     GTGTGTTGCGATTGGATGCTGAAAAATATCCTCTCGAAAAATTTCTTCGTGTTGTTTTT
+                     CGTGATGATGATGGGCAATCTGTCCATGCTGTGAACATTGGGGCCGTTCTTATTGATCG
+                     TTTTATTGGATTACGCCTTAGAAATGGCATTGAAATTGCTTGCCGTAAATTTAACTACT
+                     TCGGTTCTTCTAATTCTCAAATGCGTGATAATGGTTGTTATTTCATTAATGCGACTTTT
+                     GAAGAAATCGAGGATATCCGCAAGCAGTTGGGCTCGTTCAAAATACAATCAGCGCCTAA
+                     AATGATGTCTCGGATTGCTCAATGTTTTACTCAGGCTCGGGAAACAGGCTTAGAATTGG
+                     AACGTCGTCATTATGCAACAATTCATGACTATCTTGGAGGCAAAGATACTAATTCTGAG
+                     CCATATAATTTCTCTGATGGTGTGGGGCGAATCAGTTACGAAACTGCTAAGGAATTGAG
+                     TCGTGAGCTTAAATTGGATGGTTGCGTGCCTTCGTGCTTTCAAATACGTTTTCGCGGCT
+                     ATAAAGGCGTTTTGTCTGTTGATAAATCTATGGATGAACTTCGTGAATGGGGAGTTCGC
+                     AATGGTGTGCAAGATACTACAAACTGGGAGAAACGAGCTAATCAAAAGTTGGAAATTGT
+                     TAAATATTCTTCACCTGTTTCATTGTGTTTGAATCGTCCTGTTAACAACATTCTTGATC
+                     AAGTATCTGCACAACAAAGTAAGGCTTCTCACCAACGAATTTGTAATCGCATTCATCAT
+                     CTTATGGATTTACATCTTCATATGCTGACACGCTCCTTAATTGACGAAACGAAAGCTCG
+                     AAACAGACTCGGTGAATTTCCTAAAGTGGTA"
+                     /tbegin="1414"
+                     /Esim="316"
+     M               1..171
+                     /gene="GPLIN_0010"
+     5               172..173
+                     /gene="GPLIN_0010"
+     I               174..214
+                     /gene="GPLIN_0010"
+     3               215..216
+                     /gene="GPLIN_0010"
+     M               217..345
+                     /gene="GPLIN_0010"
+     S               346
+                     /gene="GPLIN_0010"
+     5               347..348
+                     /gene="GPLIN_0010"
+     I               349..389
+                     /gene="GPLIN_0010"
+     3               390..391
+                     /gene="GPLIN_0010"
+     S               392..393
+                     /gene="GPLIN_0010"
+     M               394..477
+                     /gene="GPLIN_0010"
+     S               478
+                     /gene="GPLIN_0010"
+     5               479..480
+                     /gene="GPLIN_0010"
+     I               481..516
+                     /gene="GPLIN_0010"
+     3               517..518
+                     /gene="GPLIN_0010"
+     S               519..520
+                     /gene="GPLIN_0010"
+     M               521..694
+                     /gene="GPLIN_0010"
+     5               695..696
+                     /gene="GPLIN_0010"
+     I               697..734
+                     /gene="GPLIN_0010"
+     3               735..736
+                     /gene="GPLIN_0010"
+     M               737..937
+                     /gene="GPLIN_0010"
+     S               938
+                     /gene="GPLIN_0010"
+     5               939..940
+                     /gene="GPLIN_0010"
+     I               941..971
+                     /gene="GPLIN_0010"
+     3               972..973
+                     /gene="GPLIN_0010"
+     S               974..975
+                     /gene="GPLIN_0010"
+     M               976..1059
+                     /gene="GPLIN_0010"
+     S               1060
+                     /gene="GPLIN_0010"
+     5               1061..1062
+                     /gene="GPLIN_0010"
+     I               1063..1121
+                     /gene="GPLIN_0010"
+     3               1122..1123
+                     /gene="GPLIN_0010"
+     S               1124..1125
+                     /gene="GPLIN_0010"
+     M               1126..1209
+                     /gene="GPLIN_0010"
+     5               1210..1211
+                     /gene="GPLIN_0010"
+     I               1212..1250
+                     /gene="GPLIN_0010"
+     3               1251..1252
+                     /gene="GPLIN_0010"
+     M               1253..1399
+                     /gene="GPLIN_0010"
+     CDS             join(1..171,217..345,346,392..393,394..477,478,519..520,
+                     521..694,737..937,938,974..975,976..1059,1060,1124..1125,
+                     1126..1209,1253..1399)
+                     /translation="LSLEVIEQVLAEIDKRLDCIHPMQIYKWIYHRLSRNVDAMKQIHE
+                     DMMREGYVRVRKVLITPTRMLFVAPELLMGNRVLRLDAEKYPLEKFLRVVFRDDDGQSV
+                     HAVNIGAVLIDRFIGLRLRNGIEIACRKFNYFGSSNSQMRDNGCYFINATFEEIEDIRK
+                     QLGSFKIQSAPKMMSRIAQCFTQARETGLELERRHYATIHDYLGGKDTNSEPYNFSDGV
+                     GRISYETAKELSRELKLDGCVPSCFQIRFRGYKGVLSVDKSMDELREWGVRNGVQDTTN
+                     WEKRANQKLEIVKYSSPVSLCLNRPVNNILDQVSAQQSKASHQRICNRIHHLMDLHLHM
+                     LTRSLIDETKARNRLGEFPKVV"
+                     /gene="RDRP"
+ORIGIN
+        1 ctatcattgg aagttattga gcaagtactg gctgaaattg ataaacgttt agattgcatc
+       61 catccaatgc aaatctataa atggatttac caccgtttaa gtcgtaatgt tgatgcaatg
+      121 aaacaaattc atgaggatat gatgcgggag ggatatgtac gcgttcgaaa agtttatata
+      181 atttaatttt tagatttact tgtttttaat ttttaggtat taattactcc aacacgaatg
+      241 ctttttgttg ctcctgaatt gttaatggga aatcgtgtgt tgcgattgga tgctgaaaaa
+      301 tatcctctcg aaaaatttct tcgtgttgtt tttcgtgatg atgatggtaa aaatattcga
+      361 agttgtatct aatattttgt cccttaaaca gggcaatctg tccatgctgt gaacattggg
+      421 gccgttctta ttgatcgttt tattggatta cgccttagaa atggcattga aattgcttgt
+      481 aataaaatat tttattatat atattttcct atatttaggc cgtaaattta actacttcgg
+      541 ttcttctaat tctcaaatgc gtgataatgg ttgttatttc attaatgcga cttttgaaga
+      601 aatcgaggat atccgcaagc agttgggctc gttcaaaata caatcagcgc ctaaaatgat
+      661 gtctcggatt gctcaatgtt ttactcaggc tcgggtaatt gttgtggaaa actgatttat
+      721 taaagatttt tttaaggaaa caggcttaga attggaacgt cgtcattatg caacaattca
+      781 tgactatctt ggaggcaaag atactaattc tgagccatat aatttctctg atggtgtggg
+      841 gcgaatcagt tacgaaactg ctaaggaatt gagtcgtgag cttaaattgg atggttgcgt
+      901 gccttcgtgc tttcaaatac gttttcgcgg ctataaaggt gaaaaattct agatattctt
+      961 tcctaaatta taggcgtttt gtctgttgat aaatctatgg atgaacttcg tgaatgggga
+     1021 gttcgcaatg gtgtgcaaga tactacaaac tgggagaaac gtgattgttg gctcgattta
+     1081 catattcaat ttcggccttc acaaaagaaa tttaaagcgc ccagagctaa tcaaaagttg
+     1141 gaaattgtta aatattcttc acctgtttca ttgtgtttga atcgtcctgt taacaacatt
+     1201 cttgatcaag tgagttattt gtactagtta aacttgtaaa tttttctttt aggtatctgc
+     1261 acaacaaagt aaggcttctc accaacgaat ttgtaatcgc attcatcatc ttatggattt
+     1321 acatcttcat atgctgacac gctccttaat tgacgaaacg aaagctcgaa acagactcgg
+     1381 tgaatttcct aaagtggta
+//
+LOCUS       melo|tfa|20              430 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: GPLIN_0010 , target:
+            NODE_7276_length_1601_cov_104.946281_1655_226.93_0.31 , HSPID: 20
+ACCESSION   melo|tfa|20
+VERSION     melo|tfa|20
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..430
+                     /vulgar="M 81 243 S 0 1 5 0 2 I 0 39 3 0 2 S 1 2 M 47 141"
+                     /qid="GPLIN_0010"
+                     /tstrand="+"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="1400"
+                     /qtype="Protein"
+                     /tfull="GCTGGACTTCAAACTTATCATCAAGTAGCATTTACTTTTCGGCTTGAATGT
+                     ATCCCCGGCACAGCATCTCAACGTGAACGTAATGGGATTACAAGTCCTCAAGAACGTGA
+                     ATGTGAACCATTTATAATTGAAGTGCCAGCAAGTCGTCAAGAACAAGTTATCAATAATT
+                     ATGATTTGCTGAACAAGCTTTGTGATGCAACCGGATGTACCAACATTGTTTTTCGCGAT
+                     TTACCCAAATATAAAGGTTTATCTAAGTGTGCAGTACTGTTACAAATTACACATTTTAG
+                     ATTATGAAACTGTTCGACTATATGTCTCTGCAACAGGGCAATTACAAGCACTTAACAAA
+                     TTACGGGAATTATTGGCTGTTCGTGCACCATTAAATCTTATTGGTGATTGTCGTCAGAT
+                     TTTCACACAAATGGCAGAACAACTT"
+                     /qfull="AALHCYHQIAFTFRFEGLPGTKEQRDKNTTPSQQVREGEPFIIEVPASRQS
+                     QVIHNQDLLNKLCDKTACTNIVFRDLPKYKGYDTVRLYVSSTGTMEALNSLRELLAVRA
+                     PLNLQGDCRQIFTQMAEQV"
+                     /Etotal="128"
+                     /tend="697"
+                     /score="478"
+                     /Psim="84.38"
+                     /tid="NODE_7276_length_1601_cov_104.946281_1655_226.93_0.31
+                     "
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="1529"
+                     /qstrand="."
+                     /Emis="30"
+                     /qlen="129"
+                     /Eident="98"
+                     /qcds="G"
+                     /qname="RDRP_Gpal_rdrp"
+                     /Pident="76.56"
+                     /qdescription
+                     /tlen="430"
+                     /model="protein2genome:local"
+                     /tcds="GCTGGACTTCAAACTTATCATCAAGTAGCATTTACTTTTCGGCTTGAATGTA
+                     TCCCCGGCACAGCATCTCAACGTGAACGTAATGGGATTACAAGTCCTCAAGAACGTGAA
+                     TGTGAACCATTTATAATTGAAGTGCCAGCAAGTCGTCAAGAACAAGTTATCAATAATTA
+                     TGATTTGCTGAACAAGCTTTGTGATGCAACCGGATGTACCAACATTGTTTTTCGCGATT
+                     TACCCAAATATAAAGATTATGAAACTGTTCGACTATATGTCTCTGCAACAGGGCAATTA
+                     CAAGCACTTAACAAATTACGGGAATTATTGGCTGTTCGTGCACCATTAAATCTTATTGG
+                     TGATTGTCGTCAGATTTTCACACAAATGGCAGAACAACTT"
+                     /tbegin="267"
+                     /Esim="108"
+     M               1..243
+                     /gene="GPLIN_0010"
+     S               244
+                     /gene="GPLIN_0010"
+     5               245..246
+                     /gene="GPLIN_0010"
+     I               247..285
+                     /gene="GPLIN_0010"
+     3               286..287
+                     /gene="GPLIN_0010"
+     S               288..289
+                     /gene="GPLIN_0010"
+     M               290..430
+                     /gene="GPLIN_0010"
+     CDS             join(1..243,244,288..289,290..430)
+                     /translation="AGLQTYHQVAFTFRLECIPGTASQRERNGITSPQERECEPFIIEV
+                     PASRQEQVINNYDLLNKLCDATGCTNIVFRDLPKYKDYETVRLYVSATGQLQALNKLRE
+                     LLAVRAPLNLIGDCRQIFTQMAEQL"
+                     /gene="RDRP"
+ORIGIN
+        1 gctggacttc aaacttatca tcaagtagca tttacttttc ggcttgaatg tatccccggc
+       61 acagcatctc aacgtgaacg taatgggatt acaagtcctc aagaacgtga atgtgaacca
+      121 tttataattg aagtgccagc aagtcgtcaa gaacaagtta tcaataatta tgatttgctg
+      181 aacaagcttt gtgatgcaac cggatgtacc aacattgttt ttcgcgattt acccaaatat
+      241 aaaggtttat ctaagtgtgc agtactgtta caaattacac attttagatt atgaaactgt
+      301 tcgactatat gtctctgcaa cagggcaatt acaagcactt aacaaattac gggaattatt
+      361 ggctgttcgt gcaccattaa atcttattgg tgattgtcgt cagattttca cacaaatggc
+      421 agaacaactt
+//
+LOCUS       melo|tfa|33             3506 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: MhA1_Conti , target:
+            NODE_9637_length_8951_cov_80.110939_9005_184.83_0.33 , HSPID: 33
+ACCESSION   melo|tfa|33
+VERSION     melo|tfa|33
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..3506
+                     /vulgar="M 70 210 5 0 2 I 0 365 3 0 2 M 43 129 S 0 1 5 0 2
+                     I 0 44 3 0 2 S 1 2 M 24 72 G 0 15 M 41 123 S 0 1 5 0 2 I 0
+                     381 3 0 2 S 1 2 M 74 222 S 0 2 5 0 2 I 0 366 3 0 2 S 1 1 M
+                     73 219 5 0 2 I 0 446 3 0 2 M 37 111 5 0 2 I 0 100 3 0 2 M
+                     64 192 S 0 2 5 0 2 I 0 429 3 0 2 S 1 1 M 14 42"
+                     /qid="MhA1_Conti"
+                     /tstrand="+"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="1"
+                     /qtype="Protein"
+                     /tfull="CCAGACAAATGTCCTCGCAAAGTTAACAGAGAAATCATCAATACAATGGTT
+                     GATTCATGTAAATTATTTAATAATTTCAAACCTGTATATGATGGAAAAAAGAATTTGTA
+                     TACAAAAGAAGCTTTGCCTTTTGGACAAGAAAGAGTTGAATTGGATGTTGTTATGCCTG
+                     GTGATTCTGCTGTTGATAGAAAATTTAGAGTTGCTTTAAAGGTTTTTTATTTAATTTAA
+                     TATTTTTTTCTGGCGCTAAAATGTTTTGTAAGAGTATTTTTTATGAGGGCATGTTCTCA
+                     AACATGATCACGGCTATTTTGCAGTTTTCATGAGTATTTTGCGTTATGGCCGTCACATC
+                     CGTATCCGCCCATATTCTTATCTTTTTTACAGATATCATATCAGGGTATCTCCCATGCC
+                     TGATCGTCTTGTCATTTTGATGAGTAAAATCATGAATTAAACAAAAAACCGCGAGTAAA
+                     GCTCATTAAGATGGTGTGAGGGACTTTAGTTTCCATTTCACTCTAATGCCTAATGATGG
+                     ATTCTGCTTATCTATCAAAAAGGGTCTAAAAATTTTTTTAAATATTGCTTTTTCAGTTA
+                     GTAAGCCGTGTTTCTTTACAAGCTTTGGAGGATGCGATGGCTGGCCGTATAAGACAAAT
+                     CCCACCAGAATCAGTGCAAGCAATGGATGTCATTCTTCGACATCTTCCCAGCATGAAAT
+                     ATACTCCAGGTTTTCTTTTTAATCTCGTTTTTGGAAAATTTTTAAAATTTTTTTCAGTT
+                     GGTCGCTCATTTTTCTCCTCTCCTCCGGTAGCTTTAGGCGCTCAACACATTACTGTTTC
+                     TGGTGGTCCTGGAGGCGGTGGGGGTGGCGGAGGAGGAGGAGGTCCTCAAGGCGTTGATA
+                     AACTTGGTGGACTTGGTGGTGGAAGAGAAGTTTGGTTTGGATTTCACCAAAGTGTACGC
+                     CCGAGCCAGTGGAAAATGATGCTCAATATTGACGGTTTGATTTAATTAAAAATTTCTTG
+                     GGGGGAAATGAAGTGTGTGTTTGCTAGGTTCACCATTCCGAGCGTTTCTTAATTTACTT
+                     GGATTTTTGGGGACAGTTTTCTTTTAAAAATACTGTTAGATTTCGCTTATAGTTTGCCC
+                     TTAAGTTGGTTTTATTTGCTTGACTAACTCGAACCCCGAGAATTTTTCGACCTGAAACT
+                     TGATCTGAAGAAAAAAAATAAAAACCCCGACCGAAATTGGACTCAACTTTATACTTTGG
+                     CCTGCCCCTTTATATGGATAAAGCTTAAAAAGTGAACATAAAGGGTTGTCTGACCTCTC
+                     TCTATTTTGCACATTTTTAAATTTTATTATATTTTTCTATAAAAATTTATTATTTTTTT
+                     TTCAAGTTTCTGCAACTGCCTTTTATCGTAAAATGCCTGTGATAAATTTTATGGCTGAA
+                     GTTTTGGAATTACCAATGCAGGCATTAAATGATAGAAGAAATTTATCTGATCCTCAACG
+                     TGTTAAATTCACAAAAGAAATAAGAGGACTTAAAATTGAAATTACTCATTGTGGACAAA
+                     TGAGAAGAAAATATCGTGTTTGTAATGTTACTAGAAAACCAGCTCAATCACAAACGTTT
+                     GTTTTTTTAAAGATCACTATTTTTGAATAATATTTGAGGATATAGGTTCTTATTCCTAG
+                     TGAGATTTTCGATTTTTTTAACATCGATTAATAGTAGAACGTCGTTTAATTGAAAATTG
+                     GGGAGAGAGTCGGGTACCTAATGCCTGAAACCTAAACATTTCGATACGAAACCCAATCC
+                     GGAGAAAATTTTGAAAAACTGATTTGACGTCCTTTTTCTCCTATTTATCACATCTTTAC
+                     CCACATTTCATCATTACTGTGGAAAACTAGGCAAGTTTGTTTCATTAACTGAGGAAGTA
+                     AAGGTTCCCATATTTTAGTTTATTATTTTTGTTTGATTTTTCTTTCTTAATCTTTTAAT
+                     AAGTTTTTTTAGATTCCCTTTATTACTTGAAAATGGTTTATCTATTGACTGTACTGTTC
+                     TCAAATATTTTAATGATAAATATCACATGCAATTAAAATATCCACATCTTCCCTGCTTA
+                     CAAGTTGGCCAAGAACAAAAGCATACTTATTTACCTTTGGAAGTTTGTGAAATTGTTTC
+                     TGGACAGAGATGTATTAAAAAATTGTCTGATACTCAAACGTCTACAATGATTAAGGTTG
+                     TTGTTTATTTTTCTGTGTTTGTGTGTGTGTTTTTGTTTTAAGTCAGAATTTGTATTTTT
+                     TTAAAAGAAAATCAGAATTATTTTATATTTCTTTGTATTTTTCTACCAATTAATTTTTA
+                     ATTGGTAGAAGAATGTGTTTTTGTTAAATCAGAATTTTATGTGTTTTTAACGGAATGTT
+                     TAAATCAGAATTTTGTGTGTTTTCTTTTTAGAATTTGTATTTTTATCAGAATTTAAAAT
+                     CAGAATTTTGTATTTTTCTATACAACATTAAGTCAGAATTTTAAGTATTTTTTAAAATC
+                     AAATCAGAATTTTTCTGTGTTTTTGAATCAGAATTTTGTGTATTTTTCTTTTAGAAAAT
+                     TTGTATTTTTTTGCTGTATTTTTGTTTCTTTTATTTATTTAAATTAATTCTGATATATT
+                     TATATAATAAATTAATTTTTACATTTTTTTCAGGTCACAGCACGTAATGCTCCAGATAG
+                     AGAAAAGGAAATTTCTGCTCTTGTTAGACGTGCCGAAATTGTACACGATCCTTTTGCTC
+                     AAGAATTTGGAATTTCAATTAATTCTGTAAATTAAAAATTTTTTTTTGAAATTAAAAAA
+                     AATTTTCTTAAAAATTAGAAAAAATTCTGCTATTTTTTTAAATTTCTGTAAAAATTTTT
+                     TTTATCTTCCAGAATATGACAGAAGTTAAAGGACGTGTTTTAAATGCTCCAAAACTTTT
+                     GTATGGAGGAAGAACAAAAGCTACAGCATTACCAAATCAAGGAGTTTGGGATATGCGTG
+                     GAAAACAATTTCATACAGGAATTGAAGTTAAAACTTGGGCAATTGCTTGTTTTGCACAA
+                     CAAAATCATGTTAAAGAAAATGATCTCAGGTTTTAAATAATTTTGTGATAAATGGGGAA
+                     ATCTGGTTTGTGAGACTTGTGATTCTGGTAATGGTTGATTCTTGTAGATCACCGCAAAT
+                     TCAGTCTTTTTCTTATTTATAGAGTCCCTTGAACTAACTAAACTTATGATCAAATATTT
+                     TCCTGTAACCAGGATAAGTTAGAGGTCTATAACAATATTGAGAAAATAGATCTGTGGTA
+                     GTTTATGTGTTCAATAAAGCTGTATGAGTCAAGTGGAAGATTATGATTGAACTCATAAA
+                     CTAGCCATCGCCGAGCTCCGGACTTTTTTGTATTCAAAATCCGACCCGACTTTTTTCCT
+                     ATCCTAGCCCATCTTTGATTCAGATCTTGCTTGTGTCAACTGCTAGGGCATGTACTGGC
+                     CAGAACAAATTATTTTTGATTTTATAAAAGTTATTTTTATATTTTTCAGAAATTTCACT
+                     GGCCATTTACAAAAAATATCCGCAGATGCAGGA"
+                     /qfull="PDKCPRKVNREIVNTMVDSCKLFTGFKPVYDGKKNLYTKEALPFGQERIEL
+                     DVVMPGDSAVDRKFRVALKLVSRVSLQALEDAMAGRIRQIPPESVQAMDVILRHLPSMK
+                     YTPVGRSFFSSPPLALGAQHITVSGGIGGGGGGPQGVDKLGGLGGGREVWFGFHQSVRP
+                     SQWKMMLNIDVSATAFYRKMPVINFMAEVLELPMQALNDRRNLSDPQRVKFTKEIRGLK
+                     IEITHCGQMRRKYRVCNVTRKPAQTQTFPLLLENGLSIDCTVLKYFNDKYHMQLKYPHL
+                     PCLQVGQEQKHTYLPLEVCEIVSGQRCIKKLSDTQTSTMIKVTARNAPDREKEISALVR
+                     RAEIVHDPFAQEFGISINSNMTEVKGRVLNAPKLLYGGRTKATALPNQGVWDMRGKQFH
+                     TGIEVKTWAIACFAQQNHVKEADLRNFTGHLQKISADAG"
+                     /Etotal="440"
+                     /tend="9003"
+                     /score="2107"
+                     /Psim="99.09"
+                     /tid="NODE_9637_length_8951_cov_80.110939_9005_184.83_0.33"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="445"
+                     /qstrand="."
+                     /Emis="8"
+                     /qlen="444"
+                     /Eident="432"
+                     /qcds="VVTR"
+                     /qname="AGO_Mhap"
+                     /Pident="98.18"
+                     /qdescription
+                     /tlen="3506"
+                     /model="protein2genome:local"
+                     /tcds="CCAGACAAATGTCCTCGCAAAGTTAACAGAGAAATCATCAATACAATGGTTG
+                     ATTCATGTAAATTATTTAATAATTTCAAACCTGTATATGATGGAAAAAAGAATTTGTAT
+                     ACAAAAGAAGCTTTGCCTTTTGGACAAGAAAGAGTTGAATTGGATGTTGTTATGCCTGG
+                     TGATTCTGCTGTTGATAGAAAATTTAGAGTTGCTTTAAAGTTAGTAAGCCGTGTTTCTT
+                     TACAAGCTTTGGAGGATGCGATGGCTGGCCGTATAAGACAAATCCCACCAGAATCAGTG
+                     CAAGCAATGGATGTCATTCTTCGACATCTTCCCAGCATGAAATATACTCCAGTTGGTCG
+                     CTCATTTTTCTCCTCTCCTCCGGTAGCTTTAGGCGCTCAACACATTACTGTTTCTGGTG
+                     GTCCTGGAGGCGGTGGGGGTGGCGGAGGAGGAGGAGGTCCTCAAGGCGTTGATAAACTT
+                     GGTGGACTTGGTGGTGGAAGAGAAGTTTGGTTTGGATTTCACCAAAGTGTACGCCCGAG
+                     CCAGTGGAAAATGATGCTCAATATTGACGTTTCTGCAACTGCCTTTTATCGTAAAATGC
+                     CTGTGATAAATTTTATGGCTGAAGTTTTGGAATTACCAATGCAGGCATTAAATGATAGA
+                     AGAAATTTATCTGATCCTCAACGTGTTAAATTCACAAAAGAAATAAGAGGACTTAAAAT
+                     TGAAATTACTCATTGTGGACAAATGAGAAGAAAATATCGTGTTTGTAATGTTACTAGAA
+                     AACCAGCTCAATCACAAACATTCCCTTTATTACTTGAAAATGGTTTATCTATTGACTGT
+                     ACTGTTCTCAAATATTTTAATGATAAATATCACATGCAATTAAAATATCCACATCTTCC
+                     CTGCTTACAAGTTGGCCAAGAACAAAAGCATACTTATTTACCTTTGGAAGTTTGTGAAA
+                     TTGTTTCTGGACAGAGATGTATTAAAAAATTGTCTGATACTCAAACGTCTACAATGATT
+                     AAGGTCACAGCACGTAATGCTCCAGATAGAGAAAAGGAAATTTCTGCTCTTGTTAGACG
+                     TGCCGAAATTGTACACGATCCTTTTGCTCAAGAATTTGGAATTTCAATTAATTCTAATA
+                     TGACAGAAGTTAAAGGACGTGTTTTAAATGCTCCAAAACTTTTGTATGGAGGAAGAACA
+                     AAAGCTACAGCATTACCAAATCAAGGAGTTTGGGATATGCGTGGAAAACAATTTCATAC
+                     AGGAATTGAAGTTAAAACTTGGGCAATTGCTTGTTTTGCACAACAAAATCATGTTAAAG
+                     AAAATGATCTCAGAAATTTCACTGGCCATTTACAAAAAATATCCGCAGATGCAGGA"
+                     /tbegin="5497"
+                     /Esim="436"
+     M               1..210
+                     /gene="MhA1_Conti"
+     5               211..212
+                     /gene="MhA1_Conti"
+     I               213..577
+                     /gene="MhA1_Conti"
+     3               578..579
+                     /gene="MhA1_Conti"
+     M               580..708
+                     /gene="MhA1_Conti"
+     S               709
+                     /gene="MhA1_Conti"
+     5               710..711
+                     /gene="MhA1_Conti"
+     I               712..755
+                     /gene="MhA1_Conti"
+     3               756..757
+                     /gene="MhA1_Conti"
+     S               758..759
+                     /gene="MhA1_Conti"
+     M               760..831
+                     /gene="MhA1_Conti"
+     G               832..846
+                     /gene="MhA1_Conti"
+     M               847..969
+                     /gene="MhA1_Conti"
+     S               970
+                     /gene="MhA1_Conti"
+     5               971..972
+                     /gene="MhA1_Conti"
+     I               973..1353
+                     /gene="MhA1_Conti"
+     3               1354..1355
+                     /gene="MhA1_Conti"
+     S               1356..1357
+                     /gene="MhA1_Conti"
+     M               1358..1579
+                     /gene="MhA1_Conti"
+     S               1580..1581
+                     /gene="MhA1_Conti"
+     5               1582..1583
+                     /gene="MhA1_Conti"
+     I               1584..1949
+                     /gene="MhA1_Conti"
+     3               1950..1951
+                     /gene="MhA1_Conti"
+     S               1952
+                     /gene="MhA1_Conti"
+     M               1953..2171
+                     /gene="MhA1_Conti"
+     5               2172..2173
+                     /gene="MhA1_Conti"
+     I               2174..2619
+                     /gene="MhA1_Conti"
+     3               2620..2621
+                     /gene="MhA1_Conti"
+     M               2622..2732
+                     /gene="MhA1_Conti"
+     5               2733..2734
+                     /gene="MhA1_Conti"
+     I               2735..2834
+                     /gene="MhA1_Conti"
+     3               2835..2836
+                     /gene="MhA1_Conti"
+     M               2837..3028
+                     /gene="MhA1_Conti"
+     S               3029..3030
+                     /gene="MhA1_Conti"
+     5               3031..3032
+                     /gene="MhA1_Conti"
+     I               3033..3461
+                     /gene="MhA1_Conti"
+     3               3462..3463
+                     /gene="MhA1_Conti"
+     S               3464
+                     /gene="MhA1_Conti"
+     M               3465..3506
+                     /gene="MhA1_Conti"
+     CDS             join(1..210,580..708,709,758..759,760..831,832..846,
+                     847..969,970,1356..1357,1358..1579,1580..1581,1952,
+                     1953..2171,2622..2732,2837..3028,3029..3030,3464,
+                     3465..3506)
+                     /translation="PDKCPRKVNREIINTMVDSCKLFNNFKPVYDGKKNLYTKEALPFG
+                     QERVELDVVMPGDSAVDRKFRVALKLVSRVSLQALEDAMAGRIRQIPPESVQAMDVILR
+                     HLPSMKYTPVGRSFFSSPPVALGAQHITVSGGPGGGGGGGGGGGPQGVDKLGGLGGGRE
+                     VWFGFHQSVRPSQWKMMLNIDVSATAFYRKMPVINFMAEVLELPMQALNDRRNLSDPQR
+                     VKFTKEIRGLKIEITHCGQMRRKYRVCNVTRKPAQSQTFPLLLENGLSIDCTVLKYFND
+                     KYHMQLKYPHLPCLQVGQEQKHTYLPLEVCEIVSGQRCIKKLSDTQTSTMIKVTARNAP
+                     DREKEISALVRRAEIVHDPFAQEFGISINSNMTEVKGRVLNAPKLLYGGRTKATALPNQ
+                     GVWDMRGKQFHTGIEVKTWAIACFAQQNHVKENDLRNFTGHLQKISADAG"
+                     /gene="AGO"
+ORIGIN
+        1 ccagacaaat gtcctcgcaa agttaacaga gaaatcatca atacaatggt tgattcatgt
+       61 aaattattta ataatttcaa acctgtatat gatggaaaaa agaatttgta tacaaaagaa
+      121 gctttgcctt ttggacaaga aagagttgaa ttggatgttg ttatgcctgg tgattctgct
+      181 gttgatagaa aatttagagt tgctttaaag gttttttatt taatttaata tttttttctg
+      241 gcgctaaaat gttttgtaag agtatttttt atgagggcat gttctcaaac atgatcacgg
+      301 ctattttgca gttttcatga gtattttgcg ttatggccgt cacatccgta tccgcccata
+      361 ttcttatctt ttttacagat atcatatcag ggtatctccc atgcctgatc gtcttgtcat
+      421 tttgatgagt aaaatcatga attaaacaaa aaaccgcgag taaagctcat taagatggtg
+      481 tgagggactt tagtttccat ttcactctaa tgcctaatga tggattctgc ttatctatca
+      541 aaaagggtct aaaaattttt ttaaatattg ctttttcagt tagtaagccg tgtttcttta
+      601 caagctttgg aggatgcgat ggctggccgt ataagacaaa tcccaccaga atcagtgcaa
+      661 gcaatggatg tcattcttcg acatcttccc agcatgaaat atactccagg ttttcttttt
+      721 aatctcgttt ttggaaaatt tttaaaattt ttttcagttg gtcgctcatt tttctcctct
+      781 cctccggtag ctttaggcgc tcaacacatt actgtttctg gtggtcctgg aggcggtggg
+      841 ggtggcggag gaggaggagg tcctcaaggc gttgataaac ttggtggact tggtggtgga
+      901 agagaagttt ggtttggatt tcaccaaagt gtacgcccga gccagtggaa aatgatgctc
+      961 aatattgacg gtttgattta attaaaaatt tcttgggggg aaatgaagtg tgtgtttgct
+     1021 aggttcacca ttccgagcgt ttcttaattt acttggattt ttggggacag ttttctttta
+     1081 aaaatactgt tagatttcgc ttatagtttg cccttaagtt ggttttattt gcttgactaa
+     1141 ctcgaacccc gagaattttt cgacctgaaa cttgatctga agaaaaaaaa taaaaacccc
+     1201 gaccgaaatt ggactcaact ttatactttg gcctgcccct ttatatggat aaagcttaaa
+     1261 aagtgaacat aaagggttgt ctgacctctc tctattttgc acatttttaa attttattat
+     1321 atttttctat aaaaatttat tatttttttt tcaagtttct gcaactgcct tttatcgtaa
+     1381 aatgcctgtg ataaatttta tggctgaagt tttggaatta ccaatgcagg cattaaatga
+     1441 tagaagaaat ttatctgatc ctcaacgtgt taaattcaca aaagaaataa gaggacttaa
+     1501 aattgaaatt actcattgtg gacaaatgag aagaaaatat cgtgtttgta atgttactag
+     1561 aaaaccagct caatcacaaa cgtttgtttt tttaaagatc actatttttg aataatattt
+     1621 gaggatatag gttcttattc ctagtgagat tttcgatttt tttaacatcg attaatagta
+     1681 gaacgtcgtt taattgaaaa ttggggagag agtcgggtac ctaatgcctg aaacctaaac
+     1741 atttcgatac gaaacccaat ccggagaaaa ttttgaaaaa ctgatttgac gtcctttttc
+     1801 tcctatttat cacatcttta cccacatttc atcattactg tggaaaacta ggcaagtttg
+     1861 tttcattaac tgaggaagta aaggttccca tattttagtt tattattttt gtttgatttt
+     1921 tctttcttaa tcttttaata agttttttta gattcccttt attacttgaa aatggtttat
+     1981 ctattgactg tactgttctc aaatatttta atgataaata tcacatgcaa ttaaaatatc
+     2041 cacatcttcc ctgcttacaa gttggccaag aacaaaagca tacttattta cctttggaag
+     2101 tttgtgaaat tgtttctgga cagagatgta ttaaaaaatt gtctgatact caaacgtcta
+     2161 caatgattaa ggttgttgtt tatttttctg tgtttgtgtg tgtgtttttg ttttaagtca
+     2221 gaatttgtat ttttttaaaa gaaaatcaga attattttat atttctttgt atttttctac
+     2281 caattaattt ttaattggta gaagaatgtg tttttgttaa atcagaattt tatgtgtttt
+     2341 taacggaatg tttaaatcag aattttgtgt gttttctttt tagaatttgt atttttatca
+     2401 gaatttaaaa tcagaatttt gtatttttct atacaacatt aagtcagaat tttaagtatt
+     2461 ttttaaaatc aaatcagaat ttttctgtgt ttttgaatca gaattttgtg tatttttctt
+     2521 ttagaaaatt tgtatttttt tgctgtattt ttgtttcttt tatttattta aattaattct
+     2581 gatatattta tataataaat taatttttac atttttttca ggtcacagca cgtaatgctc
+     2641 cagatagaga aaaggaaatt tctgctcttg ttagacgtgc cgaaattgta cacgatcctt
+     2701 ttgctcaaga atttggaatt tcaattaatt ctgtaaatta aaaatttttt tttgaaatta
+     2761 aaaaaaattt tcttaaaaat tagaaaaaat tctgctattt ttttaaattt ctgtaaaaat
+     2821 tttttttatc ttccagaata tgacagaagt taaaggacgt gttttaaatg ctccaaaact
+     2881 tttgtatgga ggaagaacaa aagctacagc attaccaaat caaggagttt gggatatgcg
+     2941 tggaaaacaa tttcatacag gaattgaagt taaaacttgg gcaattgctt gttttgcaca
+     3001 acaaaatcat gttaaagaaa atgatctcag gttttaaata attttgtgat aaatggggaa
+     3061 atctggtttg tgagacttgt gattctggta atggttgatt cttgtagatc accgcaaatt
+     3121 cagtcttttt cttatttata gagtcccttg aactaactaa acttatgatc aaatattttc
+     3181 ctgtaaccag gataagttag aggtctataa caatattgag aaaatagatc tgtggtagtt
+     3241 tatgtgttca ataaagctgt atgagtcaag tggaagatta tgattgaact cataaactag
+     3301 ccatcgccga gctccggact tttttgtatt caaaatccga cccgactttt ttcctatcct
+     3361 agcccatctt tgattcagat cttgcttgtg tcaactgcta gggcatgtac tggccagaac
+     3421 aaattatttt tgattttata aaagttattt ttatattttt cagaaatttc actggccatt
+     3481 tacaaaaaat atccgcagat gcagga
+//
+LOCUS       melo|tfa|44              433 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: GPLIN_0010 , target:
+            NODE_34493_length_444_cov_72.452705_498_139.00_0.34 , HSPID: 44
+ACCESSION   melo|tfa|44
+VERSION     melo|tfa|44
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..433
+                     /vulgar="M 26 78 G 1 0 M 45 135 G 1 0 M 11 33 G 1 0 M 19 57
+                     5 0 2 I 0 36 3 0 2 M 30 90"
+                     /qid="GPLIN_0010"
+                     /tstrand="+"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="364"
+                     /qtype="Protein"
+                     /tfull="GACACCGACTTTGAATTTTATTATTGGATAGAAGCTTTGGGATCGCGTGGA
+                     TCTGTTGTAATCGATCATTGGGTTAACGAATCTGAACAGAAGAAATTTTTCAAAACACT
+                     CATCGACTGTTACAACCAAGATCGTCAGAGAACATTAACTGCACTAGAGATGCTATCAG
+                     ATCGATTACTTGATAGAAGTGAAGTTCGCCATGGAAGAGGACTGACCGGACTATTTCAA
+                     GATATCGAGAGGGATCTTGCAAAGAATAAAATTGAACAAGAGGAATTGAAAAATGGTTT
+                     TGTGCGTCTTAAAAAAGTTTGTTAATATTTTATAGAATTTTTTGAATGAAATTTAGGTT
+                     ATCATCACACCTTCACGCATGATTCTTTGTGGTAATGAGGTTCTTATGGGCAATAGAGT
+                     TGTTCGAATTGATCCAGTGAATTATCCT"
+                     /qfull="ENNFKLQYMIAALLSRGAVVKDYLLSREEDRDEFIKRCGRDFQNDRAVSLE
+                     VMEQVLAEIDKRLDSLHPALIYDWIFKRVSRSADAMRQIHEENTKEGYVRVRKVLITPS
+                     RMLFVAPELLMGNRVLRMDPMKYP"
+                     /Etotal="131"
+                     /tend="496"
+                     /score="153"
+                     /Psim="61.07"
+                     /tid="NODE_34493_length_444_cov_72.452705_498_139.00_0.34"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="498"
+                     /qstrand="."
+                     /Emis="82"
+                     /qlen="134"
+                     /Eident="49"
+                     /qcds
+                     /qname="RDRP_Gpal_rdrp"
+                     /Pident="37.40"
+                     /qdescription
+                     /tlen="433"
+                     /model="protein2genome:local"
+                     /tcds="GACACCGACTTTGAATTTTATTATTGGATAGAAGCTTTGGGATCGCGTGGAT
+                     CTGTTGTAATCGATCATTGGGTTAACGAATCTGAACAGAAGAAATTTTTCAAAACACTC
+                     ATCGACTGTTACAACCAAGATCGTCAGAGAACATTAACTGCACTAGAGATGCTATCAGA
+                     TCGATTACTTGATAGAAGTGAAGTTCGCCATGGAAGAGGACTGACCGGACTATTTCAAG
+                     ATATCGAGAGGGATCTTGCAAAGAATAAAATTGAACAAGAGGAATTGAAAAATGGTTTT
+                     GTGCGTCTTAAAAAAGTTATCATCACACCTTCACGCATGATTCTTTGTGGTAATGAGGT
+                     TCTTATGGGCAATAGAGTTGTTCGAATTGATCCAGTGAATTATCCT"
+                     /tbegin="63"
+                     /Esim="80"
+     M               1..78
+                     /gene="GPLIN_0010"
+     G               78^79
+                     /gene="GPLIN_0010"
+     M               79..213
+                     /gene="GPLIN_0010"
+     G               213^214
+                     /gene="GPLIN_0010"
+     M               214..246
+                     /gene="GPLIN_0010"
+     G               246^247
+                     /gene="GPLIN_0010"
+     M               247..303
+                     /gene="GPLIN_0010"
+     5               304..305
+                     /gene="GPLIN_0010"
+     I               306..341
+                     /gene="GPLIN_0010"
+     3               342..343
+                     /gene="GPLIN_0010"
+     M               344..433
+                     /gene="GPLIN_0010"
+     CDS             join(1..78,79..213,214..246,247..303,344..433)
+                     /translation="DTDFEFYYWIEALGSRGSVVIDHWVNESEQKKFFKTLIDCYNQDR
+                     QRTLTALEMLSDRLLDRSEVRHGRGLTGLFQDIERDLAKNKIEQEELKNGFVRLKKVII
+                     TPSRMILCGNEVLMGNRVVRIDPVNYP"
+                     /gene="RDRP"
+ORIGIN
+        1 gacaccgact ttgaatttta ttattggata gaagctttgg gatcgcgtgg atctgttgta
+       61 atcgatcatt gggttaacga atctgaacag aagaaatttt tcaaaacact catcgactgt
+      121 tacaaccaag atcgtcagag aacattaact gcactagaga tgctatcaga tcgattactt
+      181 gatagaagtg aagttcgcca tggaagagga ctgaccggac tatttcaaga tatcgagagg
+      241 gatcttgcaa agaataaaat tgaacaagag gaattgaaaa atggttttgt gcgtcttaaa
+      301 aaagtttgtt aatattttat agaatttttt gaatgaaatt taggttatca tcacaccttc
+      361 acgcatgatt ctttgtggta atgaggttct tatgggcaat agagttgttc gaattgatcc
+      421 agtgaattat cct
+//
+LOCUS       melo|tfa|50             2552 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: MhA1_Conti , target:
+            NODE_43824_length_3850_cov_45.375324_3904_103.03_0.29 , HSPID: 50
+ACCESSION   melo|tfa|50
+VERSION     melo|tfa|50
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..2552
+                     /vulgar="M 48 144 S 0 1 5 0 2 I 0 39 3 0 2 S 1 2 M 45 135 S
+                     0 2 5 0 2 I 0 316 3 0 2 S 1 1 M 60 180 5 0 2 I 0 45 3 0 2 M
+                     42 126 5 0 2 I 0 367 3 0 2 M 35 105 S 0 2 5 0 2 I 0 42 3 0
+                     2 S 1 1 M 43 129 5 0 2 I 0 325 3 0 2 M 66 198 S 0 2 5 0 2 I
+                     0 262 3 0 2 S 1 1 M 33 99"
+                     /qid="MhA1_Conti"
+                     /tstrand="+"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="444"
+                     /qtype="Protein"
+                     /tfull="GGAATGCCAATTCAAGGTCAACCCTGTTTTTGCAAATATGCTGTTGGTGTT
+                     GATCAAGTTGAGCCAATGTTTAAATACTTGAAACAAAATTTTCCTGGATTACAATTAGT
+                     TTGTGTTGTACTTCCAGGCAAAACTCCTGTTTATGGTTTTTTTGTCGAAAATTCAAAAA
+                     AAATTTTTTTTCTTCCCAGCTGAAGTTAAACGTGTTGGGGACACAGTTTTGGGTATAGC
+                     TACACAATGTGTTCAAGCAAAAAATGTTACAAAAACAACTCCACAAACTCTTTCAAATT
+                     TATGCCTAAAAATGAATGTTAAACTTGGTGGTGTTAACAGGTTTTTTTTGAACGTTAAA
+                     AAAATTTTTTTTAATTTTGTTTGCTTTATCCCCCTATGATTTTTAAATTTTTGAGACTC
+                     AAAATTAGGTCCAAGAACATTTCCTAAAATAGTGAGAAGGTCCGTTTAAACTCCGCTCA
+                     CCGAAACGAATCGAATGGCATGTCTAGACCAAAAATTTTATCGCCAGTATACTCACTAC
+                     AGCCGAGAAAATTCTCGGCTTCAATTGCTTGTGTTCCGGGGGAAACGGCTGTTCTCACT
+                     TCAGCCGAGAATTTATTTTCAAAAATTTTTCTGAACTTAAAAATATTTTTTTTATTTTT
+                     TTAAAGTATTTTACTTCCTGCCGTCCGTCCTCGAATTTTTAATGAACCAATAATATTTC
+                     TTGGTGCTGACATAACACATCCACCTGCAGGGGATTCTCGTAAGCCTTCAATTGCTGGT
+                     GTTGTTGGAAGTATGGATGCACATCCTTCACGTTATGCTGCAACAGTTAGAGTACAACA
+                     ACACAGACATGTTTTTTTGATTTTTAAAATATTTTTTTTTAAATTTTTAATTTTTAAAG
+                     GAAATAATTTCTGAACTTACATTTATGGTTAGAGAACTGTTAATTCAATTTTATCGAAA
+                     TACTCGGTTTAAACCTACTAGAATTATTGTTTATCGTGATGGTGTTAGTGAAGGACAAT
+                     TTCTTAATGTTTGTTTATTTTTTTTTAATTTTTTCTGTCTTACCGGGTATCTTTTGCCG
+                     GGTATCTAGTCTTATTTTTATTGAGAACCTCTATGAATGTTTTTTCAGTTGTAAAAAAT
+                     GTTTCGAAAATTTTTTGGCCTCTTTTTTTAGTCAAATCATTTTTGGTCTAATTTAACTC
+                     CCAACTTCATTTGAGTAGGTGGTAGAGCAAACCCTTGAACGTGTTGATCATATCGCTTA
+                     GCTAAAAATGCCATTAACTCGTAGAATCGTTTTCTGCCTGTCAGGAGATAATTTTTACT
+                     TTTCTTTTTTTGGGATAATGAGTGAAAAACTCGAGGAGTTGTTTTTTTTTTTAAATTGA
+                     GAATTAAAAAAATTATTTTTAAAAGGTTCTTCAAAGCGAACTTCGTTCAATGCGTGAAG
+                     CTTGTATGATGCTTGAAAGAGGTTATCAACCAGGAATAACATTTATTGCTTTACAAAAG
+                     CGGCATCATACAAGGTTTATTTTTTTGAAATTATGAAAAATAAGAAAAATTTTTTCAAA
+                     GACTTTTTGCTGTTGATAAAAAAGATCAAGTCGGCAAAGCTTTCAACATTCCGCCCGGT
+                     ACAACTGTTGATGTTGGTATTACACATCCAACAGAATTTGATTTTTATTTGTGTTCTCA
+                     TGCTGGAATTCAGGTTTTTTTTTATTTAAATTGAAAAGAGATTGTGTTAGGCAGTTTTT
+                     TCATTTTTAAGGGATTTTTTCCGTCTATTCCCTTCAATTTTCTTTTGGAATTTTTTTAA
+                     ATTTCCTCTTAATTTGTTTTTTGAAGATGGGGTTTTATTTGTTTTGATTAATAAATATA
+                     TTTTTTATCACTGACAAGCAATATAATAATTTTTGGTTAAGATTAAAAATAATCTCCGC
+                     CATGAGGTTCGAACCATGGTGCTTTCTTACTACGAACATAACACTTTCCAACTACACCA
+                     AAAAATTTTTATTTTCAGAATTATAAAATTTTTTGCTTTTTTTAAAGGGAACTTCACGT
+                     CCTTCACATTATCATGTTCTCTGGGACGACAATAATCTTTCTGCCGATGAACTTCAACA
+                     ACTTACTTATCAACTTTGCCATACTTATGTTCGCTGTACGCGTTCAGTTTCTGTACCGG
+                     CGCCTGCTTATTATGCTCATTTAGTTGCTTTTAGAGCTCGTTATCATTTGGTTGATAGA
+                     GAACATGACAGGTTTTTTTGATTGTTTGAATGGTTTTGGGGAAGATTAGCTTTGAGGGA
+                     TTTCCCCAAAATCCCCCAAAATTTAAATAGATTAAGGTTGTGCTTTCTGAATTTCGTTT
+                     TCTTTTTCCAATTTTATTTTGTATTTTGAGTAGATTTTTAGTCATGGGTTTTTCCTGAT
+                     TTTTTTAATTTTTAATATTTTATTATTTTTGTTTTCATTCCTTTAAGAAAAATTGAGGT
+                     GAATCTTTCAAATTAAAATTCCTTTCTCTTTTTTTTTCTAGCGGTGAAGGAAGTCAACC
+                     TTCTGGAACTAGTGAAGATACAACTTTGAGTAATATGGCTAGAGCTGTACAGGTTCATC
+                     CTGATGCTAATTCGGTTTTTCTT"
+                     /qfull="GMPIQGQPCFCKYAVGVDQVEPMFKYLKQNYPGLQLVCVVLPGKTPVYAEV
+                     KRVGDTVLGIATQCVQAKNATKTTPQTLSNLCLKMNVKLGGVNSILLPAVRPRIFNEPI
+                     IFLGADITHPPAGDSRKPSIAGVVGSMDAHPSRYAATVRVQQHRHEIISELTFMVRELL
+                     IQFYRNTRFKPTRIIVYRDGVSEGQFLNVLQSELRSMREACMMLERGYQPGITFIALQK
+                     RHHTRLFAVDKKDQVGKAFNIPPGTTVDVGITHPTEFDFYLCSHAGIQGTSRPSHYHVL
+                     WDDNNLSADELQQLTYQLCHTYVRCTRSVSVPAPAYYAHLVAFRARYHLVDREHDSGEG
+                     SQPSGTSEDTTLSNMARAVQVHPDANSTML"
+                     /Etotal="372"
+                     /tend="2553"
+                     /score="1821"
+                     /Psim="99.19"
+                     /tid="NODE_43824_length_3850_cov_45.375324_3904_103.03_0.29
+                     "
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="820"
+                     /qstrand="."
+                     /Emis="4"
+                     /qlen="376"
+                     /Eident="368"
+                     /qcds="ASRS"
+                     /qname="AGO_Mhap"
+                     /Pident="98.92"
+                     /qdescription
+                     /tlen="2552"
+                     /model="protein2genome:local"
+                     /tcds="GGAATGCCAATTCAAGGTCAACCCTGTTTTTGCAAATATGCTGTTGGTGTTG
+                     ATCAAGTTGAGCCAATGTTTAAATACTTGAAACAAAATTTTCCTGGATTACAATTAGTT
+                     TGTGTTGTACTTCCAGGCAAAACTCCTGTTTATGCTGAAGTTAAACGTGTTGGGGACAC
+                     AGTTTTGGGTATAGCTACACAATGTGTTCAAGCAAAAAATGTTACAAAAACAACTCCAC
+                     AAACTCTTTCAAATTTATGCCTAAAAATGAATGTTAAACTTGGTGGTGTTAACAGTATT
+                     TTACTTCCTGCCGTCCGTCCTCGAATTTTTAATGAACCAATAATATTTCTTGGTGCTGA
+                     CATAACACATCCACCTGCAGGGGATTCTCGTAAGCCTTCAATTGCTGGTGTTGTTGGAA
+                     GTATGGATGCACATCCTTCACGTTATGCTGCAACAGTTAGAGTACAACAACACAGACAT
+                     GAAATAATTTCTGAACTTACATTTATGGTTAGAGAACTGTTAATTCAATTTTATCGAAA
+                     TACTCGGTTTAAACCTACTAGAATTATTGTTTATCGTGATGGTGTTAGTGAAGGACAAT
+                     TTCTTAATGTTCTTCAAAGCGAACTTCGTTCAATGCGTGAAGCTTGTATGATGCTTGAA
+                     AGAGGTTATCAACCAGGAATAACATTTATTGCTTTACAAAAGCGGCATCATACAAGACT
+                     TTTTGCTGTTGATAAAAAAGATCAAGTCGGCAAAGCTTTCAACATTCCGCCCGGTACAA
+                     CTGTTGATGTTGGTATTACACATCCAACAGAATTTGATTTTTATTTGTGTTCTCATGCT
+                     GGAATTCAGGGAACTTCACGTCCTTCACATTATCATGTTCTCTGGGACGACAATAATCT
+                     TTCTGCCGATGAACTTCAACAACTTACTTATCAACTTTGCCATACTTATGTTCGCTGTA
+                     CGCGTTCAGTTTCTGTACCGGCGCCTGCTTATTATGCTCATTTAGTTGCTTTTAGAGCT
+                     CGTTATCATTTGGTTGATAGAGAACATGACAGCGGTGAAGGAAGTCAACCTTCTGGAAC
+                     TAGTGAAGATACAACTTTGAGTAATATGGCTAGAGCTGTACAGGTTCATCCTGATGCTA
+                     ATTCGGTTTTTCTT"
+                     /tbegin="1"
+                     /Esim="369"
+     M               1..144
+                     /gene="MhA1_Conti"
+     S               145
+                     /gene="MhA1_Conti"
+     5               146..147
+                     /gene="MhA1_Conti"
+     I               148..186
+                     /gene="MhA1_Conti"
+     3               187..188
+                     /gene="MhA1_Conti"
+     S               189..190
+                     /gene="MhA1_Conti"
+     M               191..325
+                     /gene="MhA1_Conti"
+     S               326..327
+                     /gene="MhA1_Conti"
+     5               328..329
+                     /gene="MhA1_Conti"
+     I               330..645
+                     /gene="MhA1_Conti"
+     3               646..647
+                     /gene="MhA1_Conti"
+     S               648
+                     /gene="MhA1_Conti"
+     M               649..828
+                     /gene="MhA1_Conti"
+     5               829..830
+                     /gene="MhA1_Conti"
+     I               831..875
+                     /gene="MhA1_Conti"
+     3               876..877
+                     /gene="MhA1_Conti"
+     M               878..1003
+                     /gene="MhA1_Conti"
+     5               1004..1005
+                     /gene="MhA1_Conti"
+     I               1006..1372
+                     /gene="MhA1_Conti"
+     3               1373..1374
+                     /gene="MhA1_Conti"
+     M               1375..1479
+                     /gene="MhA1_Conti"
+     S               1480..1481
+                     /gene="MhA1_Conti"
+     5               1482..1483
+                     /gene="MhA1_Conti"
+     I               1484..1525
+                     /gene="MhA1_Conti"
+     3               1526..1527
+                     /gene="MhA1_Conti"
+     S               1528
+                     /gene="MhA1_Conti"
+     M               1529..1657
+                     /gene="MhA1_Conti"
+     5               1658..1659
+                     /gene="MhA1_Conti"
+     I               1660..1984
+                     /gene="MhA1_Conti"
+     3               1985..1986
+                     /gene="MhA1_Conti"
+     M               1987..2184
+                     /gene="MhA1_Conti"
+     S               2185..2186
+                     /gene="MhA1_Conti"
+     5               2187..2188
+                     /gene="MhA1_Conti"
+     I               2189..2450
+                     /gene="MhA1_Conti"
+     3               2451..2452
+                     /gene="MhA1_Conti"
+     S               2453
+                     /gene="MhA1_Conti"
+     M               2454..2552
+                     /gene="MhA1_Conti"
+     CDS             join(1..144,145,189..190,191..325,326..327,648,649..828,
+                     878..1003,1375..1479,1480..1481,1528,1529..1657,1987..2184,
+                     2185..2186,2453,2454..2552)
+                     /translation="GMPIQGQPCFCKYAVGVDQVEPMFKYLKQNFPGLQLVCVVLPGKT
+                     PVYAEVKRVGDTVLGIATQCVQAKNVTKTTPQTLSNLCLKMNVKLGGVNSILLPAVRPR
+                     IFNEPIIFLGADITHPPAGDSRKPSIAGVVGSMDAHPSRYAATVRVQQHRHEIISELTF
+                     MVRELLIQFYRNTRFKPTRIIVYRDGVSEGQFLNVLQSELRSMREACMMLERGYQPGIT
+                     FIALQKRHHTRLFAVDKKDQVGKAFNIPPGTTVDVGITHPTEFDFYLCSHAGIQGTSRP
+                     SHYHVLWDDNNLSADELQQLTYQLCHTYVRCTRSVSVPAPAYYAHLVAFRARYHLVDRE
+                     HDSGEGSQPSGTSEDTTLSNMARAVQVHPDANSVFL"
+                     /gene="AGO"
+ORIGIN
+        1 ggaatgccaa ttcaaggtca accctgtttt tgcaaatatg ctgttggtgt tgatcaagtt
+       61 gagccaatgt ttaaatactt gaaacaaaat tttcctggat tacaattagt ttgtgttgta
+      121 cttccaggca aaactcctgt ttatggtttt tttgtcgaaa attcaaaaaa aatttttttt
+      181 cttcccagct gaagttaaac gtgttgggga cacagttttg ggtatagcta cacaatgtgt
+      241 tcaagcaaaa aatgttacaa aaacaactcc acaaactctt tcaaatttat gcctaaaaat
+      301 gaatgttaaa cttggtggtg ttaacaggtt ttttttgaac gttaaaaaaa ttttttttaa
+      361 ttttgtttgc tttatccccc tatgattttt aaatttttga gactcaaaat taggtccaag
+      421 aacatttcct aaaatagtga gaaggtccgt ttaaactccg ctcaccgaaa cgaatcgaat
+      481 ggcatgtcta gaccaaaaat tttatcgcca gtatactcac tacagccgag aaaattctcg
+      541 gcttcaattg cttgtgttcc gggggaaacg gctgttctca cttcagccga gaatttattt
+      601 tcaaaaattt ttctgaactt aaaaatattt tttttatttt tttaaagtat tttacttcct
+      661 gccgtccgtc ctcgaatttt taatgaacca ataatatttc ttggtgctga cataacacat
+      721 ccacctgcag gggattctcg taagccttca attgctggtg ttgttggaag tatggatgca
+      781 catccttcac gttatgctgc aacagttaga gtacaacaac acagacatgt ttttttgatt
+      841 tttaaaatat ttttttttaa atttttaatt tttaaaggaa ataatttctg aacttacatt
+      901 tatggttaga gaactgttaa ttcaatttta tcgaaatact cggtttaaac ctactagaat
+      961 tattgtttat cgtgatggtg ttagtgaagg acaatttctt aatgtttgtt tatttttttt
+     1021 taattttttc tgtcttaccg ggtatctttt gccgggtatc tagtcttatt tttattgaga
+     1081 acctctatga atgttttttc agttgtaaaa aatgtttcga aaattttttg gcctcttttt
+     1141 ttagtcaaat catttttggt ctaatttaac tcccaacttc atttgagtag gtggtagagc
+     1201 aaacccttga acgtgttgat catatcgctt agctaaaaat gccattaact cgtagaatcg
+     1261 ttttctgcct gtcaggagat aatttttact tttctttttt tgggataatg agtgaaaaac
+     1321 tcgaggagtt gttttttttt ttaaattgag aattaaaaaa attattttta aaaggttctt
+     1381 caaagcgaac ttcgttcaat gcgtgaagct tgtatgatgc ttgaaagagg ttatcaacca
+     1441 ggaataacat ttattgcttt acaaaagcgg catcatacaa ggtttatttt tttgaaatta
+     1501 tgaaaaataa gaaaaatttt ttcaaagact ttttgctgtt gataaaaaag atcaagtcgg
+     1561 caaagctttc aacattccgc ccggtacaac tgttgatgtt ggtattacac atccaacaga
+     1621 atttgatttt tatttgtgtt ctcatgctgg aattcaggtt tttttttatt taaattgaaa
+     1681 agagattgtg ttaggcagtt ttttcatttt taagggattt tttccgtcta ttcccttcaa
+     1741 ttttcttttg gaattttttt aaatttcctc ttaatttgtt ttttgaagat ggggttttat
+     1801 ttgttttgat taataaatat attttttatc actgacaagc aatataataa tttttggtta
+     1861 agattaaaaa taatctccgc catgaggttc gaaccatggt gctttcttac tacgaacata
+     1921 acactttcca actacaccaa aaaattttta ttttcagaat tataaaattt tttgcttttt
+     1981 ttaaagggaa cttcacgtcc ttcacattat catgttctct gggacgacaa taatctttct
+     2041 gccgatgaac ttcaacaact tacttatcaa ctttgccata cttatgttcg ctgtacgcgt
+     2101 tcagtttctg taccggcgcc tgcttattat gctcatttag ttgcttttag agctcgttat
+     2161 catttggttg atagagaaca tgacaggttt ttttgattgt ttgaatggtt ttggggaaga
+     2221 ttagctttga gggatttccc caaaatcccc caaaatttaa atagattaag gttgtgcttt
+     2281 ctgaatttcg ttttcttttt ccaattttat tttgtatttt gagtagattt ttagtcatgg
+     2341 gtttttcctg atttttttaa tttttaatat tttattattt ttgttttcat tcctttaaga
+     2401 aaaattgagg tgaatctttc aaattaaaat tcctttctct ttttttttct agcggtgaag
+     2461 gaagtcaacc ttctggaact agtgaagata caactttgag taatatggct agagctgtac
+     2521 aggttcatcc tgatgctaat tcggtttttc tt
+//
+LOCUS       melo|tfa|74              950 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5EE53| , target:
+            NODE_57710_length_6940_cov_21.065130_6994_53.76_0.30 [revcomp],
+            HSPID: 74
+ACCESSION   melo|tfa|74
+VERSION     melo|tfa|74
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..950
+                     /vulgar="M 48 144 5 0 2 I 0 37 3 0 2 M 29 87 S 0 1 5 0 2 I
+                     0 49 3 0 2 S 1 2 M 51 153 5 0 2 I 0 132 3 0 2 M 45 135 5 0
+                     2 I 0 65 3 0 2 M 43 129"
+                     /qid="tr|G5EE53|"
+                     /tstrand="-"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="1079"
+                     /qtype="Protein"
+                     /tfull="TTATTTTTAGGTCCAGTTTTAATCTCCAAAAATCCAGCAATTGTTGGAGGG
+                     GACGTTAGAATGTTTGAAGCAATTGATGTCCCTGCATTACATCATTTGGTCGATGTACT
+                     CGTTTTTCCTCGGTTTGGACCGCGTCCACATCCGGTTATTTTCATAATTAAATTTTAAA
+                     TAAATTCATTTGTTAGGATGAAATGGCTGGTTCTGACTTGGATGGAGATGAATATGGAG
+                     TCATTTGGGATCCAGAGTTGGCTTTCAATAAAAATGAACCACCGGTTCATTAATTTTTC
+                     TATTTTTTAAAGAAAATTTTCAGGCTGACTATACACCAGTTATTTACAATGAGGAAGCT
+                     GGCGATAGCTTTGAGCATGATGATTTTCAAGACAAAATGGCCGGATTCTTTGTGAACTA
+                     CTTAAAGCACGATTCAATTGGACGCATTGCTAATGCTCACTTGGCCTGTTCTGATTTAT
+                     ATGGAATAAAAGCAAAGGTAAAATTTCATTTAAGTTTGATGCAACAACAATACAACTAT
+                     TTGTATTGGTGTCCAAGCCTGGTTTTTCTATTATAGTAATTAATAATTTATAATAAACG
+                     ACTTACTCACATCAGTTAACTTTTCAATTTCTCAGGTGTGTGGCAATATTGCACTTAAA
+                     CATCAACGAGCAGTTGATTTTCCGAAAACAGGAAAACATTCTGCCCCTTTAGAATACAA
+                     TTGGAAAGGTTCTGATCCCCCAGAAAGATTTGAAAGAGCGCCAGATTTTATGGAAAAGG
+                     AATCTTCTGAGGTTTAAATTTCTGATAATTTGTGTTAAAAATATTTGCTTTTCTAGCCT
+                     CAATATCATAGTAGTCGCCTTAATGGACAATTACACAGACGAGTGAGTGAATTGAGTGA
+                     TTTTCTTTCTTCTGTAATTGTTCAAGAATCAACCAATTTACCTGATCCTGACGAAATGT
+                     TACTTTCTAATGAC"
+                     /qfull="LKTGKVLITKNPCHVPGDVRVFDAVWQPALAHLVDVVVFPQHGPRPHPDEM
+                     AGSDLDGDEYSIIWDQEMLLDYNEEAMVFPSSSAAEEDKEPTTDDMVEFFLRYLQQDSI
+                     GRMSHAHLAYADLHGLFHENCHAIALKCAVAVDFPKSGVPAEPLSSFEQCEMTPDYMMS
+                     GGKPMYYSTRLNGQLHRKARKVEEVLEEFETRGSVFEREYDKLICPED"
+                     /Etotal="216"
+                     /tend="5941"
+                     /score="385"
+                     /Psim="63.43"
+                     /tid="NODE_57710_length_6940_cov_21.065130_6994_53.76_0.30"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="1296"
+                     /qstrand="."
+                     /Emis="117"
+                     /qlen="217"
+                     /Eident="99"
+                     /qcds="M"
+                     /qname="RDRP_Cele_rrf3"
+                     /Pident="45.83"
+                     /qdescription
+                     /tlen="950"
+                     /model="protein2genome:local"
+                     /tcds="TTATTTTTAGGTCCAGTTTTAATCTCCAAAAATCCAGCAATTGTTGGAGGGG
+                     ACGTTAGAATGTTTGAAGCAATTGATGTCCCTGCATTACATCATTTGGTCGATGTACTC
+                     GTTTTTCCTCGGTTTGGACCGCGTCCACATCCGGATGAAATGGCTGGTTCTGACTTGGA
+                     TGGAGATGAATATGGAGTCATTTGGGATCCAGAGTTGGCTTTCAATAAAAATGAACCAC
+                     CGGTTATTTACAATGAGGAAGCTGGCGATAGCTTTGAGCATGATGATTTTCAAGACAAA
+                     ATGGCCGGATTCTTTGTGAACTACTTAAAGCACGATTCAATTGGACGCATTGCTAATGC
+                     TCACTTGGCCTGTTCTGATTTATATGGAATAAAAGCAAAGGTGTGTGGCAATATTGCAC
+                     TTAAACATCAACGAGCAGTTGATTTTCCGAAAACAGGAAAACATTCTGCCCCTTTAGAA
+                     TACAATTGGAAAGGTTCTGATCCCCCAGAAAGATTTGAAAGAGCGCCAGATTTTATGTA
+                     TCATAGTAGTCGCCTTAATGGACAATTACACAGACGAGTGAGTGAATTGAGTGATTTTC
+                     TTTCTTCTGTAATTGTTCAAGAATCAACCAATTTACCTGATCCTGACGAAATGTTACTT
+                     TCTAATGAC"
+                     /tbegin="6891"
+                     /Esim="137"
+     M               1..144
+                     /gene="tr|G5EE53|"
+     5               145..146
+                     /gene="tr|G5EE53|"
+     I               147..183
+                     /gene="tr|G5EE53|"
+     3               184..185
+                     /gene="tr|G5EE53|"
+     M               186..272
+                     /gene="tr|G5EE53|"
+     S               273
+                     /gene="tr|G5EE53|"
+     5               274..275
+                     /gene="tr|G5EE53|"
+     I               276..324
+                     /gene="tr|G5EE53|"
+     3               325..326
+                     /gene="tr|G5EE53|"
+     S               327..328
+                     /gene="tr|G5EE53|"
+     M               329..481
+                     /gene="tr|G5EE53|"
+     5               482..483
+                     /gene="tr|G5EE53|"
+     I               484..615
+                     /gene="tr|G5EE53|"
+     3               616..617
+                     /gene="tr|G5EE53|"
+     M               618..752
+                     /gene="tr|G5EE53|"
+     5               753..754
+                     /gene="tr|G5EE53|"
+     I               755..819
+                     /gene="tr|G5EE53|"
+     3               820..821
+                     /gene="tr|G5EE53|"
+     M               822..950
+                     /gene="tr|G5EE53|"
+     CDS             join(1..144,186..272,273,327..328,329..481,618..752,
+                     822..950)
+                     /translation="LFLGPVLISKNPAIVGGDVRMFEAIDVPALHHLVDVLVFPRFGPR
+                     PHPDEMAGSDLDGDEYGVIWDPELAFNKNEPPVIYNEEAGDSFEHDDFQDKMAGFFVNY
+                     LKHDSIGRIANAHLACSDLYGIKAKVCGNIALKHQRAVDFPKTGKHSAPLEYNWKGSDP
+                     PERFERAPDFMYHSSRLNGQLHRRVSELSDFLSSVIVQESTNLPDPDEMLLSND"
+                     /gene="RDRP"
+ORIGIN
+        1 ttatttttag gtccagtttt aatctccaaa aatccagcaa ttgttggagg ggacgttaga
+       61 atgtttgaag caattgatgt ccctgcatta catcatttgg tcgatgtact cgtttttcct
+      121 cggtttggac cgcgtccaca tccggttatt ttcataatta aattttaaat aaattcattt
+      181 gttaggatga aatggctggt tctgacttgg atggagatga atatggagtc atttgggatc
+      241 cagagttggc tttcaataaa aatgaaccac cggttcatta atttttctat tttttaaaga
+      301 aaattttcag gctgactata caccagttat ttacaatgag gaagctggcg atagctttga
+      361 gcatgatgat tttcaagaca aaatggccgg attctttgtg aactacttaa agcacgattc
+      421 aattggacgc attgctaatg ctcacttggc ctgttctgat ttatatggaa taaaagcaaa
+      481 ggtaaaattt catttaagtt tgatgcaaca acaatacaac tatttgtatt ggtgtccaag
+      541 cctggttttt ctattatagt aattaataat ttataataaa cgacttactc acatcagtta
+      601 acttttcaat ttctcaggtg tgtggcaata ttgcacttaa acatcaacga gcagttgatt
+      661 ttccgaaaac aggaaaacat tctgcccctt tagaatacaa ttggaaaggt tctgatcccc
+      721 cagaaagatt tgaaagagcg ccagatttta tggaaaagga atcttctgag gtttaaattt
+      781 ctgataattt gtgttaaaaa tatttgcttt tctagcctca atatcatagt agtcgcctta
+      841 atggacaatt acacagacga gtgagtgaat tgagtgattt tctttcttct gtaattgttc
+      901 aagaatcaac caatttacct gatcctgacg aaatgttact ttctaatgac
+//
+LOCUS       melo|tfa|106             648 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: F48F7.1a_C , target:
+            NODE_65858_length_2557_cov_35.295269_2611_77.15_0.27 , HSPID: 106
+ACCESSION   melo|tfa|106
+VERSION     melo|tfa|106
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /vulgar="M 44 132 G 0 3 M 25 75 S 0 2 5 0 2 I 0 40 3 0 2 S
+                     1 1 M 2 6 G 1 0 M 17 51 G 1 0 M 11 33 5 0 2 I 0 120 3 0 2 M
+                     59 177"
+                     /qid="F48F7.1a_C"
+                     /tstrand="+"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="798"
+                     /qtype="Protein"
+                     /tfull="GGAACTGAATTACGACCTTCTAAAATAATTGTCTTCCGTGATGGAGTGTCT
+                     GAATCTCAATTTGAAGGAGTAATGGAATTTGAAGTTTCATCAATTCGAAGGGCTATTGA
+                     CAAACATTTCGAAGGAGTACAAAAACCAAGACTTACAGTTGTGGTTGTACAGAAGCGAC
+                     ATAATACACGATTTTTTGATAAAAATGATAATGATGAGAAAAAGTATGGGAAACTTTTT
+                     TATTTTTTACTCTTAATTTTTTTTATAGCAAAGGAAATCTTCAACCTGGAACAGTAATT
+                     GATGGACACATAACTAGTTACGCAAAAGAATTTTATTTGTGTTCGCAAAAGGGAATGCT
+                     GGTAAACGAATTTTTTATTTATTTTTTTAAAAAAATTTTTGGAAGTATTGACTGATTAG
+                     GGGATTTTCGGATAAATTTTCCTCCGAAAACATCCTCTAATTTTTCTATAAATTTTATT
+                     TTTTAAGGGAACATCTCGTCCTTCGCATTATTTTATTTTAATGGATGAAAATAATTTTT
+                     CTGCTGATGAATTGGAAACTTGTTCAAACAATTTGTGTTATTTATTTGCACGTGCCCCA
+                     ATGCCTGTATCTATTCCTGCACCTGTTTATTATGCTCATTTGGCGTGTTTTAGAGCTAG
+                     ACATCAC"
+                     /qfull="NTRFKPARIVVYRDGVSEGQFFNVLQYELRAIREACMMLERGYQPGITFIA
+                     VQKRHHTRLFAVDKKDQVGKAYNIPPGTTVDVGITHPTEFDFYLCSHAGIQGTSRPSHY
+                     HVLWDDNNLTADELQQLTYQMCHTYVRCTRSVSIPAPAYYAHLVAFRARYH"
+                     /Etotal="158"
+                     /tend="648"
+                     /score="351"
+                     /Psim="67.72"
+                     /tid="NODE_65858_length_2557_cov_35.295269_2611_77.15_0.27"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="959"
+                     /qstrand="."
+                     /Emis="80"
+                     /qlen="161"
+                     /Eident="78"
+                     /qcds="G"
+                     /qname="AGO_Cele_alg1"
+                     /Pident="49.37"
+                     /qdescription
+                     /tlen="648"
+                     /model="protein2genome:local"
+                     /tcds="GGAACTGAATTACGACCTTCTAAAATAATTGTCTTCCGTGATGGAGTGTCTG
+                     AATCTCAATTTGAAGGAGTAATGGAATTTGAAGTTTCATCAATTCGAAGGGCTATTGAC
+                     AAACATTTCGAAGGAGTACAAAAACCAAGACTTACAGTTGTGGTTGTACAGAAGCGACA
+                     TAATACACGATTTTTTGATAAAAATGATAATGATGAGAAAAACAAAGGAAATCTTCAAC
+                     CTGGAACAGTAATTGATGGACACATAACTAGTTACGCAAAAGAATTTTATTTGTGTTCG
+                     CAAAAGGGAATGCTGGGAACATCTCGTCCTTCGCATTATTTTATTTTAATGGATGAAAA
+                     TAATTTTTCTGCTGATGAATTGGAAACTTGTTCAAACAATTTGTGTTATTTATTTGCAC
+                     GTGCCCCAATGCCTGTATCTATTCCTGCACCTGTTTATTATGCTCATTTGGCGTGTTTT
+                     AGAGCTAGACATCAC"
+                     /tbegin="0"
+                     /Esim="107"
+     M               1..132
+                     /gene="F48F7.1a_C"
+     G               133..135
+                     /gene="F48F7.1a_C"
+     M               136..210
+                     /gene="F48F7.1a_C"
+     S               211..212
+                     /gene="F48F7.1a_C"
+     5               213..214
+                     /gene="F48F7.1a_C"
+     I               215..254
+                     /gene="F48F7.1a_C"
+     3               255..256
+                     /gene="F48F7.1a_C"
+     S               257
+                     /gene="F48F7.1a_C"
+     M               258..263
+                     /gene="F48F7.1a_C"
+     G               263^264
+                     /gene="F48F7.1a_C"
+     M               264..314
+                     /gene="F48F7.1a_C"
+     G               314^315
+                     /gene="F48F7.1a_C"
+     M               315..347
+                     /gene="F48F7.1a_C"
+     5               348..349
+                     /gene="F48F7.1a_C"
+     I               350..469
+                     /gene="F48F7.1a_C"
+     3               470..471
+                     /gene="F48F7.1a_C"
+     M               472..648
+                     /gene="F48F7.1a_C"
+     CDS             join(1..132,133..135,136..210,211..212,257,258..263,
+                     264..314,315..347,472..648)
+                     /translation="GTELRPSKIIVFRDGVSESQFEGVMEFEVSSIRRAIDKHFEGVQK
+                     PRLTVVVVQKRHNTRFFDKNDNDEKNKGNLQPGTVIDGHITSYAKEFYLCSQKGMLGTS
+                     RPSHYFILMDENNFSADELETCSNNLCYLFARAPMPVSIPAPVYYAHLACFRARHH"
+                     /gene="AGO"
+ORIGIN
+        1 ggaactgaat tacgaccttc taaaataatt gtcttccgtg atggagtgtc tgaatctcaa
+       61 tttgaaggag taatggaatt tgaagtttca tcaattcgaa gggctattga caaacatttc
+      121 gaaggagtac aaaaaccaag acttacagtt gtggttgtac agaagcgaca taatacacga
+      181 ttttttgata aaaatgataa tgatgagaaa aagtatggga aactttttta ttttttactc
+      241 ttaatttttt ttatagcaaa ggaaatcttc aacctggaac agtaattgat ggacacataa
+      301 ctagttacgc aaaagaattt tatttgtgtt cgcaaaaggg aatgctggta aacgaatttt
+      361 ttatttattt ttttaaaaaa atttttggaa gtattgactg attaggggat tttcggataa
+      421 attttcctcc gaaaacatcc tctaattttt ctataaattt tattttttaa gggaacatct
+      481 cgtccttcgc attattttat tttaatggat gaaaataatt tttctgctga tgaattggaa
+      541 acttgttcaa acaatttgtg ttatttattt gcacgtgccc caatgcctgt atctattcct
+      601 gcacctgttt attatgctca tttggcgtgt tttagagcta gacatcac
+//
+LOCUS       melo|tfa|133             959 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5EE53| , target:
+            NODE_67631_length_4928_cov_26.224432_4982_60.69_0.31 [revcomp],
+            HSPID: 133
+ACCESSION   melo|tfa|133
+VERSION     melo|tfa|133
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..959
+                     /vulgar="M 49 147 5 0 2 I 0 30 3 0 2 M 18 54 S 0 1 5 0 2 I
+                     0 54 3 0 2 S 1 2 M 62 186 5 0 2 I 0 140 3 0 2 M 45 135 5 0
+                     2 I 0 65 3 0 2 M 43 129"
+                     /qid="tr|G5EE53|"
+                     /tstrand="-"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="1078"
+                     /qtype="Protein"
+                     /tfull="ATGTTATTTTTAGGTCCGGTTTTAATTTCTAAAAATCCAGCAATTGTTGGA
+                     GGAGACGTTAGAATGTTTGAAGCAATTGATGTCCCTGCATTACATCATTTGGTCGATGT
+                     ACTCGTTTTTCCACGATTTGGACCTCGTCCGCATCCGGTTATTTTCATAACNNNNNNNN
+                     NNCATTTGTTAGGATGAAATGGCTGGTTCTGACTTGGATGGAGATGAATATGGAGTTAT
+                     TTGGGATCCAGAGTTGGCTTTCAATAAAAATGAACCACCGGTTTATTAATTTTTCTATT
+                     TTTAAAGAAAATTTTCAGGCTGACTACACACCAATTATTTACAATGAGGAAGCTGGTGA
+                     TAGCTTTGATTGTGAGCATGATGATTTTCAAGACAAAATGGCAGGATTCTTTGTGAATT
+                     ACTTAAAGCACGATTCAATTGGACGCATTGCCAATGCTCATTTGGCCTGTTCTGATTTA
+                     TATGGAATAAAAGCAAAGGTAAAATTTTATTTGAGTTTGATGCAACAACAATACAAATT
+                     TGTAACTAATCCCTAAAATCATTTGAGATTCAAGCTTAGTTTATCTATTAATTAATTTA
+                     TAATAAACGACTCACTCGCATCAGTTATCTTTTGAATTTCTCAGGTGTGTGGCAATATT
+                     GCACTTAAACATCAACGAGCAGTTGATTTTCCGAAAACGGGAAAACATTCTGCCCCTTT
+                     GGAATACAATTGGAAAGGTTCTGATCCCCCAGAAAGATTTGAGAGAGCGCCAGATTTTA
+                     TGGAAAAGGAATCTTCCGAGGTTTAAATTTCTGATAATTTGTATTAAGAATATTTGTTT
+                     TTCTAGCCTCAGTATCATAGTAGTCGCCTTAATGGACAATTACATAGACGAGTGAGTGA
+                     ATTGAGTCATTTTCTTTCTTCTGTAATTGTTCAAGAATCAACAAATTTACCTGATCCTG
+                     ATGAAATGTTACTTTCTAATGAT"
+                     /qfull="ILKTGKVLITKNPCHVPGDVRVFDAVWQPALAHLVDVVVFPQHGPRPHPDE
+                     MAGSDLDGDEYSIIWDQEMLLDYNEEAMVFPSSSAAEEDKEPTTDDMVEFFLRYLQQDS
+                     IGRMSHAHLAYADLHGLFHENCHAIALKCAVAVDFPKSGVPAEPLSSFEQCEMTPDYMM
+                     SGGKPMYYSTRLNGQLHRKARKVEEVLEEFETRGSVFEREYDKLICPED"
+                     /Etotal="217"
+                     /tend="3923"
+                     /score="381"
+                     /Psim="61.75"
+                     /tid="NODE_67631_length_4928_cov_26.224432_4982_60.69_0.31"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="1296"
+                     /qstrand="."
+                     /Emis="119"
+                     /qlen="218"
+                     /Eident="98"
+                     /qcds="Q"
+                     /qname="RDRP_Cele_rrf3"
+                     /Pident="45.16"
+                     /qdescription
+                     /tlen="959"
+                     /model="protein2genome:local"
+                     /tcds="ATGTTATTTTTAGGTCCGGTTTTAATTTCTAAAAATCCAGCAATTGTTGGAG
+                     GAGACGTTAGAATGTTTGAAGCAATTGATGTCCCTGCATTACATCATTTGGTCGATGTA
+                     CTCGTTTTTCCACGATTTGGACCTCGTCCGCATCCGGATGAAATGGCTGGTTCTGACTT
+                     GGATGGAGATGAATATGGAGTTATTTGGGATCAAAATTTTCAGGCTGACTACACACCAA
+                     TTATTTACAATGAGGAAGCTGGTGATAGCTTTGATTGTGAGCATGATGATTTTCAAGAC
+                     AAAATGGCAGGATTCTTTGTGAATTACTTAAAGCACGATTCAATTGGACGCATTGCCAA
+                     TGCTCATTTGGCCTGTTCTGATTTATATGGAATAAAAGCAAAGGTGTGTGGCAATATTG
+                     CACTTAAACATCAACGAGCAGTTGATTTTCCGAAAACGGGAAAACATTCTGCCCCTTTG
+                     GAATACAATTGGAAAGGTTCTGATCCCCCAGAAAGATTTGAGAGAGCGCCAGATTTTAT
+                     GTATCATAGTAGTCGCCTTAATGGACAATTACATAGACGAGTGAGTGAATTGAGTCATT
+                     TTCTTTCTTCTGTAATTGTTCAAGAATCAACAAATTTACCTGATCCTGATGAAATGTTA
+                     CTTTCTAATGAT"
+                     /tbegin="4882"
+                     /Esim="134"
+     M               1..147
+                     /gene="tr|G5EE53|"
+     5               148..149
+                     /gene="tr|G5EE53|"
+     I               150..179
+                     /gene="tr|G5EE53|"
+     3               180..181
+                     /gene="tr|G5EE53|"
+     M               182..235
+                     /gene="tr|G5EE53|"
+     S               236
+                     /gene="tr|G5EE53|"
+     5               237..238
+                     /gene="tr|G5EE53|"
+     I               239..292
+                     /gene="tr|G5EE53|"
+     3               293..294
+                     /gene="tr|G5EE53|"
+     S               295..296
+                     /gene="tr|G5EE53|"
+     M               297..482
+                     /gene="tr|G5EE53|"
+     5               483..484
+                     /gene="tr|G5EE53|"
+     I               485..624
+                     /gene="tr|G5EE53|"
+     3               625..626
+                     /gene="tr|G5EE53|"
+     M               627..761
+                     /gene="tr|G5EE53|"
+     5               762..763
+                     /gene="tr|G5EE53|"
+     I               764..828
+                     /gene="tr|G5EE53|"
+     3               829..830
+                     /gene="tr|G5EE53|"
+     M               831..959
+                     /gene="tr|G5EE53|"
+     CDS             join(1..147,182..235,236,295..296,297..482,627..761,
+                     831..959)
+                     /translation="MLFLGPVLISKNPAIVGGDVRMFEAIDVPALHHLVDVLVFPRFGP
+                     RPHPDEMAGSDLDGDEYGVIWDQNFQADYTPIIYNEEAGDSFDCEHDDFQDKMAGFFVN
+                     YLKHDSIGRIANAHLACSDLYGIKAKVCGNIALKHQRAVDFPKTGKHSAPLEYNWKGSD
+                     PPERFERAPDFMYHSSRLNGQLHRRVSELSHFLSSVIVQESTNLPDPDEMLLSND"
+                     /gene="RDRP"
+ORIGIN
+        1 atgttatttt taggtccggt tttaatttct aaaaatccag caattgttgg aggagacgtt
+       61 agaatgtttg aagcaattga tgtccctgca ttacatcatt tggtcgatgt actcgttttt
+      121 ccacgatttg gacctcgtcc gcatccggtt attttcataa cnnnnnnnnn ncatttgtta
+      181 ggatgaaatg gctggttctg acttggatgg agatgaatat ggagttattt gggatccaga
+      241 gttggctttc aataaaaatg aaccaccggt ttattaattt ttctattttt aaagaaaatt
+      301 ttcaggctga ctacacacca attatttaca atgaggaagc tggtgatagc tttgattgtg
+      361 agcatgatga ttttcaagac aaaatggcag gattctttgt gaattactta aagcacgatt
+      421 caattggacg cattgccaat gctcatttgg cctgttctga tttatatgga ataaaagcaa
+      481 aggtaaaatt ttatttgagt ttgatgcaac aacaatacaa atttgtaact aatccctaaa
+      541 atcatttgag attcaagctt agtttatcta ttaattaatt tataataaac gactcactcg
+      601 catcagttat cttttgaatt tctcaggtgt gtggcaatat tgcacttaaa catcaacgag
+      661 cagttgattt tccgaaaacg ggaaaacatt ctgccccttt ggaatacaat tggaaaggtt
+      721 ctgatccccc agaaagattt gagagagcgc cagattttat ggaaaaggaa tcttccgagg
+      781 tttaaatttc tgataatttg tattaagaat atttgttttt ctagcctcag tatcatagta
+      841 gtcgccttaa tggacaatta catagacgag tgagtgaatt gagtcatttt ctttcttctg
+      901 taattgttca agaatcaaca aatttacctg atcctgatga aatgttactt tctaatgat
+//
+LOCUS       melo|tfa|162             393 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: GPLIN_0010 , target:
+            NODE_109973_length_358_cov_117.960892_412_214.89_0.35 , HSPID: 162
+ACCESSION   melo|tfa|162
+VERSION     melo|tfa|162
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..393
+                     /vulgar="M 131 393"
+                     /qid="GPLIN_0010"
+                     /tstrand="+"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="724"
+                     /qtype="Protein"
+                     /tfull="GTTTCAAAACTTCATTCTGTCGAATCTTATGAGAGAATTTGTAAAAGATTG
+                     CATATGTTGCTTGATAAACACATCTTCTCTTTATGTTCAACATTGACCGATGAATTGAG
+                     GGCTCGTAAACGATTATCAGAATTACCAAGATATGTTGAGTACGACATGTTAGATGCGA
+                     TTAACTTCACTCAAGAACCTTTTTTCCGACTTGTTCTACGTGCAGCAGGAAGAGTCTCC
+                     CTTTTTAAACTTCGTCAGAAACTAGCTATAGCAATTCCATATCAACTTGGTCGTGTAAT
+                     GTTTGGAATTGTTGATGAAACTGATTCATTACAATACGGCCAAGTTTTTGTACAATACT
+                     CAAATGAAATGTCAGCCTTTAATCATGGGAAGGCCAATAAAAAACAT"
+                     /qfull="VSALQSKASHQRICNRVHLLLDLHLHALTRALMDETKARNKLGEFPKVILY
+                     DEIKDLNLTKEPFFRSMVSASVRASLRKLRMKLQIPIPSSLGRAMFGIVDESGQLQYGQ
+                     VFVRYTKNCALKLPGPTTERH"
+                     /Etotal="131"
+                     /tend="407"
+                     /score="327"
+                     /Psim="66.41"
+                     /tid="NODE_109973_length_358_cov_117.960892_412_214.89_0.35
+                     "
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="855"
+                     /qstrand="."
+                     /Emis="66"
+                     /qlen="131"
+                     /Eident="65"
+                     /qcds
+                     /qname="RDRP_Gpal_rdrp"
+                     /Pident="49.62"
+                     /qdescription
+                     /tlen="393"
+                     /model="protein2genome:local"
+                     /tcds="GTTTCAAAACTTCATTCTGTCGAATCTTATGAGAGAATTTGTAAAAGATTGC
+                     ATATGTTGCTTGATAAACACATCTTCTCTTTATGTTCAACATTGACCGATGAATTGAGG
+                     GCTCGTAAACGATTATCAGAATTACCAAGATATGTTGAGTACGACATGTTAGATGCGAT
+                     TAACTTCACTCAAGAACCTTTTTTCCGACTTGTTCTACGTGCAGCAGGAAGAGTCTCCC
+                     TTTTTAAACTTCGTCAGAAACTAGCTATAGCAATTCCATATCAACTTGGTCGTGTAATG
+                     TTTGGAATTGTTGATGAAACTGATTCATTACAATACGGCCAAGTTTTTGTACAATACTC
+                     AAATGAAATGTCAGCCTTTAATCATGGGAAGGCCAATAAAAAACAT"
+                     /tbegin="14"
+                     /Esim="87"
+     M               1..393
+                     /gene="GPLIN_0010"
+     CDS             1..393
+                     /translation="VSKLHSVESYERICKRLHMLLDKHIFSLCSTLTDELRARKRLSEL
+                     PRYVEYDMLDAINFTQEPFFRLVLRAAGRVSLFKLRQKLAIAIPYQLGRVMFGIVDETD
+                     SLQYGQVFVQYSNEMSAFNHGKANKKH"
+                     /gene="RDRP"
+ORIGIN
+        1 gtttcaaaac ttcattctgt cgaatcttat gagagaattt gtaaaagatt gcatatgttg
+       61 cttgataaac acatcttctc tttatgttca acattgaccg atgaattgag ggctcgtaaa
+      121 cgattatcag aattaccaag atatgttgag tacgacatgt tagatgcgat taacttcact
+      181 caagaacctt ttttccgact tgttctacgt gcagcaggaa gagtctccct ttttaaactt
+      241 cgtcagaaac tagctatagc aattccatat caacttggtc gtgtaatgtt tggaattgtt
+      301 gatgaaactg attcattaca atacggccaa gtttttgtac aatactcaaa tgaaatgtca
+      361 gcctttaatc atgggaaggc caataaaaaa cat
+//
+LOCUS       melo|tfa|168             972 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: GPLIN_0003 , target:
+            NODE_113723_length_3156_cov_24.144804_3210_59.10_0.28 [revcomp],
+            HSPID: 168
+ACCESSION   melo|tfa|168
+VERSION     melo|tfa|168
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..972
+                     /vulgar="M 14 42 S 0 2 5 0 2 I 0 42 3 0 2 S 1 1 M 63 189 5
+                     0 2 I 0 35 3 0 2 M 17 51 S 0 1 5 0 2 I 0 44 3 0 2 S 1 2 M
+                     17 51 5 0 2 I 0 94 3 0 2 M 31 93 S 0 2 5 0 2 I 0 45 3 0 2 S
+                     1 1 M 25 75 S 0 1 5 0 2 I 0 52 3 0 2 S 1 2 M 41 123"
+                     /qid="GPLIN_0003"
+                     /tstrand="-"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="70"
+                     /qtype="Protein"
+                     /tfull="TCAACTAGTATTGCAGTTGCTTTTGGTTCTGAAGGCGATAGAGCGTATAAT
+                     AAAAAAATTTTTTATTAAATAATTATTTTCTATTTAAAGTTTGGCAAATGCACAACGAA
+                     AATTAATTAGTTCTTCTGATCGTCAAATGACTCAAGCATTAATGTTGATAAGAGAAATG
+                     AGTGAAAAAATTAGTTTGCCAAGAAGTATTCAAGATAGAGCTGCTAAACGTTTCAAGGA
+                     AGTTCTCGAGTCTAAAGCATTGCGTGGAAAAAGTAACGAGGCTCAGGCTGCGGTTTGAT
+                     TCACAAATTTTTACAAAGTTTCATTTTTATAGGCTTGTTTGTACATTGCTTGTCGAGAG
+                     GAAGGAGTACCGCGTACATTTAAAGGTTAACTACTTTTATTAATTCTCTTGATTTTTTA
+                     AAAAATTTTTAAAGAAATTTGTGCCGTCTCAAAAGTTTCAAAAAAAGAAATTGGTCGTT
+                     GTTTCCGGTTAATTACCAAAACACTTGAAACTAATTTGGATTTAATTACTAGTGCTGAT
+                     TTTATGGTTTTTTTGTTTTACTTTCAAATGTATTTTTTCATTTTTAGTCACGTTTTTGC
+                     GGAAATTTAAGTTTGCCATATCCTGTTCAAGTAGCGGCTACAAGAGTTGCTAAAAAGGC
+                     GGTAGAATTTGATTTGGTTGCCGGGTAGGAATTTTTAAAATAATTTTTAGAAAATAAAA
+                     TTTTATCTTTTCAGTCGAAGTCCAATTTCAATTGCTGCTGCCGCTATTTATATGGCTTC
+                     ACAAGCTAGTGCTGAAAAACGAACAGCTAAAGGTTTGTTCCATTTATTTTGAAATTTTT
+                     TGTATAAATTCTGAATAAATTCTTTTTAGAAATTGGAGAAATTGCCGGTGTTGCTGAAG
+                     ATACAATTCGGCAAACTTATCGCCTTTTATTGCCTAAAGCAGCAGAATTATTCCCGGCT
+                     GAATTTCGTTTTGATACACCCGTTGATCATTTGCCA"
+                     /qfull="STSIAVSFGSDSDRALANAQRKLLSSTDRQMTQAMMVIREMSEKISLTRTI
+                     QDRAAKLYKEVLESKALRGKNNEAQAAACLYIACRQEGVPRTFKEICAVSKVRWRPTWI
+                     ILQSRFCGNLSLPYPVQVAATRIAKKSVELDLVAGRSPISIAAAAIYMASQASNDKRTA
+                     KEIGEIAGAAEVTVRQTYRLLLPKALELFPPDFRFETPVDQLP"
+                     /Etotal="208"
+                     /tend="2237"
+                     /score="757"
+                     /Psim="91.35"
+                     /tid="NODE_113723_length_3156_cov_24.144804_3210_59.10_0.28
+                     "
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="282"
+                     /qstrand="."
+                     /Emis="36"
+                     /qlen="212"
+                     /Eident="172"
+                     /qcds="AEGE"
+                     /qname="AGO_GpalB"
+                     /Pident="82.69"
+                     /qdescription
+                     /tlen="972"
+                     /model="protein2genome:local"
+                     /tcds="TCAACTAGTATTGCAGTTGCTTTTGGTTCTGAAGGCGATAGAGCTTTGGCAA
+                     ATGCACAACGAAAATTAATTAGTTCTTCTGATCGTCAAATGACTCAAGCATTAATGTTG
+                     ATAAGAGAAATGAGTGAAAAAATTAGTTTGCCAAGAAGTATTCAAGATAGAGCTGCTAA
+                     ACGTTTCAAGGAAGTTCTCGAGTCTAAAGCATTGCGTGGAAAAAGTAACGAGGCTCAGG
+                     CTGCGGCTTGTTTGTACATTGCTTGTCGAGAGGAAGGAGTACCGCGTACATTTAAAGAA
+                     ATTTGTGCCGTCTCAAAAGTTTCAAAAAAAGAAATTGGTCGTTGTTTCCGGTCACGTTT
+                     TTGCGGAAATTTAAGTTTGCCATATCCTGTTCAAGTAGCGGCTACAAGAGTTGCTAAAA
+                     AGGCGGTAGAATTTGATTTGGTTGCCGGTCGAAGTCCAATTTCAATTGCTGCTGCCGCT
+                     ATTTATATGGCTTCACAAGCTAGTGCTGAAAAACGAACAGCTAAAGAAATTGGAGAAAT
+                     TGCCGGTGTTGCTGAAGATACAATTCGGCAAACTTATCGCCTTTTATTGCCTAAAGCAG
+                     CAGAATTATTCCCGGCTGAATTTCGTTTTGATACACCCGTTGATCATTTGCCA"
+                     /tbegin="3209"
+                     /Esim="190"
+     M               1..42
+                     /gene="GPLIN_0003"
+     S               43..44
+                     /gene="GPLIN_0003"
+     5               45..46
+                     /gene="GPLIN_0003"
+     I               47..88
+                     /gene="GPLIN_0003"
+     3               89..90
+                     /gene="GPLIN_0003"
+     S               91
+                     /gene="GPLIN_0003"
+     M               92..280
+                     /gene="GPLIN_0003"
+     5               281..282
+                     /gene="GPLIN_0003"
+     I               283..317
+                     /gene="GPLIN_0003"
+     3               318..319
+                     /gene="GPLIN_0003"
+     M               320..370
+                     /gene="GPLIN_0003"
+     S               371
+                     /gene="GPLIN_0003"
+     5               372..373
+                     /gene="GPLIN_0003"
+     I               374..417
+                     /gene="GPLIN_0003"
+     3               418..419
+                     /gene="GPLIN_0003"
+     S               420..421
+                     /gene="GPLIN_0003"
+     M               422..472
+                     /gene="GPLIN_0003"
+     5               473..474
+                     /gene="GPLIN_0003"
+     I               475..568
+                     /gene="GPLIN_0003"
+     3               569..570
+                     /gene="GPLIN_0003"
+     M               571..663
+                     /gene="GPLIN_0003"
+     S               664..665
+                     /gene="GPLIN_0003"
+     5               666..667
+                     /gene="GPLIN_0003"
+     I               668..712
+                     /gene="GPLIN_0003"
+     3               713..714
+                     /gene="GPLIN_0003"
+     S               715
+                     /gene="GPLIN_0003"
+     M               716..790
+                     /gene="GPLIN_0003"
+     S               791
+                     /gene="GPLIN_0003"
+     5               792..793
+                     /gene="GPLIN_0003"
+     I               794..845
+                     /gene="GPLIN_0003"
+     3               846..847
+                     /gene="GPLIN_0003"
+     S               848..849
+                     /gene="GPLIN_0003"
+     M               850..972
+                     /gene="GPLIN_0003"
+     CDS             join(1..42,43..44,91,92..280,320..370,371,420..421,
+                     422..472,571..663,664..665,715,716..790,791,848..849,
+                     850..972)
+                     /translation="STSIAVAFGSEGDRALANAQRKLISSSDRQMTQALMLIREMSEKI
+                     SLPRSIQDRAAKRFKEVLESKALRGKSNEAQAAACLYIACREEGVPRTFKEICAVSKVS
+                     KKEIGRCFRSRFCGNLSLPYPVQVAATRVAKKAVEFDLVAGRSPISIAAAAIYMASQAS
+                     AEKRTAKEIGEIAGVAEDTIRQTYRLLLPKAAELFPAEFRFDTPVDHLP"
+                     /gene="AGO"
+ORIGIN
+        1 tcaactagta ttgcagttgc ttttggttct gaaggcgata gagcgtataa taaaaaaatt
+       61 ttttattaaa taattatttt ctatttaaag tttggcaaat gcacaacgaa aattaattag
+      121 ttcttctgat cgtcaaatga ctcaagcatt aatgttgata agagaaatga gtgaaaaaat
+      181 tagtttgcca agaagtattc aagatagagc tgctaaacgt ttcaaggaag ttctcgagtc
+      241 taaagcattg cgtggaaaaa gtaacgaggc tcaggctgcg gtttgattca caaattttta
+      301 caaagtttca tttttatagg cttgtttgta cattgcttgt cgagaggaag gagtaccgcg
+      361 tacatttaaa ggttaactac ttttattaat tctcttgatt ttttaaaaaa tttttaaaga
+      421 aatttgtgcc gtctcaaaag tttcaaaaaa agaaattggt cgttgtttcc ggttaattac
+      481 caaaacactt gaaactaatt tggatttaat tactagtgct gattttatgg tttttttgtt
+      541 ttactttcaa atgtattttt tcatttttag tcacgttttt gcggaaattt aagtttgcca
+      601 tatcctgttc aagtagcggc tacaagagtt gctaaaaagg cggtagaatt tgatttggtt
+      661 gccgggtagg aatttttaaa ataattttta gaaaataaaa ttttatcttt tcagtcgaag
+      721 tccaatttca attgctgctg ccgctattta tatggcttca caagctagtg ctgaaaaacg
+      781 aacagctaaa ggtttgttcc atttattttg aaattttttg tataaattct gaataaattc
+      841 tttttagaaa ttggagaaat tgccggtgtt gctgaagata caattcggca aacttatcgc
+      901 cttttattgc ctaaagcagc agaattattc ccggctgaat ttcgttttga tacacccgtt
+      961 gatcatttgc ca
+//
+LOCUS       melo|tfa|190             719 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: GPLIN_0010 , target:
+            NODE_144541_length_909_cov_100.311333_963_209.05_0.36 , HSPID: 190
+ACCESSION   melo|tfa|190
+VERSION     melo|tfa|190
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..719
+                     /vulgar="M 65 195 S 0 2 5 0 2 I 0 55 3 0 2 S 1 1 M 15 45 G
+                     1 0 M 6 18 S 0 2 5 0 2 I 0 36 3 0 2 S 1 1 M 31 93 5 0 2 I 0
+                     36 3 0 2 M 34 102 S 0 2 5 0 2 I 0 39 3 0 2 S 1 1 M 25 75"
+                     /qid="GPLIN_0010"
+                     /tstrand="+"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="948"
+                     /qtype="Protein"
+                     /tfull="ATAGCTGCAAAACACATGGAAGCAGTTGATTTCCCTAAGACTGGCGTTCCA
+                     CCTCAGTCTCTTACTAAAAATTGGGAGCCTGAGAAGCCTCCCGGTGAAAATGGAGAACC
+                     GGGTCAGCCAGCAATGCCTCCAGAACGCGCTGAACGTTCGCCAGACTTTATGGAGAAAA
+                     ATAACGAACCAATGTATATATCGTCACGTTTGAACGGCCAACTTTATAGGTTTAATATT
+                     TTATTGGTTAGGATATCCTTTATTCTAGAAGAGCAAAGGAAATTGACGACATTCTGACA
+                     ATTGCTACTCAGGATGAAGAGATGGCAAATATCGAGTTAATTTATTATTAGATATTTTA
+                     ATGTAATATTTTAAAGACTAGATCCATTAATCACTTACCCTGGCTGTGATGATCCAGCA
+                     ATGCTTGATTTGGCACAACAACATTATGAATCTTACTCGGCAAATATTCAGGTCTTTAT
+                     ACATATTTTGTTAAGTTCACATTGATTTTAAGAACGTTCTCGACTGTTATGGAATTAAA
+                     GCTGAAGGAGAACTATTCTCAGGGCATTTTGCTTCGTTGCGAAATCGGCTTAGTGATAA
+                     GGATAGTGACGATATGAGGTTTGTTGTTGCCAATTCTTTTTATGTAATTTTTTCCTTTA
+                     AGTTTTTACAACACTACAAATGCAATTGAGCAGCAATTGTTCAGCATTTTTAGTCGTTT
+                     TCGGCGTCAATTCTTTGAA"
+                     /qfull="IACKHMEAVDFPKTGVPPKPLTNKWECSNPENEDGPVVTQAIPPERAERSP
+                     DFMEKNNEPMYISSRRAREIDDILIIASLDEEELTNVEVDPLLYCRGWDETEVLELAVQ
+                     QYEAYSANIQNILDCYGIKTEGELFSGHFTSLRNRISDRDSDDMSFYNTTNAIEQQLFS
+                     VFGKFRRQFFE"
+                     /Etotal="176"
+                     /tend="958"
+                     /score="587"
+                     /Psim="84.09"
+                     /tid="NODE_144541_length_909_cov_100.311333_963_209.05_0.36
+                     "
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="1128"
+                     /qstrand="."
+                     /Emis="46"
+                     /qlen="180"
+                     /Eident="130"
+                     /qcds="RES"
+                     /qname="RDRP_Gpal_rdrp"
+                     /Pident="73.86"
+                     /qdescription
+                     /tlen="719"
+                     /model="protein2genome:local"
+                     /tcds="ATAGCTGCAAAACACATGGAAGCAGTTGATTTCCCTAAGACTGGCGTTCCAC
+                     CTCAGTCTCTTACTAAAAATTGGGAGCCTGAGAAGCCTCCCGGTGAAAATGGAGAACCG
+                     GGTCAGCCAGCAATGCCTCCAGAACGCGCTGAACGTTCGCCAGACTTTATGGAGAAAAA
+                     TAACGAACCAATGTATATATCGTCACGAAGAGCAAAGGAAATTGACGACATTCTGACAA
+                     TTGCTACTCAGGATGAAGAGATGGCAAATATCGAACTAGATCCATTAATCACTTACCCT
+                     GGCTGTGATGATCCAGCAATGCTTGATTTGGCACAACAACATTATGAATCTTACTCGGC
+                     AAATATTCAGAACGTTCTCGACTGTTATGGAATTAAAGCTGAAGGAGAACTATTCTCAG
+                     GGCATTTTGCTTCGTTGCGAAATCGGCTTAGTGATAAGGATAGTGACGATATGAGTTTT
+                     TACAACACTACAAATGCAATTGAGCAGCAATTGTTCAGCATTTTTAGTCGTTTTCGGCG
+                     TCAATTCTTTGAA"
+                     /tbegin="239"
+                     /Esim="148"
+     M               1..195
+                     /gene="GPLIN_0010"
+     S               196..197
+                     /gene="GPLIN_0010"
+     5               198..199
+                     /gene="GPLIN_0010"
+     I               200..254
+                     /gene="GPLIN_0010"
+     3               255..256
+                     /gene="GPLIN_0010"
+     S               257
+                     /gene="GPLIN_0010"
+     M               258..302
+                     /gene="GPLIN_0010"
+     G               302^303
+                     /gene="GPLIN_0010"
+     M               303..320
+                     /gene="GPLIN_0010"
+     S               321..322
+                     /gene="GPLIN_0010"
+     5               323..324
+                     /gene="GPLIN_0010"
+     I               325..360
+                     /gene="GPLIN_0010"
+     3               361..362
+                     /gene="GPLIN_0010"
+     S               363
+                     /gene="GPLIN_0010"
+     M               364..456
+                     /gene="GPLIN_0010"
+     5               457..458
+                     /gene="GPLIN_0010"
+     I               459..494
+                     /gene="GPLIN_0010"
+     3               495..496
+                     /gene="GPLIN_0010"
+     M               497..598
+                     /gene="GPLIN_0010"
+     S               599..600
+                     /gene="GPLIN_0010"
+     5               601..602
+                     /gene="GPLIN_0010"
+     I               603..641
+                     /gene="GPLIN_0010"
+     3               642..643
+                     /gene="GPLIN_0010"
+     S               644
+                     /gene="GPLIN_0010"
+     M               645..719
+                     /gene="GPLIN_0010"
+     CDS             join(1..195,196..197,257,258..302,303..320,321..322,363,
+                     364..456,497..598,599..600,644,645..719)
+                     /translation="IAAKHMEAVDFPKTGVPPQSLTKNWEPEKPPGENGEPGQPAMPPE
+                     RAERSPDFMEKNNEPMYISSRRAKEIDDILTIATQDEEMANIELDPLITYPGCDDPAML
+                     DLAQQHYESYSANIQNVLDCYGIKAEGELFSGHFASLRNRLSDKDSDDMSFYNTTNAIE
+                     QQLFSIFSRFRRQFFE"
+                     /gene="RDRP"
+ORIGIN
+        1 atagctgcaa aacacatgga agcagttgat ttccctaaga ctggcgttcc acctcagtct
+       61 cttactaaaa attgggagcc tgagaagcct cccggtgaaa atggagaacc gggtcagcca
+      121 gcaatgcctc cagaacgcgc tgaacgttcg ccagacttta tggagaaaaa taacgaacca
+      181 atgtatatat cgtcacgttt gaacggccaa ctttataggt ttaatatttt attggttagg
+      241 atatccttta ttctagaaga gcaaaggaaa ttgacgacat tctgacaatt gctactcagg
+      301 atgaagagat ggcaaatatc gagttaattt attattagat attttaatgt aatattttaa
+      361 agactagatc cattaatcac ttaccctggc tgtgatgatc cagcaatgct tgatttggca
+      421 caacaacatt atgaatctta ctcggcaaat attcaggtct ttatacatat tttgttaagt
+      481 tcacattgat tttaagaacg ttctcgactg ttatggaatt aaagctgaag gagaactatt
+      541 ctcagggcat tttgcttcgt tgcgaaatcg gcttagtgat aaggatagtg acgatatgag
+      601 gtttgttgtt gccaattctt tttatgtaat tttttccttt aagtttttac aacactacaa
+      661 atgcaattga gcagcaattg ttcagcattt ttagtcgttt tcggcgtcaa ttctttgaa
+//
+LOCUS       melo|tfa|208             564 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: GPLIN_0010 , target:
+            NODE_186588_length_1017_cov_114.936089_1071_243.73_0.32 , HSPID: 208
+ACCESSION   melo|tfa|208
+VERSION     melo|tfa|208
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..564
+                     /vulgar="M 42 126 S 0 2 5 0 2 I 0 48 3 0 2 S 1 1 M 72 216 S
+                     0 1 5 0 2 I 0 40 3 0 2 S 1 2 M 40 120"
+                     /qid="GPLIN_0010"
+                     /tstrand="+"
+                     /file="meloidogyne.velvet.fa"
+                     /qbegin="94"
+                     /qtype="Protein"
+                     /tfull="AATGATCACTTGATGCACATGATCAACTTTTTCAATCTTTTTTTGCAACAT
+                     AAGATTCAAATGGCTCAATATACATTTACTTGTGCCTTTGTTCTAACAACCAGAGAATT
+                     CTTCAAAGTTGACTTTAAGTATAAATTTTCGCATTATTTAACAAATTAAATAAAAATCT
+                     TTGGTTTTTAGTTCTGCTAACCTTGAGATTCCTACACAGAATTGCTCATTTTTAAATAT
+                     GATCGATCGTACGAAACCATTCTTACATCGAAAAGTTGCTGTAAATCAGGACCCAGCTC
+                     GAATAATGAACCGCTACTACAACAAGGCTGATATTGTTTGGCCTATGCTTACTGACTTT
+                     GAGCACGACAAGCGACAGCTAGTTATTCGTTTCCCTTTCACTGATAGACAACGTTTGTT
+                     GATTTTTCGTTATGTTTTGAATTTTTTACAATATTAGGTCGTGAGGAAGGTTCGGAAGA
+                     AGTTTGTTATGTTGTTTCTCTTACAATTCGCTACAGACAAATCAAACGTGTTTTGGCTG
+                     ACTTCAAACACGAGAAAGGTCGTGGTCAATTTAGTTTGTAT"
+                     /qfull="NIHLLHMLNFFIVFINERVKQTGHAFTCAMMLSNKEFFDVQFCSANMEIPT
+                     KCFSFVNLIDRDQPLVHRALQLVEDPNHIMDRFYNRSISGPPTLCDFEHDKRQLVVRFP
+                     FVDRQKRDTGIEEAEYIVSITVRYKSIRRVLANLKRADVGFNLELY"
+                     /Etotal="154"
+                     /tend="1062"
+                     /score="385"
+                     /Psim="72.08"
+                     /tid="NODE_186588_length_1017_cov_114.936089_1071_243.73_0.
+                     32"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="250"
+                     /qstrand="."
+                     /Emis="75"
+                     /qlen="156"
+                     /Eident="79"
+                     /qcds="CK"
+                     /qname="RDRP_Gpal_rdrp"
+                     /Pident="51.30"
+                     /qdescription
+                     /tlen="564"
+                     /model="protein2genome:local"
+                     /tcds="AATGATCACTTGATGCACATGATCAACTTTTTCAATCTTTTTTTGCAACATA
+                     AGATTCAAATGGCTCAATATACATTTACTTGTGCCTTTGTTCTAACAACCAGAGAATTC
+                     TTCAAAGTTGACTTTAATTCTGCTAACCTTGAGATTCCTACACAGAATTGCTCATTTTT
+                     AAATATGATCGATCGTACGAAACCATTCTTACATCGAAAAGTTGCTGTAAATCAGGACC
+                     CAGCTCGAATAATGAACCGCTACTACAACAAGGCTGATATTGTTTGGCCTATGCTTACT
+                     GACTTTGAGCACGACAAGCGACAGCTAGTTATTCGTTTCCCTTTCACTGATAGACAACG
+                     TCGTGAGGAAGGTTCGGAAGAAGTTTGTTATGTTGTTTCTCTTACAATTCGCTACAGAC
+                     AAATCAAACGTGTTTTGGCTGACTTCAAACACGAGAAAGGTCGTGGTCAATTTAGTTTG
+                     TAT"
+                     /tbegin="498"
+                     /Esim="111"
+     M               1..126
+                     /gene="GPLIN_0010"
+     S               127..128
+                     /gene="GPLIN_0010"
+     5               129..130
+                     /gene="GPLIN_0010"
+     I               131..178
+                     /gene="GPLIN_0010"
+     3               179..180
+                     /gene="GPLIN_0010"
+     S               181
+                     /gene="GPLIN_0010"
+     M               182..397
+                     /gene="GPLIN_0010"
+     S               398
+                     /gene="GPLIN_0010"
+     5               399..400
+                     /gene="GPLIN_0010"
+     I               401..440
+                     /gene="GPLIN_0010"
+     3               441..442
+                     /gene="GPLIN_0010"
+     S               443..444
+                     /gene="GPLIN_0010"
+     M               445..564
+                     /gene="GPLIN_0010"
+     CDS             join(1..126,127..128,181,182..397,398,443..444,445..564)
+                     /translation="NDHLMHMINFFNLFLQHKIQMAQYTFTCAFVLTTREFFKVDFNSA
+                     NLEIPTQNCSFLNMIDRTKPFLHRKVAVNQDPARIMNRYYNKADIVWPMLTDFEHDKRQ
+                     LVIRFPFTDRQRREEGSEEVCYVVSLTIRYRQIKRVLADFKHEKGRGQFSLY"
+                     /gene="RDRP"
+ORIGIN
+        1 aatgatcact tgatgcacat gatcaacttt ttcaatcttt ttttgcaaca taagattcaa
+       61 atggctcaat atacatttac ttgtgccttt gttctaacaa ccagagaatt cttcaaagtt
+      121 gactttaagt ataaattttc gcattattta acaaattaaa taaaaatctt tggtttttag
+      181 ttctgctaac cttgagattc ctacacagaa ttgctcattt ttaaatatga tcgatcgtac
+      241 gaaaccattc ttacatcgaa aagttgctgt aaatcaggac ccagctcgaa taatgaaccg
+      301 ctactacaac aaggctgata ttgtttggcc tatgcttact gactttgagc acgacaagcg
+      361 acagctagtt attcgtttcc ctttcactga tagacaacgt ttgttgattt ttcgttatgt
+      421 tttgaatttt ttacaatatt aggtcgtgag gaaggttcgg aagaagtttg ttatgttgtt
+      481 tctcttacaa ttcgctacag acaaatcaaa cgtgttttgg ctgacttcaa acacgagaaa
+      541 ggtcgtggtc aatttagttt gtat
+//

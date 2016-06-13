@@ -1,0 +1,345 @@
+LOCUS       Pana|asta|5             1804 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5EE53| , target: gi|452085873|gb|KB454918.1| Panagrellus
+            redivivus unplaced genomic scaffold scaffold011, whole genome
+            shotgun sequence:[revcomp], HSPID: 5
+ACCESSION   Pana|asta|5
+VERSION     Pana|asta|5
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..1804
+                     /vulgar="M 47 141 5 0 2 I 0 44 3 0 2 M 29 87 G 3 0 M 64 192
+                     G 3 0 M 36 108 S 0 1 5 0 2 I 0 45 3 0 2 S 1 2 M 42 126 G 0
+                     3 M 87 261 G 1 0 M 21 63 5 0 2 I 0 26 3 0 2 M 103 309 G 1 0
+                     M 26 78 G 0 3 M 34 102 G 0 6 M 65 195"
+                     /qid="tr|G5EE53|"
+                     /tstrand="-"
+                     /file="Panagrellus_redivivus.KB454917-KB455574.fasta"
+                     /qbegin="847"
+                     /qtype="Protein"
+                     /tfull="TACTGTTTCTCCGATGGCGTCGGAATGATGTCCTTGAAGATGGCTAAACAG
+                     CTTCAGACCGAACTCCACTTGTGCTACGTTCCCAGTTGCTTCCAGTTTCGATTTGCCGG
+                     CTACAAGGGTGTCCTTTCCGTCAATCCATACATGACCAAGTATGCCGAATACATCAACG
+                     CCCATATGCTTTCTGTCGAAGCGGTAGATGCTCCCTGGATGAAGGACGCCCTTTTCCGG
+                     CCATCACAGAACAAATTTACCGCAAACCAGGACCATATTGGATTCGAAATGGTCAAATA
+                     TGCGGCGCCGTGTGTGGTCCATCTGAGCAAGCAGCTCATCAATATCTATGATCAAGTCG
+                     CTGTGCGCCAATCTCAATCTGCTCACGAAAGCATCACGACGCGGATTCTTCAATTGACC
+                     GATGTTCAAATCGAGGCTATCATGAAGTCGCTCACTGACGAAACGCACTTTCGGAAGGT
+                     CCTCCAGGAACTTCCAGCGATTGTCCCGTTTCGCAAGCTCAAATCGCTGACGAATCTGA
+                     TTGTCGAGCCGTTTTTCCGGCGATTGGTTTTGGCTTGGACAAAGTATAGTTTGAGTAAG
+                     TCTTTATTGATGTTTTTATGTTTCTGATAATATTACCATTCCAGAAAATCTGTCCGAAA
+                     AGGCCCGAATCCGTGTCCCGCCCAACCTTGGCCGCAATATGTTCGGCATCATCGATGAA
+                     ACCGGCTATCTACAGTATGGCCAAGTCTTCGTTCAATACTCGGAGTTTCTCAATGACGA
+                     ATTCTCTTCGAATCACATTGTCCTCACCGGCGACGTCATGATTACGAAGAATCCGATGA
+                     TGAGTGGCGGCGATTTGCGAAAGTTTCAAGCCGTCAACATTCCTGCCCTCCGGCATCTT
+                     GTTGACGTCGTCGTATTCTCTCAGCATGGCTCCCGTCCCGCTCCTGATGAAATGGCTGG
+                     CAGCGATCTTGATGGTGATGAGTATTCTGTCATTTGGGATCCGGAACTCATGTTGGACT
+                     ACAACGAGCCCGCTGTCGACTACTCCGCGCCATCTTCGAAGACTGCTCAGGTGCCACCA
+                     AGGTCGCGACAGAAGCAAATGGTTGCAGTCCGCGAAGAATCCATCAAATTCTTCAAGAA
+                     CTACCTCCTCAATGATGGCATCGGCGTCGTCGCGAATGCGCATCTCGCCAACTCTGATC
+                     TCTATGGCATCGATAGCAATGTCTGTCAAAACATCGCCAAGAAGCAGATCGCCGCCGTC
+                     GATTTCGCGAAAAGTGGCGTTCCAATGCAGCCATTAACCAAGTGTTGGGCCAATAAGCA
+                     GCCGCCAGAGAAGGTGCAACAATACCCCGACTTCATGTCGAAGGAACATCGCCCGTTTT
+                     ATCATTCAAAACGTCTTCTGGGCCAAGTCCATCGCAAAGTCCAACGTTTCGTCGATTAT
+                     GTCTACTCATTCATTGATGGCGATGCTGATATGGTCGGACTCGATGTCTTCATTGATGT
+                     TAATGGATGGGTGCGATTCCAACAAGAAGCTGAAACTGTCTACGAGAACTACGTCGACG
+                     AGATCCAACGATTGCTCGTGACTTATGGCATCAAGGACGAAGCCGAGCTGTTCACCCAA
+                     TGCTTCACCGACATCAAATTCAGCCTCATGCGAAATCAAGAAGCCGACAATCTCTCCGG
+                     ATTCTCGACAGCTTCCATGATTCAGAAGCACTTGTACGAGATTCTCAGCCGGTATCGAT
+                     TGAACTTCTTTTCCGGGTATCGTGGCATCGACAAGGAGCAGAAGGACAACCGGAAGTTC
+                     TTCCATGCCAAATTCACTGGTGTCGTGTCGGGGCTGTTACGG"
+                     /qfull="YCFSDGCGRISIKLATHISKILQLKEVPACFQVRFKGFKGILVIDPTIDDI
+                     INMPKVIFRKSQQKFGEGGGELQDEYLEVVKYAMPSPVCLNRPFITILDQVSEKQSASS
+                     HRRITNRVHYYLERELCSLSNMLINENQAAEELVNRTNLAIDWNAASKRAGFELSVDPL
+                     IRDMLFSIYRYNIIHHISKAKIFLPPSLGRSMYGVVDETGLLQYGQVFIQYSPSIRQTS
+                     NRPILKTGKVLITKNPCHVPGDVRVFDAVWQPALAHLVDVVVFPQHGPRPHPDEMAGSD
+                     LDGDEYSIIWDQEMLLDYNEEAMVFPSSSAAEEDKEPTTDDMVEFFLRYLQQDSIGRMS
+                     HAHLAYADLHGLFHENCHAIALKCAVAVDFPKSGVPAEPLSSFEQCEMTPDYMMSGGKP
+                     MYYSTRLNGQLHRKARKVEEVLEEFETRGSVFEREYDKLICPEDVDVFFGNEIKLVQTL
+                     TLRDEYVDRMQQLLDEYGIEDEASVVSGHAASIKRLAGMERDDYSFYHTDKVVELRYEK
+                     LYAVFRAKFFEEFGGEEINIENDGKNTRLKCTKAMHEKIR"
+                     /Etotal="554"
+                     /tend="22969"
+                     /score="677"
+                     /Psim="56.32"
+                     /tid="gi|452085873|gb|KB454918.1|"
+                     /ttype="DNA"
+                     /tdescription="Panagrellus redivivus unplaced genomic
+                     scaffold scaffold011, whole genome shotgun
+                     sequence:[revcomp]"
+                     /qend="1410"
+                     /qstrand="."
+                     /Emis="345"
+                     /qlen="563"
+                     /Eident="209"
+                     /qcds="I"
+                     /qname="RDRP_Cele_rrf3"
+                     /Pident="37.73"
+                     /qdescription
+                     /tlen="1804"
+                     /model="protein2genome:local"
+                     /tcds="TACTGTTTCTCCGATGGCGTCGGAATGATGTCCTTGAAGATGGCTAAACAGC
+                     TTCAGACCGAACTCCACTTGTGCTACGTTCCCAGTTGCTTCCAGTTTCGATTTGCCGGC
+                     TACAAGGGTGTCCTTTCCGTCAATCCATACGCGGTAGATGCTCCCTGGATGAAGGACGC
+                     CCTTTTCCGGCCATCACAGAACAAATTTACCGCAAACCAGGACCATATTGGATTCGAAA
+                     TGGTCAAATATGCGGCGCCGTGTGTGGTCCATCTGAGCAAGCAGCTCATCAATATCTAT
+                     GATCAAGTCGCTGTGCGCCAATCTCAATCTGCTCACGAAAGCATCACGACGCGGATTCT
+                     TCAATTGACCGATGTTCAAATCGAGGCTATCATGAAGTCGCTCACTGACGAAACGCACT
+                     TTCGGAAGGTCCTCCAGGAACTTCCAGCGATTGTCCCGTTTCGCAAGCTCAAATCGCTG
+                     ACGAATCTGATTGTCGAGCCGTTTTTCCGGCGATTGGTTTTGGCTTGGACAAAGTATAG
+                     TTTGAAAAATCTGTCCGAAAAGGCCCGAATCCGTGTCCCGCCCAACCTTGGCCGCAATA
+                     TGTTCGGCATCATCGATGAAACCGGCTATCTACAGTATGGCCAAGTCTTCGTTCAATAC
+                     TCGGAGTTTCTCAATGACGAATTCTCTTCGAATCACATTGTCCTCACCGGCGACGTCAT
+                     GATTACGAAGAATCCGATGATGAGTGGCGGCGATTTGCGAAAGTTTCAAGCCGTCAACA
+                     TTCCTGCCCTCCGGCATCTTGTTGACGTCGTCGTATTCTCTCAGCATGGCTCCCGTCCC
+                     GCTCCTGATGAAATGGCTGGCAGCGATCTTGATGGTGATGAGTATTCTGTCATTTGGGA
+                     TCCGGAACTCATGTTGGACTACAACGAGCCCGCTGTCGACTACTCCGCGCCATCTTCGA
+                     AGACTGCTCAGGTGCCACCAAGGTCGCGACAGAAGCAAATGGTTGCAAACTACCTCCTC
+                     AATGATGGCATCGGCGTCGTCGCGAATGCGCATCTCGCCAACTCTGATCTCTATGGCAT
+                     CGATAGCAATGTCTGTCAAAACATCGCCAAGAAGCAGATCGCCGCCGTCGATTTCGCGA
+                     AAAGTGGCGTTCCAATGCAGCCATTAACCAAGTGTTGGGCCAATAAGCAGCCGCCAGAG
+                     AAGGTGCAACAATACCCCGACTTCATGTCGAAGGAACATCGCCCGTTTTATCATTCAAA
+                     ACGTCTTCTGGGCCAAGTCCATCGCAAAGTCCAACGTTTCGTCGATTATGTCTACTCAT
+                     TCATTGATGGCGATGCTGATATGGTCGGACTCGATGTCTTCATTGATGTTAATGGATGG
+                     GTGCGATTCCAACAAGAAGCTGAAACTGTCTACGAGAACTACGTCGACGAGATCCAACG
+                     ATTGCTCGTGACTTATGGCATCAAGGACGAAGCCGAGCTGTTCACCCAATGCTTCACCG
+                     ACATCAAATTCAGCCTCATGCGAAATCAAGAAGCCGACAATCTCTCCGGATTCTCGACA
+                     GCTTCCATGATTCAGAAGCACTTGTACGAGATTCTCAGCCGGTATCGATTGAACTTCTT
+                     TTCCGGGTATCGTGGCATCGACAAGGAGCAGAAGGACAACCGGAAGTTCTTCCATGCCA
+                     AATTCACTGGTGTCGTGTCGGGGCTGTTACGG"
+                     /tbegin="24773"
+                     /Esim="312"
+     M               1..141
+                     /gene="tr|G5EE53|"
+     5               142..143
+                     /gene="tr|G5EE53|"
+     I               144..187
+                     /gene="tr|G5EE53|"
+     3               188..189
+                     /gene="tr|G5EE53|"
+     M               190..276
+                     /gene="tr|G5EE53|"
+     G               276^277
+                     /gene="tr|G5EE53|"
+     M               277..468
+                     /gene="tr|G5EE53|"
+     G               468^469
+                     /gene="tr|G5EE53|"
+     M               469..576
+                     /gene="tr|G5EE53|"
+     S               577
+                     /gene="tr|G5EE53|"
+     5               578..579
+                     /gene="tr|G5EE53|"
+     I               580..624
+                     /gene="tr|G5EE53|"
+     3               625..626
+                     /gene="tr|G5EE53|"
+     S               627..628
+                     /gene="tr|G5EE53|"
+     M               629..754
+                     /gene="tr|G5EE53|"
+     G               755..757
+                     /gene="tr|G5EE53|"
+     M               758..1018
+                     /gene="tr|G5EE53|"
+     G               1018^1019
+                     /gene="tr|G5EE53|"
+     M               1019..1081
+                     /gene="tr|G5EE53|"
+     5               1082..1083
+                     /gene="tr|G5EE53|"
+     I               1084..1109
+                     /gene="tr|G5EE53|"
+     3               1110..1111
+                     /gene="tr|G5EE53|"
+     M               1112..1420
+                     /gene="tr|G5EE53|"
+     G               1420^1421
+                     /gene="tr|G5EE53|"
+     M               1421..1498
+                     /gene="tr|G5EE53|"
+     G               1499..1501
+                     /gene="tr|G5EE53|"
+     M               1502..1603
+                     /gene="tr|G5EE53|"
+     G               1604..1609
+                     /gene="tr|G5EE53|"
+     M               1610..1804
+                     /gene="tr|G5EE53|"
+     CDS             join(1..141,190..276,277..468,469..576,577,627..628,
+                     629..754,755..757,758..1018,1019..1081,1112..1420,
+                     1421..1498,1499..1501,1502..1603,1604..1609,1610..1804)
+                     /translation="YCFSDGVGMMSLKMAKQLQTELHLCYVPSCFQFRFAGYKGVLSVN
+                     PYAVDAPWMKDALFRPSQNKFTANQDHIGFEMVKYAAPCVVHLSKQLINIYDQVAVRQS
+                     QSAHESITTRILQLTDVQIEAIMKSLTDETHFRKVLQELPAIVPFRKLKSLTNLIVEPF
+                     FRRLVLAWTKYSLKNLSEKARIRVPPNLGRNMFGIIDETGYLQYGQVFVQYSEFLNDEF
+                     SSNHIVLTGDVMITKNPMMSGGDLRKFQAVNIPALRHLVDVVVFSQHGSRPAPDEMAGS
+                     DLDGDEYSVIWDPELMLDYNEPAVDYSAPSSKTAQVPPRSRQKQMVANYLLNDGIGVVA
+                     NAHLANSDLYGIDSNVCQNIAKKQIAAVDFAKSGVPMQPLTKCWANKQPPEKVQQYPDF
+                     MSKEHRPFYHSKRLLGQVHRKVQRFVDYVYSFIDGDADMVGLDVFIDVNGWVRFQQEAE
+                     TVYENYVDEIQRLLVTYGIKDEAELFTQCFTDIKFSLMRNQEADNLSGFSTASMIQKHL
+                     YEILSRYRLNFFSGYRGIDKEQKDNRKFFHAKFTGVVSGLLR"
+                     /gene="RDRP"
+ORIGIN
+        1 tactgtttct ccgatggcgt cggaatgatg tccttgaaga tggctaaaca gcttcagacc
+       61 gaactccact tgtgctacgt tcccagttgc ttccagtttc gatttgccgg ctacaagggt
+      121 gtcctttccg tcaatccata catgaccaag tatgccgaat acatcaacgc ccatatgctt
+      181 tctgtcgaag cggtagatgc tccctggatg aaggacgccc ttttccggcc atcacagaac
+      241 aaatttaccg caaaccagga ccatattgga ttcgaaatgg tcaaatatgc ggcgccgtgt
+      301 gtggtccatc tgagcaagca gctcatcaat atctatgatc aagtcgctgt gcgccaatct
+      361 caatctgctc acgaaagcat cacgacgcgg attcttcaat tgaccgatgt tcaaatcgag
+      421 gctatcatga agtcgctcac tgacgaaacg cactttcgga aggtcctcca ggaacttcca
+      481 gcgattgtcc cgtttcgcaa gctcaaatcg ctgacgaatc tgattgtcga gccgtttttc
+      541 cggcgattgg ttttggcttg gacaaagtat agtttgagta agtctttatt gatgttttta
+      601 tgtttctgat aatattacca ttccagaaaa tctgtccgaa aaggcccgaa tccgtgtccc
+      661 gcccaacctt ggccgcaata tgttcggcat catcgatgaa accggctatc tacagtatgg
+      721 ccaagtcttc gttcaatact cggagtttct caatgacgaa ttctcttcga atcacattgt
+      781 cctcaccggc gacgtcatga ttacgaagaa tccgatgatg agtggcggcg atttgcgaaa
+      841 gtttcaagcc gtcaacattc ctgccctccg gcatcttgtt gacgtcgtcg tattctctca
+      901 gcatggctcc cgtcccgctc ctgatgaaat ggctggcagc gatcttgatg gtgatgagta
+      961 ttctgtcatt tgggatccgg aactcatgtt ggactacaac gagcccgctg tcgactactc
+     1021 cgcgccatct tcgaagactg ctcaggtgcc accaaggtcg cgacagaagc aaatggttgc
+     1081 agtccgcgaa gaatccatca aattcttcaa gaactacctc ctcaatgatg gcatcggcgt
+     1141 cgtcgcgaat gcgcatctcg ccaactctga tctctatggc atcgatagca atgtctgtca
+     1201 aaacatcgcc aagaagcaga tcgccgccgt cgatttcgcg aaaagtggcg ttccaatgca
+     1261 gccattaacc aagtgttggg ccaataagca gccgccagag aaggtgcaac aataccccga
+     1321 cttcatgtcg aaggaacatc gcccgtttta tcattcaaaa cgtcttctgg gccaagtcca
+     1381 tcgcaaagtc caacgtttcg tcgattatgt ctactcattc attgatggcg atgctgatat
+     1441 ggtcggactc gatgtcttca ttgatgttaa tggatgggtg cgattccaac aagaagctga
+     1501 aactgtctac gagaactacg tcgacgagat ccaacgattg ctcgtgactt atggcatcaa
+     1561 ggacgaagcc gagctgttca cccaatgctt caccgacatc aaattcagcc tcatgcgaaa
+     1621 tcaagaagcc gacaatctct ccggattctc gacagcttcc atgattcaga agcacttgta
+     1681 cgagattctc agccggtatc gattgaactt cttttccggg tatcgtggca tcgacaagga
+     1741 gcagaaggac aaccggaagt tcttccatgc caaattcact ggtgtcgtgt cggggctgtt
+     1801 acgg
+//
+LOCUS       Howa|1fa|265             279 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|F1KQR2| , target: contig_194919 [revcomp], HSPID: 265
+ACCESSION   Howa|1fa|265
+VERSION     Howa|1fa|265
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..279
+                     /vulgar="M 46 138 G 1 0 M 14 42 G 2 0 M 33 99"
+                     /qid="tr|F1KQR2|"
+                     /tstrand="-"
+                     /file="Howardula_aoronymphium_clc_1.fa"
+                     /qbegin="836"
+                     /qtype="Protein"
+                     /tfull="ATTTTGTTTTAGGTGTCTGCTTTACAAAGCCATACGTCACATAAGCGTATT
+                     TGCAATCGAATACATTATATGATGGATATGTATTTGCATTCATTGACTAGATCGTTAAT
+                     GGATGAGCAAAAAGCACGTAACAAATTAGGTGAATTTTCAAAATTGATTCTTTATGATC
+                     AGATAACTGATTTAAATTTGACAAAAGAACCTTTTTTTCGCGGAATGGTGCGTGCTTCA
+                     GTTCGTGCATCATTAAAAAAATTAAGACAGAAACTTCAAATTCCTATTCCT"
+                     /qfull="ILDQVSERQNRELHQRLCWRIHCLLEKELNTLAEMLLDEEVAAEALSSRLS
+                     LSIDFRQLHDSGFTFTNEPFFRSLLVAVHHYNIKQHLSKLKIFLP"
+                     /Etotal="93"
+                     /tend="3"
+                     /score="102"
+                     /Psim="56.99"
+                     /tid="contig_194919"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="932"
+                     /qstrand="."
+                     /Emis="59"
+                     /qlen="96"
+                     /Eident="34"
+                     /qcds
+                     /qname="RDRP_Asuu_rdrp3"
+                     /Pident="36.56"
+                     /qdescription
+                     /tlen="279"
+                     /model="protein2genome:local"
+                     /tcds="ATTTTGTTTTAGGTGTCTGCTTTACAAAGCCATACGTCACATAAGCGTATTT
+                     GCAATCGAATACATTATATGATGGATATGTATTTGCATTCATTGACTAGATCGTTAATG
+                     GATGAGCAAAAAGCACGTAACAAATTAGGTGAATTTTCAAAATTGATTCTTTATGATCA
+                     GATAACTGATTTAAATTTGACAAAAGAACCTTTTTTTCGCGGAATGGTGCGTGCTTCAG
+                     TTCGTGCATCATTAAAAAAATTAAGACAGAAACTTCAAATTCCTATTCCT"
+                     /tbegin="282"
+                     /Esim="53"
+     M               1..138
+                     /gene="tr|F1KQR2|"
+     G               138^139
+                     /gene="tr|F1KQR2|"
+     M               139..180
+                     /gene="tr|F1KQR2|"
+     G               180^181
+                     /gene="tr|F1KQR2|"
+     M               181..279
+                     /gene="tr|F1KQR2|"
+     CDS             join(1..138,139..180,181..279)
+                     /translation="ILFXVSALQSHTSHKRICNRIHYMMDMYLHSLTRSLMDEQKARNK
+                     LGEFSKLILYDQITDLNLTKEPFFRGMVRASVRASLKKLRQKLQIPIP"
+                     /gene="RDRP"
+ORIGIN
+        1 attttgtttt aggtgtctgc tttacaaagc catacgtcac ataagcgtat ttgcaatcga
+       61 atacattata tgatggatat gtatttgcat tcattgacta gatcgttaat ggatgagcaa
+      121 aaagcacgta acaaattagg tgaattttca aaattgattc tttatgatca gataactgat
+      181 ttaaatttga caaaagaacc tttttttcgc ggaatggtgc gtgcttcagt tcgtgcatca
+      241 ttaaaaaaat taagacagaa acttcaaatt cctattcct
+//
+LOCUS       Hyps|fna|115             222 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: sp|Q9LQV2| , target: nHd.2.3.scaf00465 [revcomp], HSPID: 115
+ACCESSION   Hyps|fna|115
+VERSION     Hyps|fna|115
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..222
+                     /vulgar="M 74 222"
+                     /qid="sp|Q9LQV2|"
+                     /tstrand="-"
+                     /file="Hypsibius_dujardini_nHd.2.3.abv500.fna"
+                     /qbegin="731"
+                     /qtype="Protein"
+                     /tfull="TTCTTCCAGCCAACCATCGGCGGTGAACCGCATGTCATGACAGAGCCCGTC
+                     ATTGTCGTGCGGAACCCGTGTATGTTTCCTGGGGATATTCTCCAGTTGACATCTGTGTT
+                     GATTAAGGAATGTCTTCACCTGATGGACTGCATCGTGTTTCCCGTCAAGGGAAAACGAG
+                     CCACGGCTGGCGCGACTTCCGGTGGGGATTTGGACGGCGATCAGTTCACGGTT"
+                     /qfull="YSDPMRPGRRFIITGPVVVAKNPCLHPGDVRVLQAVNVPALNHMVDCVVFP
+                     QKGLRPHPNECSGSDLDGDIYFV"
+                     /Etotal="74"
+                     /tend="152"
+                     /score="167"
+                     /Psim="59.46"
+                     /tid="nHd.2.3.scaf00465"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="805"
+                     /qstrand="."
+                     /Emis="43"
+                     /qlen="74"
+                     /Eident="31"
+                     /qcds
+                     /qname="RDRP_Ath_rdr1"
+                     /Pident="41.89"
+                     /qdescription
+                     /tlen="222"
+                     /model="protein2genome:local"
+                     /tcds="TTCTTCCAGCCAACCATCGGCGGTGAACCGCATGTCATGACAGAGCCCGTCA
+                     TTGTCGTGCGGAACCCGTGTATGTTTCCTGGGGATATTCTCCAGTTGACATCTGTGTTG
+                     ATTAAGGAATGTCTTCACCTGATGGACTGCATCGTGTTTCCCGTCAAGGGAAAACGAGC
+                     CACGGCTGGCGCGACTTCCGGTGGGGATTTGGACGGCGATCAGTTCACGGTT"
+                     /tbegin="374"
+                     /Esim="44"
+     M               1..222
+                     /gene="sp|Q9LQV2|"
+     CDS             1..222
+                     /translation="FFQPTIGGEPHVMTEPVIVVRNPCMFPGDILQLTSVLIKECLHLM
+                     DCIVFPVKGKRATAGATSGGDLDGDQFTV"
+                     /gene="RDRP"
+ORIGIN
+        1 ttcttccagc caaccatcgg cggtgaaccg catgtcatga cagagcccgt cattgtcgtg
+       61 cggaacccgt gtatgtttcc tggggatatt ctccagttga catctgtgtt gattaaggaa
+      121 tgtcttcacc tgatggactg catcgtgttt cccgtcaagg gaaaacgagc cacggctggc
+      181 gcgacttccg gtggggattt ggacggcgat cagttcacgg tt
+//

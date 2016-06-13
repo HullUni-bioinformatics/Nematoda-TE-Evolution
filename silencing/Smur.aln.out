@@ -1,0 +1,89 @@
+# STOCKHOLM 1.0
+
+#=GS SMUV_0000123701-mRNA-1/43-1332   DE [subseq from] gene_id=SMUV_0000123701
+#=GS SMUV_0000073701-mRNA-1/1403-2338 DE [subseq from] gene_id=SMUV_0000073701
+
+SMUV_0000123701-mRNA-1/43-1332           --------------------------------------------------------------------------------------------......-------------------.----------------------------------------------------------------------------------
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP ........................................................................................................................................................................................................
+SMUV_0000073701-mRNA-1/1403-2338         GAGTTAGAAAGATGATTGTAACTCCAACGCGCACGCTACTAGTTGTTCCTGAATTGTTAATGGGTAATAGAGTGTTGCGAACATTTGATGAAactggtGACGGAGCGTTGCGAGTGCaGTTTCGAGATGATGACGGCACAAAACTTAGGATAAATAACACTGGGGGGTATCTTATTCAAACAACTGTCCATAATACTTTA
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP 567899*************************************************************************988888776666433333334444588999998745542589*************************999999986653343333332223466777777777788999************
+#=GC PP_cons                             567899*************************************************************************9888887766664......3444458899999874554.589*************************999999986653343333332223466777777777788999************
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP ........................................................................................................................................................................................................
+SMUV_0000073701-mRNA-1/1403-2338         TATCGTGGAGTAAATATTGCTAATCGCCATTTTGTGTACTTGGCGTCGTCAAATTCACAGATGCGTGACAATGGATGTTATTTCTTTGATGACGGTGAAGGTGGACAGGCCCAAAAGATACGTGAAAGTTTGGGAAAATTTGATAAAACAAATATACCGAAATTAATGTCTCGGATAGGACAGTGCTTTACTCAAGCTGA
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP 99*****************************************************************************986543334444444444445677777766543455677788888888888999998888865555554456688*********************************************9
+#=GC PP_cons                             99*****************************************************************************986543334444444444445677777766543455677788888888888999998888865555554456688*********************************************9
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           --....-------------------------------------------------------------------------------------------------------------------------------------------------------...----------------------------------------
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP ........................................................................................................................................................................................................
+SMUV_0000073701-mRNA-1/1403-2338         GCaatgCGATGCTGTATTAGAACGTAAAAGGTATAACAAGGTGCATGATTTTATCGGTGGAAAAGATGGAAACGGCGATCCATATACTTTTTCAGATGGTGTTGGGAAGATGTCTTGTGAATTTGCGTCAAAAATAGCAGAGAAGATGAATATGGGTggaTTTGTTCCAAGCTGCTTTCAAATAAGATATCGTGGTGTGA
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP 98322222322224556788999998888888888888899999****************9987754899998568*********************************************************************999999998876222467889**********************9999********
+#=GC PP_cons                             98....22322224556788999998888888888888899999****************9987754899998568*********************************************************************999999998876...467889**********************9999********
+#=GC RF                                  xx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           --------------------------------....----------------.....................................................-----------------------------------------------------------------------------------------------
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP ........................................................................................................................................................................................................
+SMUV_0000073701-mRNA-1/1403-2338         AAGGAGTGTTATCAGTAGACCCAGCAATGGACgaacGTCGATTGTGGGCAGAaaaaaatggcgtaaaagattcgacgaaactggttaaaaagactatatatttacATGTGTTGTTTCGACCATCCCAGGATAAATTTAATGCGCCGCGAAATGAAAACATAGAAATTGTAAAGCATTCTTCACCAATTCCTGTTTGTTTA
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP *****************************9985333233322222222221100000000000000000000000111111111111111111111111111111445566677888888888888888888888887765322222223345556677*****************************************
+#=GC PP_cons                             *****************************998....2333222222222211.....................................................445566677888888888888888888888887765322222223345556677*****************************************
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxx.....................................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           ----------------------------------------------------------------------------------------------------------------------------------------GAGCAAATTCAAATACCTTTTAATCTCGGTAGATCTATGTTCGGTATTGTTGACGAGTCTGGGT
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP ........................................................................................................................................567777777666455555566677788999999*******************************
+SMUV_0000073701-mRNA-1/1403-2338         AACCGTCCACTTATATGTATCATGGATCAGGTTAGCGAAATGCAAGGTTATGAACTACATACGAAAGTTTGTGGTAGAATTCATTCTTTATTGGATCGGCAGTTGATGCAAATGGCTGAAATACTTATGAGCGAAG----------------------------------------------------------------
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP *************************************************************99999*****************************************************99998887776555554................................................................
+#=GC PP_cons                             *************************************************************99999*****************************************************99998887776555554567777777666455555566677788999999*******************************
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           TGTTACAGTATGGCCAAGTCTTTATACAATATACCTGCAGTATTgaatCaaaaacacctggaaGATGTGCTGCTAAGAAAATTCTTAAAGGAAAAGTTCTTATTACGAAGAATCCGTCTGTGGTAGCAGGTGATGTTCGTGTATTTGAAGCAGTTGACATTCCAGAGTTACAACATTTAGTTGATGTTGTTGTGTTTCCC
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP *******************************988777777766411111111111111111113333444444444444567788899******************************************************************9995333344444577899***************************
+SMUV_0000073701-mRNA-1/1403-2338         --------------------------------------------....-..............-----------------------------------------------------------------------------------------------------------------------------------------
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP ........................................................................................................................................................................................................
+#=GC PP_cons                             *******************************9887777777664....1..............3333444444444444567788899******************************************************************9995333344444577899***************************
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....x..............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           CAGTCAGGACCACGACCTCATCCAGATGAAATGGCAGGTTCTGACTTAGATGGTGATGAATACAGCATAATATGGGACCCGGAATTAATTTTTGATCACAATGAAGAAGCTTTTGACTTTACTAAAAatgCTCGAGAACCGGAAGAAGTTTCACATGAtgaagtTGTTGCTGAGATGCGCAATTTCTTTGTAAAGTATAT
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP **************************************************************************************************************99887777777776654111444456677788765544444343322211111134456677889*************************
+SMUV_0000073701-mRNA-1/1403-2338         -------------------------------------------------------------------------------------------------------------------------------...----------------------------......------------------------------------
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP ........................................................................................................................................................................................................
+#=GC PP_cons                             **************************************************************************************************************99887777777776654...4444566777887655444443433222......34456677889*************************
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           TAAACAGGACTCTATTGGATCTATTTCCAACGCCTTTCTTGTTAATGCGGATTTGTACGGAATTAAAAGCGAGCATTCACTATCGGTTGATTTTCCCAAAACGGGAACGCCACCTGATCCGTTAgtaaagaaatggggtgtaagtgtagatggtgtaccaTTGCCTCCTGAAAAACCTGAACGATGGCCAGAGTTTATGT
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP *********************************9999988888755555543222244555555444555566667888888899***********************************99862222222222222222222222222222221111113445666778877777777777778889***********9
+SMUV_0000073701-mRNA-1/1403-2338         ----------------------------------------------------------------------------------------------------------------------------....................................----------------------------------------
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP ........................................................................................................................................................................................................
+#=GC PP_cons                             *********************************9999988888755555543222244555555444555566667888888899***********************************9986....................................3445666778877777777777778889***********9
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....................................xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           GCAAAAACCATGTGCCATTCTATGcttCAAGGAGACTCGTAGGCCAATTGTACCGGAGGATAAAAGCTGTGGATGATATTTTGACTTTAACAATGGCATCGGAGGAATTAGCTCCAATTAAAATAGATGAAACTCTTTTAGTGCCAAATTACGAccACTTCGTAAATGAAGCtgaAGAAGATTTTGCTGCATATAGTTCA
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP 9999999999999****999997411135554499*********************988777777777899999999987544555556666777777766666654555556655322222224777777777777776655554443332220022222222222222220002222222222222222332222222
+SMUV_0000073701-mRNA-1/1403-2338         ------------------------...-------------------------------------------------------------------------------------------------------------------------------..----------------...-------------------------
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP ........................................................................................................................................................................................................
+#=GC PP_cons                             9999999999999****9999974...35554499*********************98877777777789999999998754455555666677777776666665455555665532222222477777777777777665555444333222..2222222222222222...2222222222222222332222222
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           TATATCAtatcCTTAATGGACAATTACGGAATTGAAGATGAAGGACAATTGTAtTCTGGATGTATTATAATGTTgcgGAATAGGCTTAGTGAAAAGGATAACGATGATATGTCACTATATAATACGAATTATATGATTGAAAAAAAAGTGACTGACATTTTTAAAACTTTTCGAAAAAGATTTTTTACTGAATTTGGCGG
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP 233333311114788999************************955555655542799998766665555554441114677888899********************9988999999999999999999888888899988766555556788999****************************************9886
+SMUV_0000073701-mRNA-1/1403-2338         -------....------------------------------------------.--------------------...---------------------------------------------------------------------------------------------------------------------------
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP ........................................................................................................................................................................................................
+#=GC PP_cons                             2333333....4788999************************95555565554.79999876666555555444...4677888899********************9988999999999999999999888888899988766555556788999****************************************9886
+#=GC RF                                  xxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           TTTCGAAGCTTGCACTACTGTTGtaagctcaaaggaatttgCAACTTTTGAAAAGGACCTTCGCAGGgtgtgtaaagacccaACTACTAAAATGAAGGCGAAAGCATCAGCTTATTACTACGTCTGCTATAAAAATGCTTCACATAGTTCCGGAAAAaggTTGTTATCATTTCCGTGGCTTGTTTGGGACATTCTAGCGC
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP 5444444556667777777766522111111111111100022222232233333567889998887444444433222222223334445689999999999999999999******************99998888888888778877776665521123344789***************************99988
+SMUV_0000073701-mRNA-1/1403-2338         -----------------------..................--------------------------...............---------------------------------------------------------------------------...----------------------------------------
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP ........................................................................................................................................................................................................
+#=GC PP_cons                             54444445566677777777665..................22222232233333567889998887...............223334445689999999999999999999******************999988888888887788777766655...23344789***************************99988
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxx..................xxxxxxxxxxxxxxxxxxxxxxxxxx...............xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+SMUV_0000123701-mRNA-1/43-1332           AAGTTAAAACATGTAATATTGGTACG
+#=GR SMUV_0000123701-mRNA-1/43-1332   PP 77777776544443333222222222
+SMUV_0000073701-mRNA-1/1403-2338         --------------------------
+#=GR SMUV_0000073701-mRNA-1/1403-2338 PP ..........................
+#=GC PP_cons                             77777776544443333222222222
+#=GC RF                                  xxxxxxxxxxxxxxxxxxxxxxxxxx
+//

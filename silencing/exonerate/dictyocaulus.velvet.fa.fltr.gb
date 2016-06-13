@@ -1,0 +1,2405 @@
+LOCUS       dict|tfa|0              1548 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: GPLIN_0003 , target: NODE_2624_length_1782_cov_15.148709
+            [revcomp], HSPID: 0
+ACCESSION   dict|tfa|0
+VERSION     dict|tfa|0
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..1548
+                     /vulgar="M 32 96 S 0 2 5 0 2 I 0 70 3 0 2 S 1 1 M 45 135 G
+                     0 3 M 5 15 S 0 2 5 0 2 I 0 61 3 0 2 S 1 1 M 37 111 5 0 2 I
+                     0 895 3 0 2 M 48 144"
+                     /qid="GPLIN_0003"
+                     /tstrand="-"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="1"
+                     /qtype="Protein"
+                     /tfull="TCAGTTGAATGTCCAATTCATCCGAACGTACACTTAGTTGAGGACCATCGA
+                     GCAGGAGATGTAATTTGTCCTGAATGTGGACTTGTTGTCGGTGATAGGTAATTTTATAT
+                     ACAATTGCTTTATTAAAGTCGTTCAATTTGTAGCACGAACCGTGATATTGTGCATTATA
+                     CAGGTTAGTCGATGTGGGGACAGAATGGCGTTCGTTTTCAAATGAACGGAGTGGAGCTG
+                     ACCCGTCTCGTGTTGGTGCACCTGAAAACCCTCTACTAAGTGGAGGGGATTTGTCCACC
+                     AGTATAGCTGTTGGGTTCGGAGCCACTGATAGTGACACTAGGTTGCTTTTTCTACTTTA
+                     ATGTTTGTAAGGGACATATGTATAGTTCTTGAGCTGTATAACTTTAGCCTGGCGAATGC
+                     TCAGAGGAAAAGTATGAATAATACTGATCGCCAAATGACACAAGCTATGAGTGTGATTA
+                     GGGAAATGAGTGAGCGCATTCATCTTGCTAAAAGTATTCAGGTAACGTCCTCTACTCTT
+                     GAATTGTGTTATAATATTTTTTGCCGTTGATAATGAATTCTTTTTGGTCATGCTTATCC
+                     ACCCTTAAATTTCAAGGAATATTGGCAATAAAATAGAAATTAATAAATGAATTAATAAG
+                     ATGATAATTTTGCCAGTCCTTTCTTCTTTATACAGAAGATGGACGATGCAATTCTTAGT
+                     TTAAATAAAAAAAAAACACATTCATCGGTGACAAGAAGTAAATTGTGGGTCTAGTATCG
+                     GAGAAGAAATATCGTTATTGAGGAAATATATGTGTTCATCTGTAACAGAGGCCGATCAC
+                     AGAGATCGGGAAGATCAGACTTAACATTTGACGAGACTGAATACTAAAATATTAAGTGA
+                     TTCTTTATCAGATTAGCGCGATTAATACTGCTTGCAGACAATGAAATGACGTGAAAAAC
+                     ATTCAAAATATGGTGTAACTATAAAGATGGTTAATGATGTTATGTTATGTAATAGGTTC
+                     CAAGAAAGCGTTTGATTTTATAGTAATACCGCAAATTTGCACCTACTCGTCAATAAACC
+                     CCAAAAGTTCATCAAATGCTTCGGTTTTTTTTCACTTCTGCATATGCCGCAGCTACTAT
+                     GGAAATTCTTTAAATTCCTATGAAGATGGAGTAATCTTTCAAATATTATGATGATAATT
+                     TGTTCACTGAAAAAGTCAACGATTGTTGATAATATTATGTAATAAGCTTTGTGAATTTT
+                     TCATTGGTATAAACAACGTCAGAGATCTGCGGAAGTTAAGAACTGCTAATTTTTCCTTT
+                     TTAGTCAATTCGTGATTTTATGTTATTGGTTTTGGAATCTGTTGTAAATTTACAATTTA
+                     CATTTGGTGAATAATCTGTCATTGTTTGCTCTGACAACGTTATGCATATTTTGAGGATT
+                     TGGCTTCAAAAACATTCAAAGATGTATTGGATAGCAAAGCTCTCAAAGGGAAGAATAAC
+                     GAGGCACAAGCTGCAGCTTGTCTGTATATTGCTTGTCGTAAAGAAGGAGTTCCAAGAAC
+                     TTTTAAAGGTATCTCATTAATC"
+                     /qfull="SIVCPSHPEADLVEDSRAGDLICTRCGLVVGERLIDVGTEWRSFSNESSGN
+                     DPSRVGAPENPLLSGADLSTSIAVSFGSDSDRALANAQRKLLSSTDRQMTQAMMVIREM
+                     SEKISLTRTIQDRAAKLYKEVLESKALRGKNNEAQAAACLYIACRQEGVPRTFKEICAV
+                     "
+                     /Etotal="167"
+                     /tend="48"
+                     /score="595"
+                     /Psim="86.83"
+                     /tid="NODE_2624_length_1782_cov_15.148709"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="170"
+                     /qstrand="."
+                     /Emis="40"
+                     /qlen="169"
+                     /Eident="127"
+                     /qcds="RA"
+                     /qname="AGO_GpalB"
+                     /Pident="76.05"
+                     /qdescription
+                     /tlen="1548"
+                     /model="protein2genome:local"
+                     /tcds="TCAGTTGAATGTCCAATTCATCCGAACGTACACTTAGTTGAGGACCATCGAG
+                     CAGGAGATGTAATTTGTCCTGAATGTGGACTTGTTGTCGGTGATAGGTTAGTCGATGTG
+                     GGGACAGAATGGCGTTCGTTTTCAAATGAACGGAGTGGAGCTGACCCGTCTCGTGTTGG
+                     TGCACCTGAAAACCCTCTACTAAGTGGAGGGGATTTGTCCACCAGTATAGCTGTTGGGT
+                     TCGGAGCCACTGATAGTGACACTAGCCTGGCGAATGCTCAGAGGAAAAGTATGAATAAT
+                     ACTGATCGCCAAATGACACAAGCTATGAGTGTGATTAGGGAAATGAGTGAGCGCATTCA
+                     TCTTGCTAAAAGTATTCAGGATTTGGCTTCAAAAACATTCAAAGATGTATTGGATAGCA
+                     AAGCTCTCAAAGGGAAGAATAACGAGGCACAAGCTGCAGCTTGTCTGTATATTGCTTGT
+                     CGTAAAGAAGGAGTTCCAAGAACTTTTAAAGGTATCTCATTAATC"
+                     /tbegin="1596"
+                     /Esim="145"
+     M               1..96
+                     /gene="GPLIN_0003"
+     S               97..98
+                     /gene="GPLIN_0003"
+     5               99..100
+                     /gene="GPLIN_0003"
+     I               101..170
+                     /gene="GPLIN_0003"
+     3               171..172
+                     /gene="GPLIN_0003"
+     S               173
+                     /gene="GPLIN_0003"
+     M               174..308
+                     /gene="GPLIN_0003"
+     G               309..311
+                     /gene="GPLIN_0003"
+     M               312..326
+                     /gene="GPLIN_0003"
+     S               327..328
+                     /gene="GPLIN_0003"
+     5               329..330
+                     /gene="GPLIN_0003"
+     I               331..391
+                     /gene="GPLIN_0003"
+     3               392..393
+                     /gene="GPLIN_0003"
+     S               394
+                     /gene="GPLIN_0003"
+     M               395..505
+                     /gene="GPLIN_0003"
+     5               506..507
+                     /gene="GPLIN_0003"
+     I               508..1402
+                     /gene="GPLIN_0003"
+     3               1403..1404
+                     /gene="GPLIN_0003"
+     M               1405..1548
+                     /gene="GPLIN_0003"
+     CDS             join(1..96,97..98,173,174..308,309..311,312..326,327..328,
+                     394,395..505,1405..1548)
+                     /translation="SVECPIHPNVHLVEDHRAGDVICPECGLVVGDRLVDVGTEWRSFS
+                     NERSGADPSRVGAPENPLLSGGDLSTSIAVGFGATDSDTSLANAQRKSMNNTDRQMTQA
+                     MSVIREMSERIHLAKSIQDLASKTFKDVLDSKALKGKNNEAQAAACLYIACRKEGVPRT
+                     FKGISLI"
+                     /gene="AGO"
+ORIGIN
+        1 tcagttgaat gtccaattca tccgaacgta cacttagttg aggaccatcg agcaggagat
+       61 gtaatttgtc ctgaatgtgg acttgttgtc ggtgataggt aattttatat acaattgctt
+      121 tattaaagtc gttcaatttg tagcacgaac cgtgatattg tgcattatac aggttagtcg
+      181 atgtggggac agaatggcgt tcgttttcaa atgaacggag tggagctgac ccgtctcgtg
+      241 ttggtgcacc tgaaaaccct ctactaagtg gaggggattt gtccaccagt atagctgttg
+      301 ggttcggagc cactgatagt gacactaggt tgctttttct actttaatgt ttgtaaggga
+      361 catatgtata gttcttgagc tgtataactt tagcctggcg aatgctcaga ggaaaagtat
+      421 gaataatact gatcgccaaa tgacacaagc tatgagtgtg attagggaaa tgagtgagcg
+      481 cattcatctt gctaaaagta ttcaggtaac gtcctctact cttgaattgt gttataatat
+      541 tttttgccgt tgataatgaa ttctttttgg tcatgcttat ccacccttaa atttcaagga
+      601 atattggcaa taaaatagaa attaataaat gaattaataa gatgataatt ttgccagtcc
+      661 tttcttcttt atacagaaga tggacgatgc aattcttagt ttaaataaaa aaaaaacaca
+      721 ttcatcggtg acaagaagta aattgtgggt ctagtatcgg agaagaaata tcgttattga
+      781 ggaaatatat gtgttcatct gtaacagagg ccgatcacag agatcgggaa gatcagactt
+      841 aacatttgac gagactgaat actaaaatat taagtgattc tttatcagat tagcgcgatt
+      901 aatactgctt gcagacaatg aaatgacgtg aaaaacattc aaaatatggt gtaactataa
+      961 agatggttaa tgatgttatg ttatgtaata ggttccaaga aagcgtttga ttttatagta
+     1021 ataccgcaaa tttgcaccta ctcgtcaata aaccccaaaa gttcatcaaa tgcttcggtt
+     1081 ttttttcact tctgcatatg ccgcagctac tatggaaatt ctttaaattc ctatgaagat
+     1141 ggagtaatct ttcaaatatt atgatgataa tttgttcact gaaaaagtca acgattgttg
+     1201 ataatattat gtaataagct ttgtgaattt ttcattggta taaacaacgt cagagatctg
+     1261 cggaagttaa gaactgctaa tttttccttt ttagtcaatt cgtgatttta tgttattggt
+     1321 tttggaatct gttgtaaatt tacaatttac atttggtgaa taatctgtca ttgtttgctc
+     1381 tgacaacgtt atgcatattt tgaggatttg gcttcaaaaa cattcaaaga tgtattggat
+     1441 agcaaagctc tcaaagggaa gaataacgag gcacaagctg cagcttgtct gtatattgct
+     1501 tgtcgtaaag aaggagttcc aagaactttt aaaggtatct cattaatc
+//
+LOCUS       dict|tfa|9              4693 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: Bm4213_BM1 , target: NODE_7092_length_39359_cov_14.554765
+            [revcomp], HSPID: 9
+ACCESSION   dict|tfa|9
+VERSION     dict|tfa|9
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..4693
+                     /vulgar="M 39 117 S 0 1 5 0 2 I 0 115 3 0 2 S 1 2 M 52 156
+                     S 0 2 5 0 2 I 0 97 3 0 2 S 1 1 M 43 129 5 0 2 I 0 105 3 0 2
+                     M 57 171 S 0 2 5 0 2 I 0 70 3 0 2 S 1 1 M 12 36 G 1 0 M 45
+                     135 S 0 1 5 0 2 I 0 103 3 0 2 S 1 2 M 24 72 5 0 2 I 0 96 3
+                     0 2 M 50 150 S 0 2 5 0 2 I 0 207 3 0 2 S 1 1 M 36 108 5 0 2
+                     I 0 68 3 0 2 M 37 111 5 0 2 I 0 53 3 0 2 M 83 249 5 0 2 I 0
+                     61 3 0 2 M 43 129 S 0 2 5 0 2 I 0 124 3 0 2 S 1 1 M 36 108
+                     S 0 1 5 0 2 I 0 57 3 0 2 S 1 2 M 60 180 S 0 1 5 0 2 I 0 127
+                     3 0 2 S 1 2 M 32 96 S 0 2 5 0 2 I 0 303 3 0 2 S 1 1 M 54
+                     162 5 0 2 I 0 57 3 0 2 M 43 129 5 0 2 I 0 53 3 0 2 M 64 192
+                     5 0 2 I 0 61 3 0 2 M 62 186 5 0 2 I 0 185 3 0 2 M 12 36"
+                     /qid="Bm4213_BM1"
+                     /tstrand="-"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="102"
+                     /qtype="Protein"
+                     /tfull="TCACGACAGGGTGGTAGTTTAGCGCCAGGAGCCCCAATTGGGGTACCACCT
+                     GGTCAGACAGATCCCAGTCAAACAGCCACCACAGCTCAACAACAAGGAGCCATGCCTTC
+                     AAGTGGAAGTGGATTGCCAGTGTAAGAATTCTGTTCCTGCATGGTATTTTTCAACGTTC
+                     TTTTAACGAGCAAATCAATATCATAGTTTCCTTAAGATTTTGTCTGAGATTTCTTTTCA
+                     GTCTCTCCGGTGGAGTGCAGTTCCAATGTCCTCGTCGTCCAAATCACGGCCTTGAGGGA
+                     CGCTCAATACTTCTTCGAGCAAACCATTTTGCAGTTCGCATGCCAGGTGGTACCATACA
+                     GCACTACCACGTAGATGTATCCCCTGATAAATGCCCACGTAGAGTAAATCGGTCAGTGG
+                     TTTTGGAGAGTTCTAACAACTTGTGTGCTTCTAGTTATTTTACATGTTTTTGGCTATTA
+                     TAGCCTGTTTATATTCATAATAGAATATTTGTAGGGAAATCATCCTTTGTATGATTCGC
+                     TCGTTTGGCAAATACTTCAGTTCGAGTAGACCTGTTTATGATGGGAAAAGAAATATGTA
+                     TACTCGCGAACCATTGCCAATAGGTAGAGAAAAAATGGAATTTGAGGTATAGGTCGTTT
+                     ATGAATTTCTTTTAAATTTTTTTTCTTAAAGATACCACAATTGGTGGTATGAAATAGTG
+                     GTTTTGTTTGCAGTTCTCAAATATCACTTTGTTCCAGGTTACCCTGCCAGGAGATTCAG
+                     CGGTGGAACGTCAGTTTACCGTTACTGTTAAGTGGGCTGGTCAGGTTTCATTATCCACA
+                     TTGGAGGATGCAATGGAGGGCCGTGTTCGTCAAGTACCTTTCGAAGCCGTTCAGGCGAT
+                     GGACGTGATTCTCAGACATCTTCCCAGTTTAAAGTAATTGACATTATGTTCACATTCAC
+                     TCGTGCTAAATATCTGAAAGTTTGCGTATATACATCATTTATTTGTAGATACACACCTG
+                     TGGGTCGTTCATTTTTCTCTCCTCCCGCGCAACCGCATCAGCCACCTCAACAGCACGGA
+                     CAGTACCATATGGAAAGCAAACTTGGTGGAGGTCGCGAAGTTTGGTTTGGTTTCCATCA
+                     GTCAGTTCGACCTTCGCAATGGAAAATGATGTTAAATATTGATGGTAAGGATTTATAGC
+                     GTACTTTTTTCCCCTTTTCGATTATCGGTTTTTCCACAATCATAGGATTTTTTACTTAA
+                     CTTGGTTAGGGTTTCAAAACTTCTATTTTCCAGTTTCCGCCACAGCATTTTATCGATCT
+                     ATGCCAGTAATAGAATTCGTAGCAGAGGTTCTTGAATTACCAGTTCAGGTAGGCTACGC
+                     ATTTTGTGTTTGCTAGTTTTTTTCTTATAGTTTGATATCTATTTAGTATGAAAGTTAGA
+                     TAGATTCAGCAATAGTGATAATTTCTTTAGGCGCTAACAGAGCGTCGCGCTCTATCGGA
+                     TGCACAACGTGTGAAATTTACAAAGGAGATTCGTGGACTAAAAATTGAAATAACCCATT
+                     GCGGTCAAATGCGTCGAAAATATCGTGTTTGTAACGTTACGAGACGACCTGCACAGACG
+                     CAGACGTAAGTCGAAGTTGATTTATCGTAATTCAAATTAGTTGTTTTATGGTGTTGTTC
+                     TAAATAATGAGAGGAGCTTAGGAGTCGTATAAAAACATACAGAAACAGTAGCTTGAGTC
+                     TTGAAATGCGGGAAATGTCTTATATAATTACTTAGTGGCTTCGTATTTAATCTATTTGG
+                     TTTTGCTTGTATTGCGATTTCATTAAAGTGGATTTTAAGCTTTCCACTACAATTGGAGA
+                     CGGGTCAAACAATCGAGTGCACTGTGGCGAAGTATTTTTATGATAAGTATCGCATGCAG
+                     CTAAAATATCCACATTTGCCTTGCCTTCAGGTAATTTTTATCTGTTATATATGCACTTT
+                     TCCTTTGGTTATAGTAACTTCGTCAGTCTTGTATTTTATTCAGGTTGGACAAGAACAAA
+                     AACATACCTATCTGCCTCCAGAAGTTTGTCATGTTGTCCCAGGCCAGCGTTGCATCAAA
+                     AAGTTAACAGATACTCAAACATCAACAATGATCAAAGTAGGTTTTGTCAAGTTGATTTG
+                     TAGATATGTACTGTGACAATCTTATTGATTTTAGGCAACTGCTCGTTCTGCTCCCGAGC
+                     GCGAGCGGGAAATCGCCAGCCTTGTTAGGAAGGCTGAATTTTCTGCAGATCCGTTTGCG
+                     CATGAATTTGGTATCGCAATCAATTCAGCTATGACTGAGGTAAAAGGCCGTGTTTTATC
+                     GGCACCCAAACTCCAGTATGGTGGCCGCAACAAAGCTACTGCTTTACCAAATCAAGGTG
+                     TATGGGATATGCGCGGAAAACAGTTTCATACTGGGATCGATGTTAAGGTGTGGACATTC
+                     TCAATTTCTTTGGTTCATTTATAATAGGGTATCTCTACAATGGTAGTTTTAAGGTTTGG
+                     GCAATTGCTTGCTTTGCACAACAGCAACATGTAAAGGAAAATGACTTACGCAATTTTAC
+                     TGCACAGCTTCAACGTATCTCGAATGATGCTGGTATGCCTATTGTGGGGCAACCTTGTT
+                     TCTGCAAGTGAGTCTTGTTAGAAGTGTTCTATTAACATTGAAGACGCTACGTATATTTT
+                     TCGAAACTAAAGTTTTGGATGTTGCTGTTTTTGCCAACATTTAAGAAGCCCTAGATTGT
+                     TTTATTTATGTTCTAAGGTATGCTATGGGTGTAGACCAGGTCGAACCAATGTTCAAATA
+                     TCTAAAGCAAACGTTTTCTGGTATCCAACTCGTTGTCGTCATTCTACCAGGAAAGACCC
+                     CAGTATACGGTATTGTTAAATTATTTACGCTTTAATTAGTGACCCCATTTTCAACACTT
+                     TGATGTTTCAGCCGAAGTGAAGCGTGTTGGAGATACTGTGCTGGGAATCGCAACACAGT
+                     GTGTTCAAGCTAAAAACGTTATCAAAACTACACCACAAACTTTATCAAACTTATGTTTA
+                     AAGATGAATGTTAAGTTAGGTGGAGTAAACAGCATTTTACTACCTGCAGTCCGTCCACG
+                     AATTTTCAACGAACCGGGTGAGTTAGATATTTTTGAAGTCTACTTGATCTCGTTTTTTC
+                     ATATTTTCAAAAGACTACGATATTTGTATCATTTCAGTCCATAAATTGTCTAGCTATAA
+                     TGCTTTAATATGCATCGAAAACTCGTTTAGTAATCTTCTTTGGATGCGACATAACACAT
+                     CCTCCTGCTGGTGACTCTCGTAAACCATCAATCGCAGCTGTTGTTGCTAGCATGGATGC
+                     ACATCCAAGCAGGTAGGGCTAGTTAAGTTAGGTGGAGTAAACAGCATTTCGTGGGCTTA
+                     GTTTCATTTAAAACTCATTTGAGGTCTATCTTTCCATAAATCAATTTTTTTCTTTTTTT
+                     TTCTTTTTTTTTGCTTATAGAAGCAGTTTAGTGGGGGATTGCGCAATTCTGCCCCTTTG
+                     TTTTTTTTGGTAGTAGATGGTCGCAGTTGTCTTTTTTTCGAATAAGTGGCATTCTTTAT
+                     CAAAATTGGATATGAAATAAGCATTTTTTAAATTTTTTTTTGACGCAGATCCTCGTATG
+                     GCTATATTGTAATTTTTATCGTAGATATGCTGCCACTGTTCGAGTGCAGCAACATCGTC
+                     AAGAGATTATCTCTGACCTCACGTATATGGTAAGAGAGCTACTTGTGCAGTTCTATCGC
+                     AACACGCGGTTCAAGCCAACTCGTATTGTCGTGTACAGGGATGGTGTGTCTGAAGGACA
+                     ATTTTTTAACGTGTGTTTGTACGTTATTATGTGCAATTTTGTGGCGTGTTGATTGATGA
+                     AGACCATTTCAGGTTTTACAATATGAATTACGTGCTATGCGTGAAGCTTGTATGATGTT
+                     AGAAAGCGGTTATCAACCTGGAATTACTTTTATTGCTGTTCAAAAACGGCACCATACTC
+                     GTCTTTTCGCTGTTGATAAAAAGGTACATGATTGACGTTCTTGTAGTTGAAATATTCTC
+                     AGGAAAATCTCCTTATTATAGGACCAGGTTGGCAAGGCTTTTAACATTCCACCAGGAAC
+                     AACTGTTGATGTGGGAATCACACATCCAACAGAATTTGACTTCTACCTTTGTTCGCACG
+                     CAGGTATTCAAGGAACATCACGACCTTCCCATTATCATGTGCTCTGGGATGACAACGAA
+                     TTGACTGCCGATGAATTGCAACAACTCACTTATCAAGTAATGCCGATAGGTCTTTTCTT
+                     TTAGTAATTGATCTTATATTGTTCTATTGCTTATCTATTCAGATGTGTCACACATATGT
+                     ACGTTGCACTCGTTCGGTATCAATTCCTGCACCTGCGTATTATGCACATTTGGTGGCGT
+                     TTCGAGCTCGTTACCATCTTGTTGATCGGGAACACGACTCGGGTGAAGGAAGTCAGCCG
+                     TCGGGTACTTCTGAAGACACTACTTTATCAAATATGGCTAGAGCTGTACAGGTTTGTAG
+                     ATAATAGTTTTATTGTTGATTTATTCCCAATATTGTCCTCTTTTTTCTTTGTATTGTGT
+                     AAGGACGTTATAGTTACTGGATTTTCAGAGTTATAATTTCATTTCATATCTTTACCGAT
+                     CCTTAAGGATTGTCCAGATTTTGTTACTTAAATTAAATCTCTCATATTGGTTTTTGAAT
+                     TTAGGTTCACCCGGACGCAAATAACGTGATGTACTTTGCA"
+                     /qfull="SRPAGSLAPGGPVGSGDGSEAPLPPPANVPLQRPTGQSSGPIQFQCPRRPN
+                     HGIEGRAIVLRANHFAVRIPGGNIQHYSIDVQPDKCPRRVNREIVNTMIRAYQKVFSNI
+                     RPVYDGKRNMYTRDPLPIGRERLELEVTLPGDSAVDRQFTVAIKWVSTVSLSALEDAME
+                     GRVRQVPFESVQAMDVILRHLPSLKYTPVGRSFFSPPLGSAHGPSHSAQQYHTESKLGG
+                     GREVWFGFHQSVRPSQWKMMLNIDVSATAFYRSMPVIEFIAEVLEVPVQALSDRRSLSD
+                     AQRVKFTKEIRGLKIEITHCGSMRRKYRVCNVTRRAAQVQTFPLQLDSGQTIDCTVTKY
+                     FYDKYHMQLKYPHLPCLQVGQEQKHTYLPPEVCNIVPGQRCIKKLTDTQTSTMIKATAR
+                     SAPEREREISNLVRKAEFNADPFAHEFGIAINPAMTEVKGRVLNAPKLLYGGRTKATAL
+                     PNQGVWDMRGKQFHTGVEVKVWAIACFAQQQHVKENDLRNFTTQLQRISNDAGMPIMGQ
+                     PCFCKYAVGVDQVEPMFKYLKTSFVNIQLVCVVLPGKTPVYAEVKRVGDTVLGIATQCV
+                     QAKNVIKTTPQTLSNLCLKMNVKLGGVNSILLPAVRPRIFTEPVIFLGCDITHPPAGDS
+                     RKPSIAAVVGSMDAHPSRYAATVRVQAHRQEIISDLTYMARELLIQFYRSTRFKPTRII
+                     IYRDGVSEGQFFNVLQYELRALRECCMLLEEDYQPGITFIAVQKRHHTRLFAVDKKDQV
+                     GKAFNIPPGTTVDVGITHPTEFDFYLCSHAGIQGTSRPSHYHVLWDDNQLSADELQQLT
+                     YQMCHTYVRCTRSVSIPAPAYYAHLVAFRARYHLVDREHDSGEGSQPSGTSEDTTLSNM
+                     ARAVQVHPDANNVMYFA"
+                     /Etotal="884"
+                     /tend="24775"
+                     /score="3860"
+                     /Psim="92.08"
+                     /tid="NODE_7092_length_39359_cov_14.554765"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="996"
+                     /qstrand="."
+                     /Emis="115"
+                     /qlen="894"
+                     /Eident="769"
+                     /qcds="GRKVTKAVR"
+                     /qname="AGO_Bmal_bm4213"
+                     /Pident="86.99"
+                     /qdescription
+                     /tlen="4693"
+                     /model="protein2genome:local"
+                     /tcds="TCACGACAGGGTGGTAGTTTAGCGCCAGGAGCCCCAATTGGGGTACCACCTG
+                     GTCAGACAGATCCCAGTCAAACAGCCACCACAGCTCAACAACAAGGAGCCATGCCTTCA
+                     AGTGGAAGTGGAGTGCAGTTCCAATGTCCTCGTCGTCCAAATCACGGCCTTGAGGGACG
+                     CTCAATACTTCTTCGAGCAAACCATTTTGCAGTTCGCATGCCAGGTGGTACCATACAGC
+                     ACTACCACGTAGATGTATCCCCTGATAAATGCCCACGTAGAGTAAATCGGGAAATCATC
+                     CTTTGTATGATTCGCTCGTTTGGCAAATACTTCAGTTCGAGTAGACCTGTTTATGATGG
+                     GAAAAGAAATATGTATACTCGCGAACCATTGCCAATAGGTAGAGAAAAAATGGAATTTG
+                     AGGTTACCCTGCCAGGAGATTCAGCGGTGGAACGTCAGTTTACCGTTACTGTTAAGTGG
+                     GCTGGTCAGGTTTCATTATCCACATTGGAGGATGCAATGGAGGGCCGTGTTCGTCAAGT
+                     ACCTTTCGAAGCCGTTCAGGCGATGGACGTGATTCTCAGACATCTTCCCAGTTTAAAAT
+                     ACACACCTGTGGGTCGTTCATTTTTCTCTCCTCCCGCGCAACCGCATCAGCCACCTCAA
+                     CAGCACGGACAGTACCATATGGAAAGCAAACTTGGTGGAGGTCGCGAAGTTTGGTTTGG
+                     TTTCCATCAGTCAGTTCGACCTTCGCAATGGAAAATGATGTTAAATATTGATGTTTCCG
+                     CCACAGCATTTTATCGATCTATGCCAGTAATAGAATTCGTAGCAGAGGTTCTTGAATTA
+                     CCAGTTCAGGCGCTAACAGAGCGTCGCGCTCTATCGGATGCACAACGTGTGAAATTTAC
+                     AAAGGAGATTCGTGGACTAAAAATTGAAATAACCCATTGCGGTCAAATGCGTCGAAAAT
+                     ATCGTGTTTGTAACGTTACGAGACGACCTGCACAGACGCAGACCTTTCCACTACAATTG
+                     GAGACGGGTCAAACAATCGAGTGCACTGTGGCGAAGTATTTTTATGATAAGTATCGCAT
+                     GCAGCTAAAATATCCACATTTGCCTTGCCTTCAGGTTGGACAAGAACAAAAACATACCT
+                     ATCTGCCTCCAGAAGTTTGTCATGTTGTCCCAGGCCAGCGTTGCATCAAAAAGTTAACA
+                     GATACTCAAACATCAACAATGATCAAAGCAACTGCTCGTTCTGCTCCCGAGCGCGAGCG
+                     GGAAATCGCCAGCCTTGTTAGGAAGGCTGAATTTTCTGCAGATCCGTTTGCGCATGAAT
+                     TTGGTATCGCAATCAATTCAGCTATGACTGAGGTAAAAGGCCGTGTTTTATCGGCACCC
+                     AAACTCCAGTATGGTGGCCGCAACAAAGCTACTGCTTTACCAAATCAAGGTGTATGGGA
+                     TATGCGCGGAAAACAGTTTCATACTGGGATCGATGTTAAGGTTTGGGCAATTGCTTGCT
+                     TTGCACAACAGCAACATGTAAAGGAAAATGACTTACGCAATTTTACTGCACAGCTTCAA
+                     CGTATCTCGAATGATGCTGGTATGCCTATTGTGGGGCAACCTTGTTTCTGCAAGTATGC
+                     TATGGGTGTAGACCAGGTCGAACCAATGTTCAAATATCTAAAGCAAACGTTTTCTGGTA
+                     TCCAACTCGTTGTCGTCATTCTACCAGGAAAGACCCCAGTATACGCCGAAGTGAAGCGT
+                     GTTGGAGATACTGTGCTGGGAATCGCAACACAGTGTGTTCAAGCTAAAAACGTTATCAA
+                     AACTACACCACAAACTTTATCAAACTTATGTTTAAAGATGAATGTTAAGTTAGGTGGAG
+                     TAAACAGCATTTTACTACCTGCAGTCCGTCCACGAATTTTCAACGAACCGGTAATCTTC
+                     TTTGGATGCGACATAACACATCCTCCTGCTGGTGACTCTCGTAAACCATCAATCGCAGC
+                     TGTTGTTGCTAGCATGGATGCACATCCAAGCAGATATGCTGCCACTGTTCGAGTGCAGC
+                     AACATCGTCAAGAGATTATCTCTGACCTCACGTATATGGTAAGAGAGCTACTTGTGCAG
+                     TTCTATCGCAACACGCGGTTCAAGCCAACTCGTATTGTCGTGTACAGGGATGGTGTGTC
+                     TGAAGGACAATTTTTTAACGTTTTACAATATGAATTACGTGCTATGCGTGAAGCTTGTA
+                     TGATGTTAGAAAGCGGTTATCAACCTGGAATTACTTTTATTGCTGTTCAAAAACGGCAC
+                     CATACTCGTCTTTTCGCTGTTGATAAAAAGGACCAGGTTGGCAAGGCTTTTAACATTCC
+                     ACCAGGAACAACTGTTGATGTGGGAATCACACATCCAACAGAATTTGACTTCTACCTTT
+                     GTTCGCACGCAGGTATTCAAGGAACATCACGACCTTCCCATTATCATGTGCTCTGGGAT
+                     GACAACGAATTGACTGCCGATGAATTGCAACAACTCACTTATCAAATGTGTCACACATA
+                     TGTACGTTGCACTCGTTCGGTATCAATTCCTGCACCTGCGTATTATGCACATTTGGTGG
+                     CGTTTCGAGCTCGTTACCATCTTGTTGATCGGGAACACGACTCGGGTGAAGGAAGTCAG
+                     CCGTCGGGTACTTCTGAAGACACTACTTTATCAAATATGGCTAGAGCTGTACAGGTTCA
+                     CCCGGACGCAAATAACGTGATGTACTTTGCA"
+                     /tbegin="29468"
+                     /Esim="814"
+     M               1..117
+                     /gene="Bm4213_BM1"
+     S               118
+                     /gene="Bm4213_BM1"
+     5               119..120
+                     /gene="Bm4213_BM1"
+     I               121..235
+                     /gene="Bm4213_BM1"
+     3               236..237
+                     /gene="Bm4213_BM1"
+     S               238..239
+                     /gene="Bm4213_BM1"
+     M               240..395
+                     /gene="Bm4213_BM1"
+     S               396..397
+                     /gene="Bm4213_BM1"
+     5               398..399
+                     /gene="Bm4213_BM1"
+     I               400..496
+                     /gene="Bm4213_BM1"
+     3               497..498
+                     /gene="Bm4213_BM1"
+     S               499
+                     /gene="Bm4213_BM1"
+     M               500..628
+                     /gene="Bm4213_BM1"
+     5               629..630
+                     /gene="Bm4213_BM1"
+     I               631..735
+                     /gene="Bm4213_BM1"
+     3               736..737
+                     /gene="Bm4213_BM1"
+     M               738..908
+                     /gene="Bm4213_BM1"
+     S               909..910
+                     /gene="Bm4213_BM1"
+     5               911..912
+                     /gene="Bm4213_BM1"
+     I               913..982
+                     /gene="Bm4213_BM1"
+     3               983..984
+                     /gene="Bm4213_BM1"
+     S               985
+                     /gene="Bm4213_BM1"
+     M               986..1021
+                     /gene="Bm4213_BM1"
+     G               1021^1022
+                     /gene="Bm4213_BM1"
+     M               1022..1156
+                     /gene="Bm4213_BM1"
+     S               1157
+                     /gene="Bm4213_BM1"
+     5               1158..1159
+                     /gene="Bm4213_BM1"
+     I               1160..1262
+                     /gene="Bm4213_BM1"
+     3               1263..1264
+                     /gene="Bm4213_BM1"
+     S               1265..1266
+                     /gene="Bm4213_BM1"
+     M               1267..1338
+                     /gene="Bm4213_BM1"
+     5               1339..1340
+                     /gene="Bm4213_BM1"
+     I               1341..1436
+                     /gene="Bm4213_BM1"
+     3               1437..1438
+                     /gene="Bm4213_BM1"
+     M               1439..1588
+                     /gene="Bm4213_BM1"
+     S               1589..1590
+                     /gene="Bm4213_BM1"
+     5               1591..1592
+                     /gene="Bm4213_BM1"
+     I               1593..1799
+                     /gene="Bm4213_BM1"
+     3               1800..1801
+                     /gene="Bm4213_BM1"
+     S               1802
+                     /gene="Bm4213_BM1"
+     M               1803..1910
+                     /gene="Bm4213_BM1"
+     5               1911..1912
+                     /gene="Bm4213_BM1"
+     I               1913..1980
+                     /gene="Bm4213_BM1"
+     3               1981..1982
+                     /gene="Bm4213_BM1"
+     M               1983..2093
+                     /gene="Bm4213_BM1"
+     5               2094..2095
+                     /gene="Bm4213_BM1"
+     I               2096..2148
+                     /gene="Bm4213_BM1"
+     3               2149..2150
+                     /gene="Bm4213_BM1"
+     M               2151..2399
+                     /gene="Bm4213_BM1"
+     5               2400..2401
+                     /gene="Bm4213_BM1"
+     I               2402..2462
+                     /gene="Bm4213_BM1"
+     3               2463..2464
+                     /gene="Bm4213_BM1"
+     M               2465..2593
+                     /gene="Bm4213_BM1"
+     S               2594..2595
+                     /gene="Bm4213_BM1"
+     5               2596..2597
+                     /gene="Bm4213_BM1"
+     I               2598..2721
+                     /gene="Bm4213_BM1"
+     3               2722..2723
+                     /gene="Bm4213_BM1"
+     S               2724
+                     /gene="Bm4213_BM1"
+     M               2725..2832
+                     /gene="Bm4213_BM1"
+     S               2833
+                     /gene="Bm4213_BM1"
+     5               2834..2835
+                     /gene="Bm4213_BM1"
+     I               2836..2892
+                     /gene="Bm4213_BM1"
+     3               2893..2894
+                     /gene="Bm4213_BM1"
+     S               2895..2896
+                     /gene="Bm4213_BM1"
+     M               2897..3076
+                     /gene="Bm4213_BM1"
+     S               3077
+                     /gene="Bm4213_BM1"
+     5               3078..3079
+                     /gene="Bm4213_BM1"
+     I               3080..3206
+                     /gene="Bm4213_BM1"
+     3               3207..3208
+                     /gene="Bm4213_BM1"
+     S               3209..3210
+                     /gene="Bm4213_BM1"
+     M               3211..3306
+                     /gene="Bm4213_BM1"
+     S               3307..3308
+                     /gene="Bm4213_BM1"
+     5               3309..3310
+                     /gene="Bm4213_BM1"
+     I               3311..3613
+                     /gene="Bm4213_BM1"
+     3               3614..3615
+                     /gene="Bm4213_BM1"
+     S               3616
+                     /gene="Bm4213_BM1"
+     M               3617..3778
+                     /gene="Bm4213_BM1"
+     5               3779..3780
+                     /gene="Bm4213_BM1"
+     I               3781..3837
+                     /gene="Bm4213_BM1"
+     3               3838..3839
+                     /gene="Bm4213_BM1"
+     M               3840..3968
+                     /gene="Bm4213_BM1"
+     5               3969..3970
+                     /gene="Bm4213_BM1"
+     I               3971..4023
+                     /gene="Bm4213_BM1"
+     3               4024..4025
+                     /gene="Bm4213_BM1"
+     M               4026..4217
+                     /gene="Bm4213_BM1"
+     5               4218..4219
+                     /gene="Bm4213_BM1"
+     I               4220..4280
+                     /gene="Bm4213_BM1"
+     3               4281..4282
+                     /gene="Bm4213_BM1"
+     M               4283..4468
+                     /gene="Bm4213_BM1"
+     5               4469..4470
+                     /gene="Bm4213_BM1"
+     I               4471..4655
+                     /gene="Bm4213_BM1"
+     3               4656..4657
+                     /gene="Bm4213_BM1"
+     M               4658..4693
+                     /gene="Bm4213_BM1"
+     CDS             join(1..117,118,238..239,240..395,396..397,499,500..628,
+                     738..908,909..910,985,986..1021,1022..1156,1157,1265..1266,
+                     1267..1338,1439..1588,1589..1590,1802,1803..1910,
+                     1983..2093,2151..2399,2465..2593,2594..2595,2724,
+                     2725..2832,2833,2895..2896,2897..3076,3077,3209..3210,
+                     3211..3306,3307..3308,3616,3617..3778,3840..3968,
+                     4026..4217,4283..4468,4658..4693)
+                     /translation="SRQGGSLAPGAPIGVPPGQTDPSQTATTAQQQGAMPSSGSGVQFQ
+                     CPRRPNHGLEGRSILLRANHFAVRMPGGTIQHYHVDVSPDKCPRRVNREIILCMIRSFG
+                     KYFSSSRPVYDGKRNMYTREPLPIGREKMEFEVTLPGDSAVERQFTVTVKWAGQVSLST
+                     LEDAMEGRVRQVPFEAVQAMDVILRHLPSLKYTPVGRSFFSPPAQPHQPPQQHGQYHME
+                     SKLGGGREVWFGFHQSVRPSQWKMMLNIDVSATAFYRSMPVIEFVAEVLELPVQALTER
+                     RALSDAQRVKFTKEIRGLKIEITHCGQMRRKYRVCNVTRRPAQTQTFPLQLETGQTIEC
+                     TVAKYFYDKYRMQLKYPHLPCLQVGQEQKHTYLPPEVCHVVPGQRCIKKLTDTQTSTMI
+                     KATARSAPEREREIASLVRKAEFSADPFAHEFGIAINSAMTEVKGRVLSAPKLQYGGRN
+                     KATALPNQGVWDMRGKQFHTGIDVKVWAIACFAQQQHVKENDLRNFTAQLQRISNDAGM
+                     PIVGQPCFCKYAMGVDQVEPMFKYLKQTFSGIQLVVVILPGKTPVYAEVKRVGDTVLGI
+                     ATQCVQAKNVIKTTPQTLSNLCLKMNVKLGGVNSILLPAVRPRIFNEPVIFFGCDITHP
+                     PAGDSRKPSIAAVVASMDAHPSRYAATVRVQQHRQEIISDLTYMVRELLVQFYRNTRFK
+                     PTRIVVYRDGVSEGQFFNVLQYELRAMREACMMLESGYQPGITFIAVQKRHHTRLFAVD
+                     KKDQVGKAFNIPPGTTVDVGITHPTEFDFYLCSHAGIQGTSRPSHYHVLWDDNELTADE
+                     LQQLTYQMCHTYVRCTRSVSIPAPAYYAHLVAFRARYHLVDREHDSGEGSQPSGTSEDT
+                     TLSNMARAVQVHPDANNVMYFA"
+                     /gene="AGO"
+ORIGIN
+        1 tcacgacagg gtggtagttt agcgccagga gccccaattg gggtaccacc tggtcagaca
+       61 gatcccagtc aaacagccac cacagctcaa caacaaggag ccatgccttc aagtggaagt
+      121 ggattgccag tgtaagaatt ctgttcctgc atggtatttt tcaacgttct tttaacgagc
+      181 aaatcaatat catagtttcc ttaagatttt gtctgagatt tcttttcagt ctctccggtg
+      241 gagtgcagtt ccaatgtcct cgtcgtccaa atcacggcct tgagggacgc tcaatacttc
+      301 ttcgagcaaa ccattttgca gttcgcatgc caggtggtac catacagcac taccacgtag
+      361 atgtatcccc tgataaatgc ccacgtagag taaatcggtc agtggttttg gagagttcta
+      421 acaacttgtg tgcttctagt tattttacat gtttttggct attatagcct gtttatattc
+      481 ataatagaat atttgtaggg aaatcatcct ttgtatgatt cgctcgtttg gcaaatactt
+      541 cagttcgagt agacctgttt atgatgggaa aagaaatatg tatactcgcg aaccattgcc
+      601 aataggtaga gaaaaaatgg aatttgaggt ataggtcgtt tatgaatttc ttttaaattt
+      661 tttttcttaa agataccaca attggtggta tgaaatagtg gttttgtttg cagttctcaa
+      721 atatcacttt gttccaggtt accctgccag gagattcagc ggtggaacgt cagtttaccg
+      781 ttactgttaa gtgggctggt caggtttcat tatccacatt ggaggatgca atggagggcc
+      841 gtgttcgtca agtacctttc gaagccgttc aggcgatgga cgtgattctc agacatcttc
+      901 ccagtttaaa gtaattgaca ttatgttcac attcactcgt gctaaatatc tgaaagtttg
+      961 cgtatataca tcatttattt gtagatacac acctgtgggt cgttcatttt tctctcctcc
+     1021 cgcgcaaccg catcagccac ctcaacagca cggacagtac catatggaaa gcaaacttgg
+     1081 tggaggtcgc gaagtttggt ttggtttcca tcagtcagtt cgaccttcgc aatggaaaat
+     1141 gatgttaaat attgatggta aggatttata gcgtactttt ttcccctttt cgattatcgg
+     1201 tttttccaca atcataggat tttttactta acttggttag ggtttcaaaa cttctatttt
+     1261 ccagtttccg ccacagcatt ttatcgatct atgccagtaa tagaattcgt agcagaggtt
+     1321 cttgaattac cagttcaggt aggctacgca ttttgtgttt gctagttttt ttcttatagt
+     1381 ttgatatcta tttagtatga aagttagata gattcagcaa tagtgataat ttctttaggc
+     1441 gctaacagag cgtcgcgctc tatcggatgc acaacgtgtg aaatttacaa aggagattcg
+     1501 tggactaaaa attgaaataa cccattgcgg tcaaatgcgt cgaaaatatc gtgtttgtaa
+     1561 cgttacgaga cgacctgcac agacgcagac gtaagtcgaa gttgatttat cgtaattcaa
+     1621 attagttgtt ttatggtgtt gttctaaata atgagaggag cttaggagtc gtataaaaac
+     1681 atacagaaac agtagcttga gtcttgaaat gcgggaaatg tcttatataa ttacttagtg
+     1741 gcttcgtatt taatctattt ggttttgctt gtattgcgat ttcattaaag tggattttaa
+     1801 gctttccact acaattggag acgggtcaaa caatcgagtg cactgtggcg aagtattttt
+     1861 atgataagta tcgcatgcag ctaaaatatc cacatttgcc ttgccttcag gtaattttta
+     1921 tctgttatat atgcactttt cctttggtta tagtaacttc gtcagtcttg tattttattc
+     1981 aggttggaca agaacaaaaa catacctatc tgcctccaga agtttgtcat gttgtcccag
+     2041 gccagcgttg catcaaaaag ttaacagata ctcaaacatc aacaatgatc aaagtaggtt
+     2101 ttgtcaagtt gatttgtaga tatgtactgt gacaatctta ttgattttag gcaactgctc
+     2161 gttctgctcc cgagcgcgag cgggaaatcg ccagccttgt taggaaggct gaattttctg
+     2221 cagatccgtt tgcgcatgaa tttggtatcg caatcaattc agctatgact gaggtaaaag
+     2281 gccgtgtttt atcggcaccc aaactccagt atggtggccg caacaaagct actgctttac
+     2341 caaatcaagg tgtatgggat atgcgcggaa aacagtttca tactgggatc gatgttaagg
+     2401 tgtggacatt ctcaatttct ttggttcatt tataataggg tatctctaca atggtagttt
+     2461 taaggtttgg gcaattgctt gctttgcaca acagcaacat gtaaaggaaa atgacttacg
+     2521 caattttact gcacagcttc aacgtatctc gaatgatgct ggtatgccta ttgtggggca
+     2581 accttgtttc tgcaagtgag tcttgttaga agtgttctat taacattgaa gacgctacgt
+     2641 atatttttcg aaactaaagt tttggatgtt gctgtttttg ccaacattta agaagcccta
+     2701 gattgtttta tttatgttct aaggtatgct atgggtgtag accaggtcga accaatgttc
+     2761 aaatatctaa agcaaacgtt ttctggtatc caactcgttg tcgtcattct accaggaaag
+     2821 accccagtat acggtattgt taaattattt acgctttaat tagtgacccc attttcaaca
+     2881 ctttgatgtt tcagccgaag tgaagcgtgt tggagatact gtgctgggaa tcgcaacaca
+     2941 gtgtgttcaa gctaaaaacg ttatcaaaac tacaccacaa actttatcaa acttatgttt
+     3001 aaagatgaat gttaagttag gtggagtaaa cagcatttta ctacctgcag tccgtccacg
+     3061 aattttcaac gaaccgggtg agttagatat ttttgaagtc tacttgatct cgttttttca
+     3121 tattttcaaa agactacgat atttgtatca tttcagtcca taaattgtct agctataatg
+     3181 ctttaatatg catcgaaaac tcgtttagta atcttctttg gatgcgacat aacacatcct
+     3241 cctgctggtg actctcgtaa accatcaatc gcagctgttg ttgctagcat ggatgcacat
+     3301 ccaagcaggt agggctagtt aagttaggtg gagtaaacag catttcgtgg gcttagtttc
+     3361 atttaaaact catttgaggt ctatctttcc ataaatcaat ttttttcttt ttttttcttt
+     3421 ttttttgctt atagaagcag tttagtgggg gattgcgcaa ttctgcccct ttgttttttt
+     3481 tggtagtaga tggtcgcagt tgtctttttt tcgaataagt ggcattcttt atcaaaattg
+     3541 gatatgaaat aagcattttt taaatttttt tttgacgcag atcctcgtat ggctatattg
+     3601 taatttttat cgtagatatg ctgccactgt tcgagtgcag caacatcgtc aagagattat
+     3661 ctctgacctc acgtatatgg taagagagct acttgtgcag ttctatcgca acacgcggtt
+     3721 caagccaact cgtattgtcg tgtacaggga tggtgtgtct gaaggacaat tttttaacgt
+     3781 gtgtttgtac gttattatgt gcaattttgt ggcgtgttga ttgatgaaga ccatttcagg
+     3841 ttttacaata tgaattacgt gctatgcgtg aagcttgtat gatgttagaa agcggttatc
+     3901 aacctggaat tacttttatt gctgttcaaa aacggcacca tactcgtctt ttcgctgttg
+     3961 ataaaaaggt acatgattga cgttcttgta gttgaaatat tctcaggaaa atctccttat
+     4021 tataggacca ggttggcaag gcttttaaca ttccaccagg aacaactgtt gatgtgggaa
+     4081 tcacacatcc aacagaattt gacttctacc tttgttcgca cgcaggtatt caaggaacat
+     4141 cacgaccttc ccattatcat gtgctctggg atgacaacga attgactgcc gatgaattgc
+     4201 aacaactcac ttatcaagta atgccgatag gtcttttctt ttagtaattg atcttatatt
+     4261 gttctattgc ttatctattc agatgtgtca cacatatgta cgttgcactc gttcggtatc
+     4321 aattcctgca cctgcgtatt atgcacattt ggtggcgttt cgagctcgtt accatcttgt
+     4381 tgatcgggaa cacgactcgg gtgaaggaag tcagccgtcg ggtacttctg aagacactac
+     4441 tttatcaaat atggctagag ctgtacaggt ttgtagataa tagttttatt gttgatttat
+     4501 tcccaatatt gtcctctttt ttctttgtat tgtgtaagga cgttatagtt actggatttt
+     4561 cagagttata atttcatttc atatctttac cgatccttaa ggattgtcca gattttgtta
+     4621 cttaaattaa atctctcata ttggtttttg aatttaggtt cacccggacg caaataacgt
+     4681 gatgtacttt gca
+//
+LOCUS       dict|tfa|35              410 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5ECM1| , target: NODE_51060_length_9450_cov_14.899154
+            [revcomp], HSPID: 35
+ACCESSION   dict|tfa|35
+VERSION     dict|tfa|35
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..410
+                     /vulgar="M 55 165 5 0 2 I 0 61 3 0 2 M 60 180"
+                     /qid="tr|G5ECM1|"
+                     /tstrand="-"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="1089"
+                     /qtype="Protein"
+                     /tfull="GAATTTTTCAGACAGTTGCAAGGCATTGAAGATGTTCTGAAAATTTCGGAA
+                     AACATGGACGAGCAAGATGTTGTTGAATGTGACAAATTTCTCATAGTGGACGATTGGCA
+                     GCTGTATAAAAAAGTTGCTGAAGAACAATTGTCGAGGTACAATGGACGATTAAGGGTTT
+                     GTTTTTAATTGTGTCAAAGATTTCTACAATTATTTTATTAGAAGGAAGAGAAATATTTC
+                     AGGCTCTCATGGAGAACTACGGCATCAAATTAGAAGGGGAGTTGCTTTCTGGTTGTATT
+                     TCTGAGATGAGGAATCGTATCTCTGACCGCGACCAAGACGACATGTCGTTTTATAATAC
+                     TGCTGAGGTTATTGAAAAAAAAGTGACACTGATATTCCGAGAATTTAGAGAACAATTTT
+                     TCGAG"
+                     /qfull="KLFREFQAIDNVIKISEERDEQYNIELDETIFVTGFERYMESAQKQLSSYN
+                     GQLRSIMENYGIRSEGEIMSGCIVEMRNRISDKDQDDMSFYNTNQMIETKMTSLVCKFR
+                     ETFFE"
+                     /Etotal="115"
+                     /tend="5349"
+                     /score="326"
+                     /Psim="79.13"
+                     /tid="NODE_51060_length_9450_cov_14.899154"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="1204"
+                     /qstrand="."
+                     /Emis="49"
+                     /qlen="115"
+                     /Eident="66"
+                     /qcds
+                     /qname="RDRP_Cele_rrf1"
+                     /Pident="57.39"
+                     /qdescription
+                     /tlen="410"
+                     /model="protein2genome:local"
+                     /tcds="GAATTTTTCAGACAGTTGCAAGGCATTGAAGATGTTCTGAAAATTTCGGAAA
+                     ACATGGACGAGCAAGATGTTGTTGAATGTGACAAATTTCTCATAGTGGACGATTGGCAG
+                     CTGTATAAAAAAGTTGCTGAAGAACAATTGTCGAGGTACAATGGACGATTAAGGGCTCT
+                     CATGGAGAACTACGGCATCAAATTAGAAGGGGAGTTGCTTTCTGGTTGTATTTCTGAGA
+                     TGAGGAATCGTATCTCTGACCGCGACCAAGACGACATGTCGTTTTATAATACTGCTGAG
+                     GTTATTGAAAAAAAAGTGACACTGATATTCCGAGAATTTAGAGAACAATTTTTCGAG"
+                     /tbegin="5759"
+                     /Esim="91"
+     M               1..165
+                     /gene="tr|G5ECM1|"
+     5               166..167
+                     /gene="tr|G5ECM1|"
+     I               168..228
+                     /gene="tr|G5ECM1|"
+     3               229..230
+                     /gene="tr|G5ECM1|"
+     M               231..410
+                     /gene="tr|G5ECM1|"
+     CDS             join(1..165,231..410)
+                     /translation="EFFRQLQGIEDVLKISENMDEQDVVECDKFLIVDDWQLYKKVAEE
+                     QLSRYNGRLRALMENYGIKLEGELLSGCISEMRNRISDRDQDDMSFYNTAEVIEKKVTL
+                     IFREFREQFFE"
+                     /gene="RDRP"
+ORIGIN
+        1 gaatttttca gacagttgca aggcattgaa gatgttctga aaatttcgga aaacatggac
+       61 gagcaagatg ttgttgaatg tgacaaattt ctcatagtgg acgattggca gctgtataaa
+      121 aaagttgctg aagaacaatt gtcgaggtac aatggacgat taagggtttg tttttaattg
+      181 tgtcaaagat ttctacaatt attttattag aaggaagaga aatatttcag gctctcatgg
+      241 agaactacgg catcaaatta gaaggggagt tgctttctgg ttgtatttct gagatgagga
+      301 atcgtatctc tgaccgcgac caagacgaca tgtcgtttta taatactgct gaggttattg
+      361 aaaaaaaagt gacactgata ttccgagaat ttagagaaca atttttcgag
+//
+LOCUS       dict|tfa|38             2728 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5EBQ3| , target: NODE_51060_length_9450_cov_14.899154
+            [revcomp], HSPID: 38
+ACCESSION   dict|tfa|38
+VERSION     dict|tfa|38
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..2728
+                     /vulgar="M 44 132 5 0 2 I 0 48 3 0 2 M 37 111 S 0 1 5 0 2 I
+                     0 84 3 0 2 S 1 2 M 56 168 S 0 1 5 0 2 I 0 72 3 0 2 S 1 2 M
+                     48 144 S 0 1 5 0 2 I 0 217 3 0 2 S 1 2 M 35 105 G 0 3 M 6
+                     18 5 0 2 I 0 67 3 0 2 M 36 108 5 0 2 I 0 1331 3 0 2 M 29
+                     87"
+                     /qid="tr|G5EBQ3|"
+                     /tstrand="-"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="784"
+                     /qtype="Protein"
+                     /tfull="CATGTTTCCGAAATGCAATCTTATGATTGTCATTCGCGAATAACAAATCGA
+                     ATCGAGGAATTGCTTGACATTCAACTACAAGGGCTGGCCAGGACCATGATACGCGAGCA
+                     TGATTGTCGGAATAAGCTGAAAGTAAGGATTGTTACTGTTTAACTTTCCTATTCGGAGG
+                     TTTTGTAATTTTAAGGAACTTCCTCGCCGTATTGATATTGATAAACTATCTGTGGTAGC
+                     AGGATTCCAACTGAGTACTGAGCCATTCTTCCGATCGCTTATCAGAGCAACGATAAAAT
+                     TTACTATTAGTCTGTGTCTTACGTTAGCATTGTTTTTCCTTTTTGTTATTCTTGCGATA
+                     AGATTTAATTGTGTTCAAGACAATTTTATCCATTCTAGCCAAGCAGATGCGTAAACAAC
+                     AAATTCAAATTCCGTTTGACAAGGGCCGCACTATGTTTGGGGTTGTGGATGAGACAGGT
+                     CAACTACAATATGGGCAAATTTTTGCCCAGTACACAGAAAATATTAATCTCAAGACTCC
+                     ACCACCTAATGCATCAAGAAAAATATTAACTGGTAGCAAAATTTTATCATTAACTATTG
+                     GTTTTCCCTGGTTTTTGTCTCATGAAATGTTTTTGTTTTTTTTTCTTAGGAAAAGTACT
+                     TTTGACAAAAAATCCGTGTATAGTGCCTGGTGATGTCAGAGTATTTACTGCAGTAGATA
+                     TACCTGCATTGCATCACCTTTGCGACGTCGTTGTTTTTCCGATTCATGGTCCGAGACCT
+                     CATACTGATGAAATGGCAGGTTTGTTGACTCTGTATCAGATCCATAATATCGATCATTT
+                     TTCCTTGCTATTATTGACGTCTGAGTTTAAAATTAGTCACTTGATTACGGTGTTAAAGG
+                     GATGATGAAGGTGTAATTGGTAACAAATTCTTGAGTACTCCACCATCTATTAATTGGTT
+                     TCTTGTAATTGTTTTCTATATTTGACTAGAGATCAGACATCTTCCAATGTTTTCACAGT
+                     ATAGGTTCTGACCTTGATGGAGACGAATATGTAGTTATCTGGGATAAAGATTTACTACT
+                     AGATCGTAATGAAGAGCCATTTGACTACACTGCTGATAATTCAGAGGCAAAACCTATTG
+                     TTGAAGAAACATTGGTATTATGCTTCATATTACATACTATTCTATTTTTCTCATGTATA
+                     TAATACAATTATACAAAATTTCCTAGACTGATGACATGGCTGACTTCTATGTCAAATAT
+                     ATTACCCAAGATTCTGTTGGTACAATTTCAAACTCGTTCTTGTTCCAAGCAGATCTGTA
+                     TGGAATAAAATCTGAGGTAGTTTATTCGTTTATTTACTTATTTACTTGATGTGTAACTA
+                     ATGATATTTATTACTATTTAGTGTAAAATTAGCGTTTTCATTCGAATATCCCTGTAACA
+                     CTTATTCGACCGTGTTTATTTTGTACCGTCGAAATCAGTGTACTAATAACTTCTCTTGT
+                     GAAAAATAACGGCGATATATGATTTATGCAGTATATTTCAATTATGCAAGTAACTTCAA
+                     TTGTTGTTTATAATCTGTTAGTACTCAGTTCGGACCCTATCTCATCAATTCTAATCCAT
+                     TCGATGCTGATATTTCTCATTAGATCGCGATCAGTACATACTTGTTAAGATATACGGTG
+                     AATATCAGTTTTATTTTTGATTGACGTCTGAGGTTTGTCGTAGCCTCAATGTACGAGAC
+                     CTTCAGAATTTTGTACTTTTGGTGGTAGGATTGCTAGCACATTCAGGTTGATTTTTTTG
+                     ACTTTCATAGGTAGTATGAACTATAAACAACACGTTCTTAAACGTTGACTTACTCAAAA
+                     TAATATATCTGTACAACTGTCCTCTCTAGTAGTTGCTGACTTCAACTGCTGCTATTTTG
+                     AATATCTTCTATTTTCACAGTAACATTGTTCAAAACTCACAAGAATAATTTTGTTTGGA
+                     GTAGCTTGAAGCGAAGAGAGCAAAAAGGAAGTGTTGAATGGATATAGACGAAGAATGAA
+                     ACCTCTTTTTAAAGTTGGGAGTGTTTCGCACCTTTAGGCAATAGTAGTTATGTAACGAT
+                     AAATGATGCAAATAATGTTAGAGTGGTGATTGTAGAATGGAGGCGGAAAGTAGCTATAT
+                     TTGCTACATAACCAAAATAACCTAGGTGTTTCAAAAAAGTGTGGCATAATGCGTTAGTT
+                     TTATGAACTTTTAGTTTTTGAAACGACCTAAAAGTGCAAATATCCGATTTGGAAATGTC
+                     CAAATTTACAAAAGAATATTTTACAAACAACCCCAAGGCCTCCGTCTCATCCTCGATAT
+                     GGGCGAGATAGGCGACTCCTTCATACTCTTCAAACATAACCGCTGACACATAACCTCTC
+                     GTTTCATCCTTTATTTTTGACTAGTAGTAATTGCTGCTCTATTTTATCTCAAAGTATTG
+                     ATTAGTTGAAGATGTTTCTTTACCAGTCATTATGGGAGGTGTCGTTTTTGGTGACAGGA
+                     TTAACGTGTTCAAAAAAAAAAACAAAACTACATCACGTCCAGCTACATTTCTTTCCCTT
+                     CTGATGAGCACTACTATGTGAGAATGACATTGTTGGTATCGAAGATGAACACTTTACTA
+                     CTCAAATTCCTTTTGGTTCCATTGGCGCTTACTTCTTTTTCTATTGTTTTTAGGTATGT
+                     CATCGTTTAGCTAAGAAAATATCTCAAGCAGTGGATTTCACAAAAACTGGTTTGCCACC
+                     TGAACCGCTTGTGAAAAAATGG"
+                     /qfull="QVSEMQSLECHRRVTNRIEELLDRQMLSFAQQMVDETFCRNRLKELPRRVD
+                     IDYLRTTWGFTLSSEPFFRSLIKASIKFSITRQLRKEQIPIPCDLGRSMLGVVDETGRL
+                     QYGQIFVQYTKNLALKLPPKNAARQVLTGTVLLTKNPCIVAGDVRIFEAVDIPELHHMC
+                     DVVVFPQHGPRPHPDEMAGSDLDGDEYSIIWDQQLLLDKNEDPYDFTSEKQKASFKEDE
+                     IDDLMREFYVKYLKLDSVGQISNSHLHNSDQYGLNARVCMDLAKKNCQAVDFTKSGQPP
+                     DELERKW"
+                     /Etotal="291"
+                     /tend="6257"
+                     /score="921"
+                     /Psim="80.07"
+                     /tid="NODE_51060_length_9450_cov_14.899154"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="1078"
+                     /qstrand="."
+                     /Emis="100"
+                     /qlen="294"
+                     /Eident="191"
+                     /qcds="TGG"
+                     /qname="RDRP_Cele_ego1"
+                     /Pident="65.64"
+                     /qdescription
+                     /tlen="2728"
+                     /model="protein2genome:local"
+                     /tcds="CATGTTTCCGAAATGCAATCTTATGATTGTCATTCGCGAATAACAAATCGAA
+                     TCGAGGAATTGCTTGACATTCAACTACAAGGGCTGGCCAGGACCATGATACGCGAGCAT
+                     GATTGTCGGAATAAGCTGAAAGAACTTCCTCGCCGTATTGATATTGATAAACTATCTGT
+                     GGTAGCAGGATTCCAACTGAGTACTGAGCCATTCTTCCGATCGCTTATCAGAGCAACGA
+                     TAAAATTTACTATTACCAAGCAGATGCGTAAACAACAAATTCAAATTCCGTTTGACAAG
+                     GGCCGCACTATGTTTGGGGTTGTGGATGAGACAGGTCAACTACAATATGGGCAAATTTT
+                     TGCCCAGTACACAGAAAATATTAATCTCAAGACTCCACCACCTAATGCATCAAGAAAAA
+                     TATTAACTGGAAAAGTACTTTTGACAAAAAATCCGTGTATAGTGCCTGGTGATGTCAGA
+                     GTATTTACTGCAGTAGATATACCTGCATTGCATCACCTTTGCGACGTCGTTGTTTTTCC
+                     GATTCATGGTCCGAGACCTCATACTGATGAAATGGCAGGTTCTGACCTTGATGGAGACG
+                     AATATGTAGTTATCTGGGATAAAGATTTACTACTAGATCGTAATGAAGAGCCATTTGAC
+                     TACACTGCTGATAATTCAGAGGCAAAACCTATTGTTGAAGAAACATTGACTGATGACAT
+                     GGCTGACTTCTATGTCAAATATATTACCCAAGATTCTGTTGGTACAATTTCAAACTCGT
+                     TCTTGTTCCAAGCAGATCTGTATGGAATAAAATCTGAGGTATGTCATCGTTTAGCTAAG
+                     AAAATATCTCAAGCAGTGGATTTCACAAAAACTGGTTTGCCACCTGAACCGCTTGTGAA
+                     AAAATGG"
+                     /tbegin="8985"
+                     /Esim="233"
+     M               1..132
+                     /gene="tr|G5EBQ3|"
+     5               133..134
+                     /gene="tr|G5EBQ3|"
+     I               135..182
+                     /gene="tr|G5EBQ3|"
+     3               183..184
+                     /gene="tr|G5EBQ3|"
+     M               185..295
+                     /gene="tr|G5EBQ3|"
+     S               296
+                     /gene="tr|G5EBQ3|"
+     5               297..298
+                     /gene="tr|G5EBQ3|"
+     I               299..382
+                     /gene="tr|G5EBQ3|"
+     3               383..384
+                     /gene="tr|G5EBQ3|"
+     S               385..386
+                     /gene="tr|G5EBQ3|"
+     M               387..554
+                     /gene="tr|G5EBQ3|"
+     S               555
+                     /gene="tr|G5EBQ3|"
+     5               556..557
+                     /gene="tr|G5EBQ3|"
+     I               558..629
+                     /gene="tr|G5EBQ3|"
+     3               630..631
+                     /gene="tr|G5EBQ3|"
+     S               632..633
+                     /gene="tr|G5EBQ3|"
+     M               634..777
+                     /gene="tr|G5EBQ3|"
+     S               778
+                     /gene="tr|G5EBQ3|"
+     5               779..780
+                     /gene="tr|G5EBQ3|"
+     I               781..997
+                     /gene="tr|G5EBQ3|"
+     3               998..999
+                     /gene="tr|G5EBQ3|"
+     S               1000..1001
+                     /gene="tr|G5EBQ3|"
+     M               1002..1106
+                     /gene="tr|G5EBQ3|"
+     G               1107..1109
+                     /gene="tr|G5EBQ3|"
+     M               1110..1127
+                     /gene="tr|G5EBQ3|"
+     5               1128..1129
+                     /gene="tr|G5EBQ3|"
+     I               1130..1196
+                     /gene="tr|G5EBQ3|"
+     3               1197..1198
+                     /gene="tr|G5EBQ3|"
+     M               1199..1306
+                     /gene="tr|G5EBQ3|"
+     5               1307..1308
+                     /gene="tr|G5EBQ3|"
+     I               1309..2639
+                     /gene="tr|G5EBQ3|"
+     3               2640..2641
+                     /gene="tr|G5EBQ3|"
+     M               2642..2728
+                     /gene="tr|G5EBQ3|"
+     CDS             join(1..132,185..295,296,385..386,387..554,555,632..633,
+                     634..777,778,1000..1001,1002..1106,1107..1109,1110..1127,
+                     1199..1306,2642..2728)
+                     /translation="HVSEMQSYDCHSRITNRIEELLDIQLQGLARTMIREHDCRNKLKE
+                     LPRRIDIDKLSVVAGFQLSTEPFFRSLIRATIKFTITKQMRKQQIQIPFDKGRTMFGVV
+                     DETGQLQYGQIFAQYTENINLKTPPPNASRKILTGKVLLTKNPCIVPGDVRVFTAVDIP
+                     ALHHLCDVVVFPIHGPRPHTDEMAGSDLDGDEYVVIWDKDLLLDRNEEPFDYTADNSEA
+                     KPIVEETLTDDMADFYVKYITQDSVGTISNSFLFQADLYGIKSEVCHRLAKKISQAVDF
+                     TKTGLPPEPLVKKW"
+                     /gene="RDRP"
+ORIGIN
+        1 catgtttccg aaatgcaatc ttatgattgt cattcgcgaa taacaaatcg aatcgaggaa
+       61 ttgcttgaca ttcaactaca agggctggcc aggaccatga tacgcgagca tgattgtcgg
+      121 aataagctga aagtaaggat tgttactgtt taactttcct attcggaggt tttgtaattt
+      181 taaggaactt cctcgccgta ttgatattga taaactatct gtggtagcag gattccaact
+      241 gagtactgag ccattcttcc gatcgcttat cagagcaacg ataaaattta ctattagtct
+      301 gtgtcttacg ttagcattgt ttttcctttt tgttattctt gcgataagat ttaattgtgt
+      361 tcaagacaat tttatccatt ctagccaagc agatgcgtaa acaacaaatt caaattccgt
+      421 ttgacaaggg ccgcactatg tttggggttg tggatgagac aggtcaacta caatatgggc
+      481 aaatttttgc ccagtacaca gaaaatatta atctcaagac tccaccacct aatgcatcaa
+      541 gaaaaatatt aactggtagc aaaattttat cattaactat tggttttccc tggtttttgt
+      601 ctcatgaaat gtttttgttt ttttttctta ggaaaagtac ttttgacaaa aaatccgtgt
+      661 atagtgcctg gtgatgtcag agtatttact gcagtagata tacctgcatt gcatcacctt
+      721 tgcgacgtcg ttgtttttcc gattcatggt ccgagacctc atactgatga aatggcaggt
+      781 ttgttgactc tgtatcagat ccataatatc gatcattttt ccttgctatt attgacgtct
+      841 gagtttaaaa ttagtcactt gattacggtg ttaaagggat gatgaaggtg taattggtaa
+      901 caaattcttg agtactccac catctattaa ttggtttctt gtaattgttt tctatatttg
+      961 actagagatc agacatcttc caatgttttc acagtatagg ttctgacctt gatggagacg
+     1021 aatatgtagt tatctgggat aaagatttac tactagatcg taatgaagag ccatttgact
+     1081 acactgctga taattcagag gcaaaaccta ttgttgaaga aacattggta ttatgcttca
+     1141 tattacatac tattctattt ttctcatgta tataatacaa ttatacaaaa tttcctagac
+     1201 tgatgacatg gctgacttct atgtcaaata tattacccaa gattctgttg gtacaatttc
+     1261 aaactcgttc ttgttccaag cagatctgta tggaataaaa tctgaggtag tttattcgtt
+     1321 tatttactta tttacttgat gtgtaactaa tgatatttat tactatttag tgtaaaatta
+     1381 gcgttttcat tcgaatatcc ctgtaacact tattcgaccg tgtttatttt gtaccgtcga
+     1441 aatcagtgta ctaataactt ctcttgtgaa aaataacggc gatatatgat ttatgcagta
+     1501 tatttcaatt atgcaagtaa cttcaattgt tgtttataat ctgttagtac tcagttcgga
+     1561 ccctatctca tcaattctaa tccattcgat gctgatattt ctcattagat cgcgatcagt
+     1621 acatacttgt taagatatac ggtgaatatc agttttattt ttgattgacg tctgaggttt
+     1681 gtcgtagcct caatgtacga gaccttcaga attttgtact tttggtggta ggattgctag
+     1741 cacattcagg ttgatttttt tgactttcat aggtagtatg aactataaac aacacgttct
+     1801 taaacgttga cttactcaaa ataatatatc tgtacaactg tcctctctag tagttgctga
+     1861 cttcaactgc tgctattttg aatatcttct attttcacag taacattgtt caaaactcac
+     1921 aagaataatt ttgtttggag tagcttgaag cgaagagagc aaaaaggaag tgttgaatgg
+     1981 atatagacga agaatgaaac ctctttttaa agttgggagt gtttcgcacc tttaggcaat
+     2041 agtagttatg taacgataaa tgatgcaaat aatgttagag tggtgattgt agaatggagg
+     2101 cggaaagtag ctatatttgc tacataacca aaataaccta ggtgtttcaa aaaagtgtgg
+     2161 cataatgcgt tagttttatg aacttttagt ttttgaaacg acctaaaagt gcaaatatcc
+     2221 gatttggaaa tgtccaaatt tacaaaagaa tattttacaa acaaccccaa ggcctccgtc
+     2281 tcatcctcga tatgggcgag ataggcgact ccttcatact cttcaaacat aaccgctgac
+     2341 acataacctc tcgtttcatc ctttattttt gactagtagt aattgctgct ctattttatc
+     2401 tcaaagtatt gattagttga agatgtttct ttaccagtca ttatgggagg tgtcgttttt
+     2461 ggtgacagga ttaacgtgtt caaaaaaaaa aacaaaacta catcacgtcc agctacattt
+     2521 ctttcccttc tgatgagcac tactatgtga gaatgacatt gttggtatcg aagatgaaca
+     2581 ctttactact caaattcctt ttggttccat tggcgcttac ttctttttct attgttttta
+     2641 ggtatgtcat cgtttagcta agaaaatatc tcaagcagtg gatttcacaa aaactggttt
+     2701 gccacctgaa ccgcttgtga aaaaatgg
+//
+LOCUS       dict|tfa|65             1988 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5EBQ3| , target: NODE_59031_length_34307_cov_14.498353
+            [revcomp], HSPID: 65
+ACCESSION   dict|tfa|65
+VERSION     dict|tfa|65
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..1988
+                     /vulgar="M 27 81 S 0 2 5 0 2 I 0 51 3 0 2 S 1 1 M 31 93 5 0
+                     2 I 0 61 3 0 2 M 34 102 5 0 2 I 0 732 3 0 2 M 59 177 S 0 2
+                     5 0 2 I 0 102 3 0 2 S 1 1 M 16 48 G 0 3 M 15 45 S 0 1 5 0 2
+                     I 0 67 3 0 2 S 1 2 M 56 168 S 0 2 5 0 2 I 0 123 3 0 2 S 1 1
+                     M 33 99"
+                     /qid="tr|G5EBQ3|"
+                     /tstrand="-"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="378"
+                     /qtype="Protein"
+                     /tfull="GAAACTGGAAGCAAGCGTGCACCAGATGTAGTGAAAGAGCGTATATTTTCC
+                     CTCTCTTATCTTTTTGAGTGTTTAATTTCTAGGCAAGTGTTTTCTATTTGTGAAATGTA
+                     CCCCTCGAAAATCTATGTGTTATTTTAGAGGAGCAGTAGTAAAAGACCAGCTGTTGCTT
+                     GATAAAGCCGTATGGATTGATTTTCTCAAGATAATCAATTTCTGTTATCGGCAAGATCG
+                     GGAGGTTGCTACCATTCGTGAATTGTTAATCGTTTGTTTAATATTTACGTCAAACAACT
+                     GAAACTTTAGGCCTGTTTGTGCGCTCTTGAACGTATAATTATAATGATTGACGAGCGAA
+                     AACGAATGGGTTCTATTGTAAAGGTAGTGTTATTGCAATGTGTGTTGCGGTAGCTAAGA
+                     ATCCACGAAGTGAGTTTAATGCTTAGTTTTTGAAGGCATACACGTGTGAATATGAAACT
+                     CAACGAGCTTGTGGAGCTAAATCATCGTTGTCCTGGCAGGAAATCAGTGATGGGTATAG
+                     GAAAGTGAGAAAGGTACGTAAGGAAATAGAACCACACCGATTAAATATTATGAAATGCT
+                     TGACCACTTTTGTTTAAGTTATTAAAATGCAAAAGTTTCGCTATTTGCTCATTAGCAGT
+                     CCACTGGAATCGTTACCAGTATCAGTGGCTGGGGGCGCAGTGGCTCAGTGGTGGAGGTG
+                     CCGCAGTGACACGCCGGCCCGAATCAGTTCGCGGCCGCTCCCCAGACCTACCGAGCCCG
+                     CCATCCCTCCGGGGTCGGTAAATTGGTACCAGAGGTGTCTGGGTAAGATAACTGGCACT
+                     GACTTGGTGAAGAGTGGTCAACTCAATTCATGTATAGACCAGGCACGCATTCAACCACC
+                     TCCACGATATCACGTTGAACATGAGTGCGGGGGCGCATCCCACCACAAGGGATTGATCA
+                     ACGCCAAAAATTATCTTATCTTATCAGTGGCTACTGAAAATAGTATCAGTGGTGACAGT
+                     GCAGTTTGACATTACATAAATACTACCATTTTTGACGAATATTTCCATAAATTGACCAC
+                     TTGAGGCTATGTTGTACCATCTGTCCAACCAGATAAATTCTATATGATCTGGTGATTGT
+                     ATAGCATGTTGTATTACTGCATAAATTCTCCAAAATACAATGGCTTTTGTTGTTTTTCA
+                     TTTCTGTTATTATTTTGATATGTCTACAGTTAGTGATTACTCAAACAAGGGTCATCTAT
+                     GTGGTGCCGGAAACGATTATGGACAATAGAGTTATACGCATGTATGATCATGATGGAAC
+                     AAGAATAATTCGTGTCGCTTTCAGGTATATTAGGAATATATATATATTTATTTATTCAT
+                     ATAATTCTGAAATCAAGAAATAATTCTCTCCTATTGTAAAAACTATTGAGTAGAAATTG
+                     ATATTCATTTAGAGATGATGATAACCAGTTAATGAGAACAAACAAAACATCTAAACTTC
+                     TCATAGAAAAGACGTTGAAAAAATATTTAAAGGAAGGCGTTGTAGTTGCTGGTTTGTTT
+                     TCTTTTTTCTGGATGTTAATTCAGTTATTAAATTTTCGCGTTGCTACCACAGCTGATGT
+                     CTAGGCCGTAATTTTGGCTACCTGGGCAACTCAAACTCGCAAATGCGCGATTCTGGTGC
+                     TTATTTTCTAGAGAAGTATTCCAAGGTGCACCTTAAAGAGTACAAAGACATATTCGGCC
+                     ACATGCCACCTATTGGATGGCAGCCCAAAATCGATGAAGCTCGTCGGAGACTTGGAAGG
+                     TTAACATCATATTTGTTTGTAGTTGTATACTGAAGAAATTAGATCTAGTGATTTTGATA
+                     ACCGGTGTTGTATTGTTTTCATGCAGTTTTCGTCCGATACTTTTTCTCTTTAAAACAAT
+                     TGTTTTAGGTTTCATGAGATCGAAAATATTCCGAAATTGATGGCTCGGCTTGGGCAATG
+                     TTTTACGCAGAGTAAGGTAAAATTAGTAAGAATTTTAAAGTACTCTTAT"
+                     /qfull="EVCGSREVDTNRERKFAITYLLECLISRGAVVKDQILLDEGIWHRFLEVIL
+                     HYYTKDDKLCEAGLEDLVHMIDGRKRIGSLIKCFDRICQTRQRNSLVNGLTTEEMREGY
+                     QRVRKIIFTPTRVIYVAPETLMGNRVLRRYDHDGTRVLRITFRDDDNQKMRTNKTSTML
+                     EKTVNQYLKNGITVAGRNFGYLGSSNSQMRDNGAYFMEKYSSSQCREYERIYQIKPPIT
+                     FNPKIQAARKNLGRFETIDNIPKMMARLGQCFTQSRLSGVNLERCTY"
+                     /Etotal="271"
+                     /tend="4179"
+                     /score="601"
+                     /Psim="70.48"
+                     /tid="NODE_59031_length_34307_cov_14.498353"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="653"
+                     /qstrand="."
+                     /Emis="126"
+                     /qlen="275"
+                     /Eident="145"
+                     /qcds="RRGR"
+                     /qname="RDRP_Cele_ego1"
+                     /Pident="53.51"
+                     /qdescription
+                     /tlen="1988"
+                     /model="protein2genome:local"
+                     /tcds="GAAACTGGAAGCAAGCGTGCACCAGATGTAGTGAAAGAGCGTATATTTTCCC
+                     TCTCTTATCTTTTTGAGTGTTTAATTTCTAGAGGAGCAGTAGTAAAAGACCAGCTGTTG
+                     CTTGATAAAGCCGTATGGATTGATTTTCTCAAGATAATCAATTTCTGTTATCGGCAAGA
+                     TCGGGAGGCCTGTTTGTGCGCTCTTGAACGTATAATTATAATGATTGACGAGCGAAAAC
+                     GAATGGGTTCTATTGTAAAGGTAGTGTTATTGCAATGTGTGTTGCGGTAGAAATTCTCC
+                     AAAATACAATGGCTTTTGTTGTTTTTCATTTCTGTTATTATTTTGATATGTCTACAGTT
+                     AGTGATTACTCAAACAAGGGTCATCTATGTGGTGCCGGAAACGATTATGGACAATAGAG
+                     TTATACGCATGTATGATCATGATGGAACAAGAATAATTCGTGTCGCTTTCAGAGATGAT
+                     GATAACCAGTTAATGAGAACAAACAAAACATCTAAACTTCTCATAGAAAAGACGTTGAA
+                     AAAATATTTAAAGGAAGGCGTTGTAGTTGCTGGCCGTAATTTTGGCTACCTGGGCAACT
+                     CAAACTCGCAAATGCGCGATTCTGGTGCTTATTTTCTAGAGAAGTATTCCAAGGTGCAC
+                     CTTAAAGAGTACAAAGACATATTCGGCCACATGCCACCTATTGGATGGCAGCCCAAAAT
+                     CGATGAAGCTCGTCGGAGACTTGGAAGGTTTCATGAGATCGAAAATATTCCGAAATTGA
+                     TGGCTCGGCTTGGGCAATGTTTTACGCAGAGTAAGGTAAAATTAGTAAGAATTTTAAAG
+                     TACTCTTAT"
+                     /tbegin="6167"
+                     /Esim="191"
+     M               1..81
+                     /gene="tr|G5EBQ3|"
+     S               82..83
+                     /gene="tr|G5EBQ3|"
+     5               84..85
+                     /gene="tr|G5EBQ3|"
+     I               86..136
+                     /gene="tr|G5EBQ3|"
+     3               137..138
+                     /gene="tr|G5EBQ3|"
+     S               139
+                     /gene="tr|G5EBQ3|"
+     M               140..232
+                     /gene="tr|G5EBQ3|"
+     5               233..234
+                     /gene="tr|G5EBQ3|"
+     I               235..295
+                     /gene="tr|G5EBQ3|"
+     3               296..297
+                     /gene="tr|G5EBQ3|"
+     M               298..399
+                     /gene="tr|G5EBQ3|"
+     5               400..401
+                     /gene="tr|G5EBQ3|"
+     I               402..1133
+                     /gene="tr|G5EBQ3|"
+     3               1134..1135
+                     /gene="tr|G5EBQ3|"
+     M               1136..1312
+                     /gene="tr|G5EBQ3|"
+     S               1313..1314
+                     /gene="tr|G5EBQ3|"
+     5               1315..1316
+                     /gene="tr|G5EBQ3|"
+     I               1317..1418
+                     /gene="tr|G5EBQ3|"
+     3               1419..1420
+                     /gene="tr|G5EBQ3|"
+     S               1421
+                     /gene="tr|G5EBQ3|"
+     M               1422..1469
+                     /gene="tr|G5EBQ3|"
+     G               1470..1472
+                     /gene="tr|G5EBQ3|"
+     M               1473..1517
+                     /gene="tr|G5EBQ3|"
+     S               1518
+                     /gene="tr|G5EBQ3|"
+     5               1519..1520
+                     /gene="tr|G5EBQ3|"
+     I               1521..1587
+                     /gene="tr|G5EBQ3|"
+     3               1588..1589
+                     /gene="tr|G5EBQ3|"
+     S               1590..1591
+                     /gene="tr|G5EBQ3|"
+     M               1592..1759
+                     /gene="tr|G5EBQ3|"
+     S               1760..1761
+                     /gene="tr|G5EBQ3|"
+     5               1762..1763
+                     /gene="tr|G5EBQ3|"
+     I               1764..1886
+                     /gene="tr|G5EBQ3|"
+     3               1887..1888
+                     /gene="tr|G5EBQ3|"
+     S               1889
+                     /gene="tr|G5EBQ3|"
+     M               1890..1988
+                     /gene="tr|G5EBQ3|"
+     CDS             join(1..81,82..83,139,140..232,298..399,1136..1312,
+                     1313..1314,1421,1422..1469,1470..1472,1473..1517,1518,
+                     1590..1591,1592..1759,1760..1761,1889,1890..1988)
+                     /translation="ETGSKRAPDVVKERIFSLSYLFECLISRGAVVKDQLLLDKAVWID
+                     FLKIINFCYRQDREACLCALERIIIMIDERKRMGSIVKVVLLQCVLRXKFSKIQWLLLF
+                     FISVIILICLQLVITQTRVIYVVPETIMDNRVIRMYDHDGTRIIRVAFRDDDNQLMRTN
+                     KTSKLLIEKTLKKYLKEGVVVAGRNFGYLGNSNSQMRDSGAYFLEKYSKVHLKEYKDIF
+                     GHMPPIGWQPKIDEARRRLGRFHEIENIPKLMARLGQCFTQSKVKLVRILKYSY"
+                     /gene="RDRP"
+ORIGIN
+        1 gaaactggaa gcaagcgtgc accagatgta gtgaaagagc gtatattttc cctctcttat
+       61 ctttttgagt gtttaatttc taggcaagtg ttttctattt gtgaaatgta cccctcgaaa
+      121 atctatgtgt tattttagag gagcagtagt aaaagaccag ctgttgcttg ataaagccgt
+      181 atggattgat tttctcaaga taatcaattt ctgttatcgg caagatcggg aggttgctac
+      241 cattcgtgaa ttgttaatcg tttgtttaat atttacgtca aacaactgaa actttaggcc
+      301 tgtttgtgcg ctcttgaacg tataattata atgattgacg agcgaaaacg aatgggttct
+      361 attgtaaagg tagtgttatt gcaatgtgtg ttgcggtagc taagaatcca cgaagtgagt
+      421 ttaatgctta gtttttgaag gcatacacgt gtgaatatga aactcaacga gcttgtggag
+      481 ctaaatcatc gttgtcctgg caggaaatca gtgatgggta taggaaagtg agaaaggtac
+      541 gtaaggaaat agaaccacac cgattaaata ttatgaaatg cttgaccact tttgtttaag
+      601 ttattaaaat gcaaaagttt cgctatttgc tcattagcag tccactggaa tcgttaccag
+      661 tatcagtggc tgggggcgca gtggctcagt ggtggaggtg ccgcagtgac acgccggccc
+      721 gaatcagttc gcggccgctc cccagaccta ccgagcccgc catccctccg gggtcggtaa
+      781 attggtacca gaggtgtctg ggtaagataa ctggcactga cttggtgaag agtggtcaac
+      841 tcaattcatg tatagaccag gcacgcattc aaccacctcc acgatatcac gttgaacatg
+      901 agtgcggggg cgcatcccac cacaagggat tgatcaacgc caaaaattat cttatcttat
+      961 cagtggctac tgaaaatagt atcagtggtg acagtgcagt ttgacattac ataaatacta
+     1021 ccatttttga cgaatatttc cataaattga ccacttgagg ctatgttgta ccatctgtcc
+     1081 aaccagataa attctatatg atctggtgat tgtatagcat gttgtattac tgcataaatt
+     1141 ctccaaaata caatggcttt tgttgttttt catttctgtt attattttga tatgtctaca
+     1201 gttagtgatt actcaaacaa gggtcatcta tgtggtgccg gaaacgatta tggacaatag
+     1261 agttatacgc atgtatgatc atgatggaac aagaataatt cgtgtcgctt tcaggtatat
+     1321 taggaatata tatatattta tttattcata taattctgaa atcaagaaat aattctctcc
+     1381 tattgtaaaa actattgagt agaaattgat attcatttag agatgatgat aaccagttaa
+     1441 tgagaacaaa caaaacatct aaacttctca tagaaaagac gttgaaaaaa tatttaaagg
+     1501 aaggcgttgt agttgctggt ttgttttctt ttttctggat gttaattcag ttattaaatt
+     1561 ttcgcgttgc taccacagct gatgtctagg ccgtaatttt ggctacctgg gcaactcaaa
+     1621 ctcgcaaatg cgcgattctg gtgcttattt tctagagaag tattccaagg tgcaccttaa
+     1681 agagtacaaa gacatattcg gccacatgcc acctattgga tggcagccca aaatcgatga
+     1741 agctcgtcgg agacttggaa ggttaacatc atatttgttt gtagttgtat actgaagaaa
+     1801 ttagatctag tgattttgat aaccggtgtt gtattgtttt catgcagttt tcgtccgata
+     1861 ctttttctct ttaaaacaat tgttttaggt ttcatgagat cgaaaatatt ccgaaattga
+     1921 tggctcggct tgggcaatgt tttacgcaga gtaaggtaaa attagtaaga attttaaagt
+     1981 actcttat
+//
+LOCUS       dict|tfa|66              851 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5EBQ3| , target: NODE_59031_length_34307_cov_14.498353
+            [revcomp], HSPID: 66
+ACCESSION   dict|tfa|66
+VERSION     dict|tfa|66
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..851
+                     /vulgar="M 33 99 5 0 2 I 0 86 3 0 2 M 34 102 G 0 3 M 14 42
+                     S 0 2 5 0 2 I 0 403 3 0 2 S 1 1 M 35 105"
+                     /qid="tr|G5EBQ3|"
+                     /tstrand="-"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="669"
+                     /qtype="Protein"
+                     /tfull="TACACGTTCAGTGATGGAGTTGGTATGATTAGCAAAAGTTTGGCAGCTGAT
+                     ATTGCGAAAGAAATGATGTTGGGTAATTGTGTTCCTAGTTGTTATCAGGTTTGTTAGCT
+                     GAGGTAATTAAATCTTCGAAAGCAAGAATCAGCATTTTTGACATTGGTTAAATTCCACA
+                     TTTTCTGTTCTTATTTATAGTTTCGTTTTCGTGGAGTGAAAGGTGTCGTGTCAGTTAAT
+                     CCTTTATTGGATGAGATTGCTGATTGGGCGAAAGAGCTCAATATAAAACCACCAAAGAA
+                     GGATTTCAGAAGTTGGGATCTAAAGTTGGTATTTCGACCTAGTCAAGTGAAGTGAGTTC
+                     TATATATTATATATTATCTATGTATTATATTAATAGTCGTGTATATTATCCACTATCAA
+                     TTTTTGTTTTCTATTCACTATTATAATGGTTTCGTTTCTAAATCGCTAATAAATTGTTA
+                     ACGATGCTGAAATCGTAAAACTTGGAAATTAAAGCGGGATTTGATTGAAAAGTAAGTGA
+                     AAGTATTTAGAATTAGTAATTGAAGCATTGATTGATCGCATATTGAGTATCTCGACAGT
+                     GCAATATGTAACACAGACCGGACATCTGTAAATGTGGATTCGAGTTGCGCTTGATATTC
+                     CAAGTTTTACGTTCAGCTAAGCATTATTGGCTTGTGTACGGTAAATTATGATGATGTTG
+                     GAATAATGTTTAATAAGCCGGAGAAAACAAGGTGTCAATTCTTAGGTTCAAAGCCATGC
+                     GTACAGCATTGGAATCTCTTGAAATCGTCAAGTATTCGTCTCCTGTTCCAGTTTCTTTG
+                     AACAAACCATTCATCTGTATTCTTGACCAGGTT"
+                     /qfull="YTFSDGVGMMSYRFAQMVSEVMDFGKGVPSCFQFRFRGMKGVISIEPLLDN
+                     LRQWSISYNISKPSDDSSWSLNCMFRPSQIKFISKRHPRDQVEIVKYSSPVPVALNKPF
+                     INILDQV"
+                     /Etotal="116"
+                     /tend="1989"
+                     /score="317"
+                     /Psim="72.41"
+                     /tid="NODE_59031_length_34307_cov_14.498353"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="786"
+                     /qstrand="."
+                     /Emis="48"
+                     /qlen="117"
+                     /Eident="68"
+                     /qcds="K"
+                     /qname="RDRP_Cele_ego1"
+                     /Pident="58.62"
+                     /qdescription
+                     /tlen="851"
+                     /model="protein2genome:local"
+                     /tcds="TACACGTTCAGTGATGGAGTTGGTATGATTAGCAAAAGTTTGGCAGCTGATA
+                     TTGCGAAAGAAATGATGTTGGGTAATTGTGTTCCTAGTTGTTATCAGTTTCGTTTTCGT
+                     GGAGTGAAAGGTGTCGTGTCAGTTAATCCTTTATTGGATGAGATTGCTGATTGGGCGAA
+                     AGAGCTCAATATAAAACCACCAAAGAAGGATTTCAGAAGTTGGGATCTAAAGTTGGTAT
+                     TTCGACCTAGTCAAGTGAAGTTCAAAGCCATGCGTACAGCATTGGAATCTCTTGAAATC
+                     GTCAAGTATTCGTCTCCTGTTCCAGTTTCTTTGAACAAACCATTCATCTGTATTCTTGA
+                     CCAGGTT"
+                     /tbegin="2840"
+                     /Esim="84"
+     M               1..99
+                     /gene="tr|G5EBQ3|"
+     5               100..101
+                     /gene="tr|G5EBQ3|"
+     I               102..187
+                     /gene="tr|G5EBQ3|"
+     3               188..189
+                     /gene="tr|G5EBQ3|"
+     M               190..291
+                     /gene="tr|G5EBQ3|"
+     G               292..294
+                     /gene="tr|G5EBQ3|"
+     M               295..336
+                     /gene="tr|G5EBQ3|"
+     S               337..338
+                     /gene="tr|G5EBQ3|"
+     5               339..340
+                     /gene="tr|G5EBQ3|"
+     I               341..743
+                     /gene="tr|G5EBQ3|"
+     3               744..745
+                     /gene="tr|G5EBQ3|"
+     S               746
+                     /gene="tr|G5EBQ3|"
+     M               747..851
+                     /gene="tr|G5EBQ3|"
+     CDS             join(1..99,190..291,292..294,295..336,337..338,746,
+                     747..851)
+                     /translation="YTFSDGVGMISKSLAADIAKEMMLGNCVPSCYQFRFRGVKGVVSV
+                     NPLLDEIADWAKELNIKPPKKDFRSWDLKLVFRPSQVKFKAMRTALESLEIVKYSSPVP
+                     VSLNKPFICILDQV"
+                     /gene="RDRP"
+ORIGIN
+        1 tacacgttca gtgatggagt tggtatgatt agcaaaagtt tggcagctga tattgcgaaa
+       61 gaaatgatgt tgggtaattg tgttcctagt tgttatcagg tttgttagct gaggtaatta
+      121 aatcttcgaa agcaagaatc agcatttttg acattggtta aattccacat tttctgttct
+      181 tatttatagt ttcgttttcg tggagtgaaa ggtgtcgtgt cagttaatcc tttattggat
+      241 gagattgctg attgggcgaa agagctcaat ataaaaccac caaagaagga tttcagaagt
+      301 tgggatctaa agttggtatt tcgacctagt caagtgaagt gagttctata tattatatat
+      361 tatctatgta ttatattaat agtcgtgtat attatccact atcaattttt gttttctatt
+      421 cactattata atggtttcgt ttctaaatcg ctaataaatt gttaacgatg ctgaaatcgt
+      481 aaaacttgga aattaaagcg ggatttgatt gaaaagtaag tgaaagtatt tagaattagt
+      541 aattgaagca ttgattgatc gcatattgag tatctcgaca gtgcaatatg taacacagac
+      601 cggacatctg taaatgtgga ttcgagttgc gcttgatatt ccaagtttta cgttcagcta
+      661 agcattattg gcttgtgtac ggtaaattat gatgatgttg gaataatgtt taataagccg
+      721 gagaaaacaa ggtgtcaatt cttaggttca aagccatgcg tacagcattg gaatctcttg
+      781 aaatcgtcaa gtattcgtct cctgttccag tttctttgaa caaaccattc atctgtattc
+      841 ttgaccaggt t
+//
+LOCUS       dict|tfa|67             2074 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5EBQ3| , target: NODE_59031_length_34307_cov_14.498353
+            [revcomp], HSPID: 67
+ACCESSION   dict|tfa|67
+VERSION     dict|tfa|67
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..2074
+                     /vulgar="M 46 138 5 0 2 I 0 1626 3 0 2 M 10 30 G 1 0 M 35
+                     105 5 0 2 I 0 95 3 0 2 M 24 72"
+                     /qid="tr|G5EBQ3|"
+                     /tstrand="-"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="216"
+                     /qtype="Protein"
+                     /tfull="GTTCGCTTAAACTTTATTCGTCGTATAGTAGTAGACAACGCGGTTAATGAC
+                     AGTTACGGAAGAGGCAAAACGCGATTTCATTTGGAGCTGAACTGCCCTGTTGTTATACG
+                     ACGTGGATTTTCAGATACTAGTAATCATGTACTGAATTCACTATCATAGTTTTAATTAT
+                     ATAGGCAATAGTAAAATATTGTGTTATTTATTGTTTTCATAGTTTATTGGCCAATAATG
+                     GTTAAGTTGGTATTACAGTCTTCATGTTTATAGTCTGTCTGTCTGTCTTCATGTTATTT
+                     ATTACGTTCCGAATAGTTGCGCTTACTAATTCCTCTACATATTTATGTCTCGCTATAAA
+                     TACAGTTTCTTGATTTTGGCGACGATCACGTCCGTCTATTTAAAAATCTGCTCAAGAGG
+                     AGTTACCAAGACCAGTAAAATTTTCATTTCTCCCCATCACACGAGACCGTAATCAACTG
+                     CACTGTTCTATTCTTGTTCTTTTCACACTGGGAATTCGTTAATTGTCATAATTGCTTTC
+                     TAGAGCCTTTGTCATCATTTACACGTGTCACGTGTTTACCTACCTAATCTTCGAGAGCC
+                     GTGCGCGGTAACCATAAGCATCACACTTTTGATGCAGCGTTGCATTGCGCTCATCATGC
+                     CTTTTTAATATCCAAGCTTGCAGCATATGCTAAAGTAGGAAGAACAACCGCGTCAAAAA
+                     GGTGTGCTCGGAGCATTTTCCTCTTTGTTATCTTCACTACGTCTTCGATGTTCTTATAT
+                     GCTCCCAAAACCTCTCGTTTCCTTCCTATGAGCTTTTGTGAAATGTCGTTTATCGTATC
+                     GATGTTGCAACCTATTTACACACAACTTGAGCATTCTGAGATGTTGTTTCCTTTGAGCG
+                     TAAATAGAGCATCAGTAACGTATCCGTTCTTAATAAACATCGTTTTTCTAAAGTGTAGC
+                     CTAAAGCCACTTCCTTCACAGCACTGTCGAAGTCGGCTAAAATTAGTTCCGCTTGGTTT
+                     ATGTTTGACGTAATGAATACGATATCAACGACGAAGTGATGATAATGAAGTTGCCTATC
+                     GTCGATTTTCACTTTTATATTATCCCATTCCAATTTTTTCCATGATGTTCTCAATGGCA
+                     TATAGGGTTAGCAAAGCAGTATTGTTTTGCGAATCCCACTTTTAACCAATATTCATGAC
+                     CGAGTTCCAATTAACGAGTACACCTGCGCCACCAAAACGCTTGTTAATCGTATGTACCA
+                     CAGAACAGTTCTCGAATGTTGCAAACAACGCTTACTGGTTCGTATCTTATGGTTTCTGA
+                     TAGTTCGATAACGCTGTGCCTGATTTTCTTAGCATGTATCAGAAGGTCTTCTATGAGGA
+                     ATTTTGATGCAAGCGTTCGTGTGGTGTATGTACAATTTGTCATCTTAGTTCTTTCACGA
+                     TTTGGCAGCACTTTTTGACTTTCAGATTTTAGCAGCTTCTCCTTACTCGTTTGACGTGA
+                     CGCTGCCGTATCGAGGGCTTTTTCAGGGTCGTAGGAATGAGTCCTTTTTTTGAATGTTT
+                     GGTGTGATGGCTCCCACGGGTAGCTTGCACGTCCGTTCTTGGAGGCTAAACACATTTTC
+                     GCTTTTCCGCGGACACCTTGCCAGTCTATCTTAATAAGTGGGCTGTAGATAATTTGTCA
+                     GAACCTTAGGGCCTCTATCTTATCAGCGTGAAGCTCCAGATACACACGGCAAATTTAAA
+                     TCATTAGAATAAGTAGTAAATTACTATAATGTTGGTTTATTAGTTTATTATATTTTTGC
+                     TTGCAGGGAAATAAGCCACACCACTTGAGTCGCTATAGATGTACGACGATTTATAGAGG
+                     AAGGAATCCTTCTGAAATACCCCATGTTCTTGCAATTTCGGATAGTCCGATTTTCACAA
+                     TTGAGTTTGATGAGTCGTTGCATGTGAGTCCAATATTTTATTGAGGACTATAAAAGCAT
+                     TTGAAACAGTGATTTTCCTGAAGCGGGCTTTGTATTTATGATAATCATGTGAGCCGTTT
+                     TTAGGACCTAACGATTTACGCTATTTTATCTCGTCTACGAGTGAGAAGTGATATAAGTA
+                     TAGAATTTGCAAGTCTT"
+                     /qfull="VRRTSIRRIIVDPVVQDCNGSDRIRVHFELNCPVLIRRAYRTAKQESENRH
+                     SVPHYRRYLVINRGRSANQYPTAKAITDSPVFTIEFDQSVGLNEIYRLLSRLRIRTGVS
+                     IEFADI"
+                     /Etotal="115"
+                     /tend="7847"
+                     /score="228"
+                     /Psim="62.61"
+                     /tid="NODE_59031_length_34307_cov_14.498353"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="332"
+                     /qstrand="."
+                     /Emis="60"
+                     /qlen="116"
+                     /Eident="55"
+                     /qcds
+                     /qname="RDRP_Cele_ego1"
+                     /Pident="47.83"
+                     /qdescription
+                     /tlen="2074"
+                     /model="protein2genome:local"
+                     /tcds="GTTCGCTTAAACTTTATTCGTCGTATAGTAGTAGACAACGCGGTTAATGACA
+                     GTTACGGAAGAGGCAAAACGCGATTTCATTTGGAGCTGAACTGCCCTGTTGTTATACGA
+                     CGTGGATTTTCAGATACTAGTAATCATGGAAATAAGCCACACCACTTGAGTCGCTATAG
+                     ATGTACGACGATTTATAGAGGAAGGAATCCTTCTGAAATACCCCATGTTCTTGCAATTT
+                     CGGATAGTCCGATTTTCACAATTGAGTTTGATGAGTCGTTGCATGACCTAACGATTTAC
+                     GCTATTTTATCTCGTCTACGAGTGAGAAGTGATATAAGTATAGAATTTGCAAGTCTT"
+                     /tbegin="9921"
+                     /Esim="72"
+     M               1..138
+                     /gene="tr|G5EBQ3|"
+     5               139..140
+                     /gene="tr|G5EBQ3|"
+     I               141..1766
+                     /gene="tr|G5EBQ3|"
+     3               1767..1768
+                     /gene="tr|G5EBQ3|"
+     M               1769..1798
+                     /gene="tr|G5EBQ3|"
+     G               1798^1799
+                     /gene="tr|G5EBQ3|"
+     M               1799..1903
+                     /gene="tr|G5EBQ3|"
+     5               1904..1905
+                     /gene="tr|G5EBQ3|"
+     I               1906..2000
+                     /gene="tr|G5EBQ3|"
+     3               2001..2002
+                     /gene="tr|G5EBQ3|"
+     M               2003..2074
+                     /gene="tr|G5EBQ3|"
+     CDS             join(1..138,1769..1798,1799..1903,2003..2074)
+                     /translation="VRLNFIRRIVVDNAVNDSYGRGKTRFHLELNCPVVIRRGFSDTSN
+                     HGNKPHHLSRYRCTTIYRGRNPSEIPHVLAISDSPIFTIEFDESLHDLTIYAILSRLRV
+                     RSDISIEFASL"
+                     /gene="RDRP"
+ORIGIN
+        1 gttcgcttaa actttattcg tcgtatagta gtagacaacg cggttaatga cagttacgga
+       61 agaggcaaaa cgcgatttca tttggagctg aactgccctg ttgttatacg acgtggattt
+      121 tcagatacta gtaatcatgt actgaattca ctatcatagt tttaattata taggcaatag
+      181 taaaatattg tgttatttat tgttttcata gtttattggc caataatggt taagttggta
+      241 ttacagtctt catgtttata gtctgtctgt ctgtcttcat gttatttatt acgttccgaa
+      301 tagttgcgct tactaattcc tctacatatt tatgtctcgc tataaataca gtttcttgat
+      361 tttggcgacg atcacgtccg tctatttaaa aatctgctca agaggagtta ccaagaccag
+      421 taaaattttc atttctcccc atcacacgag accgtaatca actgcactgt tctattcttg
+      481 ttcttttcac actgggaatt cgttaattgt cataattgct ttctagagcc tttgtcatca
+      541 tttacacgtg tcacgtgttt acctacctaa tcttcgagag ccgtgcgcgg taaccataag
+      601 catcacactt ttgatgcagc gttgcattgc gctcatcatg cctttttaat atccaagctt
+      661 gcagcatatg ctaaagtagg aagaacaacc gcgtcaaaaa ggtgtgctcg gagcattttc
+      721 ctctttgtta tcttcactac gtcttcgatg ttcttatatg ctcccaaaac ctctcgtttc
+      781 cttcctatga gcttttgtga aatgtcgttt atcgtatcga tgttgcaacc tatttacaca
+      841 caacttgagc attctgagat gttgtttcct ttgagcgtaa atagagcatc agtaacgtat
+      901 ccgttcttaa taaacatcgt ttttctaaag tgtagcctaa agccacttcc ttcacagcac
+      961 tgtcgaagtc ggctaaaatt agttccgctt ggtttatgtt tgacgtaatg aatacgatat
+     1021 caacgacgaa gtgatgataa tgaagttgcc tatcgtcgat tttcactttt atattatccc
+     1081 attccaattt tttccatgat gttctcaatg gcatataggg ttagcaaagc agtattgttt
+     1141 tgcgaatccc acttttaacc aatattcatg accgagttcc aattaacgag tacacctgcg
+     1201 ccaccaaaac gcttgttaat cgtatgtacc acagaacagt tctcgaatgt tgcaaacaac
+     1261 gcttactggt tcgtatctta tggtttctga tagttcgata acgctgtgcc tgattttctt
+     1321 agcatgtatc agaaggtctt ctatgaggaa ttttgatgca agcgttcgtg tggtgtatgt
+     1381 acaatttgtc atcttagttc tttcacgatt tggcagcact ttttgacttt cagattttag
+     1441 cagcttctcc ttactcgttt gacgtgacgc tgccgtatcg agggcttttt cagggtcgta
+     1501 ggaatgagtc ctttttttga atgtttggtg tgatggctcc cacgggtagc ttgcacgtcc
+     1561 gttcttggag gctaaacaca ttttcgcttt tccgcggaca ccttgccagt ctatcttaat
+     1621 aagtgggctg tagataattt gtcagaacct tagggcctct atcttatcag cgtgaagctc
+     1681 cagatacaca cggcaaattt aaatcattag aataagtagt aaattactat aatgttggtt
+     1741 tattagttta ttatattttt gcttgcaggg aaataagcca caccacttga gtcgctatag
+     1801 atgtacgacg atttatagag gaaggaatcc ttctgaaata ccccatgttc ttgcaatttc
+     1861 ggatagtccg attttcacaa ttgagtttga tgagtcgttg catgtgagtc caatatttta
+     1921 ttgaggacta taaaagcatt tgaaacagtg attttcctga agcgggcttt gtatttatga
+     1981 taatcatgtg agccgttttt aggacctaac gatttacgct attttatctc gtctacgagt
+     2041 gagaagtgat ataagtatag aatttgcaag tctt
+//
+LOCUS       dict|tfa|71             5138 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: HCISE00858 , target: NODE_69361_length_18060_cov_14.670211
+            [revcomp], HSPID: 71
+ACCESSION   dict|tfa|71
+VERSION     dict|tfa|71
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..5138
+                     /vulgar="M 15 45 S 0 2 5 0 2 I 0 401 3 0 2 S 1 1 M 64 192 5
+                     0 2 I 0 62 3 0 2 M 30 90 S 0 2 5 0 2 I 0 64 3 0 2 S 1 1 M
+                     51 153 5 0 2 I 0 1228 3 0 2 M 97 291 5 0 2 I 0 49 3 0 2 M
+                     52 156 S 0 1 5 0 2 I 0 65 3 0 2 S 1 2 M 39 117 5 0 2 I 0 49
+                     3 0 2 M 33 99 S 0 1 5 0 2 I 0 369 3 0 2 S 1 2 M 16 48 G 1 0
+                     M 31 93 5 0 2 I 0 173 3 0 2 M 58 174 S 0 1 5 0 2 I 0 515 3
+                     0 2 S 1 2 M 36 108 5 0 2 I 0 55 3 0 2 M 11 33 G 0 9 M 88
+                     264 5 0 2 I 0 47 3 0 2 M 42 126"
+                     /qid="HCISE00858"
+                     /tstrand="-"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="5"
+                     /qtype="Protein"
+                     /tfull="CAAAATGACGCTCAAGCAATCAATTGCTACAACATTATCATAAGGAGGTGT
+                     CTGGTTGTATACTTATATGTTTACTTCTTCATTTTAAGTAACATATCACTGATAAATTC
+                     TTCGAATGACAAAGACGAAACTATAGTAGCATAAGCGTATTGAGAAAACACTGTTTCTT
+                     ACTCCAATAAGAGAAAAAAACTTCAGAAGGGTGGTTTTGGAATTTGTAGCGTAGCTTTT
+                     GGTAGTGAACTGATGGTATTCAAATCTCGGTGAAGAAAATTGAATGTAAAAATATATGT
+                     TTGGTATTAGTTCGTCTACATCTAGTTGTTGTTTAACAAAAGAATCACAAATACAGTGC
+                     TATTCTCTTGCTGAAAGTGGTACTAAATGGATTTTCTCAAGAGTTTTTTTGACATCAGT
+                     GTTCCATTCGGTTGGAAATATGATATGAAGTAAAGAGTATTTTCCAGTTGCATGGACAT
+                     GGTAGGATTAAAACGTTTGGGAAGGAACCATTACGATGAGTTGCAAAAGGTGAAACTCA
+                     GAGATTACGACATGGAAGTGTGGCCAGGATTCGAAACTGCTGTAAGACAATATGAGGAT
+                     CGACTTATGTTATGTATCGAGAATCGCTTTAAAATGATACGAACTCAGTCAGTATGGGA
+                     ATTGGTTGGTTTTCTTTTTTGGATGTGCTCTAAATTATTCCTATAATATTTGATATGAG
+                     TAATCATTCAGATGAACAATGTATACCGTCATGTAGAGTACAACCTTGAGAGATTTCAT
+                     GCTAAAATTGAGGAATTGCTTGTTGGAGAAACAGTTTTTGCGCGGTTTGTTTCATTATT
+                     TGTACGCTTAGCTAACTTTTTTTCTCAAATTCCCTTACTTTACCTAGTTGTAGATACAA
+                     CAATAAGATGTATCGTGTTACATCTATCAATTACGAGATGTCACCAGGAGCTACTTTCA
+                     CACTTTGTGATGGTTCTGTCACAACTTTGAAAGAATATTTCGAGAAGAATTACAATTTA
+                     AGCGTAACCCAGATGAAGCAACCCGTCCTCGTACGTTCTATTATTCAAAGTTTTTTTTT
+                     NTTTTTTTTTAAATTACATGCTCATCTGTTAGTTGATTTCTCGACAAAACTGGTAAACT
+                     CTGAAATTTGAGCAAAGTCATCTGCGACATCCCATGGTACTTAGTTCTGAATCATTGGA
+                     GAATCTCCATTTTTACTCGATTGTTAAGCCATTTATGAAAGCAAGTCAAATAATATTTC
+                     TCGAAATCTAGTAGCAAAATGATGAGTATCACTCCGAATCATAAGTAACAGCTAGAACT
+                     TGTGCTGACGAGCCGTAAATAATTCGCCCGCAACACAATAATTTCACTTTATTTCACAT
+                     TCAAAACCTCATCAGTAGATTATAGAGTTCAACACTTGACTCTTGAAAGGATTTCTAGA
+                     CTGTCTGTTCTAAGATTCAAAAAAAANNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+                     NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+                     NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+                     NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+                     NNNNNNNNNNNNNNNNNNNNNAAAAAAAAGGAGTTCAAGTAAATCTCGCGCTTTAGTTA
+                     ATGATCTGCAATCAGTTGATGATCTACGATTCTTTTGTATTGTATTAATGCGATATTTG
+                     AGATACATTAGGCAGATAGGAGAAAGGGGTAGAGCAGGTAAAGCATTTTCACGAAATTT
+                     GGCATATTAACTGGGAATGATGTTTAATATCTATGCAAACGGTTTATATTTTGCATACC
+                     AAGCCCCAATTTAACATTACTTTGAACATTAGAAATTGTCACTTGTTTTCGAAAATTCC
+                     TTCAATATGTTTTTAAATACCTGTTCATGCTTTTAAAATCAATTTAAAGATCTTGGCAA
+                     ATGTAGTAGAACCGCGAACGTCAGGTTCATTTATTGAGAACAATGAGTATTTATTCAAA
+                     GAGAGCCTGTGTAATCGTTGAATAATTCAGTCACGAAACTGATGCCCCTGTCCTCATTT
+                     TGCCTCATCTTTGTTTACCAACAATGTCTCTTATATATTAATTAGTGTCTATATATACA
+                     ATGATTACGAAATCATATTACTAAAGTTGCTTGAAATTTTTATATTATACAGTAATGGG
+                     TGAAATATTAATGTGGAGTTCAGATTAGTGAAGGTAAAGTTAAACAACCGGGTGAAGCG
+                     CCTCACTGTGCGTATTTGCTTCCGGAGCTCTGTTTTCCAACTGGTTTAACCGAATCAAT
+                     GAGGAAGGATTTTCGTCATATGAGAGAGCTTTCGCAACACACACGCTTGGATCCGGAAA
+                     AACGACGTATCACAACAGAAAATTTGCTGGAAAGGATTCACAAGAATGAAAGGTGTTTA
+                     GTACTTCTGCAAAAATGGGGAATCGAATTAGAAGAAAAGCTTATCAGCTTCCAATCTAG
+                     AGAACTAGAGCCAGAAAAGGTATTTAATATGGCCAAGTTTATGAACTCAGAAATTTGAA
+                     GCAAAGATTTCAGCTTATTGGAATTCGACCACACGGCTACTTTGGACAACGAGCTGAAT
+                     GGTCTAGAGGTGTCCGTCAACACGGAAATTATCGTGGTGTATATCTTCAAAACTGGATA
+                     GTGATTGCACCCAATACGATTATGGCACTAAATCTAGCTAGCCATTTCATTGGTATGTG
+                     GTTTTCATCGAAATTCTTTTTTGAACACTCAAAGGGTTATTTTTAAATGTATGACGGTA
+                     CAGAAGAAGTAAAAAATATGGGCGAGGCTATGCACATTCAAGTTAATTATCCGATGCTA
+                     CATTCTTGTAATGATATATCAGCAACTTCGTATCACAAAGCTGTTCTTGAAGCGATGCA
+                     AAGGGTAAGTGTAGTTACTATTTCATTCTGGACAGTTCTATACATTTTCTATATTAGGC
+                     GGCCGCTCAACCTATCCATATGATAGTGATCATCCTGGCTGACGATAGCAAAGCTCGTT
+                     ATGACTTGCTGAAAAGTTGGCTGTGCACGGAAACAAATAGTTTGTTTTATACTTCGTCT
+                     TTATTTTAAAGTGAAAAGTTGATGCTACATGTGAGATAGTACTGTAGCAGCACATCATT
+                     TAGTGAGAATGCTGTTATAAATAACAAACCAATAATAGTGACAGGTTAAAAATTCACCT
+                     ATGTTCGTCATGGTTAAATTTTAGATTCATAGTCTTTAATCAAGCAGATTATTGGATAT
+                     TCTGCAGAGTTTTGCAAAGCTCTGATTTCAGGAAGTAATTTATATACAGTTTCAACAAA
+                     TATGTTTCATCGCTGAAGTTATGTCTTCAATCGGTGAGACGTCGAAAACTCTGAATGAC
+                     AAATGTTGAATAGAAATCAAGTAAAAAATAGCAGTATTTCAATAGCTTTCTAATTTAGT
+                     TCCATCACAATGTGTGCAGTTATCTACGCTACGTGGACGTCAACACGAGGGACGTAACA
+                     AAAATTTTATGTCAATCGTACTGAAGATATTGTTGCAGATGAATTGTAAAATGGGTGGT
+                     GCACTCTGGAAAGTTAATATTCCTGTACGTTATTTGTTTATGCCACAGATTTTTGACTT
+                     AACGCTGAAAATGTGCTATTTCAACTGCTTTTATTGTAGAATATACTTAACAAAAACTT
+                     CCCACTTTTTGGCGGAAAAATCGGGATTGTAGTAATGCATATTTGATAACTGTTTAAGA
+                     TAGAACATCAAAAACATTTTTTAGGTCAAAAATGCAATGATTGTCGGGTACGATCTATA
+                     TCACGACTCAACGCTTCGAGGACAAACTGTTGGGGCATGTGTTTCTACAACCGATACAG
+                     ATTACACCCAGTTTTATTCTCAGACACGTCCACATGACAATCCAACTGAGCTTGGTACA
+                     AATCTAGGTGTTTTTATTAAGAGTGAGTTTCTACTGTATAGCTGTAAAAAGTTTTGCAA
+                     AAATTCACTTAGTGATGCACTTATAAATTTGACTGATACTAATGTGTTGGGAGCAAAAA
+                     TAACTTCAATCGATTTCCTTTCACTGATTCAAAACGTGTTCTATGTTTTTGAAACAAAA
+                     GGTGCCAAAAAGATATCTTCAATCAATCATCAATTTTTCTACGTTTGGTAAGTGTTGTT
+                     CGTTAAATACGGGTCCAGAACAATATGTTTTAAGTACTTATAGTATAGTATATAGTATA
+                     GAAGTCTTTATGCACATATGTGGATCTTTACTGACAATAAAACTAACAAACCCGTTTCC
+                     TTCTTGTCGGCACACAACTTCAGGGACTTTGATTCCTCGTCATGAAACTGCAATCTTTA
+                     TCCATAGTTTTACAACTTACGTTTTCGAATCATGGTACTCTGACAAAGTGAAATTCTCA
+                     GTGAATATTATGCTTTTTATTCATGAGCGATGTAGTTCATTCATGCAATTCATTGATTT
+                     TCTCTTTCAGAGGCGCTCCAGAAATATTTTGTGAATAACAATGGATCTCTTCCTGAAAA
+                     GATTTTTCTGTATCGTGATGGTGTTGGAGATGGTCAGATTCCTTTCGTCAAAGAACAAG
+                     AAGTAGTAATTTCTTCGTTTCCGTTGCCTCTTAATCATAAGTAGCAAGTGCATATCTTC
+                     AGGTCACGCAAGTAAAACAGGCTTGCATTGAAATCTCTAAAACCGTTGGCTTGGATCCC
+                     GTACTTAACCCAATAAAATTAGCTTTTATAATCGTAACAAAAAAAGTCAACATGAGAAT
+                     CTTCAAGGGGTCTCCAGATACTACGCTTACAAATCCTAGCCCTGGTACTGTTGTTGATT
+                     CTGTCATTACTCGTCCAGAGAGGTATGACTTTTATTTGGTGCCACAACATGTCAGCCAA
+                     GGAACTGTGACTCCTGTTTGTTACAATGTGATTTATGATGACACCGGCTTGGAACCAGA
+                     CCAACATCATAAGGTGGGTGCTCATGTAATTGTTAATCTTCTCTAATTGAACTGCTTTC
+                     TTAAGCTTGCTTTTAAACTTTGCCACCTGTATTACAACTGGCAAGGTACGGTCAGAGTG
+                     CCAGCTCCTTGTCAATATGCTCACAAACTGGCATTCATGGTGGCTCAATCAATTCATAG
+                     AAATGTGAATGAA"
+                     /qfull="QNDSQTISCYNIIIRSCLDIIGLKRLGRNHFNEKEKSRLRDYNMEVWPGFE
+                     TAVRQYEDQLMLCIENRFKMIRTESVWDVMNYELDLVNRDIEKFQSKMEGLFIGETVFA
+                     RYNNKMYRVAGIDYNMTPDSTFTLNNGSLTTLKNYFEKQYSLIIRAHRQPVLVSEGKIK
+                     QPNGAPQYAYLLPELCYPTGLTDAMRKDFRHMRELSKHTRLDPEKRRQTTERLLSMIHH
+                     NDKCCALLERWGIHLDRRLVSFKSRELNPERLFGLHPEGYTGMRAEWAKSVRNNGNFRG
+                     VTLRNWVVVAPNTAEGDRLSSLFIEEVKLVGEVMRIQVNYPMLQISKDSSPVSYHEAVR
+                     EAIARAGRQPIHMIVLILPDDNKARYDSLKSWLCSETNIPSQCVQMGTLRGRQSDGGRN
+                     KNFGSIVLKIVLQMNCKMGGALWKVNIPMKNAMIVGYDLYHDSTLHGKTIGACVSTTDQ
+                     DYTQFYSQTRPHENPTELGNNLGHFIKKALRKYYVANNHSLPEKVFLYRDGVGDGQIHY
+                     VKDQEVTLVQKACEEVVLKENAKQPIKLAFIIVTKKVNMRIFKGAPDSKLSNPDPGTVV
+                     DTVVTRPERYDFYLVPQFVNQGTVTPVCYNVIFDNTGLKPDHHQKLAFKLCHLYYNWQG
+                     TVRVPAPCQYAHKLAFMVAQSIHREESE"
+                     /Etotal="663"
+                     /tend="997"
+                     /score="2386"
+                     /Psim="85.97"
+                     /tid="NODE_69361_length_18060_cov_14.670211"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="674"
+                     /qstrand="."
+                     /Emis="177"
+                     /qlen="669"
+                     /Eident="486"
+                     /qcds="SREIK"
+                     /qname="PIWI_Hcon"
+                     /Pident="73.30"
+                     /qdescription
+                     /tlen="5138"
+                     /model="protein2genome:local"
+                     /tcds="CAAAATGACGCTCAAGCAATCAATTGCTACAACATTATCATAAGGAGTTGCA
+                     TGGACATGGTAGGATTAAAACGTTTGGGAAGGAACCATTACGATGAGTTGCAAAAGGTG
+                     AAACTCAGAGATTACGACATGGAAGTGTGGCCAGGATTCGAAACTGCTGTAAGACAATA
+                     TGAGGATCGACTTATGTTATGTATCGAGAATCGCTTTAAAATGATACGAACTCAGTCAG
+                     TATGGGAATTGATGAACAATGTATACCGTCATGTAGAGTACAACCTTGAGAGATTTCAT
+                     GCTAAAATTGAGGAATTGCTTGTTGGAGAAACAGTTTTTGCGCGATACAACAATAAGAT
+                     GTATCGTGTTACATCTATCAATTACGAGATGTCACCAGGAGCTACTTTCACACTTTGTG
+                     ATGGTTCTGTCACAACTTTGAAAGAATATTTCGAGAAGAATTACAATTTAAGCGTAACC
+                     CAGATGAAGCAACCCGTCCTCATTAGTGAAGGTAAAGTTAAACAACCGGGTGAAGCGCC
+                     TCACTGTGCGTATTTGCTTCCGGAGCTCTGTTTTCCAACTGGTTTAACCGAATCAATGA
+                     GGAAGGATTTTCGTCATATGAGAGAGCTTTCGCAACACACACGCTTGGATCCGGAAAAA
+                     CGACGTATCACAACAGAAAATTTGCTGGAAAGGATTCACAAGAATGAAAGGTGTTTAGT
+                     ACTTCTGCAAAAATGGGGAATCGAATTAGAAGAAAAGCTTATCAGCTTCCAATCTAGAG
+                     AACTAGAGCCAGAAAAGCTTATTGGAATTCGACCACACGGCTACTTTGGACAACGAGCT
+                     GAATGGTCTAGAGGTGTCCGTCAACACGGAAATTATCGTGGTGTATATCTTCAAAACTG
+                     GATAGTGATTGCACCCAATACGATTATGGCACTAAATCTAGCTAGCCATTTCATTGAAG
+                     AAGTAAAAAATATGGGCGAGGCTATGCACATTCAAGTTAATTATCCGATGCTACATTCT
+                     TGTAATGATATATCAGCAACTTCGTATCACAAAGCTGTTCTTGAAGCGATGCAAAGGGC
+                     GGCCGCTCAACCTATCCATATGATAGTGATCATCCTGGCTGACGATAGCAAAGCTCGTT
+                     ATGACTTGCTGAAAAGTTGGCTGTGCACGGAAACAAATATTCCATCACAATGTGTGCAG
+                     TTATCTACGCTACGTGGACGTCAACACGAGGGACGTAACAAAAATTTTATGTCAATCGT
+                     ACTGAAGATATTGTTGCAGATGAATTGTAAAATGGGTGGTGCACTCTGGAAAGTTAATA
+                     TTCCTGTCAAAAATGCAATGATTGTCGGGTACGATCTATATCACGACTCAACGCTTCGA
+                     GGACAAACTGTTGGGGCATGTGTTTCTACAACCGATACAGATTACACCCAGTTTTATTC
+                     TCAGACACGTCCACATGACAATCCAACTGAGCTTGGTACAAATCTAGGTGTTTTTATTA
+                     AGAAGGCGCTCCAGAAATATTTTGTGAATAACAATGGATCTCTTCCTGAAAAGATTTTT
+                     CTGTATCGTGATGGTGTTGGAGATGGTCAGATTCCTTTCGTCAAAGAACAAGAAGTCAC
+                     GCAAGTAAAACAGGCTTGCATTGAAATCTCTAAAACCGTTGGCTTGGATCCCGTACTTA
+                     ACCCAATAAAATTAGCTTTTATAATCGTAACAAAAAAAGTCAACATGAGAATCTTCAAG
+                     GGGTCTCCAGATACTACGCTTACAAATCCTAGCCCTGGTACTGTTGTTGATTCTGTCAT
+                     TACTCGTCCAGAGAGGTATGACTTTTATTTGGTGCCACAACATGTCAGCCAAGGAACTG
+                     TGACTCCTGTTTGTTACAATGTGATTTATGATGACACCGGCTTGGAACCAGACCAACAT
+                     CATAAGCTTGCTTTTAAACTTTGCCACCTGTATTACAACTGGCAAGGTACGGTCAGAGT
+                     GCCAGCTCCTTGTCAATATGCTCACAAACTGGCATTCATGGTGGCTCAATCAATTCATA
+                     GAAATGTGAATGAA"
+                     /tbegin="6135"
+                     /Esim="570"
+     M               1..45
+                     /gene="HCISE00858"
+     S               46..47
+                     /gene="HCISE00858"
+     5               48..49
+                     /gene="HCISE00858"
+     I               50..450
+                     /gene="HCISE00858"
+     3               451..452
+                     /gene="HCISE00858"
+     S               453
+                     /gene="HCISE00858"
+     M               454..645
+                     /gene="HCISE00858"
+     5               646..647
+                     /gene="HCISE00858"
+     I               648..709
+                     /gene="HCISE00858"
+     3               710..711
+                     /gene="HCISE00858"
+     M               712..801
+                     /gene="HCISE00858"
+     S               802..803
+                     /gene="HCISE00858"
+     5               804..805
+                     /gene="HCISE00858"
+     I               806..869
+                     /gene="HCISE00858"
+     3               870..871
+                     /gene="HCISE00858"
+     S               872
+                     /gene="HCISE00858"
+     M               873..1025
+                     /gene="HCISE00858"
+     5               1026..1027
+                     /gene="HCISE00858"
+     I               1028..2255
+                     /gene="HCISE00858"
+     3               2256..2257
+                     /gene="HCISE00858"
+     M               2258..2548
+                     /gene="HCISE00858"
+     5               2549..2550
+                     /gene="HCISE00858"
+     I               2551..2599
+                     /gene="HCISE00858"
+     3               2600..2601
+                     /gene="HCISE00858"
+     M               2602..2757
+                     /gene="HCISE00858"
+     S               2758
+                     /gene="HCISE00858"
+     5               2759..2760
+                     /gene="HCISE00858"
+     I               2761..2825
+                     /gene="HCISE00858"
+     3               2826..2827
+                     /gene="HCISE00858"
+     S               2828..2829
+                     /gene="HCISE00858"
+     M               2830..2946
+                     /gene="HCISE00858"
+     5               2947..2948
+                     /gene="HCISE00858"
+     I               2949..2997
+                     /gene="HCISE00858"
+     3               2998..2999
+                     /gene="HCISE00858"
+     M               3000..3098
+                     /gene="HCISE00858"
+     S               3099
+                     /gene="HCISE00858"
+     5               3100..3101
+                     /gene="HCISE00858"
+     I               3102..3470
+                     /gene="HCISE00858"
+     3               3471..3472
+                     /gene="HCISE00858"
+     S               3473..3474
+                     /gene="HCISE00858"
+     M               3475..3522
+                     /gene="HCISE00858"
+     G               3522^3523
+                     /gene="HCISE00858"
+     M               3523..3615
+                     /gene="HCISE00858"
+     5               3616..3617
+                     /gene="HCISE00858"
+     I               3618..3790
+                     /gene="HCISE00858"
+     3               3791..3792
+                     /gene="HCISE00858"
+     M               3793..3966
+                     /gene="HCISE00858"
+     S               3967
+                     /gene="HCISE00858"
+     5               3968..3969
+                     /gene="HCISE00858"
+     I               3970..4484
+                     /gene="HCISE00858"
+     3               4485..4486
+                     /gene="HCISE00858"
+     S               4487..4488
+                     /gene="HCISE00858"
+     M               4489..4596
+                     /gene="HCISE00858"
+     5               4597..4598
+                     /gene="HCISE00858"
+     I               4599..4653
+                     /gene="HCISE00858"
+     3               4654..4655
+                     /gene="HCISE00858"
+     M               4656..4688
+                     /gene="HCISE00858"
+     G               4689..4697
+                     /gene="HCISE00858"
+     M               4698..4961
+                     /gene="HCISE00858"
+     5               4962..4963
+                     /gene="HCISE00858"
+     I               4964..5010
+                     /gene="HCISE00858"
+     3               5011..5012
+                     /gene="HCISE00858"
+     M               5013..5138
+                     /gene="HCISE00858"
+     CDS             join(1..45,46..47,453,454..645,712..801,802..803,872,
+                     873..1025,2258..2548,2602..2757,2758,2828..2829,2830..2946,
+                     3000..3098,3099,3473..3474,3475..3522,3523..3615,
+                     3793..3966,3967,4487..4488,4489..4596,4656..4688,
+                     4689..4697,4698..4961,5013..5138)
+                     /translation="QNDAQAINCYNIIIRSCMDMVGLKRLGRNHYDELQKVKLRDYDME
+                     VWPGFETAVRQYEDRLMLCIENRFKMIRTQSVWELMNNVYRHVEYNLERFHAKIEELLV
+                     GETVFARYNNKMYRVTSINYEMSPGATFTLCDGSVTTLKEYFEKNYNLSVTQMKQPVLI
+                     SEGKVKQPGEAPHCAYLLPELCFPTGLTESMRKDFRHMRELSQHTRLDPEKRRITTENL
+                     LERIHKNERCLVLLQKWGIELEEKLISFQSRELEPEKLIGIRPHGYFGQRAEWSRGVRQ
+                     HGNYRGVYLQNWIVIAPNTIMALNLASHFIEEVKNMGEAMHIQVNYPMLHSCNDISATS
+                     YHKAVLEAMQRAAAQPIHMIVIILADDSKARYDLLKSWLCTETNIPSQCVQLSTLRGRQ
+                     HEGRNKNFMSIVLKILLQMNCKMGGALWKVNIPVKNAMIVGYDLYHDSTLRGQTVGACV
+                     STTDTDYTQFYSQTRPHDNPTELGTNLGVFIKKALQKYFVNNNGSLPEKIFLYRDGVGD
+                     GQIPFVKEQEVTQVKQACIEISKTVGLDPVLNPIKLAFIIVTKKVNMRIFKGSPDTTLT
+                     NPSPGTVVDSVITRPERYDFYLVPQHVSQGTVTPVCYNVIYDDTGLEPDQHHKLAFKLC
+                     HLYYNWQGTVRVPAPCQYAHKLAFMVAQSIHRNVNE"
+                     /gene="PIWI"
+ORIGIN
+        1 caaaatgacg ctcaagcaat caattgctac aacattatca taaggaggtg tctggttgta
+       61 tacttatatg tttacttctt cattttaagt aacatatcac tgataaattc ttcgaatgac
+      121 aaagacgaaa ctatagtagc ataagcgtat tgagaaaaca ctgtttctta ctccaataag
+      181 agaaaaaaac ttcagaaggg tggttttgga atttgtagcg tagcttttgg tagtgaactg
+      241 atggtattca aatctcggtg aagaaaattg aatgtaaaaa tatatgtttg gtattagttc
+      301 gtctacatct agttgttgtt taacaaaaga atcacaaata cagtgctatt ctcttgctga
+      361 aagtggtact aaatggattt tctcaagagt ttttttgaca tcagtgttcc attcggttgg
+      421 aaatatgata tgaagtaaag agtattttcc agttgcatgg acatggtagg attaaaacgt
+      481 ttgggaagga accattacga tgagttgcaa aaggtgaaac tcagagatta cgacatggaa
+      541 gtgtggccag gattcgaaac tgctgtaaga caatatgagg atcgacttat gttatgtatc
+      601 gagaatcgct ttaaaatgat acgaactcag tcagtatggg aattggttgg ttttcttttt
+      661 tggatgtgct ctaaattatt cctataatat ttgatatgag taatcattca gatgaacaat
+      721 gtataccgtc atgtagagta caaccttgag agatttcatg ctaaaattga ggaattgctt
+      781 gttggagaaa cagtttttgc gcggtttgtt tcattatttg tacgcttagc taactttttt
+      841 tctcaaattc ccttacttta cctagttgta gatacaacaa taagatgtat cgtgttacat
+      901 ctatcaatta cgagatgtca ccaggagcta ctttcacact ttgtgatggt tctgtcacaa
+      961 ctttgaaaga atatttcgag aagaattaca atttaagcgt aacccagatg aagcaacccg
+     1021 tcctcgtacg ttctattatt caaagttttt ttttnttttt ttttaaatta catgctcatc
+     1081 tgttagttga tttctcgaca aaactggtaa actctgaaat ttgagcaaag tcatctgcga
+     1141 catcccatgg tacttagttc tgaatcattg gagaatctcc atttttactc gattgttaag
+     1201 ccatttatga aagcaagtca aataatattt ctcgaaatct agtagcaaaa tgatgagtat
+     1261 cactccgaat cataagtaac agctagaact tgtgctgacg agccgtaaat aattcgcccg
+     1321 caacacaata atttcacttt atttcacatt caaaacctca tcagtagatt atagagttca
+     1381 acacttgact cttgaaagga tttctagact gtctgttcta agattcaaaa aaaannnnnn
+     1441 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1501 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1561 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn
+     1621 nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnaaaaa aaaggagttc
+     1681 aagtaaatct cgcgctttag ttaatgatct gcaatcagtt gatgatctac gattcttttg
+     1741 tattgtatta atgcgatatt tgagatacat taggcagata ggagaaaggg gtagagcagg
+     1801 taaagcattt tcacgaaatt tggcatatta actgggaatg atgtttaata tctatgcaaa
+     1861 cggtttatat tttgcatacc aagccccaat ttaacattac tttgaacatt agaaattgtc
+     1921 acttgttttc gaaaattcct tcaatatgtt tttaaatacc tgttcatgct tttaaaatca
+     1981 atttaaagat cttggcaaat gtagtagaac cgcgaacgtc aggttcattt attgagaaca
+     2041 atgagtattt attcaaagag agcctgtgta atcgttgaat aattcagtca cgaaactgat
+     2101 gcccctgtcc tcattttgcc tcatctttgt ttaccaacaa tgtctcttat atattaatta
+     2161 gtgtctatat atacaatgat tacgaaatca tattactaaa gttgcttgaa atttttatat
+     2221 tatacagtaa tgggtgaaat attaatgtgg agttcagatt agtgaaggta aagttaaaca
+     2281 accgggtgaa gcgcctcact gtgcgtattt gcttccggag ctctgttttc caactggttt
+     2341 aaccgaatca atgaggaagg attttcgtca tatgagagag ctttcgcaac acacacgctt
+     2401 ggatccggaa aaacgacgta tcacaacaga aaatttgctg gaaaggattc acaagaatga
+     2461 aaggtgttta gtacttctgc aaaaatgggg aatcgaatta gaagaaaagc ttatcagctt
+     2521 ccaatctaga gaactagagc cagaaaaggt atttaatatg gccaagttta tgaactcaga
+     2581 aatttgaagc aaagatttca gcttattgga attcgaccac acggctactt tggacaacga
+     2641 gctgaatggt ctagaggtgt ccgtcaacac ggaaattatc gtggtgtata tcttcaaaac
+     2701 tggatagtga ttgcacccaa tacgattatg gcactaaatc tagctagcca tttcattggt
+     2761 atgtggtttt catcgaaatt cttttttgaa cactcaaagg gttattttta aatgtatgac
+     2821 ggtacagaag aagtaaaaaa tatgggcgag gctatgcaca ttcaagttaa ttatccgatg
+     2881 ctacattctt gtaatgatat atcagcaact tcgtatcaca aagctgttct tgaagcgatg
+     2941 caaagggtaa gtgtagttac tatttcattc tggacagttc tatacatttt ctatattagg
+     3001 cggccgctca acctatccat atgatagtga tcatcctggc tgacgatagc aaagctcgtt
+     3061 atgacttgct gaaaagttgg ctgtgcacgg aaacaaatag tttgttttat acttcgtctt
+     3121 tattttaaag tgaaaagttg atgctacatg tgagatagta ctgtagcagc acatcattta
+     3181 gtgagaatgc tgttataaat aacaaaccaa taatagtgac aggttaaaaa ttcacctatg
+     3241 ttcgtcatgg ttaaatttta gattcatagt ctttaatcaa gcagattatt ggatattctg
+     3301 cagagttttg caaagctctg atttcaggaa gtaatttata tacagtttca acaaatatgt
+     3361 ttcatcgctg aagttatgtc ttcaatcggt gagacgtcga aaactctgaa tgacaaatgt
+     3421 tgaatagaaa tcaagtaaaa aatagcagta tttcaatagc tttctaattt agttccatca
+     3481 caatgtgtgc agttatctac gctacgtgga cgtcaacacg agggacgtaa caaaaatttt
+     3541 atgtcaatcg tactgaagat attgttgcag atgaattgta aaatgggtgg tgcactctgg
+     3601 aaagttaata ttcctgtacg ttatttgttt atgccacaga tttttgactt aacgctgaaa
+     3661 atgtgctatt tcaactgctt ttattgtaga atatacttaa caaaaacttc ccactttttg
+     3721 gcggaaaaat cgggattgta gtaatgcata tttgataact gtttaagata gaacatcaaa
+     3781 aacatttttt aggtcaaaaa tgcaatgatt gtcgggtacg atctatatca cgactcaacg
+     3841 cttcgaggac aaactgttgg ggcatgtgtt tctacaaccg atacagatta cacccagttt
+     3901 tattctcaga cacgtccaca tgacaatcca actgagcttg gtacaaatct aggtgttttt
+     3961 attaagagtg agtttctact gtatagctgt aaaaagtttt gcaaaaattc acttagtgat
+     4021 gcacttataa atttgactga tactaatgtg ttgggagcaa aaataacttc aatcgatttc
+     4081 ctttcactga ttcaaaacgt gttctatgtt tttgaaacaa aaggtgccaa aaagatatct
+     4141 tcaatcaatc atcaattttt ctacgtttgg taagtgttgt tcgttaaata cgggtccaga
+     4201 acaatatgtt ttaagtactt atagtatagt atatagtata gaagtcttta tgcacatatg
+     4261 tggatcttta ctgacaataa aactaacaaa cccgtttcct tcttgtcggc acacaacttc
+     4321 agggactttg attcctcgtc atgaaactgc aatctttatc catagtttta caacttacgt
+     4381 tttcgaatca tggtactctg acaaagtgaa attctcagtg aatattatgc tttttattca
+     4441 tgagcgatgt agttcattca tgcaattcat tgattttctc tttcagaggc gctccagaaa
+     4501 tattttgtga ataacaatgg atctcttcct gaaaagattt ttctgtatcg tgatggtgtt
+     4561 ggagatggtc agattccttt cgtcaaagaa caagaagtag taatttcttc gtttccgttg
+     4621 cctcttaatc ataagtagca agtgcatatc ttcaggtcac gcaagtaaaa caggcttgca
+     4681 ttgaaatctc taaaaccgtt ggcttggatc ccgtacttaa cccaataaaa ttagctttta
+     4741 taatcgtaac aaaaaaagtc aacatgagaa tcttcaaggg gtctccagat actacgctta
+     4801 caaatcctag ccctggtact gttgttgatt ctgtcattac tcgtccagag aggtatgact
+     4861 tttatttggt gccacaacat gtcagccaag gaactgtgac tcctgtttgt tacaatgtga
+     4921 tttatgatga caccggcttg gaaccagacc aacatcataa ggtgggtgct catgtaattg
+     4981 ttaatcttct ctaattgaac tgctttctta agcttgcttt taaactttgc cacctgtatt
+     5041 acaactggca aggtacggtc agagtgccag ctccttgtca atatgctcac aaactggcat
+     5101 tcatggtggc tcaatcaatt catagaaatg tgaatgaa
+//
+LOCUS       dict|tfa|106             378 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: MhA1_Conti , target: NODE_81602_length_37364_cov_14.339043 ,
+            HSPID: 106
+ACCESSION   dict|tfa|106
+VERSION     dict|tfa|106
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..378
+                     /vulgar="M 48 144 5 0 2 I 0 53 3 0 2 M 59 177"
+                     /qid="MhA1_Conti"
+                     /tstrand="+"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="281"
+                     /qtype="Protein"
+                     /tfull="GAATTGCGTTTTCCAAAGCTTCCGTGCCTCCATGTGGGACCGCCCACACGC
+                     AATATATTCTTTCCTCTTGAAGTTTGCGAGATGGATACGCCACAAAAATACAATAAAAA
+                     GCTAAGTGAAAAACAAACGAGCTCTATTATTAGGGTAAGTTTTAAGATTAGTTTTCAAA
+                     CAGTTTGGTATTTCGTAATGCTTTTTATTTAGGCTGCAGCTGTTGACGCATCACAGAGG
+                     GAGGAACGAATTGCTCAACTTTGTCAGCAGGCAGGATTCGACCGAGATCCTTTTCTGAA
+                     AGAATTTGGACTCTCAGTCTCCTCTAGAATGTTTGAAACGATGGCGAGAGTTATTCAAC
+                     CACCTCAGATAATGTTTGGTGACAATTCTAAG"
+                     /qfull="QLKYPHLPCLQVGQEQKHTYLPLEVCEIVSGQRCIKKLSDTQTSTMIKVTA
+                     RNAPDREKEISALVRRAEIVHDPFAQEFGISINSNMTEVKGRVLNAPKLLYGGRTK"
+                     /Etotal="107"
+                     /tend="6543"
+                     /score="239"
+                     /Psim="68.22"
+                     /tid="NODE_81602_length_37364_cov_14.339043"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="388"
+                     /qstrand="."
+                     /Emis="62"
+                     /qlen="107"
+                     /Eident="45"
+                     /qcds
+                     /qname="AGO_Mhap"
+                     /Pident="42.06"
+                     /qdescription
+                     /tlen="378"
+                     /model="protein2genome:local"
+                     /tcds="GAATTGCGTTTTCCAAAGCTTCCGTGCCTCCATGTGGGACCGCCCACACGCA
+                     ATATATTCTTTCCTCTTGAAGTTTGCGAGATGGATACGCCACAAAAATACAATAAAAAG
+                     CTAAGTGAAAAACAAACGAGCTCTATTATTAGGGCTGCAGCTGTTGACGCATCACAGAG
+                     GGAGGAACGAATTGCTCAACTTTGTCAGCAGGCAGGATTCGACCGAGATCCTTTTCTGA
+                     AAGAATTTGGACTCTCAGTCTCCTCTAGAATGTTTGAAACGATGGCGAGAGTTATTCAA
+                     CCACCTCAGATAATGTTTGGTGACAATTCTAAG"
+                     /tbegin="6165"
+                     /Esim="73"
+     M               1..144
+                     /gene="MhA1_Conti"
+     5               145..146
+                     /gene="MhA1_Conti"
+     I               147..199
+                     /gene="MhA1_Conti"
+     3               200..201
+                     /gene="MhA1_Conti"
+     M               202..378
+                     /gene="MhA1_Conti"
+     CDS             join(1..144,202..378)
+                     /translation="ELRFPKLPCLHVGPPTRNIFFPLEVCEMDTPQKYNKKLSEKQTSS
+                     IIRAAAVDASQREERIAQLCQQAGFDRDPFLKEFGLSVSSRMFETMARVIQPPQIMFGD
+                     NSK"
+                     /gene="AGO"
+ORIGIN
+        1 gaattgcgtt ttccaaagct tccgtgcctc catgtgggac cgcccacacg caatatattc
+       61 tttcctcttg aagtttgcga gatggatacg ccacaaaaat acaataaaaa gctaagtgaa
+      121 aaacaaacga gctctattat tagggtaagt tttaagatta gttttcaaac agtttggtat
+      181 ttcgtaatgc tttttattta ggctgcagct gttgacgcat cacagaggga ggaacgaatt
+      241 gctcaacttt gtcagcaggc aggattcgac cgagatcctt ttctgaaaga atttggactc
+      301 tcagtctcct ctagaatgtt tgaaacgatg gcgagagtta ttcaaccacc tcagataatg
+      361 tttggtgaca attctaag
+//
+LOCUS       dict|tfa|112            1065 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: g7616.t1_g , target: NODE_81602_length_37364_cov_14.339043 ,
+            HSPID: 112
+ACCESSION   dict|tfa|112
+VERSION     dict|tfa|112
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..1065
+                     /vulgar="M 33 99 5 0 2 I 0 58 3 0 2 M 50 150 5 0 2 I 0 443
+                     3 0 2 M 49 147 S 0 2 5 0 2 I 0 57 3 0 2 S 1 1 M 32 96"
+                     /qid="g7616.t1_g"
+                     /tstrand="+"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="779"
+                     /qtype="Protein"
+                     /tfull="TTGTTCAGGAATACTAATCAGAAGCCGACTCGAATCATTGTTTATCGTGAT
+                     GGTGTATCGGAAGGTCAATTTGCGGAAGTGCTACGTGAGGAAATTCAAGTGAGAAGCAA
+                     TAAGGTTTTCGTATTACTCCGATGTAAAACGTTTGAATATTTGCGGTTCAGGGTATTCG
+                     ATCGGCTTGTATGATTCTTTCACCAGACTATCGACCGCCCATCACATATGTCGTTGTTC
+                     AAAAACGACATCATGCACGAATGTTTTGTAAATACAGTACAGACATGGTTGGAAAAGCA
+                     AGAAACATCCCACCAGGCACAACCGTAAATACAAAATATATAATTTCAAAATTTTTCCG
+                     AAGATGAAAAATCGGACTACCTTCAAATAAGTATATATCACTATAAAGGATGTTGAAGC
+                     CAGGAGCAGTGAGGCAAAAAAACTAGTTCGAATAATTTGAAGAGCGTGATAGTGAAAAA
+                     TAAGCTTTCGTAGAAGAAATCATCGTTAGAAATCTTGTCGGAAAGTCGTTTCCATTTTG
+                     TCTACTCAGTTGGTACAGTAGAAATTGACCCACTGGAAAAAATGTATTTCCTCAGAAGA
+                     TGATGAAATGATGAAACAACAAAATATGATCATGGTTTTGAATAGATCTGCGAGTCCAA
+                     TAAGAACGACTAAATTTCTAGACAAATTCCTAGCGCATTCATTCAGTACATGAATTCAA
+                     ACATCGTGAAAAATACCTCAAACAACCTCCGGCATTCACTCAATCAGTTTAGTCTTAGG
+                     TCGACACTGGAATAGTTTCACCGGAAGGATTTGATTTCTATCTTTGTTCACATTATGGT
+                     GTACAGGGAACTTCTCGTCCAGCCAGATACCATGTTTTATGGGATGATAATAATTTTAG
+                     CGCCGATGAAATGCAAGCAATAACTTATGGGTAGGTTAAAATTGGATAGTACAAGTTTT
+                     CAATGTGCTCAATTTAAAATGTTTGTTTGCAGGATGTGCCACACATATGGACGCTGTGC
+                     ACGTTCTGTTTCCATTCCGGCTCCAGTGTATTACGCCGATCTTGTAGCCACCAGAGCCC
+                     GATGCCACATT"
+                     /qfull="FYRNTRFKPTRIILYRDGVSEGQFLNVLQAELRSIREACMMLERGYQPGIT
+                     FIAVQKRHHTRLFAMDKKDQVGKAFNIPPGTTVDVGITHPTEFDFYLCSHAGIQGTSRP
+                     SHYHVLWDDNNLSADELQQLTYQMCHTYVRCTRSVSIPAPAYYAHLVAFRARYHL"
+                     /Etotal="164"
+                     /tend="9633"
+                     /score="575"
+                     /Psim="78.05"
+                     /tid="NODE_81602_length_37364_cov_14.339043"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="944"
+                     /qstrand="."
+                     /Emis="51"
+                     /qlen="165"
+                     /Eident="113"
+                     /qcds="Q"
+                     /qname="AGO_Pred"
+                     /Pident="68.90"
+                     /qdescription
+                     /tlen="1065"
+                     /model="protein2genome:local"
+                     /tcds="TTGTTCAGGAATACTAATCAGAAGCCGACTCGAATCATTGTTTATCGTGATG
+                     GTGTATCGGAAGGTCAATTTGCGGAAGTGCTACGTGAGGAAATTCAAGGTATTCGATCG
+                     GCTTGTATGATTCTTTCACCAGACTATCGACCGCCCATCACATATGTCGTTGTTCAAAA
+                     ACGACATCATGCACGAATGTTTTGTAAATACAGTACAGACATGGTTGGAAAAGCAAGAA
+                     ACATCCCACCAGGCACAACCGTCGACACTGGAATAGTTTCACCGGAAGGATTTGATTTC
+                     TATCTTTGTTCACATTATGGTGTACAGGGAACTTCTCGTCCAGCCAGATACCATGTTTT
+                     ATGGGATGATAATAATTTTAGCGCCGATGAAATGCAAGCAATAACTTATGGGATGTGCC
+                     ACACATATGGACGCTGTGCACGTTCTGTTTCCATTCCGGCTCCAGTGTATTACGCCGAT
+                     CTTGTAGCCACCAGAGCCCGATGCCACATT"
+                     /tbegin="8568"
+                     /Esim="128"
+     M               1..99
+                     /gene="g7616.t1_g"
+     5               100..101
+                     /gene="g7616.t1_g"
+     I               102..159
+                     /gene="g7616.t1_g"
+     3               160..161
+                     /gene="g7616.t1_g"
+     M               162..311
+                     /gene="g7616.t1_g"
+     5               312..313
+                     /gene="g7616.t1_g"
+     I               314..756
+                     /gene="g7616.t1_g"
+     3               757..758
+                     /gene="g7616.t1_g"
+     M               759..905
+                     /gene="g7616.t1_g"
+     S               906..907
+                     /gene="g7616.t1_g"
+     5               908..909
+                     /gene="g7616.t1_g"
+     I               910..966
+                     /gene="g7616.t1_g"
+     3               967..968
+                     /gene="g7616.t1_g"
+     S               969
+                     /gene="g7616.t1_g"
+     M               970..1065
+                     /gene="g7616.t1_g"
+     CDS             join(1..99,162..311,759..905,906..907,969,970..1065)
+                     /translation="LFRNTNQKPTRIIVYRDGVSEGQFAEVLREEIQGIRSACMILSPD
+                     YRPPITYVVVQKRHHARMFCKYSTDMVGKARNIPPGTTVDTGIVSPEGFDFYLCSHYGV
+                     QGTSRPARYHVLWDDNNFSADEMQAITYGMCHTYGRCARSVSIPAPVYYADLVATRARC
+                     HI"
+                     /gene="AGO"
+ORIGIN
+        1 ttgttcagga atactaatca gaagccgact cgaatcattg tttatcgtga tggtgtatcg
+       61 gaaggtcaat ttgcggaagt gctacgtgag gaaattcaag tgagaagcaa taaggttttc
+      121 gtattactcc gatgtaaaac gtttgaatat ttgcggttca gggtattcga tcggcttgta
+      181 tgattctttc accagactat cgaccgccca tcacatatgt cgttgttcaa aaacgacatc
+      241 atgcacgaat gttttgtaaa tacagtacag acatggttgg aaaagcaaga aacatcccac
+      301 caggcacaac cgtaaataca aaatatataa tttcaaaatt tttccgaaga tgaaaaatcg
+      361 gactaccttc aaataagtat atatcactat aaaggatgtt gaagccagga gcagtgaggc
+      421 aaaaaaacta gttcgaataa tttgaagagc gtgatagtga aaaataagct ttcgtagaag
+      481 aaatcatcgt tagaaatctt gtcggaaagt cgtttccatt ttgtctactc agttggtaca
+      541 gtagaaattg acccactgga aaaaatgtat ttcctcagaa gatgatgaaa tgatgaaaca
+      601 acaaaatatg atcatggttt tgaatagatc tgcgagtcca ataagaacga ctaaatttct
+      661 agacaaattc ctagcgcatt cattcagtac atgaattcaa acatcgtgaa aaatacctca
+      721 aacaacctcc ggcattcact caatcagttt agtcttaggt cgacactgga atagtttcac
+      781 cggaaggatt tgatttctat ctttgttcac attatggtgt acagggaact tctcgtccag
+      841 ccagatacca tgttttatgg gatgataata attttagcgc cgatgaaatg caagcaataa
+      901 cttatgggta ggttaaaatt ggatagtaca agttttcaat gtgctcaatt taaaatgttt
+      961 gtttgcagga tgtgccacac atatggacgc tgtgcacgtt ctgtttccat tccggctcca
+     1021 gtgtattacg ccgatcttgt agccaccaga gcccgatgcc acatt
+//
+LOCUS       dict|tfa|142            2398 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5EE53| , target: NODE_111727_length_38035_cov_15.266070
+            [revcomp], HSPID: 142
+ACCESSION   dict|tfa|142
+VERSION     dict|tfa|142
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..2398
+                     /vulgar="M 32 96 5 0 2 I 0 84 3 0 2 M 27 81 S 0 2 5 0 2 I 0
+                     86 3 0 2 S 1 1 M 19 57 5 0 2 I 0 718 3 0 2 M 22 66 5 0 2 I
+                     0 49 3 0 2 M 29 87 S 0 1 5 0 2 I 0 59 3 0 2 S 1 2 M 22 66 G
+                     1 0 M 34 102 5 0 2 I 0 62 3 0 2 M 47 141 S 0 1 5 0 2 I 0
+                     116 3 0 2 S 1 2 M 48 144 S 0 1 5 0 2 I 0 64 3 0 2 S 1 2 M
+                     40 120 5 0 2 I 0 50 3 0 2 M 34 102"
+                     /qid="tr|G5EE53|"
+                     /tstrand="-"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="847"
+                     /qtype="Protein"
+                     /tfull="TACTGTTTTTCAGATGGATGTGGTCGAGTGGCTCCGTCTCTTGCTCGGCGG
+                     ATAGCTTTAGCCCTACAACTTGAGATCGTTCCCAGCTGTTACCAGGTTTGACTTTTACC
+                     ATTTATCTTGATTAAATACATTTTAACATACATTTTTAGTTTTTTGGCAACAGAAATCA
+                     AACTATTTCATTAAGGTTCGTTTCAAAGGTTTCAAAGGCGTGCTAGCGGTTGATCCATC
+                     TCTTGATTTGATGAAAAATGGGCCGAAAATTGTTTTCAGGTTATCTGCATAAAGATTGA
+                     AACACGGTTTAAATCTTAAAGTCTCAACTGCACATTTAATTCGTGTTAGTTTTATAACG
+                     TACTTCTTTAGGAAGAGCCAAATGAAATTCAAAGAAAGATGTGAGGAACAAGAGAATAA
+                     TGTTCTTGAGGTGTGTCATTGTGTTTAGTGATGCAGTGGCTTTGATAGGAATATGGTTT
+                     ACATGGTTAACTGTCCAAATAAATAGATTGGTCGATTAACCCCCCCNCCCCCCCTCTTG
+                     AGTTTGTCACGCGAGACTTTAGTAGCGGCTTCAGAGTGAAACCTTAATTCAGAGTACAT
+                     TAAAAAACAATAAAAAACAATGAAAGTAGTACATGGCTGTGAGTTGAGAATTTGTGGGT
+                     GGAGACTTCGAGATTTTGGAAGAATGTGCTTTTTAGTTCTTCAACCGTTCCATCTTAGA
+                     TATCGATTCCGTAAGCTATTATAAGTTTCCAAATAATAATACGTTTTCGCTAATTTGGG
+                     CATGTACAGTATCTCATTTAGGCTTTGCGCTTTTGAACTGGTGTTCCAGAAAATCAGTG
+                     TTTGAGCAAGGTCAAAAAAAAAACAATTTTAGGTTGTAGTACTGCTTAGAAACATTCAA
+                     ATAATATCTGGATACCGAAATTGTGGAGGAAGACAGACAGCCTTTTTAAGCTATACAAC
+                     AATCCTAACTACTATCCAGTAATAAATGAGAAGTGGATAGAGGACATTCGATATTCAGA
+                     GAATTCTTAACATATTATGCCCTTAATTCCATTGGCTTGAATCCTCCTTCATTTTTTTA
+                     TATCACAACAATAAAACTCAAAGTAATGTACTAGCATCGTTTCAAATTTAATGTTTTTA
+                     TAGTAAATTAAAACATTTCTACAGGTGGTAAAATATTCTATGCCATCTGCTGTGTGTCT
+                     CAACCGTCCACTAATAACAATTTTAGATCAGGTACGTTAACTGATTCAAATTAGCATGA
+                     TTTTATTTTTCCACTTCAGTTGTAGGTTACACAAAAGCAGTCTCAGTGGCTTCATAAAA
+                     AACTATGCAGCAAAGTTCATAGTTACCTTGAAAGAGAATTATCACAACTTGGAGGTCAT
+                     AATCTCTTTCTTTCTTTTTGTTCCATTTTAACAGTGGGAAATGGTTGTATTGTTCTAGC
+                     CATGCTTTTGGATGATTCGGTTGCTGGTGAAGAACTCACGCTTCGTTTGAACCTTCCTA
+                     TTAATTTTGTTCGGCTGAGACAGTGTGGTATTTGCATCACTAATGAACCATTCTTACGA
+                     CGAGTTTTGGTCTCTGTTTATAGATACAATATCAATAATCATCTTAGTAAGGTAACTGA
+                     ATTGGAGTTTTTTTGTACTAGAAACAGACAAGTTTCTATTATTTCGTCGGGAATTAAGG
+                     CTAAGATCTTCCTCCCTCACTCGGTTGGCCGCTCAATGTATGGCGTTTTTGATGAGACT
+                     GGTCTCTTACAATACGGGCAAGTGTTTATACAATATTCAGCGTCTGTTAAAAAGCCTGA
+                     TGGGAAACTAAAAATTTATACAGGTAGGTCCTTTAGAATATACCACTTTGTTTTTCCAA
+                     TATACCACGTTCACAGTTGTTTTTATCTGTTGTTTATTTATGATAGTATATTATCTCCA
+                     TGACACTGAGTTGATCAGAATACAGGTCCGGTTATGATAACGAAAAACCCATGTCATGT
+                     TGCTGGAGATGTGAGAATGTTCACAGCTGTATATCAGCCTGCCTTAGCTCATCTATTCG
+                     ACGTTGTTGTTTTTCCTGGACACGGACCTCGCCCTCATCCTGATGAAATGGCTGGTAAA
+                     CACAAGTTTTAGTCAAATACAAACAATTTTAAATGTTGAAATTTTGTGATTTACTTATT
+                     TGAGGAAGTGATCTGGATGGTGACGAGTATTCGGTAATATTTGACCCAGATATTTACTT
+                     CAATCAGAATGAAGAAGCTATGACGTTTCCAAAAAGCTCTCCTGATGATTTCGACGCTG
+                     CTCCAACGGCATATACTTCTCTAATCTTTTTTTAGTGTTCAATCATATTGATGAAAATT
+                     TAGACCGATGACATGGTGGACTTCTTTCTCAAATACCTGAGACAAGACTCAATTGGTAG
+                     AATGAGCAATGCCCATTTAATACTGGCTGATCGGAAGGGATTATTT"
+                     /qfull="YCFSDGCGRISIKLATHISKILQLKEVPACFQVRFKGFKGILVIDPTIDDI
+                     INMPKVIFRKSQQKFGEGGGELQDEYLEVVKYAMPSPVCLNRPFITILDQVSEKQSASS
+                     HRRITNRVHYYLERELCSLSNMLINENQAAEELVNRTNLAIDWNAASKRAGFELSVDPL
+                     IRDMLFSIYRYNIIHHISKAKIFLPPSLGRSMYGVVDETGLLQYGQVFIQYSPSIRQTS
+                     NRPILKTGKVLITKNPCHVPGDVRVFDAVWQPALAHLVDVVVFPQHGPRPHPDEMAGSD
+                     LDGDEYSIIWDQEMLLDYNEEAMVFPSSSAAEEDKEPTTDDMVEFFLRYLQQDSIGRMS
+                     HAHLAYADLHGLF"
+                     /Etotal="354"
+                     /tend="819"
+                     /score="986"
+                     /Psim="78.81"
+                     /tid="NODE_111727_length_38035_cov_15.266070"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="1206"
+                     /qstrand="."
+                     /Emis="133"
+                     /qlen="359"
+                     /Eident="221"
+                     /qcds="RNGG"
+                     /qname="RDRP_Cele_rrf3"
+                     /Pident="62.43"
+                     /qdescription
+                     /tlen="2398"
+                     /model="protein2genome:local"
+                     /tcds="TACTGTTTTTCAGATGGATGTGGTCGAGTGGCTCCGTCTCTTGCTCGGCGGA
+                     TAGCTTTAGCCCTACAACTTGAGATCGTTCCCAGCTGTTACCAGGTTCGTTTCAAAGGT
+                     TTCAAAGGCGTGCTAGCGGTTGATCCATCTCTTGATTTGATGAAAAATGGGCCGAAAAT
+                     TGTTTTCAGGAAGAGCCAAATGAAATTCAAAGAAAGATGTGAGGAACAAGAGAATAATG
+                     TTCTTGAGGTGGTAAAATATTCTATGCCATCTGCTGTGTGTCTCAACCGTCCACTAATA
+                     ACAATTTTAGATCAGGTTACACAAAAGCAGTCTCAGTGGCTTCATAAAAAACTATGCAG
+                     CAAAGTTCATAGTTACCTTGAAAGAGAATTATCACAACTTGGAGCCATGCTTTTGGATG
+                     ATTCGGTTGCTGGTGAAGAACTCACGCTTCGTTTGAACCTTCCTATTAATTTTGTTCGG
+                     CTGAGACAGTGTGGTATTTGCATCACTAATGAACCATTCTTACGACGAGTTTTGGTCTC
+                     TGTTTATAGATACAATATCAATAATCATCTTAGTAAGGCTAAGATCTTCCTCCCTCACT
+                     CGGTTGGCCGCTCAATGTATGGCGTTTTTGATGAGACTGGTCTCTTACAATACGGGCAA
+                     GTGTTTATACAATATTCAGCGTCTGTTAAAAAGCCTGATGGGAAACTAAAAATTTATAC
+                     AGGTCCGGTTATGATAACGAAAAACCCATGTCATGTTGCTGGAGATGTGAGAATGTTCA
+                     CAGCTGTATATCAGCCTGCCTTAGCTCATCTATTCGACGTTGTTGTTTTTCCTGGACAC
+                     GGACCTCGCCCTCATCCTGATGAAATGGCTGGAAGTGATCTGGATGGTGACGAGTATTC
+                     GGTAATATTTGACCCAGATATTTACTTCAATCAGAATGAAGAAGCTATGACGTTTCCAA
+                     AAAGCTCTCCTGATGATTTCGACGCTGCTCCAACGACCGATGACATGGTGGACTTCTTT
+                     CTCAAATACCTGAGACAAGACTCAATTGGTAGAATGAGCAATGCCCATTTAATACTGGC
+                     TGATCGGAAGGGATTATTT"
+                     /tbegin="3217"
+                     /Esim="279"
+     M               1..96
+                     /gene="tr|G5EE53|"
+     5               97..98
+                     /gene="tr|G5EE53|"
+     I               99..182
+                     /gene="tr|G5EE53|"
+     3               183..184
+                     /gene="tr|G5EE53|"
+     M               185..265
+                     /gene="tr|G5EE53|"
+     S               266..267
+                     /gene="tr|G5EE53|"
+     5               268..269
+                     /gene="tr|G5EE53|"
+     I               270..355
+                     /gene="tr|G5EE53|"
+     3               356..357
+                     /gene="tr|G5EE53|"
+     S               358
+                     /gene="tr|G5EE53|"
+     M               359..415
+                     /gene="tr|G5EE53|"
+     5               416..417
+                     /gene="tr|G5EE53|"
+     I               418..1135
+                     /gene="tr|G5EE53|"
+     3               1136..1137
+                     /gene="tr|G5EE53|"
+     M               1138..1203
+                     /gene="tr|G5EE53|"
+     5               1204..1205
+                     /gene="tr|G5EE53|"
+     I               1206..1254
+                     /gene="tr|G5EE53|"
+     3               1255..1256
+                     /gene="tr|G5EE53|"
+     M               1257..1343
+                     /gene="tr|G5EE53|"
+     S               1344
+                     /gene="tr|G5EE53|"
+     5               1345..1346
+                     /gene="tr|G5EE53|"
+     I               1347..1405
+                     /gene="tr|G5EE53|"
+     3               1406..1407
+                     /gene="tr|G5EE53|"
+     S               1408..1409
+                     /gene="tr|G5EE53|"
+     M               1410..1475
+                     /gene="tr|G5EE53|"
+     G               1475^1476
+                     /gene="tr|G5EE53|"
+     M               1476..1577
+                     /gene="tr|G5EE53|"
+     5               1578..1579
+                     /gene="tr|G5EE53|"
+     I               1580..1641
+                     /gene="tr|G5EE53|"
+     3               1642..1643
+                     /gene="tr|G5EE53|"
+     M               1644..1784
+                     /gene="tr|G5EE53|"
+     S               1785
+                     /gene="tr|G5EE53|"
+     5               1786..1787
+                     /gene="tr|G5EE53|"
+     I               1788..1903
+                     /gene="tr|G5EE53|"
+     3               1904..1905
+                     /gene="tr|G5EE53|"
+     S               1906..1907
+                     /gene="tr|G5EE53|"
+     M               1908..2051
+                     /gene="tr|G5EE53|"
+     S               2052
+                     /gene="tr|G5EE53|"
+     5               2053..2054
+                     /gene="tr|G5EE53|"
+     I               2055..2118
+                     /gene="tr|G5EE53|"
+     3               2119..2120
+                     /gene="tr|G5EE53|"
+     S               2121..2122
+                     /gene="tr|G5EE53|"
+     M               2123..2242
+                     /gene="tr|G5EE53|"
+     5               2243..2244
+                     /gene="tr|G5EE53|"
+     I               2245..2294
+                     /gene="tr|G5EE53|"
+     3               2295..2296
+                     /gene="tr|G5EE53|"
+     M               2297..2398
+                     /gene="tr|G5EE53|"
+     CDS             join(1..96,185..265,266..267,358,359..415,1138..1203,
+                     1257..1343,1344,1408..1409,1410..1475,1476..1577,
+                     1644..1784,1785,1906..1907,1908..2051,2052,2121..2122,
+                     2123..2242,2297..2398)
+                     /translation="YCFSDGCGRVAPSLARRIALALQLEIVPSCYQVRFKGFKGVLAVD
+                     PSLDLMKNGPKIVFRKSQMKFKERCEEQENNVLEVVKYSMPSAVCLNRPLITILDQVTQ
+                     KQSQWLHKKLCSKVHSYLERELSQLGAMLLDDSVAGEELTLRLNLPINFVRLRQCGICI
+                     TNEPFLRRVLVSVYRYNINNHLSKAKIFLPHSVGRSMYGVFDETGLLQYGQVFIQYSAS
+                     VKKPDGKLKIYTGPVMITKNPCHVAGDVRMFTAVYQPALAHLFDVVVFPGHGPRPHPDE
+                     MAGSDLDGDEYSVIFDPDIYFNQNEEAMTFPKSSPDDFDAAPTTDDMVDFFLKYLRQDS
+                     IGRMSNAHLILADRKGLF"
+                     /gene="RDRP"
+ORIGIN
+        1 tactgttttt cagatggatg tggtcgagtg gctccgtctc ttgctcggcg gatagcttta
+       61 gccctacaac ttgagatcgt tcccagctgt taccaggttt gacttttacc atttatcttg
+      121 attaaataca ttttaacata catttttagt tttttggcaa cagaaatcaa actatttcat
+      181 taaggttcgt ttcaaaggtt tcaaaggcgt gctagcggtt gatccatctc ttgatttgat
+      241 gaaaaatggg ccgaaaattg ttttcaggtt atctgcataa agattgaaac acggtttaaa
+      301 tcttaaagtc tcaactgcac atttaattcg tgttagtttt ataacgtact tctttaggaa
+      361 gagccaaatg aaattcaaag aaagatgtga ggaacaagag aataatgttc ttgaggtgtg
+      421 tcattgtgtt tagtgatgca gtggctttga taggaatatg gtttacatgg ttaactgtcc
+      481 aaataaatag attggtcgat taaccccccc nccccccctc ttgagtttgt cacgcgagac
+      541 tttagtagcg gcttcagagt gaaaccttaa ttcagagtac attaaaaaac aataaaaaac
+      601 aatgaaagta gtacatggct gtgagttgag aatttgtggg tggagacttc gagattttgg
+      661 aagaatgtgc tttttagttc ttcaaccgtt ccatcttaga tatcgattcc gtaagctatt
+      721 ataagtttcc aaataataat acgttttcgc taatttgggc atgtacagta tctcatttag
+      781 gctttgcgct tttgaactgg tgttccagaa aatcagtgtt tgagcaaggt caaaaaaaaa
+      841 acaattttag gttgtagtac tgcttagaaa cattcaaata atatctggat accgaaattg
+      901 tggaggaaga cagacagcct ttttaagcta tacaacaatc ctaactacta tccagtaata
+      961 aatgagaagt ggatagagga cattcgatat tcagagaatt cttaacatat tatgccctta
+     1021 attccattgg cttgaatcct ccttcatttt tttatatcac aacaataaaa ctcaaagtaa
+     1081 tgtactagca tcgtttcaaa tttaatgttt ttatagtaaa ttaaaacatt tctacaggtg
+     1141 gtaaaatatt ctatgccatc tgctgtgtgt ctcaaccgtc cactaataac aattttagat
+     1201 caggtacgtt aactgattca aattagcatg attttatttt tccacttcag ttgtaggtta
+     1261 cacaaaagca gtctcagtgg cttcataaaa aactatgcag caaagttcat agttaccttg
+     1321 aaagagaatt atcacaactt ggaggtcata atctctttct ttctttttgt tccattttaa
+     1381 cagtgggaaa tggttgtatt gttctagcca tgcttttgga tgattcggtt gctggtgaag
+     1441 aactcacgct tcgtttgaac cttcctatta attttgttcg gctgagacag tgtggtattt
+     1501 gcatcactaa tgaaccattc ttacgacgag ttttggtctc tgtttataga tacaatatca
+     1561 ataatcatct tagtaaggta actgaattgg agtttttttg tactagaaac agacaagttt
+     1621 ctattatttc gtcgggaatt aaggctaaga tcttcctccc tcactcggtt ggccgctcaa
+     1681 tgtatggcgt ttttgatgag actggtctct tacaatacgg gcaagtgttt atacaatatt
+     1741 cagcgtctgt taaaaagcct gatgggaaac taaaaattta tacaggtagg tcctttagaa
+     1801 tataccactt tgtttttcca atataccacg ttcacagttg tttttatctg ttgtttattt
+     1861 atgatagtat attatctcca tgacactgag ttgatcagaa tacaggtccg gttatgataa
+     1921 cgaaaaaccc atgtcatgtt gctggagatg tgagaatgtt cacagctgta tatcagcctg
+     1981 ccttagctca tctattcgac gttgttgttt ttcctggaca cggacctcgc cctcatcctg
+     2041 atgaaatggc tggtaaacac aagttttagt caaatacaaa caattttaaa tgttgaaatt
+     2101 ttgtgattta cttatttgag gaagtgatct ggatggtgac gagtattcgg taatatttga
+     2161 cccagatatt tacttcaatc agaatgaaga agctatgacg tttccaaaaa gctctcctga
+     2221 tgatttcgac gctgctccaa cggcatatac ttctctaatc tttttttagt gttcaatcat
+     2281 attgatgaaa atttagaccg atgacatggt ggacttcttt ctcaaatacc tgagacaaga
+     2341 ctcaattggt agaatgagca atgcccattt aatactggct gatcggaagg gattattt
+//
+LOCUS       dict|tfa|143             875 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5EE53| , target: NODE_111727_length_38035_cov_15.266070
+            [revcomp], HSPID: 143
+ACCESSION   dict|tfa|143
+VERSION     dict|tfa|143
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..875
+                     /vulgar="M 14 42 5 0 2 I 0 211 3 0 2 M 53 159 G 0 3 M 1 3 S
+                     0 1 5 0 2 I 0 61 3 0 2 S 1 2 M 33 99 5 0 2 I 0 111 3 0 2 M
+                     57 171"
+                     /qid="tr|G5EE53|"
+                     /tstrand="-"
+                     /file="dictyocaulus.velvet.fa"
+                     /qbegin="667"
+                     /qtype="Protein"
+                     /tfull="GTGAAAAGAACGCTACCGCGAAACTGTGTTCTTGTAAGAAAGGTGTGTTGT
+                     TCATTAGTAAAATCGTTTGATTCAAAGAAAAGTAACAGCACATCAATATAGTACCAAAT
+                     CAAATCAGTAGACATATATTATTGATCAATATGATTTAATTTAGTATCGCCTTGTATCA
+                     CTAGACTAGCTGTGGCAATATATGATAAAATAGTTGTATAGGAAGGAAACTGTATTGAC
+                     AGAGTGCTGTTAATAATGCCATGCTGTAGGTCATGGTGACACCTCTCAAAACATTGTTT
+                     ATGGCACCTGAAGTAATGATGACTAATCGTGTTGTACGTCGCTTCGGTGAAGAAAACGC
+                     TCTACGATGTGTATTTCGTGATGATTCTGGTGCTAGACTTATAGTTAAAGATTTCGTGC
+                     AAGGCCCATGCCATGACCGTAATTTTTTGACTTTTCGTGATCATAAAATTAAAGAATTT
+                     TTTTCACTAAAATTTTTGAAACAGAACAATCATCAATTGTGGCCAACATTGTACAACGA
+                     ACACTTTCACATGGTGTGGAAATTAATAATCGCCACTACCACTTTCTAGCTTGGAGTAA
+                     TTCCCAGGTCAGCTTTTCATTGCATTAGATACTAGAAATTGTAGTGTAGGTTTTATTTC
+                     TAAGAATCAAAATTAGAAATAAGTGTTCATCTCTCAATACTACTCAATTTATGATGCCT
+                     AAAGATGCGCGATCATGGTTGTTACATGTATGCATCAACGTTGAATCATCGTACTGGCG
+                     ATGTCTCCATGACTGTTGAAGATATGAGAAAATGGATGGGAGATTTCAGCAGTAGTAAA
+                     AATGTGCCGAAATTGATGAGTAGAATGGGACAATGTTTTACACAAGCGCAGGTGACA"
+                     /qfull="LAKPLPKNCVSVAKVIVTPSRILLMAPEVMMVNRVVRRFGPDYALRCVFRD
+                     DNLGRLAIRDFSINNIDHMSNIVTEGIYLTLKNGIQVADRVYSFLGWSNSQMRDQGCYL
+                     YAPRVNALTGEVTGTVEDIRVWMGDFRDAISVPKMMSRMGQCFTQAQPT"
+                     /Etotal="158"
+                     /tend="3355"
+                     /score="419"
+                     /Psim="74.68"
+                     /tid="NODE_111727_length_38035_cov_15.266070"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="826"
+                     /qstrand="."
+                     /Emis="64"
+                     /qlen="159"
+                     /Eident="94"
+                     /qcds="H"
+                     /qname="RDRP_Cele_rrf3"
+                     /Pident="59.49"
+                     /qdescription
+                     /tlen="875"
+                     /model="protein2genome:local"
+                     /tcds="GTGAAAAGAACGCTACCGCGAAACTGTGTTCTTGTAAGAAAGGTCATGGTGA
+                     CACCTCTCAAAACATTGTTTATGGCACCTGAAGTAATGATGACTAATCGTGTTGTACGT
+                     CGCTTCGGTGAAGAAAACGCTCTACGATGTGTATTTCGTGATGATTCTGGTGCTAGACT
+                     TATAGTTAAAGATTTCGTGCAAGGCCCATGCCATGACCAACAATCATCAATTGTGGCCA
+                     ACATTGTACAACGAACACTTTCACATGGTGTGGAAATTAATAATCGCCACTACCACTTT
+                     CTAGCTTGGAGTAATTCCCAGATGCGCGATCATGGTTGTTACATGTATGCATCAACGTT
+                     GAATCATCGTACTGGCGATGTCTCCATGACTGTTGAAGATATGAGAAAATGGATGGGAG
+                     ATTTCAGCAGTAGTAAAAATGTGCCGAAATTGATGAGTAGAATGGGACAATGTTTTACA
+                     CAAGCGCAGGTGACA"
+                     /tbegin="4230"
+                     /Esim="118"
+     M               1..42
+                     /gene="tr|G5EE53|"
+     5               43..44
+                     /gene="tr|G5EE53|"
+     I               45..255
+                     /gene="tr|G5EE53|"
+     3               256..257
+                     /gene="tr|G5EE53|"
+     M               258..416
+                     /gene="tr|G5EE53|"
+     G               417..419
+                     /gene="tr|G5EE53|"
+     M               420..422
+                     /gene="tr|G5EE53|"
+     S               423
+                     /gene="tr|G5EE53|"
+     5               424..425
+                     /gene="tr|G5EE53|"
+     I               426..486
+                     /gene="tr|G5EE53|"
+     3               487..488
+                     /gene="tr|G5EE53|"
+     S               489..490
+                     /gene="tr|G5EE53|"
+     M               491..589
+                     /gene="tr|G5EE53|"
+     5               590..591
+                     /gene="tr|G5EE53|"
+     I               592..702
+                     /gene="tr|G5EE53|"
+     3               703..704
+                     /gene="tr|G5EE53|"
+     M               705..875
+                     /gene="tr|G5EE53|"
+     CDS             join(1..42,258..416,417..419,420..422,423,489..490,
+                     491..589,705..875)
+                     /translation="VKRTLPRNCVLVRKVMVTPLKTLFMAPEVMMTNRVVRRFGEENAL
+                     RCVFRDDSGARLIVKDFVQGPCHDQQSSIVANIVQRTLSHGVEINNRHYHFLAWSNSQM
+                     RDHGCYMYASTLNHRTGDVSMTVEDMRKWMGDFSSSKNVPKLMSRMGQCFTQAQVT"
+                     /gene="RDRP"
+ORIGIN
+        1 gtgaaaagaa cgctaccgcg aaactgtgtt cttgtaagaa aggtgtgttg ttcattagta
+       61 aaatcgtttg attcaaagaa aagtaacagc acatcaatat agtaccaaat caaatcagta
+      121 gacatatatt attgatcaat atgatttaat ttagtatcgc cttgtatcac tagactagct
+      181 gtggcaatat atgataaaat agttgtatag gaaggaaact gtattgacag agtgctgtta
+      241 ataatgccat gctgtaggtc atggtgacac ctctcaaaac attgtttatg gcacctgaag
+      301 taatgatgac taatcgtgtt gtacgtcgct tcggtgaaga aaacgctcta cgatgtgtat
+      361 ttcgtgatga ttctggtgct agacttatag ttaaagattt cgtgcaaggc ccatgccatg
+      421 accgtaattt tttgactttt cgtgatcata aaattaaaga atttttttca ctaaaatttt
+      481 tgaaacagaa caatcatcaa ttgtggccaa cattgtacaa cgaacacttt cacatggtgt
+      541 ggaaattaat aatcgccact accactttct agcttggagt aattcccagg tcagcttttc
+      601 attgcattag atactagaaa ttgtagtgta ggttttattt ctaagaatca aaattagaaa
+      661 taagtgttca tctctcaata ctactcaatt tatgatgcct aaagatgcgc gatcatggtt
+      721 gttacatgta tgcatcaacg ttgaatcatc gtactggcga tgtctccatg actgttgaag
+      781 atatgagaaa atggatggga gatttcagca gtagtaaaaa tgtgccgaaa ttgatgagta
+      841 gaatgggaca atgttttaca caagcgcagg tgaca
+//

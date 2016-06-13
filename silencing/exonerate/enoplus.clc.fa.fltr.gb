@@ -1,0 +1,571 @@
+LOCUS       enop|cfa|5               712 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tr|G5EE53| , target: contig_43373 , HSPID: 5
+ACCESSION   enop|cfa|5
+VERSION     enop|cfa|5
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..712
+                     /vulgar="M 50 150 S 0 1 5 0 2 I 0 172 3 0 2 S 1 2 M 40 120
+                     5 0 2 I 0 115 3 0 2 M 48 144"
+                     /qid="tr|G5EE53|"
+                     /tstrand="+"
+                     /file="enoplus.clc.fa"
+                     /qbegin="1081"
+                     /qtype="Protein"
+                     /tfull="ACAGGGCCGGTAATGGTCACCAAAAATCCATGCATCTCGCCTGGGGATGTT
+                     CGTAAATTCGAAGCTGTGGACGTGGAGGCCTTGCACGGTCTGGTGGACGTGGTGGTGTT
+                     TCCACAGTTTGGGCCACGGCCGCATCCGGACGAAATGGCTGGTTAGTGACGACTCTGAA
+                     AGTTCCTGCAGAAGATTCTGATCGGAGAATGTTGGAAGGTTGAAGTAGAATTGCGTGGT
+                     ATCTTATGTATGCATTTTATGTATGGTATGTAAACATTTTGTTTGTCTGGAGTCAATCT
+                     TCTCTTTTTAGGAAATCTATCATTTCCTGTTGTTTTGTAGGTTCTGACCTGGACGGTGA
+                     CGAGTACTCGGTGATTTGGGAGCAGAATATATTCCTGTGTCGCAATGAAGCACCTGCAA
+                     TTTTTCCAAAGAATCGACCGCGAGACTTGAACAAACGCTTGGAAGTAAGAGTAATAACA
+                     ATATTATGATTGGATTCGTCCGAATGAACTCTATGTATGGTGTTACATATTTATTTTGA
+                     ATTTTTGATGGATAGCTATGCCTGCTCAACACAATCTATTTTCAGGTTTCTGACATGGT
+                     GGAATTTTTTCACAACTACGTCACTAAGGATTCCATCGGGTTCATCTCTACTGCCCACC
+                     TGATTGCTGCGGATCGTTTCGGGCTGTTCGACCCGGTTTGCACTGAGCTGGCTTTGAAG
+                     CATTCCATGGCG"
+                     /qfull="TGKVLITKNPCHVPGDVRVFDAVWQPALAHLVDVVVFPQHGPRPHPDEMAG
+                     SDLDGDEYSIIWDQEMLLDYNEEAMVFPSSSAAEEDKEPTTDDMVEFFLRYLQQDSIGR
+                     MSHAHLAYADLHGLFHENCHAIALKCAVA"
+                     /Etotal="138"
+                     /tend="802"
+                     /score="380"
+                     /Psim="69.57"
+                     /tid="contig_43373"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="1220"
+                     /qstrand="."
+                     /Emis="58"
+                     /qlen="139"
+                     /Eident="80"
+                     /qcds="G"
+                     /qname="RDRP_Cele_rrf3"
+                     /Pident="57.97"
+                     /qdescription
+                     /tlen="712"
+                     /model="protein2genome:local"
+                     /tcds="ACAGGGCCGGTAATGGTCACCAAAAATCCATGCATCTCGCCTGGGGATGTTC
+                     GTAAATTCGAAGCTGTGGACGTGGAGGCCTTGCACGGTCTGGTGGACGTGGTGGTGTTT
+                     CCACAGTTTGGGCCACGGCCGCATCCGGACGAAATGGCTGGTTCTGACCTGGACGGTGA
+                     CGAGTACTCGGTGATTTGGGAGCAGAATATATTCCTGTGTCGCAATGAAGCACCTGCAA
+                     TTTTTCCAAAGAATCGACCGCGAGACTTGAACAAACGCTTGGAAGTTTCTGACATGGTG
+                     GAATTTTTTCACAACTACGTCACTAAGGATTCCATCGGGTTCATCTCTACTGCCCACCT
+                     GATTGCTGCGGATCGTTTCGGGCTGTTCGACCCGGTTTGCACTGAGCTGGCTTTGAAGC
+                     ATTCCATGGCG"
+                     /tbegin="90"
+                     /Esim="96"
+     M               1..150
+                     /gene="tr|G5EE53|"
+     S               151
+                     /gene="tr|G5EE53|"
+     5               152..153
+                     /gene="tr|G5EE53|"
+     I               154..325
+                     /gene="tr|G5EE53|"
+     3               326..327
+                     /gene="tr|G5EE53|"
+     S               328..329
+                     /gene="tr|G5EE53|"
+     M               330..449
+                     /gene="tr|G5EE53|"
+     5               450..451
+                     /gene="tr|G5EE53|"
+     I               452..566
+                     /gene="tr|G5EE53|"
+     3               567..568
+                     /gene="tr|G5EE53|"
+     M               569..712
+                     /gene="tr|G5EE53|"
+     CDS             join(1..150,151,328..329,330..449,569..712)
+                     /translation="TGPVMVTKNPCISPGDVRKFEAVDVEALHGLVDVVVFPQFGPRPH
+                     PDEMAGSDLDGDEYSVIWEQNIFLCRNEAPAIFPKNRPRDLNKRLEVSDMVEFFHNYVT
+                     KDSIGFISTAHLIAADRFGLFDPVCTELALKHSMA"
+                     /gene="RDRP"
+ORIGIN
+        1 acagggccgg taatggtcac caaaaatcca tgcatctcgc ctggggatgt tcgtaaattc
+       61 gaagctgtgg acgtggaggc cttgcacggt ctggtggacg tggtggtgtt tccacagttt
+      121 gggccacggc cgcatccgga cgaaatggct ggttagtgac gactctgaaa gttcctgcag
+      181 aagattctga tcggagaatg ttggaaggtt gaagtagaat tgcgtggtat cttatgtatg
+      241 cattttatgt atggtatgta aacattttgt ttgtctggag tcaatcttct ctttttagga
+      301 aatctatcat ttcctgttgt tttgtaggtt ctgacctgga cggtgacgag tactcggtga
+      361 tttgggagca gaatatattc ctgtgtcgca atgaagcacc tgcaattttt ccaaagaatc
+      421 gaccgcgaga cttgaacaaa cgcttggaag taagagtaat aacaatatta tgattggatt
+      481 cgtccgaatg aactctatgt atggtgttac atatttattt tgaatttttg atggatagct
+      541 atgcctgctc aacacaatct attttcaggt ttctgacatg gtggaatttt ttcacaacta
+      601 cgtcactaag gattccatcg ggttcatctc tactgcccac ctgattgctg cggatcgttt
+      661 cgggctgttc gacccggttt gcactgagct ggctttgaag cattccatgg cg
+//
+LOCUS       enop|cfa|83              321 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tsp_RRF-3 , target: contig_112286 , HSPID: 83
+ACCESSION   enop|cfa|83
+VERSION     enop|cfa|83
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..321
+                     /vulgar="M 53 159 G 0 12 M 50 150"
+                     /qid="tsp_RRF-3"
+                     /tstrand="+"
+                     /file="enoplus.clc.fa"
+                     /qbegin="389"
+                     /qtype="Protein"
+                     /tfull="GACATTTTATGTTTTCTCACCCAGGTGCGAAAATTGATCGTCACTCCTACG
+                     CGCAAGCTGTTCAAACCACCGGAAGTGATGATGAGCAATCGAGTGCTTCGGCATTTCGG
+                     GGCCGAACCAGCCATCCGCGTCCTTTTCCGAGACGAGGACCAAAGCCGGAAAATTATTC
+                     ACAATAATGCCCGGAAGCTGGACGCTGATTGGCTAAATGAAGTCGTGTCGAAATTTCTG
+                     CAGACGGGCTGTCGCATTGGGCCGCGTCAGTATAGCTTCCTGGGCTGGTCCAACTCCCA
+                     ACTGAGGGAGCACGGATGTTACCTGTTTGCTGCA"
+                     /qfull="DLAAPYVSVRKVVITPTRVLLSVPDKMMSNRILRQFGSDLALRVIFRDEGG
+                     TRIPASKFSLTSLKQIVTTVMMKGLAIGPRLYQFLGWSNSQLRDHGCYFYAS"
+                     /Etotal="103"
+                     /tend="342"
+                     /score="238"
+                     /Psim="67.96"
+                     /tid="contig_112286"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="492"
+                     /qstrand="."
+                     /Emis="51"
+                     /qlen="103"
+                     /Eident="52"
+                     /qcds
+                     /qname="RDRP_Tspi_rrf3"
+                     /Pident="50.49"
+                     /qdescription
+                     /tlen="321"
+                     /model="protein2genome:local"
+                     /tcds="GACATTTTATGTTTTCTCACCCAGGTGCGAAAATTGATCGTCACTCCTACGC
+                     GCAAGCTGTTCAAACCACCGGAAGTGATGATGAGCAATCGAGTGCTTCGGCATTTCGGG
+                     GCCGAACCAGCCATCCGCGTCCTTTTCCGAGACGAGGACCAAAGCCGGAAAATTATTCA
+                     CAATAATGCCCGGAAGCTGGACGCTGATTGGCTAAATGAAGTCGTGTCGAAATTTCTGC
+                     AGACGGGCTGTCGCATTGGGCCGCGTCAGTATAGCTTCCTGGGCTGGTCCAACTCCCAA
+                     CTGAGGGAGCACGGATGTTACCTGTTTGCTGCA"
+                     /tbegin="21"
+                     /Esim="70"
+     M               1..159
+                     /gene="tsp_RRF-3"
+     G               160..171
+                     /gene="tsp_RRF-3"
+     M               172..321
+                     /gene="tsp_RRF-3"
+     CDS             join(1..159,160..171,172..321)
+                     /translation="DILCFLTQVRKLIVTPTRKLFKPPEVMMSNRVLRHFGAEPAIRVL
+                     FRDEDQSRKIIHNNARKLDADWLNEVVSKFLQTGCRIGPRQYSFLGWSNSQLREHGCYL
+                     FAA"
+                     /gene="RDRP"
+ORIGIN
+        1 gacattttat gttttctcac ccaggtgcga aaattgatcg tcactcctac gcgcaagctg
+       61 ttcaaaccac cggaagtgat gatgagcaat cgagtgcttc ggcatttcgg ggccgaacca
+      121 gccatccgcg tccttttccg agacgaggac caaagccgga aaattattca caataatgcc
+      181 cggaagctgg acgctgattg gctaaatgaa gtcgtgtcga aatttctgca gacgggctgt
+      241 cgcattgggc cgcgtcagta tagcttcctg ggctggtcca actcccaact gagggagcac
+      301 ggatgttacc tgtttgctgc a
+//
+LOCUS       enop|cfa|164             471 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: TMUE_s0141 , target: contig_176293 [revcomp], HSPID: 164
+ACCESSION   enop|cfa|164
+VERSION     enop|cfa|164
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..471
+                     /vulgar="M 67 201 S 0 2 5 0 2 I 0 158 3 0 2 S 1 1 M 35 105"
+                     /qid="TMUE_s0141"
+                     /tstrand="-"
+                     /file="enoplus.clc.fa"
+                     /qbegin="803"
+                     /qtype="Protein"
+                     /tfull="CAGGGTACTTCCCGGCCAAGTCACTATCACGTGCTCTGGGACGACAACAAC
+                     CTGTCGGCAGACGAACTGCAAATGCTCACATATCAGCTATGCCATACCTACGTGCGCTG
+                     CACCAGGTCCGTGTCCATCCCTGCGCCGGCCTACTACGCCCACCTGGTGGCCTTCCGCG
+                     CCCGCTACCACCTGGTCGACCGGGACCACGATAGGTTGGTTTGTGCTTTTGAGGTTTCT
+                     AGTTCGTTTCAGTTGTTGCTTGTATAATNNNNNNNNNNNNNTAACTCCCAGTTTTTTGT
+                     ACCATGGTAGTCGATAATGTTTTTGTGGCACTTTTATTGTGTAATTTAGCGCAAACTAA
+                     ATAATTGTTGTGATTCCAGCGGGGAGGGCAGCCAGCCGTCGGGGACCAGCGAAGACACC
+                     ACGCTCACGTCCATGATTCGCGCTGTCCAGGTTCACCCGGACGCCAACAACGTCATGTA
+                     TTTCGCT"
+                     /qfull="QGTSRPSHYHVLWDDNNLSADELQQLTYQLCHTYVRCTRSVSIPAPAYYAH
+                     LVAFRARYHLVDRDHDSGEGSQPSGTSEETTMSSMARAVQVHPDANSVMYFA"
+                     /Etotal="102"
+                     /tend="909"
+                     /score="513"
+                     /Psim="98.04"
+                     /tid="contig_176293"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="906"
+                     /qstrand="."
+                     /Emis="6"
+                     /qlen="103"
+                     /Eident="96"
+                     /qcds="S"
+                     /qname="AGO_Tmur"
+                     /Pident="94.12"
+                     /qdescription
+                     /tlen="471"
+                     /model="protein2genome:local"
+                     /tcds="CAGGGTACTTCCCGGCCAAGTCACTATCACGTGCTCTGGGACGACAACAACC
+                     TGTCGGCAGACGAACTGCAAATGCTCACATATCAGCTATGCCATACCTACGTGCGCTGC
+                     ACCAGGTCCGTGTCCATCCCTGCGCCGGCCTACTACGCCCACCTGGTGGCCTTCCGCGC
+                     CCGCTACCACCTGGTCGACCGGGACCACGATAGCGGGGAGGGCAGCCAGCCGTCGGGGA
+                     CCAGCGAAGACACCACGCTCACGTCCATGATTCGCGCTGTCCAGGTTCACCCGGACGCC
+                     AACAACGTCATGTATTTCGCT"
+                     /tbegin="1380"
+                     /Esim="100"
+     M               1..201
+                     /gene="TMUE_s0141"
+     S               202..203
+                     /gene="TMUE_s0141"
+     5               204..205
+                     /gene="TMUE_s0141"
+     I               206..363
+                     /gene="TMUE_s0141"
+     3               364..365
+                     /gene="TMUE_s0141"
+     S               366
+                     /gene="TMUE_s0141"
+     M               367..471
+                     /gene="TMUE_s0141"
+     CDS             join(1..201,202..203,366,367..471)
+                     /translation="QGTSRPSHYHVLWDDNNLSADELQMLTYQLCHTYVRCTRSVSIPA
+                     PAYYAHLVAFRARYHLVDRDHDSGEGSQPSGTSEDTTLTSMIRAVQVHPDANNVMYFA"
+                     /gene="AGO"
+ORIGIN
+        1 cagggtactt cccggccaag tcactatcac gtgctctggg acgacaacaa cctgtcggca
+       61 gacgaactgc aaatgctcac atatcagcta tgccatacct acgtgcgctg caccaggtcc
+      121 gtgtccatcc ctgcgccggc ctactacgcc cacctggtgg ccttccgcgc ccgctaccac
+      181 ctggtcgacc gggaccacga taggttggtt tgtgcttttg aggtttctag ttcgtttcag
+      241 ttgttgcttg tataatnnnn nnnnnnnnnt aactcccagt tttttgtacc atggtagtcg
+      301 ataatgtttt tgtggcactt ttattgtgta atttagcgca aactaaataa ttgttgtgat
+      361 tccagcgggg agggcagcca gccgtcgggg accagcgaag acaccacgct cacgtccatg
+      421 attcgcgctg tccaggttca cccggacgcc aacaacgtca tgtatttcgc t
+//
+LOCUS       enop|cfa|224             760 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: tsp_RRF-3 , target: contig_318494 [revcomp], HSPID: 224
+ACCESSION   enop|cfa|224
+VERSION     enop|cfa|224
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /vulgar="M 23 69 G 0 12 M 30 90 S 0 1 5 0 2 I 0 303 3 0 2 S
+                     1 2 M 22 66 G 0 3 M 40 120 G 0 6 M 11 33 G 0 6 M 15 45"
+                     /qid="tsp_RRF-3"
+                     /tstrand="-"
+                     /file="enoplus.clc.fa"
+                     /qbegin="581"
+                     /qtype="Protein"
+                     /tfull="CTTCCCTCCGCATACCAAATCCGTTATCGAGGATACAAGGGAATGGTGGCC
+                     ATCGACACGCGGCTGGACGAAGTGACGAACACTGATGCTAAGTTGCGACTCCGACCCAG
+                     CATGAAGAAATTCGAAGCTCCCAGCAGTGATATTTTGGAGATTGTGAAGATGAGCGAAC
+                     CAAGTAGGAGTTTAAAATTGTTGGTGTGAATATTTATTTTTTGTTTGTGATTGATAGAA
+                     AATTAGAAACCACCATTGGTGCACTTGGTTTTGTATGACGCAATGAATATTTACAGTTA
+                     GCAATTCATTGTATTACATTTTTATGACATTTATGAACCAATTTGATTGGTTTATTATG
+                     TTCTATAATTTTTACTAGTTTTTTATTATAGATTATCTGCTGTAGCACTAAACATTGCC
+                     ATTTTTTAGATTGTATTATAACTTTTAATACAATCTGAAAAAATGGCGATATTCAGTGA
+                     CCCAGTTATCTTCAGACCCAGTCGCACTAAATCGTCCCCTGATCATGATTCTGGATCAA
+                     ATCCCCCTACACCAAGCCAAACCTGAAACCCATCGACGCATGTGCCGGACCATCATGGG
+                     CCTGTTGGAACGGGAAATTGCTGGGCTGGCCGATATGCGTTTGTCCGAAACCGCATGTG
+                     CGTCCACTTTGGCCACGTTTCTGGCGTCGCCGCTGAGAATCGATTACAAAAAGATTAGC
+                     AATCGGGGGACGTTGATCACCTTCACCGATGAGCCATTTTTTCAAGGACTTTTGTCGGC
+                     G"
+                     /qfull="VPSAFQIRYAGFKGMLCVDPRLDGDVKMVFRQSMHKFHTEGAHTLEIVKHS
+                     QPCEVNLNRPLIMILDQVAFKEGVPVNGRVQNRIMQLLDQQICELSQMLLFEDQAKSVL
+                     SATMHSEMNFEKLADAGFRFTEEPFFRNMLLA"
+                     /Etotal="141"
+                     /tend="182"
+                     /score="194"
+                     /Psim="65.96"
+                     /tid="contig_318494"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="723"
+                     /qstrand="."
+                     /Emis="76"
+                     /qlen="142"
+                     /Eident="65"
+                     /qcds="C"
+                     /qname="RDRP_Tspi_rrf3"
+                     /Pident="46.10"
+                     /qdescription
+                     /tlen="760"
+                     /model="protein2genome:local"
+                     /tcds="CTTCCCTCCGCATACCAAATCCGTTATCGAGGATACAAGGGAATGGTGGCCA
+                     TCGACACGCGGCTGGACGAAGTGACGAACACTGATGCTAAGTTGCGACTCCGACCCAGC
+                     ATGAAGAAATTCGAAGCTCCCAGCAGTGATATTTTGGAGATTGTGAAGATGAGCGAACC
+                     AAACCCAGTCGCACTAAATCGTCCCCTGATCATGATTCTGGATCAAATCCCCCTACACC
+                     AAGCCAAACCTGAAACCCATCGACGCATGTGCCGGACCATCATGGGCCTGTTGGAACGG
+                     GAAATTGCTGGGCTGGCCGATATGCGTTTGTCCGAAACCGCATGTGCGTCCACTTTGGC
+                     CACGTTTCTGGCGTCGCCGCTGAGAATCGATTACAAAAAGATTAGCAATCGGGGGACGT
+                     TGATCACCTTCACCGATGAGCCATTTTTTCAAGGACTTTTGTCGGCG"
+                     /tbegin="942"
+                     /Esim="93"
+     M               1..69
+                     /gene="tsp_RRF-3"
+     G               70..81
+                     /gene="tsp_RRF-3"
+     M               82..171
+                     /gene="tsp_RRF-3"
+     S               172
+                     /gene="tsp_RRF-3"
+     5               173..174
+                     /gene="tsp_RRF-3"
+     I               175..477
+                     /gene="tsp_RRF-3"
+     3               478..479
+                     /gene="tsp_RRF-3"
+     S               480..481
+                     /gene="tsp_RRF-3"
+     M               482..547
+                     /gene="tsp_RRF-3"
+     G               548..550
+                     /gene="tsp_RRF-3"
+     M               551..670
+                     /gene="tsp_RRF-3"
+     G               671..676
+                     /gene="tsp_RRF-3"
+     M               677..709
+                     /gene="tsp_RRF-3"
+     G               710..715
+                     /gene="tsp_RRF-3"
+     M               716..760
+                     /gene="tsp_RRF-3"
+     CDS             join(1..69,70..81,82..171,172,480..481,482..547,548..550,
+                     551..670,671..676,677..709,710..715,716..760)
+                     /translation="LPSAYQIRYRGYKGMVAIDTRLDEVTNTDAKLRLRPSMKKFEAPS
+                     SDILEIVKMSEPNPVALNRPLIMILDQIPLHQAKPETHRRMCRTIMGLLEREIAGLADM
+                     RLSETACASTLATFLASPLRIDYKKISNRGTLITFTDEPFFQGLLSA"
+                     /gene="RDRP"
+ORIGIN
+        1 cttccctccg cataccaaat ccgttatcga ggatacaagg gaatggtggc catcgacacg
+       61 cggctggacg aagtgacgaa cactgatgct aagttgcgac tccgacccag catgaagaaa
+      121 ttcgaagctc ccagcagtga tattttggag attgtgaaga tgagcgaacc aagtaggagt
+      181 ttaaaattgt tggtgtgaat atttattttt tgtttgtgat tgatagaaaa ttagaaacca
+      241 ccattggtgc acttggtttt gtatgacgca atgaatattt acagttagca attcattgta
+      301 ttacattttt atgacattta tgaaccaatt tgattggttt attatgttct ataattttta
+      361 ctagtttttt attatagatt atctgctgta gcactaaaca ttgccatttt ttagattgta
+      421 ttataacttt taatacaatc tgaaaaaatg gcgatattca gtgacccagt tatcttcaga
+      481 cccagtcgca ctaaatcgtc ccctgatcat gattctggat caaatccccc tacaccaagc
+      541 caaacctgaa acccatcgac gcatgtgccg gaccatcatg ggcctgttgg aacgggaaat
+      601 tgctgggctg gccgatatgc gtttgtccga aaccgcatgt gcgtccactt tggccacgtt
+      661 tctggcgtcg ccgctgagaa tcgattacaa aaagattagc aatcggggga cgttgatcac
+      721 cttcaccgat gagccatttt ttcaaggact tttgtcggcg
+//
+LOCUS       enop|cfa|438             951 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: F48F7.1a_C , target: contig_512046 [revcomp], HSPID: 438
+ACCESSION   enop|cfa|438
+VERSION     enop|cfa|438
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..951
+                     /vulgar="M 17 51 G 1 0 M 8 24 5 0 2 I 0 250 3 0 2 M 22 66 S
+                     0 2 5 0 2 I 0 29 3 0 2 S 1 1 M 42 126 5 0 2 I 0 165 3 0 2 M
+                     38 114 G 4 0 M 37 111"
+                     /qid="F48F7.1a_C"
+                     /tstrand="-"
+                     /file="enoplus.clc.fa"
+                     /qbegin="730"
+                     /qtype="Protein"
+                     /tfull="AGCGAGCCAATTCTATTCGTCGGCGCAGGGATCTCACATCCAGGTCCTGGC
+                     TCTCGCTCGCCGTCTATTGCTGCTGTGAGTGGTACTACTCGTAATGCCAGTTTCACTAT
+                     TAGCATTGTAGTTTTTGGAAATAAATTAAAGTTTATATTAAAAACGGTTGATTTTCATA
+                     TTGTTTATAATTATTAGATTACATTTGACAGGACCATTTTGATTAAGGTTAGTTTTGCA
+                     TTGTATTGAATTTCGTCATCAGTTAACAAGGGTTTTTAGCGTTTTTGATGGTAATAACA
+                     CATCACATGGCCTTGCCAAACGGCATCCTTGTTTGATTTCAGCTGGCCGGGAACGTTGA
+                     TCTCCATCCCTCTCGCTACGTGGCCCAAGTCAGGATCCAGGAGAAGGAGCTGGAAGCCG
+                     AAAAGACCAAAGTACGATCTCGCCGGGCCATAATCATTGAGCTGAAAGAAATGATGGTC
+                     AACGCTCTCCGAGCCTATTATAAAAAATCCAAGATTAAGCCAGCCAAGATTGTATTCTA
+                     CCGCGATGGTGTATCAGGTGGACAGTTTCTCCAGGTTTGTTAGATTGTGGTCTTGCTAT
+                     TTCTGGGTAAATGTAAGAACATATATTGGGTTGAGTAAGTTCTAAGCATTATGAAACAT
+                     TTATATTTAGACTTACTGTATAACCTACAATCGATGGTCGCTTCTGCTCACTAAGCACC
+                     CCACACAATACGGCCCATACTTTTAGGTGTTGCAATACGAACTGACCGCCGTCCGTGAG
+                     GCCTGCCGGCAGCTGCAGAAGGACTACAATCCGGGCATCACCTTCGTGATCGTCCAGAA
+                     GGGCCAGCACACTGTCTTTTTCCCCGATCACAGCAACCCCCGCGAGAACGTGCCCCCAG
+                     GCACTGTGGTGGACTCCAAGGTGGTGCACCCCACTGAGTTCGATTTCCACATGGTCAGC
+                     AGCCAGGGAATCCAG"
+                     /qfull="NEPVIFFGCDITHPPAGDSRKPSIAAVVGSMDAHPSRYAATVRVQQHRQEI
+                     ISDLTYMVRELLVQFYRNTRFKPARIVVYRDGVSEGQFFNVLQYELRAIREACMMLERG
+                     YQPGITFIAVQKRHHTRLFAVDKKDQVGKAYNIPPGTTVDVGITHPTEFDFYLCSHAGI
+                     Q"
+                     /Etotal="164"
+                     /tend="275"
+                     /score="354"
+                     /Psim="68.90"
+                     /tid="contig_512046"
+                     /ttype="DNA"
+                     /tdescription="[revcomp]"
+                     /qend="900"
+                     /qstrand="."
+                     /Emis="75"
+                     /qlen="170"
+                     /Eident="89"
+                     /qcds="Q"
+                     /qname="AGO_Cele_alg1"
+                     /Pident="54.27"
+                     /qdescription
+                     /tlen="951"
+                     /model="protein2genome:local"
+                     /tcds="AGCGAGCCAATTCTATTCGTCGGCGCAGGGATCTCACATCCAGGTCCTGGCT
+                     CTCGCTCGCCGTCTATTGCTGCTCTGGCCGGGAACGTTGATCTCCATCCCTCTCGCTAC
+                     GTGGCCCAAGTCAGGATCCAGGAGAAGGAGCTGGCCATAATCATTGAGCTGAAAGAAAT
+                     GATGGTCAACGCTCTCCGAGCCTATTATAAAAAATCCAAGATTAAGCCAGCCAAGATTG
+                     TATTCTACCGCGATGGTGTATCAGGTGGACAGTTTCTCCAGGTGTTGCAATACGAACTG
+                     ACCGCCGTCCGTGAGGCCTGCCGGCAGCTGCAGAAGGACTACAATCCGGGCATCACCTT
+                     CGTGATCGTCCAGAAGGGCCAGCACACTGTCTTTTTCCCCGATCACAGCAACCCCCGCG
+                     AGAACGTGCCCCCAGGCACTGTGGTGGACTCCAAGGTGGTGCACCCCACTGAGTTCGAT
+                     TTCCACATGGTCAGCAGCCAGGGAATCCAG"
+                     /tbegin="1226"
+                     /Esim="113"
+     M               1..51
+                     /gene="F48F7.1a_C"
+     G               51^52
+                     /gene="F48F7.1a_C"
+     M               52..75
+                     /gene="F48F7.1a_C"
+     5               76..77
+                     /gene="F48F7.1a_C"
+     I               78..327
+                     /gene="F48F7.1a_C"
+     3               328..329
+                     /gene="F48F7.1a_C"
+     M               330..395
+                     /gene="F48F7.1a_C"
+     S               396..397
+                     /gene="F48F7.1a_C"
+     5               398..399
+                     /gene="F48F7.1a_C"
+     I               400..428
+                     /gene="F48F7.1a_C"
+     3               429..430
+                     /gene="F48F7.1a_C"
+     S               431
+                     /gene="F48F7.1a_C"
+     M               432..557
+                     /gene="F48F7.1a_C"
+     5               558..559
+                     /gene="F48F7.1a_C"
+     I               560..724
+                     /gene="F48F7.1a_C"
+     3               725..726
+                     /gene="F48F7.1a_C"
+     M               727..840
+                     /gene="F48F7.1a_C"
+     G               840^841
+                     /gene="F48F7.1a_C"
+     M               841..951
+                     /gene="F48F7.1a_C"
+     CDS             join(1..51,52..75,330..395,396..397,431,432..557,727..840,
+                     841..951)
+                     /translation="SEPILFVGAGISHPGPGSRSPSIAALAGNVDLHPSRYVAQVRIQE
+                     KELAIIIELKEMMVNALRAYYKKSKIKPAKIVFYRDGVSGGQFLQVLQYELTAVREACR
+                     QLQKDYNPGITFVIVQKGQHTVFFPDHSNPRENVPPGTVVDSKVVHPTEFDFHMVSSQG
+                     IQ"
+                     /gene="AGO"
+ORIGIN
+        1 agcgagccaa ttctattcgt cggcgcaggg atctcacatc caggtcctgg ctctcgctcg
+       61 ccgtctattg ctgctgtgag tggtactact cgtaatgcca gtttcactat tagcattgta
+      121 gtttttggaa ataaattaaa gtttatatta aaaacggttg attttcatat tgtttataat
+      181 tattagatta catttgacag gaccattttg attaaggtta gttttgcatt gtattgaatt
+      241 tcgtcatcag ttaacaaggg tttttagcgt ttttgatggt aataacacat cacatggcct
+      301 tgccaaacgg catccttgtt tgatttcagc tggccgggaa cgttgatctc catccctctc
+      361 gctacgtggc ccaagtcagg atccaggaga aggagctgga agccgaaaag accaaagtac
+      421 gatctcgccg ggccataatc attgagctga aagaaatgat ggtcaacgct ctccgagcct
+      481 attataaaaa atccaagatt aagccagcca agattgtatt ctaccgcgat ggtgtatcag
+      541 gtggacagtt tctccaggtt tgttagattg tggtcttgct atttctgggt aaatgtaaga
+      601 acatatattg ggttgagtaa gttctaagca ttatgaaaca tttatattta gacttactgt
+      661 ataacctaca atcgatggtc gcttctgctc actaagcacc ccacacaata cggcccatac
+      721 ttttaggtgt tgcaatacga actgaccgcc gtccgtgagg cctgccggca gctgcagaag
+      781 gactacaatc cgggcatcac cttcgtgatc gtccagaagg gccagcacac tgtctttttc
+      841 cccgatcaca gcaacccccg cgagaacgtg cccccaggca ctgtggtgga ctccaaggtg
+      901 gtgcacccca ctgagttcga tttccacatg gtcagcagcc agggaatcca g
+//
+LOCUS       enop|cfa|658             411 bp    DNA              UNK 01-JAN-1980
+DEFINITION  query: F48F7.1a_C , target: contig_832305 , HSPID: 658
+ACCESSION   enop|cfa|658
+VERSION     enop|cfa|658
+KEYWORDS    .
+SOURCE      
+  ORGANISM  . . .
+            .
+FEATURES             Location/Qualifiers
+     source          1..411
+                     /vulgar="M 101 303 G 0 3 M 35 105"
+                     /qid="F48F7.1a_C"
+                     /tstrand="+"
+                     /file="enoplus.clc.fa"
+                     /qbegin="866"
+                     /qtype="Protein"
+                     /tfull="ACAGGACGTTCTGGCAACATACCCGCTGGAACAACAGTGGATGCGGTGATC
+                     ACCCACCCCCAGGAGTTCGACTTCTACCTGTGTTCCCACGCCGGGATACAGGGCACTTC
+                     CCGACCGTCCCACTACCACATTTTGTGGGATGATAACAATTTCACCGCGGACGAGTTAC
+                     AACAATTGACATACCAATTGTGTCACACCTACGTCAGGTGCACCCGATCCGTCAGCATA
+                     CCTGCCCCGGCGTATTATGCCCATTTGGTGGCATTTCGTGCCCGGTACCACTTGGTTGA
+                     GAAGGACCACGACTCGTTGGGGGAGGGCTCGGTGCATTCGGGAGAGAGCGGGGGCACAC
+                     CCAACAGTTCGTCGGCACGAGCGGTGACCGTGCACCCGGAGACGCAGAATGTTATGTAT
+                     TTTGCG"
+                     /qfull="VGKAYNIPPGTTVDVGITHPTEFDFYLCSHAGIQGTSRPSHYHVLWDDNNL
+                     TADELQQLTYQMCHTYVRCTRSVSIPAPAYYAHLVAFRARYHLVDREHDSGEGSQPSGT
+                     SEDTTLSNMARAVQVHPDANNVMYFA"
+                     /Etotal="136"
+                     /tend="422"
+                     /score="578"
+                     /Psim="86.76"
+                     /tid="contig_832305"
+                     /ttype="DNA"
+                     /tdescription
+                     /qend="1002"
+                     /qstrand="."
+                     /Emis="27"
+                     /qlen="136"
+                     /Eident="109"
+                     /qcds
+                     /qname="AGO_Cele_alg1"
+                     /Pident="80.15"
+                     /qdescription
+                     /tlen="411"
+                     /model="protein2genome:local"
+                     /tcds="ACAGGACGTTCTGGCAACATACCCGCTGGAACAACAGTGGATGCGGTGATCA
+                     CCCACCCCCAGGAGTTCGACTTCTACCTGTGTTCCCACGCCGGGATACAGGGCACTTCC
+                     CGACCGTCCCACTACCACATTTTGTGGGATGATAACAATTTCACCGCGGACGAGTTACA
+                     ACAATTGACATACCAATTGTGTCACACCTACGTCAGGTGCACCCGATCCGTCAGCATAC
+                     CTGCCCCGGCGTATTATGCCCATTTGGTGGCATTTCGTGCCCGGTACCACTTGGTTGAG
+                     AAGGACCACGACTCGTTGGGGGAGGGCTCGGTGCATTCGGGAGAGAGCGGGGGCACACC
+                     CAACAGTTCGTCGGCACGAGCGGTGACCGTGCACCCGGAGACGCAGAATGTTATGTATT
+                     TTGCG"
+                     /tbegin="11"
+                     /Esim="118"
+     M               1..303
+                     /gene="F48F7.1a_C"
+     G               304..306
+                     /gene="F48F7.1a_C"
+     M               307..411
+                     /gene="F48F7.1a_C"
+     CDS             join(1..303,304..306,307..411)
+                     /translation="TGRSGNIPAGTTVDAVITHPQEFDFYLCSHAGIQGTSRPSHYHIL
+                     WDDNNFTADELQQLTYQLCHTYVRCTRSVSIPAPAYYAHLVAFRARYHLVEKDHDSLGE
+                     GSVHSGESGGTPNSSSARAVTVHPETQNVMYFA"
+                     /gene="AGO"
+ORIGIN
+        1 acaggacgtt ctggcaacat acccgctgga acaacagtgg atgcggtgat cacccacccc
+       61 caggagttcg acttctacct gtgttcccac gccgggatac agggcacttc ccgaccgtcc
+      121 cactaccaca ttttgtggga tgataacaat ttcaccgcgg acgagttaca acaattgaca
+      181 taccaattgt gtcacaccta cgtcaggtgc acccgatccg tcagcatacc tgccccggcg
+      241 tattatgccc atttggtggc atttcgtgcc cggtaccact tggttgagaa ggaccacgac
+      301 tcgttggggg agggctcggt gcattcggga gagagcgggg gcacacccaa cagttcgtcg
+      361 gcacgagcgg tgaccgtgca cccggagacg cagaatgtta tgtattttgc g
+//

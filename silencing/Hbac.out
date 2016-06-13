@@ -1,0 +1,95 @@
+# nhmmer :: search a DNA model or alignment against a DNA database
+# HMMER 3.1b1 (May 2013); http://hmmer.org/
+# Copyright (C) 2013 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query file:                      silencing/rrf3_ref.aln.fasta
+# target sequence database:        ../../Genomes/heterorhabditis_bacteriophora.PRJNA13977.WBPS4.mRNA_transcripts.fa
+# output directed to file:         silencing/Hbac.out
+# MSA of all hits saved to file:   silencing/Hbac.aln.out
+# number of worker threads:        12
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       rrf3_ref.aln  [M=4754]
+Scores for complete hits:
+    E-value  score  bias  Sequence   start    end  Description
+    ------- ------ -----  --------   -----  -----  -----------
+      1e-10   37.6   9.7  Hba_03302   1231   1442  gene_id=Hba_03302
+    4.2e-05   19.0   7.3  Hba_03303   1543   1665  gene_id=Hba_03303
+  ------ inclusion threshold ------
+        1.1    4.3   0.7  Hba_21416    293    401  gene_id=Hba_21416
+
+
+Annotation for each hit  (and alignments):
+>> Hba_03302  gene_id=Hba_03302
+    score  bias    Evalue   hmmfrom    hmm to     alifrom    ali to      envfrom    env to    sq len      acc
+   ------ ----- ---------   -------   -------    --------- ---------    --------- --------- ---------    ----
+ !   37.6   9.7     1e-10      2572      2786 ..      1231      1442 ..      1211      1465 ..      1518    0.81
+
+  Alignment:
+  score: 37.6 bits
+  rrf3_ref.aln 2572 gactttcgacagctgcatgacagtggtttcacttttaccaacgaacctttcttccgttctctgctcgtcgc..cgtccatcgttacaatataaaa 2664
+                    gactt c a +  t c+ g   ++gg tt+  +tt+a ++  ga+cc ttctt+cg tc  t  tc+  gc  c   ca   tt caata  a++
+     Hba_03302 1231 GACTTACTAAGTGTTCGAG---CCGGATTTCAGTTGAGTGCAGAGCCATTCTTTCGATCATTAATCAAGGCatCTGTCAAATTTTCAATA--ACG 1320
+                    5666666666666666555...4699999999*****************************99888765542244445666778888765..555 PP
+
+  rrf3_ref.aln 2665 ttacatct.......gagcaagttaaagattttcttacccggctcaatgggtcgtacaatgtacggtgttgtcgatgatacaggcgtactacagt 2752
+                     +aca +t       gagcaa+tt+aa+       t+cc   +  aa ggg  g +caatg   gg gt+gt+gatga ac gg   actaca t
+     Hba_03302 1321 AAACAATTacgaaaaGAGCAAATTCAAA-------TTCCATTTGAAAAGGGAAGATCAATGCTAGGAGTGGTTGATGAAACGGGTCGACTACAAT 1408
+                    5667666644444448888888888876.......556666778899************************************************ PP
+
+  rrf3_ref.aln 2753 atggacaagtttttattcagtactcgcccagtgt 2786
+                    a+ggacaa tttt++ttca ta+ c c +a t+t
+     Hba_03302 1409 ACGGACAAATTTTCGTTCAATATACACGGAATAT 1442
+                    **********************999887776665 PP
+
+>> Hba_03303  gene_id=Hba_03303
+    score  bias    Evalue   hmmfrom    hmm to     alifrom    ali to      envfrom    env to    sq len      acc
+   ------ ----- ---------   -------   -------    --------- ---------    --------- --------- ---------    ----
+ !   19.0   7.3   4.2e-05      2968      3090 ..      1543      1665 ..      1540      1686 ..      1863    0.78
+
+  Alignment:
+  score: 19.0 bits
+  rrf3_ref.aln 2968 ggtagtgatctggatggtgatgagtatatcgtgatattcgataaggaccttttcttggagcacaacgaggaggcgatgtt...tttcccaaagtc 3059
+                    gg  +tgat+tggatgg+gatga tata +gt at t  gat agga ct +t+ t ga  + aa+ga+    cgatg +    t c c  a t 
+     Hba_03303 1543 GGGTCTGATTTGGATGGCGATGAATATAGTGTTATTTGGGATGAGGATCTGCTTCTAGAAAGAAATGAAT---CGATGAAaagATGCTCGGACTT 1634
+                    567789*******************************************************999998764...4555543111233334444444 PP
+
+  rrf3_ref.aln 3060 ggtcgcatctgaatacgacacaccaccaacg 3090
+                        g a   ga+t +ga a +ccacca +g
+     Hba_03303 1635 ATATGGAATAGACTCTGAGATTCCACCAGAG 1665
+                    4555566677888888888888888887554 PP
+
+>> Hba_21416  gene_id=Hba_21416
+    score  bias    Evalue   hmmfrom    hmm to     alifrom    ali to      envfrom    env to    sq len      acc
+   ------ ----- ---------   -------   -------    --------- ---------    --------- --------- ---------    ----
+ ?    4.3   0.7       1.1      1884      1992 ..       293       401 ..       282       418 ..       462    0.82
+
+  Alignment:
+  score: 4.3 bits
+  rrf3_ref.aln 1884 ctgctacatgtactcagcagctaaggttattgatgaggtgagtggtgaggtacgtatctataagattgaagatatccgacgttggatgggcgatt 1978
+                    +tgct +  gtactcagca+ + a  tt ++  t+ g tg + gg g + ++cg  t+ + +a +t g  ga at cga  +tggat g cgatt
+     Hba_21416  293 TTGCTCTTAGTACTCAGCAAACTATTTTGAACTTAGGCTGGAAGGGGGACAGCGCTTTCGAGATGTGGCTGAGATGCGAAAATGGATCGACGATT 387 
+                    566666667888888888776666666666655555666666677777788888899999999999***************************** PP
+
+  rrf3_ref.aln 1979 tcactgcatcgaaa 1992
+                    tca tgc tc aa+
+     Hba_21416  388 TCATTGCCTCCAAG 401 
+                    *********99985 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (4754 nodes)
+Target sequences:                        20964  (27650932 residues searched)
+Residues passing SSV filter:            771894  (0.0279); expected (0.02)
+Residues passing bias filter:           684274  (0.0247); expected (0.02)
+Residues passing Vit filter:             54366  (0.00197); expected (0.003)
+Residues passing Fwd filter:              3843  (0.000139); expected (3e-05)
+Total number of hits:                        3  (1.61e-05)
+# CPU time: 24.19u 0.29s 00:00:24.48 Elapsed: 00:00:02.47
+# Mc/sec: 53219.65
+//
+# Alignment of 2 hits satisfying inclusion thresholds saved to: silencing/Hbac.aln.out
+[ok]

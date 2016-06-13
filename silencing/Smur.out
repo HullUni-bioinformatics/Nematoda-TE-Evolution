@@ -1,0 +1,191 @@
+# nhmmer :: search a DNA model or alignment against a DNA database
+# HMMER 3.1b1 (May 2013); http://hmmer.org/
+# Copyright (C) 2013 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query file:                      silencing/rrf3_ref.aln.fasta
+# target sequence database:        ../../Genomes/syphacia_muris.PRJEB524.WBPS4.mRNA_transcripts.fa
+# output directed to file:         silencing/Smur.out
+# MSA of all hits saved to file:   silencing/Smur.aln.out
+# number of worker threads:        12
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       rrf3_ref.aln  [M=4754]
+Scores for complete hits:
+    E-value  score  bias  Sequence                start    end  Description
+    ------- ------ -----  --------                -----  -----  -----------
+    7.3e-71  236.9  54.0  SMUV_0000123701-mRNA-1     43   1332  gene_id=SMUV_0000123701
+    3.3e-60  201.5  41.4  SMUV_0000073701-mRNA-1   1403   2338  gene_id=SMUV_0000073701
+
+
+Annotation for each hit  (and alignments):
+>> SMUV_0000123701-mRNA-1  gene_id=SMUV_0000123701
+    score  bias    Evalue   hmmfrom    hmm to     alifrom    ali to      envfrom    env to    sq len      acc
+   ------ ----- ---------   -------   -------    --------- ---------    --------- --------- ---------    ----
+ !  236.9  54.0   7.3e-71      2673      3909 ..        43      1332 ..        23      1416 ..      2265    0.71
+
+  Alignment:
+  score: 236.9 bits
+            rrf3_ref.aln 2673 gagcaagttaaagattttcttacccggctcaatgggtcgtacaatgtacggtgttgtcgatgatacaggcgtactacagtatgga 2757
+                              gagcaa+tt+aa+       tacc   +   +t ggt g  c atgt cggt ttgt ga+ga+ c gg  t  tacagtatgg 
+  SMUV_0000123701-mRNA-1   43 GAGCAAATTCAAA-------TACCTTTTAATCTCGGTAGATCTATGTTCGGTATTGTTGACGAGTCTGGGTTGTTACAGTATGGC 120 
+                              5677777776664.......55555566677788999999********************************************* PP
+
+            rrf3_ref.aln 2758 caagtttttattcagtactcgcccagtgtg....c..............gcaatgcttcggagaaagtcatcattcatataggtc 2824
+                              caagt+tttat ca ta+ c   cagt+t     c              g   tgct c +ag      a  attc ta agg  
+  SMUV_0000123701-mRNA-1  121 CAAGTCTTTATACAATATACCTGCAGTATTgaatCaaaaacacctggaaGATGTGCTGCTAAG------AAAATTCTTAAAGGAA 199 
+                              *****************9887777777664111111111111111111133334444444444......44567788899***** PP
+
+            rrf3_ref.aln 2825 ctgtattggtaacaaagaatccatgtcttgtggggggtgatgtacgtatgttcaaggcggtctatcagcctgctctttctcatct 2909
+                               +gt +t  t ac+aagaatcc+t t t gt g+ ggtgatgt cgt t tt++a gc gt +a    cc g + t    cat t
+  SMUV_0000123701-mRNA-1  200 AAGTTCTTATTACGAAGAATCCGTCTGTGGTAGCAGGTGATGTTCGTGTATTTGAAGCAGTTGACATTCCAGAGTTACAACATTT 284 
+                              *************************************************************9995333344444577899***** PP
+
+            rrf3_ref.aln 2910 tcgtgatgttatcgtcttccctcgttatggaccgcgaccgcatactgacgagatggctggtagtgatctggatggtgatgagtat 2994
+                                 tgatgtt+t+gt+tt+cc c  t  ggacc cgacc cat+c ga+ga+atggc ggt +tga +t gatggtgatga ta+
+  SMUV_0000123701-mRNA-1  285 AGTTGATGTTGTTGTGTTTCCCCAGTCAGGACCACGACCTCATCCAGATGAAATGGCAGGTTCTGACTTAGATGGTGATGAATAC 369 
+                              ************************************************************************************* PP
+
+            rrf3_ref.aln 2995 atcgtgatattcgataaggaccttttcttggagcacaacgaggaggcgatgtttttcccaaagt...cggtcgcatctgaatacg 3076
+                              a+c t atat  ga ++gga  t  t+tt ga cacaa+ga+ga gc  t +++tt+ c aa+    c    g a+c+gaa a g
+  SMUV_0000123701-mRNA-1  370 AGCATAATATGGGACCCGGAATTAATTTTTGATCACAATGAAGAAGCTTTTGACTTTACTAAAAatgCTCGAGAACCGGAAGAAG 454 
+                              ***********************************************99887777777776654111444456677788765544 PP
+
+            rrf3_ref.aln 3077 acacaccaccaac......gactgaggacatggttgattttttcctgaaatatctcagtcaagattccatcggacgaatgtccaa 3155
+                               +    cac   +       + tg  ga atg  + attt+tt+ t aa+tat t a  ca+ga+tc at gga   at tccaa
+  SMUV_0000123701-mRNA-1  455 TTT---CACATGAtgaagtTGTTGCTGAGATGCGCAATTTCTTTGTAAAGTATATTAAACAGGACTCTATTGGATCTATTTCCAA 536 
+                              444...343322211111134456677889******************************************************* PP
+
+            rrf3_ref.aln 3156 tgctcatctgattatgtccgatcgacttggacttttccatgaaatatgcgatggtattgcccggaagtgctctgtcgcggtcgat 3240
+                              +gc   tct  tta  +c gat             t              a+gg+att    g  ag  +tc  t  cggt gat
+  SMUV_0000123701-mRNA-1  537 CGCCTTTCTTGTTAATGCGGATT------------TG------------TACGGAATTAAAAGCGAGCATTCACTATCGGTTGAT 597 
+                              ***99999888887555555432............22............244555555444555566667888888899****** PP
+
+            rrf3_ref.aln 3241 ttcccgaagagtggtgaaccagccgaacctcta....................................tcatcatatgagcaga 3289
+                              tt+cc aa a+ gg   +cca c ga cc++ta                                    t+++c ++tga+ a+ 
+  SMUV_0000123701-mRNA-1  598 TTTCCCAAAACGGGAACGCCACCTGATCCGTTAgtaaagaaatggggtgtaagtgtagatggtgtaccaTTGCCTCCTGAAAAAC 682 
+                              *****************************99862222222222222222222222222222221111113445666778877777 PP
+
+            rrf3_ref.aln 3290 gcgattttgtacctgacttcatgcagaagagtttcaagcccagttata...gaagcaatcgactcatcggacagttctataggaa 3371
+                                ga ++    cc ga tt+atg   aa a +     gcc   +tat     aag     gactc+t gg+ca+tt+ta++gga 
+  SMUV_0000123701-mRNA-1  683 CTGAACGATGGCCAGAGTTTATGTGCAAAAACCATGTGCCATTCTATGcttCAAGG---AGACTCGTAGGCCAATTGTACCGGAG 764 
+                              777777778889***********99999999999999****999997411135554...499*********************98 PP
+
+            rrf3_ref.aln 3372 agcgaaaaaagttgaggatatcgttgaattggcacaaatgatgcaattcgcggatagcttcgatccgcagctttatgacgagagt 3456
+                              + + aaa   gt+ga gatat        tg c   aa+ atg++at  g+gga    tt g tcc+         ga ga+a t
+  SMUV_0000123701-mRNA-1  765 GATAAAAGCTGTGGATGATATTT------TGACTTTAACAATGGCATCGGAGGA---ATTAGCTCCAATTAAAATAGATGAAACT 840 
+                              87777777778999999999875......4455555666677777776666665...4555556655322222224777777777 PP
+
+            rrf3_ref.aln 3457 ttatttgatgcacatccaaa..gctgatccaaaatagc...atccgtttgagtgatgaatacaacaccagaatacagca....ac 3532
+                               t tt g   ca at  ++a   ct    +aa + agc   a+  g tt  g   tg ata a   c    ata a ca     +
+  SMUV_0000123701-mRNA-1  841 CTTTTAGTGCCAAATTACGAccACTTCGTAAATGAAGCtgaAGAAGATTTTGC--TGCATATAGTTC----ATATATCAtatcCT 919 
+                              77777665555444333222002222222222222222000222222222222..222233222222....22333333111147 PP
+
+            rrf3_ref.aln 3533 tgctggatgagtatggaattaccgatgaggcgtctgtggtc.tcaggacatagcgttactat...cagacgcattactgatatgg 3613
+                              t++tgga  a ta+ggaatt   gatga g   c  t gt  tc gga  ta + t a + t   +a+  g+ tta tga a gg
+  SMUV_0000123701-mRNA-1  920 TAATGGACAATTACGGAATTGAAGATGAAGGA-CAATTGTAtTCTGGATGTATTATAATGTTgcgGAATAGGCTTAGTGAAAAGG 1003
+                              88999************************955.555655542799998766665555554441114677888899********** PP
+
+            rrf3_ref.aln 3614 aaagagatgactattcgttttatcactcggacaaaattgtcgaactgcgatatagtcgaatttttgaataattcagacgtgaatt 3698
+                              a a+ gatga+   tc  t tat a  cg a+ a at  t gaa     a   a+t  +attttt aa + tt++ga  +  att
+  SMUV_0000123701-mRNA-1 1004 ATAACGATGATATGTCACTATATAATACGAATTATATGATTGAAAAAAAAGTGACTGACATTTTTAAAACTTTTCGAAAAAGATT 1088
+                              **********9988999999999999999999888888899988766555556788999************************** PP
+
+            rrf3_ref.aln 3699 cttcacggaatttggagaggaatcagattttataacggtgg..................atgcattcggaaaacgaggtattcgt 3765
+                              +tt+ac gaatttgg g     + ag tt +a+ ac gt g                  +  c tt+ gaaaa   g ++ttcg+
+  SMUV_0000123701-mRNA-1 1089 TTTTACTGAATTTGGCGGTTTCGAAGCTTGCACTACTGTTGtaagctcaaaggaatttgCAACTTTT-GAAAA--GGACCTTCGC 1170
+                              **************98865444444556667777777766522111111111111100022222232.23333..3567889998 PP
+
+            rrf3_ref.aln 3766 tgg...............aatacggccctgatcacgaaggctaaagtgtggtatgcagtttgctatggcaacagggctatgtgac 3835
+                               gg               a tac     tga  +cgaa+gc   ag+ t  ta+  +gt+tgctat   aa ++  c +   g +
+  SMUV_0000123701-mRNA-1 1171 AGGgtgtgtaaagacccaACTACTAAAATGAAGGCGAAAGCATCAGCTTATTACTACGTCTGCTATAAAAATGCTTCACATAGTT 1255
+                              887444444433222222223334445689999999999999999999******************9999888888888877887 PP
+
+            rrf3_ref.aln 3836 cttctaaa...ttccgatctttcccttggatcgtttgggatatcttgctgatcgtcaagcgtcgtatcgtgcttata 3909
+                              c+ + aaa   tt   atc tt cc+tgg t gtttggga+at +t ++g   gt aa+    gta + t   ta++
+  SMUV_0000123701-mRNA-1 1256 CCGGAAAAaggTTGTTATCATTTCCGTGGCTTGTTTGGGACATTCTAGCGCAAGTTAAAACATGTAATATTGGTACG 1332
+                              7776665521123344789***************************9998877777776544443333222222222 PP
+
+>> SMUV_0000073701-mRNA-1  gene_id=SMUV_0000073701
+    score  bias    Evalue   hmmfrom    hmm to     alifrom    ali to      envfrom    env to    sq len      acc
+   ------ ----- ---------   -------   -------    --------- ---------    --------- --------- ---------    ----
+ !  201.5  41.4   3.3e-60      1592      2527 ..      1403      2338 ..      1381      2359 ..      2376    0.80
+
+  Alignment:
+  score: 201.5 bits
+            rrf3_ref.aln 1592 taattcgaaaggtgatggcaactccgctacgtcttatattgttgcctcccgaagtgatgatgacgaatcgtgttgtacgtcattt 1676
+                               a+tt+gaaag tgat g aactcc   +cg   ++ta+t  t   tcc gaa tg t atg   aat g gt  t+cg+   tt
+  SMUV_0000073701-mRNA-1 1403 GAGTTAGAAAGATGATTGTAACTCCAACGCGCACGCTACTAGTTGTTCCTGAATTGTTAATGGGTAATAGAGTGTTGCGAACATT 1487
+                              567899*************************************************************************988888 PP
+
+            rrf3_ref.aln 1677 tggcgaa......gagtacgctttgcgatgtgt.atttcgagatgataatggacagagacttgtagtaaaggaatttactcgagg 1754
+                              tg  gaa      ga    gc ttgcga gtg   tttcgagatgat a gg+   a actt    taaa  a+   act g gg
+  SMUV_0000073701-mRNA-1 1488 TGATGAAactggtGACGGAGCGTTGCGA-GTGCaGTTTCGAGATGATGACGGCACAAAACTTAGGATAAATAAC---ACTGGGGG 1568
+                              7766664333333344445889999987.45542589*************************999999986653...34333333 PP
+
+            rrf3_ref.aln 1755 ccgcgctttacaagatcaatcgttaataataccagaactggtctataagacacttagcgaaggtatgcatatagcgtcaaggcat 1839
+                                                    t  +t at+c+a +a   gtc+ataa ac +t    +  gg +t  atat gc    +g cat
+  SMUV_0000073701-mRNA-1 1569 G---------------------TATCTTATTCAAACAACTGTCCATAATACTTTATATCGTGGAGTAAATATTGCTAATCGCCAT 1632
+                              2.....................223466777777777788999************99**************************** PP
+
+            rrf3_ref.aln 1840 taccagttccttgcatggtctaattcacagatgcgtgatcacggctgctacatgtactcagcagctaaggttattgatgaggtga 1924
+                              t +  gt c t gc t gtc aattcacagatgcgtga  a+gg tg+ta+ t            t +g+t    ga+g  g+  
+  SMUV_0000073701-mRNA-1 1633 TTTGTGTACTTGGCGTCGTCAAATTCACAGATGCGTGACAATGGATGTTATTTC-----------TTTGAT----GACGGTGAAG 1702
+                              *************************************************98654...........333444....4444444445 PP
+
+            rrf3_ref.aln 1925 gtggtgaggtacgtatctataagattgaagatatccgacgttggatgggcgatttcactgcatcgaaaagtgttccgaaattgat 2009
+                              gtgg +agg  c               aa a at cg     g  tggg  a tt+  t  a c   aa t t ccgaaatt at
+  SMUV_0000073701-mRNA-1 1703 GTGGACAGGCCC---------------AAAAGATACGTGAAAGTTTGGGAAAATTTGATAAAAC---AAATATACCGAAATTAAT 1769
+                              677777766543...............4556777888888888889999988888655555544...56688************* PP
+
+            rrf3_ref.aln 2010 gtctcgaatggggcaatgcttcacacaagcgcagc....caacaataatgctggaaagaaaagactggagtgtggaggaagatat 2090
+                              gtctcg at gg+ca tgctt+ac caagc  agc    c+a +   +t  t gaa+g aaa   t  a    gg g a+gat t
+  SMUV_0000073701-mRNA-1 1770 GTCTCGGATAGGACAGTGCTTTACTCAAGCTGAGCaatgCGATGC-TGTATTAGAACGTAAAAGGTATAACAAGGTGCATGATTT 1853
+                              ********************************9983222223222.24556788999998888888888888899999******* PP
+
+            rrf3_ref.aln 2091 cgtgggtggtttatgacatccggaaacgggcgagctgttcaatttctctgatggagttgggaggatttctgcgaagtatgcagaa 2175
+                              + t ggtgg   a+       ggaaacg gcga c  t++a+ttt+tc gatgg+gttggga gat tct    a+t tgc  +a
+  SMUV_0000073701-mRNA-1 1854 TATCGGTGGAAAAGAT-----GGAAACG-GCGATCCATATACTTTTTCAGATGGTGTTGGGAAGATGTCTTGTGAATTTGCGTCA 1932
+                              *********9987754.....8999985.68****************************************************** PP
+
+            rrf3_ref.aln 2176 cgcgttgctgaagtactggatttacgt...ccaacaccctcctgtttccaagttcgattcaaaggttttaagggtgttctgtgcg 2257
+                                  t gc ga++++ tg at t+ gt     + + cc   ctg+tt+caa t  gat +   ggt t aa+gg gt++t+t  g
+  SMUV_0000073701-mRNA-1 1933 AAAATAGCAGAGAAGATGAATATGGGTggaTTTGTTCCAAGCTGCTTTCAAATAAGATATCGTGGTGTGAAAGGAGTGTTATCAG 2017
+                              ***************999999998876222467889**********************9999*********************** PP
+
+            rrf3_ref.aln 2258 ttgatccatcgttggat....atagaggatagagcga................................................ 2290
+                              t ga+cca c  tgga+    +t+ga  +t+g+++ga                                                
+  SMUV_0000073701-mRNA-1 2018 TAGACCCAGCAATGGACgaacGTCGATTGTGGGCAGAaaaaaatggcgtaaaagattcgacgaaactggttaaaaagactatata 2102
+                              **************99853332333222222222211000000000000000000000001111111111111111111111111 PP
+
+            rrf3_ref.aln 2291 .....atgttgtcttccgtaagagtcagaagaaattcgaggaagatgaaggtgatgcggccgaattagaagtggtgaaatactcg 2370
+                                   atgt+ t tt cg + +   cag a aaatt+ a+g       +    +    g   a++tagaa t gt aa++a+tc 
+  SMUV_0000073701-mRNA-1 2103 tttacATGTGTTGTTTCGACCATCCCAGGATAAATTTAATGC------GCCGCGAAATGAAAACATAGAAATTGTAAAGCATTCT 2181
+                              111114455666778888888888888888888888877653......22222223345556677******************** PP
+
+            rrf3_ref.aln 2371 atgccatcaccagtttgcctgagtcgaccgttgattatgatcttggatcaggtatgtgaaaagcagaatcgagagttgcataaaa 2455
+                                 cca   cc gtttg +t a +cg cc +t at    atc tggatcaggt+ g+gaaa gca+ +t   ga +t+cata  a
+  SMUV_0000073701-mRNA-1 2182 TCACCAATTCCTGTTTGTTTAAACCGTCCACTTATATGTATCATGGATCAGGTTAGCGAAATGCAAGGTTATGAACTACATACGA 2266
+                              **********************************************************************************999 PP
+
+            rrf3_ref.aln 2456 gtctttgttgtcgggttcattgtcttctagagcaggaactcaatatactagcagagatgttgttggatgagg 2527
+                              +  tttgt gt g +ttcatt+t t  t ga c+g a++t+a    a t gc ga at +t  tg   ga g
+  SMUV_0000073701-mRNA-1 2267 AAGTTTGTGGTAGAATTCATTCTTTATTGGATCGGCAGTTGATGCAAATGGCTGAAATACTTATGAGCGAAG 2338
+                              99*****************************************************99998887776555554 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (4754 nodes)
+Target sequences:                        10200  (21108054 residues searched)
+Residues passing SSV filter:            927792  (0.044); expected (0.02)
+Residues passing bias filter:           678873  (0.0322); expected (0.02)
+Residues passing Vit filter:             32023  (0.00152); expected (0.003)
+Residues passing Fwd filter:              4788  (0.000227); expected (3e-05)
+Total number of hits:                        2  (0.000105)
+# CPU time: 19.12u 0.73s 00:00:19.85 Elapsed: 00:00:02.61
+# Mc/sec: 38447.39
+//
+# Alignment of 2 hits satisfying inclusion thresholds saved to: silencing/Smur.aln.out
+[ok]

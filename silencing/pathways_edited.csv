@@ -1,0 +1,55 @@
+code	species	clade	piwi	rrf3	rrf1	pathway	N50	
+Sbat	Soboliphyme baturini	I	0	1	0	A	19774	
+Rcul	Romanomermis culicivorax	I	0	1	0	A	20133	
+Ttri	Trichuris trichiura	I	0	1	0	A	70602	
+Tmur	Trichuris muris	I	0	1	0	A	400602	
+Tspi	Trichinella spiralis	I	0	1	0	A	6373445	
+Ebre	Enoplus brevis	II	0	1	0	A	506	
+Ovol	Onchocerca volvulus	III	0	1	1	B	1265	
+Btim	Brugia timori	III	0	1	1	B	4919	
+Wban	Wuchereria bancrofti	III	0	1	1	B	5161	
+Asim	Anisakis simplex	III	0	1	1	B	9290	
+Ever	Enterobius vermicularis	III	0	0	1	C	20595	tsp_RRF-3 Ente|fa_4|92 has v long introns, sim 61%, overlapps with RDRP_Bmal_rdrp Ente|fa_4|79, sim 82; rrf3 tr|G5EE53| Ente|fa_4|43 has 65% sim and length < 100 aa.;  rrf3 tr|F1KQR2| Ente|fa_4|67 has som 67% and overlapps with Ente|fa_4|86 which is longer and has som 76%; BMA-RRF-3 Ente|fa_4|96 has sim 67%. Also nested within  Ente|fa_4|86 which is longer and has som 76%.
+Avit	Acanthocheilonema viteae	III	0	1	1	B	25808	
+Tcan	Toxocara canis	III	0	1	1	B	31192	
+Lsig	Litomosoides sigmodontis	III	0	1	1	B	45863	
+Smur	Syphacia muris	III	0	0	1	C	60730	tsp_RRF-3 Syph|fa_4|27 sim 60% , nested in Syph|fa_4|21, sim 75%; rrf3 tr|G5EE53| Syph|fa_4|29 sim 60% nested in Syph|fa_4|21 ; rrf3 tr|F1KQR2| Syph|fa_4|65 sim 75, nested in Syph|fa_4|50; BMA-RRF-3 Syph|fa_4|23 sim 75% nested in Syph|fa_4|21
+Bpah	Brugia pahangi	III	0	1	1	B	65666	
+Dimm	Dirofilaria immitis	III	0	1	1	B	71281	
+Lloa	Loa loa	III	0	1	1	B	174388	
+Bmal	Brugia malayi	III	0	1	1	B	191089	
+Asuu	Ascaris suum	III	0	1	1	B	290558	
+Eela	Elaeophora elaphi	III	0	1	1	B	-	
+Ooch	Onchocerca ochengi	III	0	1	1	B	-	
+Pcof	Pratylenchus coffeae	IV	0	0	1	C	3348	tsp_RRF-3 Pcof|asta|26 sim 68% nested in Pcof|asta|21 which is much longer; rrf3 tr|G5EE53|  Pcof|asta|29 72% nested in Pcof|asta|21; rrf3 tr|F1KQR2| Pcof|asta|37 sim 60% overlapps Pcof|asta|43 65%; BMA-RRF-3 Pcof|asta|24 sim 67% nested in Pcof|asta|21
+Mflo	Meloidogyne floridensis	IV	0	0	1	C	3516	tsp_RRF-3 melo|tfa|6 75%, rrf3 G5EE53 melo|tfa|11 69%, rrf3 F1KQR2 melo|tfa|67 68%, BMA-RRF-3 melo|tfa|67 73%; all overlapp with melo|tfa|2 88% similarity
+Minc	Meloidogyne incognita	IV	0	0	1	C	12786	checked
+Rsim	Radopholus similis	IV	0	0	1	C	14057	R_Si|yfa|44, 48, 50, 89 overlap with higher scoring 22 and 76
+Mjav	Meloidogyne javanica	IV	0	0	1	C	16295	Mjav|asta|25, 0, 20, 16 nested in 2
+Mhap	Meloidogyne hapla	IV	0	0	1	C	37608	m_ha|cfa|87, 134,156, 94 nested in 102
+Mchi	Meloidogyne chitwoodi	IV	0	0	1	C	70023	checked
+Spap	Strongyloides papillosus	IV	0	1	1	B	86359	
+Gros	Globodera rostochiensis	IV	0	0	1	C	88495	checked
+Gpal	Globodera pallida	IV	0	0	1	C	121687	checked
+Pred	Panagrellus redivivus	IV	0	0	1	C	270080	found Pana|asta|5 (filtered out because of low sim 56%)
+Sven	Strongyloides venezuelensis	IV	0	1	1	B	715404	
+Ptri	Parastrongyloides trichosuri	IV	0	1	1	B	836942	
+Bxyl	Bursaphelenchus xylophilus	IV	0	1	1	B	949830	
+Srat	Strongyloides ratti	IV	0	1	1	B	4921549	
+Haor	Howardula aoronymphium	IV	1	0	1	D	-	Howa|1fa|265, short and low similarity 56%
+Hduj	Hypsibius dujardini	O	1	0	0	D	50531	Hyps|fna|115, short and low sim 59%
+Hcon	Haemonchus contortus	V	1	1	1	D	13338	
+Otip	Oscheius tipulae	V	1	1	1	D	13984	
+Dviv	Dictyocaulus viviparus	V	1	1	1	D	22560	
+C5sp	Caenorhabditis sp. 5	V	1	1	1	D	25228	
+Hbac	Heterorhabditis bacteriophora	V	1	0	1	D	33765	Hete|sfa|102, 95, 97, 96 overlapped by 78
+Hbak	Heligmosomoides bakeri	V	1	1	1	D	35823	
+Acan	Angiostrongylus cantonensis	V	1	1	1	D	43900	
+Cang	Caenorhabditis angaria	V	1	1	1	D	79858	
+Cjap	Caenorhabditis japonica	V	1	1	1	D	94149	
+Cbre	Caenorhabditis brenneri	V	1	1	1	D	381961	
+Crem	Caenorhabditis remanei	V	1	1	1	D	435512	
+Ppac	Pristionchus pacificus	V	1	1	1	D	1244534	
+briC	Caenorhabditis briggsae	V	1	1	1	D	17485439	
+Cele	Caenorhabditis elegans	V	1	1	1	D	17493829	
+C11sp	Caenorhabditis sp. 11	V	1	1	1	D	20921866	
