@@ -12,24 +12,13 @@ Corresponding author: E-mail: szitenberg@gmail.com
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
-  <br /><font size=2>
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="http://www.evohull.org/">
-    <span property="dct:title">EvoHull</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Nematoda TE analysis</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="GB" about="http://www.evohull.org/">
-  United Kingdom</span><font/>.
 </p>
   
 [![DOI](https://zenodo.org/badge/22650/HullUni-bioinformatics/Nematoda-TE-Evolution.svg)](https://zenodo.org/badge/latestdoi/22650/HullUni-bioinformatics/Nematoda-TE-Evolution)  
    
-[Preprint](http://biorxiv.org/content/early/2015/12/20/034884.abstract)  
+###[Preprint](http://biorxiv.org/content/early/2015/12/20/034884.abstract)  
    
-[Supplementary information](https://dx.doi.org/10.6084/m9.figshare.c.3270356.v1)  
+###[Supplementary information](https://dx.doi.org/10.6084/m9.figshare.c.3270356.v1)  
 
 ## Jupyter Notebooks
 
