@@ -12,7 +12,7 @@ Corresponding author: E-mail: szitenberg@gmail.com
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
-  <br />
+  <br /><font size=2>
   To the extent possible under law,
   <a rel="dct:publisher"
      href="http://www.evohull.org/">
@@ -22,21 +22,14 @@ Corresponding author: E-mail: szitenberg@gmail.com
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="GB" about="http://www.evohull.org/">
-  United Kingdom</span>.
+  United Kingdom</span><font/>.
 </p>
   
 [![DOI](https://zenodo.org/badge/22650/HullUni-bioinformatics/Nematoda-TE-Evolution.svg)](https://zenodo.org/badge/latestdoi/22650/HullUni-bioinformatics/Nematoda-TE-Evolution)  
    
-[preprint](http://biorxiv.org/content/early/2015/12/20/034884.abstract)  
-[S1 Table](https://dx.doi.org/10.6084/m9.figshare.2056107.v1)  
-[S2 Table](https://dx.doi.org/10.6084/m9.figshare.2056080.v1)  
-[S3 Table](https://dx.doi.org/10.6084/m9.figshare.2056083.v1)  
-[S1 Figure](https://dx.doi.org/10.6084/m9.figshare.2056086.v1)  
-[S2 Figure](https://dx.doi.org/10.6084/m9.figshare.2056089.v1)  
-[S3 Figure](https://dx.doi.org/10.6084/m9.figshare.2056092.v1)  
-[S4 Figure](https://dx.doi.org/10.6084/m9.figshare.2056098.v1)   
-[S4 Figure](https://dx.doi.org/10.6084/m9.figshare.2056098.v1)  
-[S1 Results](https://dx.doi.org/10.6084/m9.figshare.2056107.v1)  
+[Preprint](http://biorxiv.org/content/early/2015/12/20/034884.abstract)  
+   
+[Supplementary information](https://dx.doi.org/10.6084/m9.figshare.c.3270356.v1)  
 
 ## Jupyter Notebooks
 
