@@ -11,9 +11,8 @@ Corresponding author: E-mail: szitenberg@gmail.com
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-[![DOI](https://zenodo.org/badge/22650/HullUni-bioinformatics/Nematoda-TE-Evolution.svg)](https://zenodo.org/badge/latestdoi/22650/HullUni-bioinformatics/Nematoda-TE-Evolution)  
-</p> 
+  </a>  
+</p> [![DOI](https://zenodo.org/badge/22650/HullUni-bioinformatics/Nematoda-TE-Evolution.svg)](https://zenodo.org/badge/latestdoi/22650/HullUni-bioinformatics/Nematoda-TE-Evolution)
    
 ### [Preprint](http://biorxiv.org/content/early/2015/12/20/034884.abstract) [Supplementary information](https://dx.doi.org/10.6084/m9.figshare.c.3270356.v1) 
 
