@@ -29,4 +29,5 @@ Corresponding author: E-mail: szitenberg@gmail.com
 9. [Figures 1, 2 and S1](https://github.com/HullUni-bioinformatics/Nematoda-TE-Evolution/blob/master/9_Figure1%262%26S1_No_WTSI_genomes.ipynb)   
 10. [Evolutionary analysis (Figs3, 4, 5, S2, S3, S4)](https://github.com/HullUni-bioinformatics/Nematoda-TE-Evolution/blob/master/10_EvolutionaryAnalysis.ipynb)  
 11. [Test inverse corrolation between TE median sequence length and loads](https://github.com/HullUni-bioinformatics/Nematoda-TE-Evolution/blob/master/11_Ectopic_recombination_signature.ipynb)  
-12. [Write TE fasta files for each nematode species and for each TE superfamily](https://github.com/HullUni-bioinformatics/Nematoda-TE-Evolution/blob/master/Detected_TE_sequences_as_fasta_files.ipynb)
+12. [Write TE fasta files for each nematode species and for each TE superfamily](https://github.com/HullUni-bioinformatics/Nematoda-TE-Evolution/blob/master/Detected_TE_sequences_as_fasta_files.ipynb)   
+13. [S2 Figure, bottom panel (proportion of TEs used in evo analysis), S1 Results, section 1 (consensus TE lib composition)](https://github.com/HullUni-bioinformatics/Nematoda-TE-Evolution/blob/master/S2Fig_bottom_S1Results_section_1.ipynb)  
